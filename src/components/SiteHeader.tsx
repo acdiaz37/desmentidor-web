@@ -44,8 +44,8 @@ export default function SiteHeader({ data, compact = false }: { data: SiteData; 
       </h1>
       <p className="mt-2 max-w-2xl text-sm leading-relaxed text-zinc-500">
         Verificamos, uno por uno, los datos que circulan en videos virales. Aportamos cifras,
-        fuentes y contexto histórico desde una mirada progresista, con un tono neutral: un dato
-        puede ser verdadero y aun así estar exagerado o fuera de contexto.
+        fuentes y contexto histórico con un tono neutral: un dato puede ser verdadero y aun
+        así estar exagerado o fuera de contexto.
       </p>
       {!compact && (
         <div className="mt-4">

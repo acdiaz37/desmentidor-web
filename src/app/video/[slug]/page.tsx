@@ -54,10 +54,10 @@ export default async function VideoPage({
 
       <footer className="mt-10 border-t border-zinc-200 pt-4 text-[11px] leading-relaxed text-zinc-400">
         <p>
-          Le falta contexto a un dato? La clasificación{" "}
-          <span className="font-medium text-amber-600">con matices</span> indica que puede ser
-          cierto pero exagerado. La lectura progresista no niega hechos: los pone en su justa
-          medida.
+          La clasificación{" "}
+          <span className="font-medium text-amber-600">con matices</span> indica que un dato puede
+          ser cierto pero estar exagerado o fuera de contexto. No negamos hechos: los ponemos en
+          su justa medida.
         </p>
       </footer>
     </div>

@@ -28,8 +28,8 @@ export default function Home() {
           Cada dato se contrasta con fuentes verificables y se clasifica en{" "}
           <span className="font-medium text-emerald-600">verdadero</span>,{" "}
           <span className="font-medium text-amber-600">con matices / exagerado</span> o{" "}
-          <span className="font-medium text-rose-600">falso</span>. La lectura progresista no niega
-          hechos: los pone en su justa medida.
+          <span className="font-medium text-rose-600">falso</span>. Un dato puede ser cierto y aun
+          así estar fuera de contexto: lo ponemos en su justa medida.
         </p>
       </footer>
     </div>

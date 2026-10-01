@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Desmentidor · Desmintiendo el TikTok",
   description:
-    "Verificamos dato por dato los videos virales: cifras, fuentes y contexto histórico desde una mirada progresista y con tono neutral.",
+    "Verificamos dato por dato los videos virales: cifras, fuentes y contexto histórico con un tono neutral.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

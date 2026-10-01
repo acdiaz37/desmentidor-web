@@ -63,7 +63,7 @@ export default function ClaimCard({ claim }: { claim: Claim }) {
           {claim.summary && <Section title="Desmentido">{claim.summary}</Section>}
           {claim.context && <Section title="Contexto y magnitud real">{claim.context}</Section>}
           {claim.progressivePerspective && (
-            <Section title="Lectura progresista">{claim.progressivePerspective}</Section>
+            <Section title="Análisis">{claim.progressivePerspective}</Section>
           )}
           {claim.whatTheyOmit && <Section title="Qué omite el video">{claim.whatTheyOmit}</Section>}
 
