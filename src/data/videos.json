@@ -1,0 +1,903 @@
+{
+  "generatedAt": "2026-10-01T10:34:25",
+  "videos": [
+    {
+      "slug": "respuesta-a-richard-valdez-pertuz",
+      "title": "Respuesta a @Richard Valdez pertuz",
+      "uploader": "jesuszapatamadrid",
+      "url": "https://www.tiktok.com/@jesuszapatamadrid/video/7671392479408639252?_r=1&_t=ZS-9AC33MwYzDA",
+      "duration": 239,
+      "thumbnail": "/media/respuesta-a-richard-valdez-pertuz/thumb.jpg",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "La deuda externa de Colombia pasó de 180 mil millones a 250 mil millones durante el gobierno de Petro.",
+          "quote": "la toma en 180 y la entrega en 250",
+          "figures": [
+            "180",
+            "250"
+          ],
+          "verdict": "exagerado",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La cifra de partida (~US$180.000 millones) es consistente con las fuentes (US$183.818 millones al cierre de 2023), pero la cifra de entrega (US$250.000 millones) no está respaldada por ninguna fuente: el dato documentado más alto es US$201.763 millones al cierre de 2024. Las fuentes muestran un aumento real pero mucho menor que el que presenta el video, y que además se da mientras la deuda cae como porcentaje del PIB.",
+          "context": "Según El Colombiano (con datos del Banco de la República), la deuda externa total de Colombia cerró 2024 en US$201.763 millones, un aumento de US$17.945 millones (+9,76%) frente a diciembre de 2023, lo que implica un stock de ~US$183.818 millones al inicio del comparativo. La República reporta US$197.628 millones a octubre de 2024, frente a US$189.970 millones en octubre de 2023. Es decir, el crecimiento documentado durante el periodo Petro es del orden de US$18.000 millones hasta fin de 2024, no US$70.000 millones. Además, una parte relevante de ese stock es deuda del sector privado, que alcanzó un récord histórico de US$88.568 millones a fin de 2024; la deuda externa pública fue de US$113.194 millones y de hecho bajó US$942,63 millones a lo largo de 2024 (aunque subió US$6.471 millones respecto de 2023). Ninguna fuente permite verificar un total de US$250.000 millones; la Fuente 5 solo documenta una emisión récord de TES globales por US$4.950 millones el 13 de enero de 2026, no un stock total.",
+          "progressivePerspective": "El dato pierde sentido si se mira en su medida adecuada: la deuda externa pasó de 54,8% del PIB (octubre 2023) a 47,9% (octubre 2024), una caída de casi 7 puntos porcentuales en un año, y el máximo histórico de la relación deuda/PIB (57,68%) se alcanzó en mayo de 2021, bajo el gobierno de Duque, no bajo Petro. Es decir, en términos de capacidad de pago el país está menos endeudado que hace dos años. El alza nominal en dólares está inflada por la depreciación del peso: los propios analistas citados advierten que 'no es lo mismo una deuda US$100 de 2023 que en 2024'. Casi la mitad del stock (US$88.568 millones) corresponde a deuda privada, no a la hacienda pública, y la deuda externa pública incluso se redujo durante 2024. Finalmente, la emisión récord de enero de 2026 se hizo con demanda de US$23.200 millones y provocó la apreciación del peso a su nivel más alto desde la pandemia, señal de confianza de los inversionistas internacionales, no de fuga.",
+          "whatTheyOmit": "1) No presenta fuente para la cifra de US$250.000 millones: la totalidad documentada al cierre de 2024 es US$201.763 millones. 2) No distingue deuda pública de deuda privada (esta última, récord histórico, distorsiona el total). 3) Omite la relación deuda/PIB, que bajó de 54,8% a 47,9%. 4) Omite el efecto tipo de cambio (devaluación) en la medición en dólares. 5) Omite que el pico histórico de deuda/PIB fue en 2021, bajo Duque. 6) No aclara si 'la toma' se refiere a agosto de 2022 o a otra fecha, ni si la cifra incluye solo sector público.",
+          "keyFacts": [
+            "La deuda externa total de Colombia cerró 2024 en US$201.763 millones, +US$17.945 millones (+9,76%) frente a diciembre de 2023 (Fuente 4)",
+            "A octubre de 2024 la deuda total era US$197.628 millones, frente a US$189.970 millones a octubre de 2023 (Fuente 3)",
+            "La deuda externa cayó de 54,8% del PIB (oct. 2023) a 47,9% (oct. 2024) (Fuente 3)",
+            "El máximo histórico de deuda/PIB fue 57,68% en mayo de 2021; en 2023 fue 53,56% (Fuente 4)",
+            "La deuda externa del sector privado alcanzó US$88.568 millones, máximo histórico, al cierre de 2024 (Fuente 4)",
+            "La deuda externa pública fue US$113.194 millones a fin de 2024 y bajó US$942,63 millones durante el año 2024 (aunque subió US$6.471 millones vs. 2023) (Fuente 4)",
+            "El 13 de enero de 2026 Colombia colocó TES globales por US$4.950 millones, la mayor emisión de deuda externa de su historia, con demanda de US$23.200 millones (Fuente 5)",
+            "Analistas citados señalan que la depreciación del peso encarece las obligaciones en dólares: 'no es lo mismo una deuda US$100 de 2023 que en 2024' (Fuente 3)",
+            "Las fuentes 1 y 2 (Banco de la República) no fueron accesibles (bloqueo anti-bot), por lo que no aportan datos verificables"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.larepublica.co/economia/la-deuda-externa-bajo-de-56-7-a-47-9-hasta-octubre-de-2024-4038692",
+              "note": "Stock total a oct. 2024 (US$197.628M vs US$189.970M en 2023), caída de la deuda/PIB de 54,8% a 47,9%, avisos sobre efecto cambiario",
+              "host": "larepublica.co",
+              "title": "La deuda externa de Colombia bajó de 56,7% a 47,9%, hasta octubre del año pasado",
+              "image": "https://img.lalr.co/cms/2025/01/16175828/Eco_DeudaExterna_WEB.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/negocios/deuda-externa-colombia-esta-a-niveles-prepandemia-LO26826094",
+              "note": "Cierre 2024 en US$201.763M (+9,76% vs 2023), desglose público/privado, histórico de deuda/PIB (pico 57,68% en mayo 2021)",
+              "host": "elcolombiano.com",
+              "title": "La deuda externa de Colombia cerrÃ³ en 2024 por encima de US$200.000 millones, cerca de la mitad del PIB",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/0d0/none/11101/WALF/archive-fotos-1-8441968-1b292005ddd8_47371503_20250311064927.webp"
+            },
+            {
+              "ref": "",
+              "url": "https://www.infobae.com/colombia/2026/01/13/gobierno-petro-genero-la-mayor-deuda-de-la-historia-de-colombia-e-hizo-que-el-peso-se-apreciara-frente-al-dolar/",
+              "note": "Emisión récord de TES globales por US$4.950M el 13/01/2026 y reacción del mercado; no aporta el stock total",
+              "host": "infobae.com",
+              "title": "Gobierno Petro generó la mayor deuda de la historia de Colombia e hizo que el peso se apreciara frente al dólar",
+              "image": "https://www.infobae.com/resizer/v2/KGXDJSFOTZCAVILEEV43TPUWRA.jpg?auth=fa10046d165bd712b34401a666d3744565bed81a4fbdfba1542ff481398188dd&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "",
+              "url": "https://www.banrep.gov.co/es/conozca-evolucion-deuda-externa",
+              "note": "Fuente oficial del Banco de la República, pero no accesible (bloqueo por bot); no aporta datos verificables",
+              "host": "banrep.gov.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://www.banrep.gov.co/es/noticias/novedades-boletin-estadisticas-deuda-externa",
+              "note": "Fuente oficial del Banco de la República, pero no accesible (bloqueo por bot); no aporta datos verificables",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "El gobierno cortó la relación con el FMI y contrajo deuda con prestamistas más costosos.",
+          "quote": "le pidieron dinero a gente que presta más caro porque ya no iban a trabajar más con el Fondo Monetario Internacional",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Los dos componentes del dato son esencialmente ciertos según las fuentes: el gobierno de Petro pagó en su totalidad la deuda con el FMI (USD 5.000-5.400 millones, heredada de Duque) y canceló la Línea de Crédito Flexible; simultáneamente se está endeudando en el mercado interno a tasas mucho más altas (TES que superaron el 14%, bonos a 13,15%). Sin embargo, la forma causal del video («pidieron dinero más caro PORQUE dejaron de trabajar con el FMI») no está respaldada: el encarecimiento obedece al déficit fiscal y al entorno de tasas altas, no a la ruptura con el FMI. Además, «cortar la relación» es impreciso: Colombia sigue sometida a la evaluación del Artículo IV.",
+          "context": "Hechos documentados: (1) El pago total de la deuda con el FMI fue de USD 5.300-5.400 millones y la cancelación de la LCF de USD 8.100 millones, deuda contraída en 2020 durante el gobierno de Duque para la pandemia [F1, F2, F4]. (2) Ese crédito FMI se pagó a una tasa del 3,09% [F3]. (3) En paralelo, el gobierno se endeuda en el mercado interno a tasas récord: TES a 4 años al 14,263% (máximo desde 2009), subasta de $1,5 billones y colocación de $23 billones en bonos a 13,15% a un solo inversionista extranjero [F3, F5]. (4) La deuda interna pasó de 59,4% del total en 2023 a 71,2% en 2026; la deuda pública total alcanzó $1.215 billones a marzo de 2026 [F3]. (5) El CARF proyecta un déficit primario 2026 del 3,7% del PIB, muy por encima del 2,1% previsto por el gobierno [F3]. La comparación clave que hace el video es real: pagar a ~3% con el FMI frente a endeudarse a ~13-14% en el mercado local sí representa un costo fiscal mayor por unidad de deuda.",
+          "progressivePerspective": "Primero: la deuda con el FMI no fue contraída por Petro sino por Duque y su ministro José Manuel Restrepo; Petro la heredó y la pagó, liberando al país de las «condiciones onerosas» que el FMI impone a países deudores [F1]. Salir de esas condicionalidades amplía la autonomía para decidir política social sin ajustes impuestos desde Washington, algo históricamente criticado por la izquierda. Segundo: la causalidad del video es falsa. El gobierno no se endeuda a 14% «porque» dejó el FMI; se endeuda caro porque mantiene un déficit fiscal alto en un contexto de política monetaria restrictiva (tasa BanRep en 9,25% [F5]) y porque el mercado exige prima de riesgo. Tercero, y esto es importante para una lectura progresista: las tasas de TES al 14% están por encima incluso de la tasa hipotecaria, lo que significa que el Estado compite por el crédito con los hogares y encarece las viviendas [F3, F5] — un dato que la propia izquierda debería usar para criticar la política fiscal, pero por razones distintas a las que plantea la derecha. Cuarto: la decisión de cancelar la LCF se sustentó en reservas internacionales de USD 65.500 millones y en que el FMI ya había suspendido el acceso a los recursos [F2, F4], es decir, no fue un acto ideológico arbitrario sino una decisión respaldada por el Banco de la República. Lo legítimamente cuestionable no es la salida del FMI, sino el déficit primario y la dependencia creciente de deuda interna cara, que expertos como el CARF y Anif atribuyen a problemas de planeación y gasto, no a la relación con el FMI.",
+          "whatTheyOmit": "(1) Omiten que la deuda con el FMI fue contraída por el gobierno de Duque en 2020 para la pandemia, y que fue Petro quien la pagó: el video presenta como decisión arbitraria de Petro algo que heredó. (2) Omiten que ese crédito FMI costaba solo 3,09% y se canceló antes de tiempo, ahorrando costos de la línea [F3]. (3) Omiten que la LCF de 2024 (USD 8.100 millones) fue una línea precautoria que el FMI ya había suspendido en abril de 2025 y que se canceló con Colombia teniendo reservas de USD 65.500 millones [F2]. (4) Omiten que Colombia sigue sujeta a la revisión del Artículo IV del FMI: no se «cortó la relación», se liquidó la deuda [F1]. (5) La frase «pidieron dinero más caro porque dejaron de trabajar con el FMI» introduce una relación de causa-efecto inexistente: el endeudamiento caro obedece al déficit fiscal y al ciclo de tasas, no a la salida del FMI. (6) Omiten que el CARF estima déficit primario 2026 del 3,7% del PIB y que el decreto de aplazamiento de gasto prometido no se ha expedido [F3], que es la causa estructural del problema.",
+          "keyFacts": [
+            "El gobierno pagó en totalidad la deuda con el FMI, por USD 5.300-5.400 millones, heredada del gobierno Duque y contraída en 2020 para la pandemia [F1, F3]",
+            "Se canceló la Línea de Crédito Flexible (LCF) con el FMI, vigente desde abril de 2024 por USD 8.100 millones, decisión tomada tras suspenderse el acceso a recursos en abril de 2025 [F2, F4]",
+            "Ese crédito FMI se pagó a una tasa del 3,09% [F3]",
+            "El gobierno se endeuda actualmente en el mercado interno a tasas récord: TES a 4 años al 14,263%, máximo no visto desde 2009 [F3]",
+            "Se colocaron $23 billones en bonos TES a un solo inversionista extranjero a tasa promedio de 13,15%, con vencimientos 2029-2040 [F5]",
+            "La deuda interna pasó de 59,4% del total en 2023 al 71,2% en 2026; la deuda pública total alcanzó $1.215 billones a marzo de 2026 [F3]",
+            "El CARF proyecta un déficit primario 2026 del 3,7% del PIB, frente al 2,1% previsto por el gobierno [F3]",
+            "Colombia mantiene reservas internacionales de USD 65.500 millones y sigue sometida a la evaluación del Artículo IV del FMI [F1, F2, F4]",
+            "Las tasas hipotecarias subieron al 13,5% en marzo de 2026, en parte por la competencia del Estado por crédito [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.infobae.com/colombia/2026/04/22/petro-confirmo-que-pago-la-totalidad-de-la-deuda-con-el-fmi-heredada-del-gobierno-duque-colombia-deja-de-estar-sujeta-a-condiciones-onerosas/",
+              "note": "Confirma el pago total (USD 5.300 millones), que la deuda fue heredada de Duque, que no hay planes de nuevo crédito con el FMI, y que Colombia sigue pasando por la revisión del Artículo IV (no se cortó toda relación institucional).",
+              "host": "infobae.com",
+              "title": "Petro aseguró que pagó la totalidad de la deuda con el FMI heredada del Gobierno Duque: “Colombia deja de estar sujeta a condiciones onerosas”",
+              "image": "https://www.infobae.com/resizer/v2/7ED5GUQL2NFDJIFHLRIDEMVMWM.jpg?auth=2c86447af0019dc4dc013c5f1bead4f12c05deeb1100e9f7dcc81dab1d933b16&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "",
+              "url": "https://www.rtvcnoticias.com/economia/colombia-cancela-acuerdo-fmi-pago-deuda",
+              "note": "Detalla la cancelación de la LCF (USD 8.100 millones), la suspensión del acceso a recursos en abril de 2025, reservas de USD 65.500 millones, y los argumentos de que la cancelación mejora autonomía y percepción crediticia.",
+              "host": "rtvcnoticias.com",
+              "title": "\"Hemos cumplido con el crédito que tomó Duque de manera irresponsable con el FMI\": presidente petro",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2025-10/_Hemos%20cumplido%20con%20el%20cr%C3%A9dito%20que%20tom%C3%B3%20Duque%20de%20manera%20irresponsable%20con%20el%20FMI__%20presidente%20petro.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/negocios/deuda-publica-colombia-tasas-tes-14-por-ciento-pago-fmi-2026-HF36002577",
+              "note": "Fuente central para la comparación de costos: tasa FMI del 3,09% frente a TES al 14,263%; deuda total $1.215 billones; deuda interna 71,2%; déficit primario proyectado 3,7% del PIB por el CARF; efecto en tasas hipotecarias.",
+              "host": "elcolombiano.com",
+              "title": "Gobierno celebra que cancelÃ³ deuda con el Fondo Monetario, pero paga tasas de 14% por TES",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x675/1c0/1200d630/none/11101/DNIO/tasa-interes-deuda-tes-gobierno-petro-german-avila_50489663_20260429194620.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.larepublica.co/economia/reaccion-de-gustavo-petro-por-cancelacion-del-acuerdo-para-la-linea-de-credito-flexible-del-fmi-4237234",
+              "note": "Confirma montos de la LCF (6.133,5 DEG / USD 8.100 millones), cronograma de pagos, y reserva de reservas que fundamenta la decisión según el Banco de la República.",
+              "host": "larepublica.co",
+              "title": "“Hemos cumplido con el crédito que tomó Duque de manera irresponsable con el FMI”",
+              "image": "https://img.lalr.co/cms/2025/09/20160651/54795062900_0bc99e33e3_o-1.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/negocios/gobierno-colombia-endeudamiento-tes-23-billones-tasas-13-por-ciento-AN31964895",
+              "note": "Documenta la emisión de $23 billones en TES a 13,15% a un inversionista extranjero, críticas de Anif sobre falta de caja y programación fiscal, y el efecto sobre el crédito hipotecario.",
+              "host": "elcolombiano.com",
+              "title": "Gobierno Petro se endeudÃ³ por $23 billones en polÃ©mica emisiÃ³n de bonos TES; deberÃ¡ pagar intereses del 13,15%",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x675/0c0/1200d675/none/11101/SYAH/petro-avila-reforma-tributaria-colom_49559208_20251222084405.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "La deuda interna (bonos del Tesoro) pasó de 140 millones a 220-230 millones.",
+          "quote": "la agarra con el 140 millones y le entregan 220 230 millones",
+          "figures": [
+            "140 millones",
+            "220",
+            "230 millones"
+          ],
+          "verdict": "sin_evidencia",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las fuentes entregadas contiene las cifras '140 millones' ni '220-230 millones' como saldo de deuda interna en bonos TES, por lo que el dato específico no es verificable con la evidencia disponible. Lo único que sí está documentado es que la deuda pública colombiana creció de forma notable durante el gobierno Petro, pero no en esas magnitudes ni con esas unidades.",
+          "context": "Las fuentes aportan datos distintos al del video: (1) una colocación directa de $23 billones en TES a un solo inversionista extranjero, con tasa promedio de 13,15% (rangos 12,99%-13,32%), vencimientos 2029-2040 y una prima cercana a $500.000 millones (Fuentes 1, 3 y 4); (2) un canje de TES de $43,4 billones por $35,4 billones hecho el 8 de octubre de 2025, que redujo el saldo nominal de la deuda interna en cerca de $8 billones, pero elevó el pago anual de intereses en unos $316.500 millones al pasar de cupones de ~7,25% a tasas de 11,75%-12%, operación que está siendo investigada por la Contraloría (Fuente 2); (3) la deuda del Gobierno nacional llegó a $1.167 billones en junio, equivalente al 60,5% del PIB (Fuente 2); (4) un encabezado contextual señala que la deuda está en su punto más alto de la historia y creció 37,4% en tres años bajo Petro (referencia dentro de Fuente 1); (5) el Banco de la República mantuvo la tasa de interés en 9,25% (mencionado en Fuente 1), lo que ubica el costo del endeudamiento en un contexto de tasas domésticas altas. Además, hay un error de unidades en la cita: el video dice 'millones' cuando en Colombia estas cifras se manejan en billones de pesos; $140 millones de pesos equivaldrían a menos de US$35.000, un monto trivialmente imposible para la deuda de un Estado.",
+          "progressivePerspective": "Aun aceptando que la deuda creció (dato respaldado: 60,5% del PIB y +37,4% en tres años según la referencia de Fuente 1), el número del video es inverificable y está mal enunciado en sus unidades, lo que ya lo descalifica como herramienta de denuncia precisa. En segundo lugar, las fuentes mismas muestran que buena parte del endeudamiento señalado es refinanciamiento (rollover) de títulos del gobierno de Duque que venzan, no financiamiento neto de gasto nuevo: Petro sostiene que se emitieron $23 billones para pagar $23 billones de títulos anteriores (Fuentes 1, 3 y 4). Tercero, el costo elevado de las tasas (13,15%) no es un capricho de un solo gobierno: refleja tasas de política monetaria altas (9,25% del Banrep), un déficit fiscal estructural heredado y las condiciones del mercado internacional de crédito; los mismos analistas citados reconocen que hay que 'renovar toda la deuda del próximo año' en ese entorno (Fuente 1). Finalmente, el video omite que la operación más cuestionada (el canje de octubre de 2025) de hecho redujo el saldo nominal de la deuda en ~$8 billones y que el Ministerio de Hacienda la justifica como extensión de plazos para reducir riesgo de refinanciación (Fuente 2): la disputa real es sobre el costo en intereses a largo plazo y el 'espacio fiscal' futuro, no sobre un salto de 140 a 230 que ninguna fuente documenta.",
+          "whatTheyOmit": "Omite: (a) que no existe en las fuentes un dato de deuda interna de '140' que evolucione a '220-230', es decir, presenta cifras sin respaldo documental; (b) la confusión de unidades ('millones' en lugar de 'billones'), que hace la afirmación literalmente falsa; (c) la distinción entre deuda bruta acumulada, flujo de emisiones anuales y operaciones de canje/rollover, mezcladas en una sola frase; (d) el monto real y contextualizado de la deuda ($1.167 billones = 60,5% del PIB en junio, según Fuente 2); (e) que parte del endeudamiento corresponde a renovación de títulos del gobierno anterior, según el propio presidente (Fuentes 1, 3 y 4), y que el canje de 2025 redujo el saldo nominal; (f) el papel de la política del Banco de la República (tasa en 9,25%) y del contexto de tasas altas al explicar el costo de la deuda; (g) que la Contraloría está investigando, pero que el Ministerio de Hacienda defiende la estrategia (Fuente 2).",
+          "keyFacts": [
+            "El Gobierno emitió $23 billones en TES a un inversionista extranjero único vía colocación directa, a tasa promedio de 13,15% (rangos 12,99% a 13,32%), con vencimientos entre 2029 y 2040 [Fuente 1, 3, 4]",
+            "El inversionista pagó cerca de $500.000 millones en prima: pagó $23 billones por títulos que el mercado valoraba en ~$23,5 billones [Fuente 1, 3, 4]",
+            "José Ignacio López (Anif) calificó la operación como 'un viernes negro en lo fiscal' y 'poco transparente', reflejo de 'mala programación fiscal y falta de caja' [Fuente 1, 3]",
+            "Petro sostiene que los $23 billones se emitieron para pagar $23 billones de títulos del gobierno de Duque que estaban venciendo (rollover) [Fuente 1, 3, 4]",
+            "La Contraloría investiga un canje de TES del 8 de octubre de 2025 por $43,4 billones en títulos antiguos por $35,4 billones en emisiones nuevas, que redujo el saldo nominal en ~$8 billones pero elevó los intereses anuales en ~$316.500 millones (cupones de 7,25% a tasas de 11,75%-12%) [Fuente 2]",
+            "El expediente fue remitido a Procuraduría e Inspección General por posibles responsabilidades disciplinarias; figura Javier Cuéllar, director de Crédito Público [Fuente 2]",
+            "El Ministerio de Hacienda defendió el canje como forma de reducir el riesgo de refinanciación y extender plazos; la Contraloría rechazó la explicación por sus efectos de largo plazo [Fuente 2]",
+            "La deuda del Gobierno nacional llegó a $1.167 billones en junio, equivalente al 60,5% del PIB [Fuente 2]",
+            "Una referencia periodística señala que la deuda está en su punto más alto de la historia y creció 37,4% en tres años de gobierno Petro [Fuente 1, encabezado 'En contexto']",
+            "El Banco de la República mantuvo la tasa de interés de política en 9,25% [Fuente 1]",
+            "Ninguna fuente proporciona las cifras '140' y '220-230' como saldo de deuda interna en TES [revisión de las 5 fuentes]",
+            "La Fuente 5 (Banco de la República) no fue accesible: el sitio bloqueó el acceso por detección de actividad de bot [Fuente 5]"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/negocios/gobierno-colombia-endeudamiento-tes-23-billones-tasas-13-por-ciento-AN31964895",
+              "note": "Detalla la emisión de $23 billones en TES a 13,15% a un inversionista extranjero único, la prima de ~$500.000 millones, las críticas de Anif y analistas, la defensa de Petro (rollover de deuda de Duque) y el encabezado sobre deuda récord (+37,4% en 3 años). No contiene las cifras 140 ni 220-230.",
+              "host": "elcolombiano.com",
+              "title": "Gobierno Petro se endeudÃ³ por $23 billones en polÃ©mica emisiÃ³n de bonos TES; deberÃ¡ pagar intereses del 13,15%",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x675/0c0/1200d675/none/11101/SYAH/petro-avila-reforma-tributaria-colom_49559208_20251222084405.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/colombia/contraloria-investiga-bonos-tes-gobierno-petro-aumento-intereses-deuda-EB39387065",
+              "note": "Informe de la Contraloría sobre el canje de TES de octubre 2025 ($43,4 billones por $35,4 billones), el alza de intereses en ~$316.500 millones anuales, la defensa de Hacienda y la deuda total de $1.167 billones (60,5% del PIB). No contiene 140 ni 220-230.",
+              "host": "elcolombiano.com",
+              "title": "ContralorÃa investiga bonos TES por $43,4 billones del Gobierno Petro: intereses subirÃan $316.500 millones",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/1280d720/none/11101/AVKA/contraloria-investiga-bonos-tes-gobi_51248123_20260729190646.webp"
+            },
+            {
+              "ref": "",
+              "url": "https://www.larepublica.co/economia/gobierno-nacional-se-endeudo-por-23-billones-con-bonos-tes-de-tasas-de-13-15-4295135",
+              "note": "Repite y amplía la información sobre la emisión de $23 billones a 13,15%, las críticas de Anif, la respuesta de Petro y el debate sobre si refinanciar equivale a endeudarse. No contiene 140 ni 220-230.",
+              "host": "larepublica.co",
+              "title": "Gobierno Nacional se endeudó por $23 billones con bonos TES de tasas de 13,15%",
+              "image": "https://img.lalr.co/cms/2025/12/21175605/eco_bonos_p3_lunes_cambio_1080x900.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.pulzo.com/economia/gobierno-colombiano-realiza-historica-emision-de-bonos-tes-por-23-billones-impacto-y-riesgos-fiscales-PP4962627A",
+              "note": "Cobertura de la misma emisión de $23 billones, con contexto sobre TES, riesgos fiscales y la respuesta de Petro. No contiene 140 ni 220-230.",
+              "host": "pulzo.com",
+              "title": "El enigmático megainversionista que puso a temblar la deuda pública de Colombia con los bonos TES",
+              "image": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP4962627A-h-o.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.banrep.gov.co/es/node/37512",
+              "note": "Serie de deuda del gobierno nacional central del Banco de la República: la página no pudo consultarse (bloqueo anti-bots), por lo que no aporta datos sobre el saldo de deuda interna.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "seguridad",
+          "claim": "Las fuerzas armadas al margen de la ley pasaron de 15.000 miembros a aproximadamente 28.000 miembros (casi el doble).",
+          "quote": "agarra a las fuerzas armadas al margen de la ley con 15 000 miembros y lo entrega con 30 000 bueno 28 000 casi el doble",
+          "figures": [
+            "15.000",
+            "28.000"
+          ],
+          "verdict": "mayormente_verdadero",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Las cifras son aproximadamente correctas pero ligeramente infladas: los grupos armados pasaron de ~15.100 miembros (2022) a ~27.121 (diciembre 2025), según el informe de Fundación CORE. El video dice '28.000' (cifra ligeramente por encima de la real) y califica el crecimiento como 'casi el doble', cuando en realidad es de ~79%, no de doble. La atribución exclusiva al gobierno Petro omite que la tendencia de crecimiento venía desde al menos 2018.",
+          "context": "Según Fundación CORE (citada por Infobae, El Colombiano y La Nación), los Grupos Armados Organizados pasaron de 12.883 integrantes en 2018, a 15.120 en 2022 (fin del gobierno Duque / inicio de Petro), hasta 27.121 a diciembre de 2025. Es decir, el crecimiento total del 110% en 8 años se distribuye entre los gobiernos Duque y Petro: de 2018 a 2022 hubo un aumento de ~2.200 miembros, y de 2022 a 2025 de ~12.000 miembros. La FIP (citada por Portafolio) reporta más de 27.000 integrantes a cierre de 2025, con crecimiento del 23,5% respecto a 2024. El aumento es real y significativo, pero 'casi el doble' es una exageración matemática (es ~79% de crecimiento, no ~100%).",
+          "progressivePerspective": "El crecimiento de los grupos armados es estructural y multicausal, no atribuible a una sola política de gobierno. Las propias fuentes (FIP, CORE, PARES) identifican causas como: la desmovilización de las FARC en 2016-2018 que abrió vacíos de poder, la expansión de economías ilegales (coca +54%, minería ilegal, extorsiones +72%), nuevos métodos de reclutamiento con salarios, y disputas internas entre grupos. PARES señala que el ciclo de violencia se inició en 2018 con la desmovilización FARC. Además, la FIP reconoce que 'ni las acciones militares, ni las negociaciones, ni la oferta de sometimiento individual han logrado reducir la capacidad de reclutamiento', lo que sugiere que ningún enfoque puramente militar ni puramente negociador ha contenido el fenómeno. El concepto de 'paz total' ha generado ceses al fuego y acuerdos parciales que, aunque insuficientes, representan una alternativa a la confrontación militar generalizada.",
+          "whatTheyOmit": "1) La cifra exacta es 27.121, no 28.000 ni 30.000 (el propio video corrige a 28.000, pero sigue inflando ~900 miembros). 2) 'Casi el doble' es exagerado: el crecimiento real es de ~79% (15.120 a 27.121), no de 100%. 3) El punto de partida de 15.000 corresponde al fin del gobierno Duque, no al inicio de un gobierno limpio: en 2018 ya había 12.883 miembros, es decir, la tendencia ascendente precede a Petro. 4) El video omite las causas estructurales (expansión de economías ilegales, métodos de reclutamiento, fracturas internas) y presenta la cifra como resultado directo de la gestión gubernamental, sin matiz. 5) Omite que la FIP y CORE señalan que el crecimiento se aceleró en medio de más operaciones militares y capturas, lo que sugiere que el problema es más profundo que la política de un gobierno.",
+          "keyFacts": [
+            "En 2018 había 12.883 integrantes en los grupos armados organizados (Fundación CORE, según La Nación)",
+            "En 2022 la cifra era 15.120 integrantes, coincidiendo con el inicio del gobierno Petro (Fundación CORE, según Infobae)",
+            "A diciembre de 2025 se alcanzó 27.121 combatientes, no 28.000 como dice el video (Fundación CORE, según El Colombiano y La Nación)",
+            "El crecimiento total 2018-2025 fue del 110%, repartido entre los gobiernos Duque y Petro (Fundación CORE, según El Colombiano)",
+            "La FIP reporta más de 27.000 integrantes a cierre de 2025, con crecimiento del 23,5% respecto a 2024 (Portafolio)",
+            "Según PARES, Colombia entró en un nuevo ciclo de violencia entre 2018 y 2025 tras la desmovilización de la FARC",
+            "La FIP identifica tres causas del crecimiento: expansión territorial, disputas internas y nuevos métodos de reclutamiento (Portafolio)",
+            "La expansión aceleró durante el mandato de Petro pero la tendencia se arrastraba desde el gobierno de Duque (Infobae, citando CORE)"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.infobae.com/colombia/2026/05/14/los-grupos-armados-organizados-en-colombia-que-mas-aumentaron-sus-filas-entre-2018-y-2025-fueron-el-eln-las-disidencias-y-el-clan-del-golfo/",
+              "note": "Informe de Fundación CORE: 12.883 (2018), 15.120 (2022), 27.121 (2025). Acredita las cifras clave y señala que la tendencia precede a Petro.",
+              "host": "infobae.com",
+              "title": "Estos fueron los grupos armados que más han crecido en Colombia: pasaron de 13.000 miembros en el 2018 a más de a 27.000 en 2025",
+              "image": "https://www.infobae.com/resizer/v2/5GOELL6NCNCCJF4N55R7JFRIEQ.jpg?auth=a309857d3c7a9dbceedd5b47c3df3e960a31b0a57c78580b23e9a38c9140886d&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/colombia/integrantes-grupos-armados-crecio-gobiernos-duque-y-petro-EB36515265",
+              "note": "Mismo informe CORE: crecimiento del 110% entre 2018-2025, repartido entre Duque y Petro. Aporta detalle sobre el Clan del Golfo.",
+              "host": "elcolombiano.com",
+              "title": "âNÃ³minaâ de grupos armados creciÃ³ 110 % entre los gobiernos de Duque y Petro, segÃºn informe",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1030x706/0c0/1200d630/none/11101/AXIA/grupos-armados-ilegales_50619054_20260513175358.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.lanacion.com.co/la-inquietante-realidad-que-muestran-los-datos/",
+              "note": "Cita informe CORE con las mismas cifras: 12.883 → 15.120 → 27.121. Confirma que el crecimiento ocurrió 'bajo los gobiernos de Duque y Petro'.",
+              "host": "lanacion.com.co",
+              "title": "La inquietante realidad que muestran los datos - lanacion",
+              "image": "https://www.lanacion.com.co/wp-content/uploads/2026/05/FOTO-EDITORIAL-2.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.portafolio.co/economia/regiones/grupos-armados-crecen-23-5-en-colombia-y-suman-mas-de-27-000-miembros-segun-la-fundacion-ideas-para-la-paz-487319",
+              "note": "FIP: más de 27.000 integrantes a cierre de 2025, crecimiento de 23,5% respecto a 2024. Aporta causas identificadas por la FIP.",
+              "host": "portafolio.co",
+              "title": "Grupos armados crecen 23,5% en Colombia y suman más de 27.000 miembros, según la Fundación Ideas para la Paz",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/01/30/697cbdb7a8bea.jpeg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.pares.com.co/balance-de-grupos-armados-2025/",
+              "note": "Contexto: el ciclo de violencia se inició en 2018 con la desmovilización FARC. Balance general de la política de 'paz total'.",
+              "host": "pares.com.co",
+              "title": "Presencia Actores Armados",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "seguridad",
+          "claim": "El gobierno de Petro es el más sangriento de la última década en Colombia.",
+          "quote": "este es el gobierno más sangriento de la última década el gobierno de la paz y del amor el más sangriento de la última década",
+          "figures": [],
+          "verdict": "exagerado",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes disponibles no respaldan que el gobierno de Petro (2022-2026) sea 'el más sangriento de la última década'. Por el contrario, muestran que la tasa de homicidios se mantiene en niveles históricamente bajos (25-26 por 100 mil habitantes) y ligeramente a la baja, y que en años anteriores dentro de la última década (p. ej. 2013: 15.422 homicidios) hubo más asesinatos absolutos que en los años de Petro (13.035 en 2023). No hay evidencia en las fuentes de un pico de violencia homicida bajo Petro; lo que sí hay es un panorama mixto a nivel departamental, con algunas regiones en aumento y otras en descenso. Dado que las fuentes no contienen la serie completa año a año de los gobiernos anteriores (Santos/Duque), la comparación total de la década no puede cerrarse del todo, por lo que la afirmación queda como exagerada y no demostrada.",
+          "context": "Magnitud real según las fuentes: la tasa nacional de homicidios pasó de 70 por 100 mil en 2002 a 25 en 2017, y entre 2021 y 2024 se reportaron entre 13.000 y 14.000 homicidios anuales, equivalentes a 25-26 por 100 mil (Fuente 1). En 2023 hubo 13.035 homicidios (127 más que en 2022, es decir ~12.900 en 2022) con una tasa de 24,91, frente a 24,95 en 2022 (Fuente 3). El Instituto de Medicina Legal reporta 14.033 homicidios en 2023 y 13.917 en 2024, con una reducción del 0,83% entre ambos años (Fuente 1). Como referencia histórica dentro de la última década, en 2013 se registraron 15.422 homicidios con una tasa de 33,42 (Fuente 3), cifras superiores a las de cualquier año de Petro documentado en las fuentes. A nivel departamental el panorama es mixto: entre 2023 y 2024 subieron Atlántico (+27,1%), La Guajira (+24%), Chocó (+20,8%), Santander (+18,7%) y Bogotá (+11,1%), mientras bajaron Sucre (-47,2%), Guaviare (-34%), San Andrés (-39%), Putumayo (-27,1%) y Tolima (-22%) (Fuente 1). Lo que falta para un veredicto categórico es la serie año a año de 2015-2021 (gobiernos Santos y Duque), que las fuentes entregadas no incluyen de forma completa.",
+          "progressivePerspective": "El dato es irrelevante como prueba de que Petro empeoró la seguridad: la tasa de homicidios de su gobierno (24,9-26,4) está entre las más bajas de este siglo y muy por debajo de niveles de gobiernos anteriores (70 por 100 mil en 2002; 33,42 en 2013). La tendencia nacional entre 2022 y 2024 es prácticamente plana o levemente a la baja (24,95 → 24,91 → reducción del 0,83% según Medicina Legal). La crítica legítima no es un supuesto 'récord de sangre' nacional, sino la redistribución territorial de la violencia: algunas regiones (Cauca, Arauca, Chocó, Atlántico, La Guajira) siguen con tasas muy elevadas, fenómeno estructural que arrastra de décadas anteriores y que no nace con este gobierno. Atribuirle al gobierno de Petro el título de 'más sangriento' invierte la evidencia disponible: el dato real es que la violencia homicida se mantiene contenida en torno a mínimos históricos, aunque de forma desigual en el territorio.",
+          "whatTheyOmit": "Omite: (1) que la tasa nacional de homicidios está en mínimos históricos (25-26 por 100 mil frente a 70 en 2002 y 33,42 en 2013); (2) que en 2013 hubo más homicidios absolutos (15.422) que en los años de Petro (13.035 en 2023, 13.357-13.917 en 2024); (3) que entre 2023 y 2024 los homicidios bajaron 0,83% según el Instituto de Medicina Legal; (4) que el comportamiento es mixto por departamentos, con subidas y bajadas, no un alza nacional generalizada; (5) no aporta la serie de comparación con gobiernos anteriores que permitiría sustentar el superlativo 'el más sangrento', por lo que la afirmación funciona como una etiqueta retórica ('el gobierno de la paz y del amor') más que como un dato verificado.",
+          "keyFacts": [
+            "La tasa de homicidios en Colombia pasó de 70 por 100 mil habitantes en 2002 a 25 en 2017 (Fuente 1)",
+            "Entre 2021 y 2024 se reportaron entre 13.000 y 14.000 homicidios por año, equivalentes a una tasa de 25 a 26 por 100 mil (Fuente 1)",
+            "En 2023 hubo 13.035 homicidios, 127 más que en 2022; la tasa fue 24,91 en 2023 frente a 24,95 en 2022 (Fuente 3)",
+            "En 2013 se registraron 15.422 homicidios con tasa de 33,42 por 100 mil, superiores a los de los años de Petro (Fuente 3)",
+            "Según el Instituto de Medicina Legal, los homicidios pasaron de 14.033 en 2023 a 13.917 en 2024, una reducción del 0,83% (Fuente 1)",
+            "Entre 2023 y 2024 la tasa nacional bajó 1,46% (de 13.555 a 13.357 homicidios según Mindefensa/CEJ) (Fuente 1)",
+            "Algunos departamentos aumentaron su tasa entre 2023 y 2024 (Atlántico +27,1%, La Guajira +24%, Chocó +20,8%) mientras otros bajaron fuertemente (Sucre -47,2%, Putumayo -27,1%) (Fuente 1)",
+            "Las fuentes entregadas no incluyen la serie completa año a año de los gobiernos Santos y Duque, por lo que la comparación total de la última década no puede cerrarse con ellas"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Departamentos_y_municipios_de_Colombia_por_tasa_de_homicidio_intencional",
+              "note": "Tasas e históricos nacionales y departamentales de homicidio (MinDefensa/CEJ y Medicina Legal): 70/100 mil en 2002, 25 en 2017, 13-14 mil homicidios anuales entre 2021 y 2024, variaciones departamentales 2023-2024 y reducción del 0,83% entre 2023 y 2024",
+              "host": "es.wikipedia.org",
+              "title": "Anexo:Departamentos y municipios de Colombia por tasa de homicidio intencional - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://datosmacro.expansion.com/demografia/homicidios/colombia",
+              "note": "Serie histórica: 15.422 homicidios y tasa 33,42 en 2013; 13.035 homicidios y tasa 24,91 en 2023; tasa 24,95 en 2022",
+              "host": "datosmacro.expansion.com",
+              "title": "Colombia - Homicidios Intencionados 2023",
+              "image": "https://datosmacro.expansion.com/img/flag/COg.png"
+            },
+            {
+              "ref": "",
+              "url": "https://www.minjusticia.gov.co/programas-co/politica-criminal/Paginas/SIPC-Tasa-de-Homicidios-Basada-en-reporte-de-homicidios-de-la-Policia-Nacional.aspx",
+              "note": "Define el indicador oficial de tasa de homicidios (Policía-DIJIN + población DANE), útil para entender la metodología detrás de las cifras",
+              "host": "minjusticia.gov.co",
+              "title": "Tasa de Homicidios (Basada en reporte de homicidios de la Policía Nacional)",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://cej.org.co/indicadores-de-justicia/criminalidad/homicidios-en-colombia/",
+              "note": "Indicador CEJ de homicidios por 100.000 habitantes (referencia institucional citada en la Fuente 1); el texto extraído no aporta cifras específicas adicionales",
+              "host": "cej.org.co",
+              "title": "Homicidios en Colombia por cada 100.000 habitantes - Corporación Excelencia en la Justicia",
+              "image": "https://cej.org.co/wp-content/uploads/2022/08/Captura2.png"
+            },
+            {
+              "ref": "",
+              "url": "https://indepaz.org.co/cifras-durante-el-gobierno-de-ivan-duque-balance-de-la-violencia-en-cifras/",
+              "note": "Busca balancear la violencia durante el gobierno de Duque, pero el contenido extraído no incluye cifras comparativas concretas de homicidios",
+              "host": "indepaz.org.co",
+              "title": "Cifras durante el gobierno de Iván Duque - Balance de la violencia en cifras - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2022/08/4.-pantallazo-de-encuesta-realizada.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "economia",
+          "claim": "El crecimiento económico promedio de Colombia era de 3.0% y pico, y bajó a la mitad: entre 1.6% y 1.8%.",
+          "quote": "Colombia venía creciendo en promedio 3 punto y pico por 100 también se repitieron esa mondá lo bajaron a la mitad 1.6 1.8",
+          "figures": [
+            "3%",
+            "1.6%",
+            "1.8%"
+          ],
+          "verdict": "sin_evidencia",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes proporcionadas no contienen series históricas de crecimiento anual del PIB suficientes para calcular ni verificar los promedios que afirma el video ('3.0% y pico' anterior vs '1.6%-1.8%' actual). Solo se dispone de datos puntuales: PIB 2024 = 1.5% y PIB 1er semestre 2026 = 2.9%. No hay forma de derivar de estas fuentes las medias de período que reclama la afirmación.",
+          "context": "La única cifra anual confirmada en las fuentes es el crecimiento de 2024p = 1.5% (Fuente 1, DANE), que se aproxima al rango 1.6-1.8% mencionado pero en realidad es más bajo. Para 2026, el DANE reporta 3.5% interanual en el 2° trimestre y 2.9% en el primer semestre (Fuente 4), lo que sugiere una recuperación. La afirmación no especifica qué períodos de tiempo corresponden al 'promedio anterior' ni al 'promedio nuevo', lo que imposibilita la verificación con los datos disponibles.",
+          "progressivePerspective": "Incluso si se confirmara la caída, la afirmación carece de definición temporal: no dice qué años promedia en cada caso. El PIB cae por múltiples factores globales (pandemia, shocks de precios, desaceleración mundial) y no necesariamente por políticas de un solo gobierno. Además, el dato de 2024 (1.5%) coexiste con un repunte al 2.9% en el primer semestre de 2026, lo que contradice la narrativa de colapso permanente. Un análisis riguroso exige definir períodos, ajustar por crisis externas y comparar con la región.",
+          "whatTheyOmit": "El video no define los períodos de comparación, omite que el crecimiento de 2024 (1.5%) es aún más bajo que el rango 1.6-1.8% que menciona, no menciona la recuperación en 2026 (2.9%-3.5%), no aporta contexto regional ni factores globales, y no especifica si los promedios incluyen o excluyen años de pandemia (2020).",
+          "keyFacts": [
+            "En 2024p, el PIB de Colombia creció 1.5% respecto a 2023 (Fuente 1, DANE)",
+            "En el 2° trimestre de 2026pr, el PIB creció 3.5% interanual (Fuente 4, DANE)",
+            "En el primer semestre de 2026pr, el PIB creció 2.9% respecto al mismo período de 2025 (Fuente 4, DANE)",
+            "Las fuentes no incluyen una serie histórica anual que permita calcular promedios de múltiples años para verificar la afirmación"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-anuales",
+              "note": "Confirma que el PIB de 2024p creció 1.5%, un dato puntual que no alcanza para verificar promedios históricos.",
+              "host": "dane.gov.co",
+              "title": "Cuentas nacionales anuales",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-trimestrales/historicos-producto-interno-bruto-pib",
+              "note": "Página de enlaces a boletines trimestrales, sin cifras de crecimiento anual visibles en el contenido proporcionado.",
+              "host": "dane.gov.co",
+              "title": "Producto Interno Bruto (PIB) Históricos",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://datos.bancomundial.org/indicador/NY.GDP.MKTP.KD.ZG?locations=CO",
+              "note": "Indicador del Banco Mundial para crecimiento anual del PIB de Colombia, pero sin datos numéricos en el fragmento proporcionado.",
+              "host": "datos.bancomundial.org",
+              "title": "World Bank Open Data",
+              "image": "https://data.worldbank.org/assets/images/logo-wb-header-en.svg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-trimestrales/pib-informacion-tecnica",
+              "note": "Reporta crecimiento de 3.5% en Q2 2026 y 2.9% en el primer semestre 2026, mostrando una recuperación reciente.",
+              "host": "dane.gov.co",
+              "title": "Producto Interno Bruto (PIB) Información técnica",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://sitios.dane.gov.co/ipc/visorIPC/",
+              "note": "Visor de IPC (inflación), no aporta información sobre crecimiento del PIB.",
+              "host": "sitios.dane.gov.co",
+              "title": "Visor IPC",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "economia",
+          "claim": "Colombia tiene récord histórico de empresas quebradas.",
+          "quote": "tenemos récord histórico en empresas quebradas",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Existe al menos una fuente que reporta un récord histórico de quiebras empresariales en 2025 (más de 10.000 empresas, con crecimiento superior al 50% al mes de agosto) [F6], por lo que el dato no es falso. Sin embargo, la única fuente que lo respalda es un medio de baja verificación que no cita datos primarios de la Superintendencia de Sociedades, cuya sede electrónica incluida como fuente no aporta cifras oficiales de quiebras [F4]. Además, la afirmación queda descontextualizada porque la tendencia de destrucción de firmas superando a la creación arrancó en abril de 2017, es decir, años antes de Petro [F3], y porque el pico histórico de destrucción de empresas documentado oficialmente ocurrió en 2020 bajo el gobierno de Duque por la pandemia [F3].",
+          "context": "Hay que distinguir tres métricas distintas que el video confunde: (1) quiebras/legal insolvencia, (2) destrucción de firmas medida por la pilota de aportes a seguridad social (PILA), y (3) creación de empresas. Según el Banco de la República, la tasa de destrucción de firmas supera a la de creación desde abril de 2017, y en junio de 2020 desaparecieron 148.157 empresas, un aumento del 47,7% frente a junio de 2019, con máximos históricos sectoriales de destrucción del 36,0% en inmobiliario y 35,0% en hoteles y restaurantes durante la crisis sanitaria [F3]. Frente a esa magnitud, las 'más de 10.000 quiebras' de 2025 [F6] son una cifra mucho menor y de naturaleza distinta (procesos judiciales de insolvencia, no cierres totales de firmas). Por otro lado, la creación de empresas sigue siendo alta: 297.475 en 2024, apenas 2,8% menos que las 305.997 de 2023 [F5], y en 2019 se crearon 9,7% más empresas que en 2018 [F1]. La fuente oficial que debería sustentar el récord (Superintendencia de Sociedades) no aporta en esta evidencia ninguna serie de quiebras [F4], por lo que el dato queda 'mayormente verificable' pero no confirmado por fuente primaria.",
+          "progressivePerspective": "El intento de atribuir un 'récord histórico' exclusivamente a Petro es insostenible con las propias series históricas: el Banco de la República sitúa el punto de inflexión en abril de 2017, cuando la destrucción de firmas superó por primera vez a la creación, es decir, durante el gobierno de Santos y el inicio del de Duque, no con Petro [F3]. El verdadero récord documentado oficialmente de destrucción masiva de empresas es junio de 2020: 148.157 firmas desaparecidas en un solo mes, +47,7% interanual, con destrucción sectorial sin precedentes del 36% en inmobiliario y 35% en hoteles/restaurantes durante el COVID bajo Duque [F3]. Además, las causas que explica Fedesarrollo para la informalidad y el cierre de empresas son estructurales y cruzan gobiernos: altos costos tributarios y regulatorios para las pymes, costos laborales de contratación formal, baja productividad que impide absorber la formalidad, acceso limitado a financiamiento y débil supervisión estatal [F2]; a ello se suma el 4×1000, una de las tarifas más altas de la región (80 veces la de Perú), que desincentiva el uso de cuentas bancarias según un estudio de la Universidad de los Andes [F2]. En sentido contrario, la creación de empresas se mantiene cercana al techo histórico: 297.475 en 2024 frente a 305.997 en 2023, una caída de solo 2,8% [F5], lo que sugiere una dinámica de destrucción-creación típica de una economía con alta rotación empresarial y no un colapso sin precedentes. La cifra de 10.000 quiebras, además, no está confirmada por la fuente primaria [F4] y procede de un medio sin verificación documental [F6].",
+          "whatTheyOmit": "Omite (1) que la tendencia de destrucción > creación arrancó en abril de 2017, bajo Santos/Duque, no con Petro [F3]; (2) que el pico histórico de destrucción de firmas fue junio de 2020 con 148.157 empresas y +47,7% interanual, durante el COVID bajo Duque, con récords sectoriales de 36% y 35% [F3]; (3) que 'quiebra' (proceso de insolvencia) y 'destrucción de firmas' (cierre/pérdida de aportes a seguridad social) son métricas distintas y no comparables directamente [F3][F6]; (4) las causas estructurales reconocidas por Fedesarrollo (costos tributarios, laborales, baja productividad, financiación, supervisión débil) y el efecto del 4×1000, que no dependen del gobierno de turno [F2]; (5) que en 2024 aún se crearon 297.475 empresas, solo 2,8% menos que en 2023 [F5]; y (6) que no se presenta fuente primaria oficial (Superintendencia de Sociedades) con la serie de quiebras que sustentaría el récord [F4].",
+          "keyFacts": [
+            "Un medio reporta que en 2025 más de 10.000 empresas se declararon en quiebra en Colombia, superando el récord histórico, con crecimiento superior al 50% al mes de agosto de 2025 [F6]",
+            "Según el Banco de la República, la tasa de destrucción de firmas en Colombia supera a la de creación desde abril de 2017 [F3]",
+            "En junio de 2020 desaparecieron 148.157 empresas, un aumento del 47,7% respecto a junio de 2019, el mayor pico documentado, durante la crisis del COVID-19 [F3]",
+            "Los sectores registraron tasas históricas de destrucción en junio de 2020: 36,0% en inmobiliario y 35,0% en hoteles y restaurantes [F3]",
+            "Durante 2024 se crearon 297.475 empresas en Colombia, 2,8% menos que las 305.997 de 2023 [F5]",
+            "Fedesarrollo atribuye la informalidad y mortalidad empresarial a factores estructurales: costos tributarios y regulatorios, costos laborales, baja productividad, acceso limitado a financiamiento y débil supervisión estatal [F2]",
+            "La fuente primaria posible (Superintendencia de Sociedades) incluida en la evidencia no aporta series oficiales de quiebras [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/como-crecen-las-empresas-en-colombia/",
+              "note": "Contexto de creación empresarial en Colombia (2019): se crearon 9,7% más empresas que en 2018 y se explica la alta mortalidad natural de las empresas; útil como contraste de dinámica histórica.",
+              "host": "razonpublica.com",
+              "title": "¿Cómo crecen las empresas en Colombia? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/08/empresarial-Lina-Cortes.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-record-de-uso-de-efectivo-en-colombia-expone-una-economia-mas-informal/",
+              "note": "Aporta las causas estructurales de informalidad/cierre empresarial según Fedesarrollo y el efecto del 4×1000, factores que trascienden gobiernos; contraste clave para desatribuir el fenómeno a un solo gobierno.",
+              "host": "lasillavacia.com",
+              "title": "El récord de uso de efectivo en Colombia expone una economía más informal",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/07/Alejandro-Rojas-1.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.banrep.gov.co/es/blog/tasas-historicas-creacion-y-destruccion-empresas-colombia",
+              "note": "Fuente central de contraste: serie histórica del Banco de la República que sitúa el inicio de la destrucción > creación en abril de 2017 y el pico récord de 148.157 empresas destruidas en junio de 2020 (gobierno Duque/COVID).",
+              "host": "banrep.gov.co",
+              "title": "Blog BanRep: Tasas históricas de creación y destrucción de empresas en Colombia",
+              "image": "https://www.banrep.gov.co/sites/default/files/blog4-portada.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.supersociedades.gov.co/",
+              "note": "Fuente primaria institucionalmente competente para cifras de quiebras, pero el contenido capturado es solo la portada y no aporta series numéricas: por eso el dato no queda confirmado por fuente oficial.",
+              "host": "supersociedades.gov.co",
+              "title": "Sede Electrónica - Superintendencia de Sociedades - Inicio",
+              "image": "https://www.supersociedades.gov.co/documents/20122/392804/Fachada%20Supersociedades.JPG.png/e9cd1c2e-bbad-374d-64c8-76756db16be0?version=2.0&t=1777584910787&imagePreview=1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://confecamaras.org.co/estudio/dinamica-de-creacion-de-empresas-en-colombia-2024/",
+              "note": "Contraste cuantitativo: la creación de empresas en 2024 (297.475) apenas cae 2,8% frente a 2023, matizando la narrativa de 'colapso sin precedentes'.",
+              "host": "confecamaras.org.co",
+              "title": "Dinámica de creación de empresas en Colombia 2024 - Confecámaras",
+              "image": "https://confecamaras.org.co/wp-content/uploads/2025/02/dinamica-creacion-empresas-2024-colombia.webp"
+            },
+            {
+              "ref": "F6",
+              "url": "https://www.diariodecolombia.com/colombia-rompe-record-de-quiebras-empresariales-en-2025-que-esta-detras-de-la-crisis/",
+              "note": "Única fuente que respalda el récord de más de 10.000 quiebras en 2025, pero sin datos primarios citados y apoyada en tuits; sustenta el veredicto 'mayormente_verdadero' con confianza media.",
+              "host": "diariodecolombia.com",
+              "title": "Colombia rompe récord de quiebras empresariales en 2025 ¿Qué está detrás de la crisis?",
+              "image": "https://www.diariodecolombia.com/wp-content/uploads/2025/09/crece-en-2025-numero-de-empresas-y-quiebra-empresarial.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "salud",
+          "claim": "Se intervino la EPS con más usuarios del sistema y quebraron el sistema: no hay medicamentos ni atención.",
+          "quote": "intervinieron la EPS con más usuarios que tenían ... se Julianearon el sistema no hay medicamento no hay atención",
+          "figures": [],
+          "verdict": "exagerado",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación contiene un grano de verdad (una EPS de gran tamaño, Sanitas, con 5,7 millones de afiliados, fue intervenida), pero exagera en tres frentes: afirma que era 'la EPS con más usuarios' cuando las fuentes la ubican como la segunda más grande; atribuye al sistema de salud una quiebra causada por una sola intervención, cuando las fuentes muestran una crisis estructural que arranca en 1993 y acumula 118 EPS liquidadas desde 1999; y afirma 'no hay medicamentos ni atención', lo cual ninguna fuente respalda y que contradice los mecanismos de continuidad descritos por la Superintendencia.",
+          "context": "Sanitas fue intervenida con 5,7 millones de afiliados, siendo la segunda EPS más grande del país, no la primera (Fuente 4). Desde 1999 se han liquidado 118 EPS en Colombia, 98 de ellas entre 1999 y 2012, muy antes de Petro (Fuente 2). El sistema de salud lleva décadas en crisis: durante el gobierno Uribe se decretó 'emergencia social' por crisis en salud (2009) y la Corte Constitucional declaró inconstitucionales sus decretos (2010) (Fuente 5). En los últimos cinco años se liquidaron 13 EPS (Fuente 3 y 4). Según la Contraloría, de 29 EPS activas solo 5 cumplen los requisitos: Salud Total, Sura, Comfachocó, Caprecosa y EPM Salud (Fuente 4). Actualmente hay 9 EPS intervenidas por la Supersalud y no se han ordenado nuevas liquidaciones (Fuente 2).",
+          "progressivePerspective": "El video presenta como responsabilidad del gobierno Petro lo que es una crisis estructural de más de 30 años derivada de la Ley 100 de 1993 y del modelo de aseguramiento. Las intervenciones de EPS son una función de la Superintendencia Nacional de Salud, no una decisión discrecional del presidente, y responden a causales financieras y de atención (desviación de recursos, negación de servicios, cuentas paralelas). Además, la ley obliga a que los afiliados sean reasignados a EPS receptoras y que los servicios continúen sin interrupción: la EPS intervenida responde hasta el día antes de la transferencia y los pagos a prestadores tienen preferencia para evitar la negación de servicios (Fuente 1). La afirmación de 'no hay medicamentos ni atención' no está respaldada por ninguna fuente y contradice los mecanismos legales de continuidad. Culpar a un solo gobierno por la quiebra del sistema omite que entre 1999 y 2012 (gobiernos Pastrana, Uribe y Santos temprano) se liquidaron 98 EPS, más de cuatro veces las liquidadas entre 2013 y 2023 (Fuente 2).",
+          "whatTheyOmit": "1) Que Sanitas era la segunda EPS más grande, no la primera (Fuente 4). 2) Que la crisis del sistema de salud es anterior al gobierno Petro: 118 EPS liquidadas desde 1999, 98 de ellas entre 1999 y 2012 (Fuente 2). 3) Que las intervenciones son una función de la Superintendencia Nacional de Salud por causales legales, no una decisión política del presidente (Fuente 1). 4) Que los mecanismos legales garantizan continuidad de servicios y reasignación de afiliados durante la intervención (Fuente 1). 5) Que no se han ordenado nuevas liquidaciones y que incluso Sura y Compensar solicitaron salir y la Supersalud lo denegó (Fuente 2). 6) Que el mismo gobierno Uribe decretó emergencia social por crisis en salud (Fuente 5).",
+          "keyFacts": [
+            "Sanitas fue intervenida con más de 5,7 millones de afiliados, siendo la segunda EPS más grande del país, no la más grande (Fuente 4)",
+            "Desde 1999 se han liquidado 118 EPS en Colombia, 98 de ellas entre 1999 y 2012, antes del gobierno Petro (Fuente 2)",
+            "Actualmente hay 9 EPS intervenidas por la Supersalud y no se han ordenado nuevas liquidaciones (Fuente 2)",
+            "De 29 EPS activas, solo 5 cumplen los requisitos según la Contraloría, lo que evidencia una crisis estructural (Fuente 4)",
+            "El proceso de intervención garantiza que los afiliados sean reasignados a EPS receptoras y que los servicios de salud continúen sin interrupción (Fuente 1)",
+            "En los últimos cinco años se liquidaron 13 EPS, un dato que cubre períodos previos al gobierno Petro (Fuente 3, 4)",
+            "El gobierno Uribe decretó 'emergencia social' por crisis en salud en 2009 (Fuente 5)",
+            "Los problemas causales de liquidación incluyen desviación de recursos, demoras en medicamentos, negación de autorizaciones y contabilidades paralelas (Fuente 3)"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.supersalud.gov.co/es-co/transparencia-y-acceso-a-la-informacion-publica/informacion-especifica-para-grupos-de-interes/entidades-en-medida-especial-liquidacion-y-traslados-de-eps",
+              "note": "Descripción oficial de la Superintendencia sobre el proceso de intervención, que garantiza continuidad de servicios y reasignación de afiliados a EPS receptoras",
+              "host": "supersalud.gov.co",
+              "title": "Entidades en medida especial, liquidación y traslados de EPS",
+              "image": "https://www.supersalud.gov.co/es-co/PublishingImages/U3CPa-Tm.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://sectorial.co/articulos-especiales/desde-1999-se-han-liquidado-118-eps-la-mayoria-manejadas-por-actores-publicos-infografia/",
+              "note": "Estadística histórica: 118 EPS liquidadas desde 1999, 98 entre 1999-2012 y 20 entre 2013-2023; 9 actualmente intervenidas sin nuevas liquidaciones",
+              "host": "sectorial.co",
+              "title": "Desde 1999 se han liquidado 118 EPS, la mayoría manejadas por actores públicos (Infografía)",
+              "image": "https://sectorial.co/wp-content/uploads/img__-2025-07-23T215248.134.webp"
+            },
+            {
+              "ref": "",
+              "url": "https://www.eltiempo.com/salud/cuales-eps-se-han-liquidado-hasta-la-fecha-en-colombia-820479",
+              "note": "Causales de liquidación (financieras y de atención) y listado de EPS liquidadas; 6,4 millones de colombianos han cambiado de EPS por liquidaciones",
+              "host": "eltiempo.com",
+              "title": "¿Cuáles EPS se han liquidado hasta la fecha en Colombia?",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/10/27/653bf3bd9a568.jpeg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.noticiasrcn.com/colombia/cuantas-eps-estan-siendo-intervenidas-por-el-gobierno-469046",
+              "note": "Identifica a Sanitas como la segunda EPS más grande del país (5,7M afiliados) al ser intervenida; datos sobre calidad de EPS según Contraloría",
+              "host": "noticiasrcn.com",
+              "title": "¿Cuántas EPS están siendo intervenidas por el Gobierno? | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/ImgNoticias/eps%20intervenidas.webp?w=400&r=1_1"
+            },
+            {
+              "ref": "",
+              "url": "https://cerosetenta.uniandes.edu.co/medicamentos-gaviria/",
+              "note": "Historia de la crisis estructural del sistema de salud desde 1993, incluyendo emergencia social de Uribe y problemas con precios de medicamentos",
+              "host": "cerosetenta.uniandes.edu.co",
+              "title": "[SEGUNDA PARTE] ¿Por qué se regularon los precios de los remedios?",
+              "image": "https://cerosetenta.uniandes.edu.co/wp-content/uploads/2018/10/MEDICAMENTOSPRIMERA-copia-4-100.jpg"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "economia",
+          "claim": "El déficit fiscal histórico en pandemia fue del 7-7.8% y el gobierno actual lo igualó.",
+          "quote": "tenemos déficit histórico 7-7.8 en pandemia y este Alcocer lo igualó",
+          "figures": [
+            "7%",
+            "7.8%"
+          ],
+          "verdict": "exagerado",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El dato de la pandemia sí es correcto: el déficit de 2020 fue histórico, de -7.8% del PIB (y 2021 cerró en -7.1%). Pero la afirmación de que el gobierno actual 'lo igualó' no se sostiene con las cifras oficiales: los cierres más altos del periodo Petro fueron -6.8% en 2024 y -6.4% en 2025, por debajo de ambos años de pandemia. El déficit es históricamente alto (el mayor en 20 años fuera de 2020-2021), pero no se igualó al pico pandémico según los números oficiales.",
+          "context": "Secuencia oficial del balance fiscal (% del PIB): 2020: -7.8; 2021: -7.1; 2022: -6.2; 2023: -4.2; 2024: -6.8 (Fuente 1; el Plan Financiero reportado por Portafolio da 6.7 para 2024); 2025: 6.4 (Fuentes 3 y 4, cierre del Ministerio de Hacienda del Gobierno Nacional Central). Matiz relevante: el Comité Autónomo de la Regla Fiscal estimó que, sin unas operaciones de manejo de deuda que redujeron contablemente los intereses, el déficit de 2025 habría rondado el 8.2% del PIB (Fuente 3), cifra que sí superaría el pico de 2020; pero ese es un contrafactual, no el dato oficial que 'igualó'. También empeoró el déficit primario (de 2.4% en 2024 a 3.5% en 2025, por encima de la meta). El contexto previo es de déficit crónico estructural: los años 2021-2022 (gobiernos anteriores) ya cerraron en -7.1% y -6.2%. Las causas del deterioro 2024-2025 según las fuentes: baja recaudación tributaria (2024 quedó $13.9 billones por debajo del MFMP; impuesto de renta cayó -15% en 2024 tras declararse inexequible un punto clave de la Ley 2277 de 2022 y por incumplimiento de la meta de litigios de la DIAN), que la ANIF atribuye en parte a que los ingresos adicionales de las reformas se destinaron al Fondo de Estabilización de Precios de Combustibles, y crecimiento del gasto (gasto primario +42.5% en 2024 según ANIF; gasto de personal +30%). A esto se suma la carga creciente de intereses: de 2.8% del PIB en 2020 a 4.7% en 2025 ($53 billones a $112 billones), hereda de deuda contraída desde 2020. En junio de 2025 se activó la cláusula de escape de la regla fiscal para 2025-2027, con concepto desfavorable del CARF.",
+          "progressivePerspective": "1) La comparación 'igualó el déficit de la pandemia' es intelectualmente deshonesta en un sentido: el pico de 7.8% se produjo por una recesión histórica (-6.8% del PIB en 2020) con gasto de emergencia del gobierno de Iván Duque; exigir hoy ese mismo nivel de desbalance en ausencia de pandemia invierte la lógica del dato. 2) El problema fiscal es estructural y anterior: las fuentes describen un 'déficit crónico' que arranca antes de 2022, y 2021 ya cerró en -7.1%, es decir, el nivel 'pandémico' ya existía sin Petro. 3) Parte del deterioro obedece a decisiones no atribuibles al Ejecutivo solo: la Corte Constitucional tumbó el punto de no deducibilidad de regalías de la reforma de 2022 (Ley 2277), y la baja recaudación de 2024 se explica por incumplimiento de la meta de litigios de la DIAN y por el desvío de los recursos de las reformas al Fondo de Estabilización de Combustibles. 4) El déficit primario y la carga de intereses muestran que un peso relevante del agujero es servicio de deuda heredado: los intereses pasaron de 2.8% a 4.7% del PIB entre 2020 y 2025, o sea, de gobiernos anteriores. 5) El dato del video omite el contrafactual del CARF (8.2% sin operaciones contables), que sería el argumento realmente fuerte en su contra: el problema real no es 'igualar la pandemia' sino que el ajuste se maquilló contablemente. Desde una perspectiva progresista, el debate útil no es el titular de 'gastador histórico' sino la composición del gasto (burocracia y personal vs. inversión social) y el diseño tributario que no logró capturar ingresos.",
+          "whatTheyOmit": "Omite: (a) que los déficits de 2021 (-7.1%) y 2022 (-6.2%) bajo gobiernos anteriores ya estaban en el rango que el video atribuye como exclusivo de la pandemia; (b) que el déficit oficial más alto de este gobierno fue 6.8% (2024) y 6.4% (2025), no 7-7.8%; (c) que el déficit es crónico y estructural previo a 2022 según la propia fuente; (d) las causas documentadas de la baja recaudación (inexequibilidad parcial de la reforma de 2022, meta de litigios de la DIAN, desvío de recursos al FEPC); (e) la carga de intereses heredados (2.8%→4.7% del PIB); (f) que parte del gasto de 2024 fue aprobado por el Congreso, no solo por el Ejecutivo. También omite, en sentido contrario a su tesis, el dato del CARF de que sin operaciones contables el déficit de 2025 habría sido ~8.2%, que sí superaría el pico pandémico. La atribución del dato a 'Alcocer' no es verificable con las fuentes proporcionadas.",
+          "keyFacts": [
+            "El déficit fiscal de 2020 fue histórico: -7.8% del PIB (Fuente 1)",
+            "El déficit de 2021 fue de -7.1% del PIB, en el periodo previo al gobierno Petro (Fuente 1)",
+            "Balances siguientes: 2022 -6.2%, 2023 -4.2%, 2024 -6.8%, el más alto en 20 años excepto 2020 y 2021 (Fuente 1)",
+            "El déficit del Gobierno Nacional Central cerró 2025 en 6.4% del PIB (Fuentes 3 y 4), frente a 6.7% en 2024 (Fuente 4)",
+            "Ningún cierre oficial del gobierno Petro alcanzó los 7-7.8% de pandemia: el máximo fue 6.8% en 2024 (Fuentes 1, 3, 4)",
+            "Sin operaciones de manejo de deuda, el CARF calcula que el déficit de 2025 habría rondado 8.2% del PIB (Fuente 3)",
+            "El déficit primario empeoró de 2.4% (2024) a 3.5% (2025), por encima de la meta de 2.4% (Fuentes 3 y 4)",
+            "En junio de 2025 se activó la cláusula de escape de la regla fiscal para 2025, 2026 y 2027, con concepto desfavorable del CARF (Fuente 3)",
+            "El pago de intereses pasó de 2.8% del PIB en 2020 a 4.7% en 2025 ($53 billones a $112 billones) (Fuente 1)",
+            "El recaudo tributario de 2024 quedó $13.9 billones por debajo de la estimación del MFMP; impuesto de renta cayó -15% en 2024 (Fuente 1)",
+            "Según ANIF, los ingresos adicionales de las reformas tributarias de 2021 y 2022 se destinaron en gran parte a subsidios a combustibles vía el FEPC (Fuente 1)",
+            "El gasto se expandió 42.5% en 2024 y el gasto de personal subió 30% en un contexto de rigidez presupuestal, según ANIF (Fuente 1)",
+            "La deuda neta del GNC cerró 2025 en 58.5% del PIB y la bruta en 64.4% (Fuente 3)"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.colombiaencifras.com/la-crisis-fiscal/",
+              "note": "Serie del balance fiscal de la Nación: -7.8% en 2020, -7.1% en 2021, -6.2% en 2022, -4.2% en 2023, -6.8% en 2024; causas de la baja recaudación, crecimiento del gasto y deuda/intereses. Permite verificar tanto la cifra pandémica como que el gobierno actual no la igualó.",
+              "host": "colombiaencifras.com",
+              "title": "La crísis fiscal - COLOMBIA EN CIFRAS",
+              "image": "https://www.colombiaencifras.com/wp-content/uploads/2022/09/cropped-cropped-logo_cec-2-e1733773812405.png"
+            },
+            {
+              "ref": "",
+              "url": "https://jhonmosquera.com/economia/macro/deficit-fiscal/deficit-fiscal-colombia/",
+              "note": "Cierre fiscal 2025: déficit total 6.4% y primario 3.5% del PIB, tabla comparativa 2024-2025, activación de la cláusula de escape y estimación del CARF de ~8.2% sin operaciones contables.",
+              "host": "jhonmosquera.com",
+              "title": "Déficit fiscal de Colombia: 6,4% del PIB en 2025",
+              "image": "https://jhonmosquera.com/wp-content/uploads/2026/07/deficit-fiscal-colombia-hero-16x9-1.webp"
+            },
+            {
+              "ref": "",
+              "url": "https://www.portafolio.co/economia/gobierno/gobierno-petro-presento-el-plan-financiero-y-confirmo-que-el-pais-sigue-con-un-deficit-historicamente-alto-en-6-489844",
+              "note": "Confirma déficit 6.4% en 2025 y 6.7% en 2024 según el Plan Financiero de Hacienda; describe el déficit como 'históricamente alto' pero en mejora leve, y detalla recaudo y gasto primario.",
+              "host": "portafolio.co",
+              "title": "Gobierno Petro presentó el Plan Financiero y confirmó que el país sigue con un déficit históricamente alto en 6,4%",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/03/11/69b1cd44609ab.jpeg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.minhacienda.gov.co/documents/20119/2109613/2025-02-07+Comunicado+Act.+Plan+Financiero+2025+(VT_VF).docx.pdf/59cf2d03-d100-51ff-e370-f9d0e93aeec0?t=1738978350041",
+              "note": "Fuente oficial primaria (Ministerio de Hacienda) no accesible: bloqueada por protección anti-bot. No aportó datos verificables en esta revisión.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://www.minhacienda.gov.co/documents/d/portal/gnc-abril-2025?download=true",
+              "note": "Fuente oficial primaria (resultados balance fiscal GNC) no accesible: bloqueada por protección anti-bot. No aportó datos verificables en esta revisión.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "politica",
+          "claim": "Se repartieron contratos a través de 'credicuca' (presunta corrupción).",
+          "quote": "si sale la Juliana guerrero y la hermana está repartiendo contrato ... a punta de credicuca se están robando el país",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes sí respaldan la existencia de una presunta red de tráfico de influencias y cobro de tarifas por contratos asociada a las hermanas Juliana y Verónica Guerrero (documentada por SEMANA y replicada por El Tiempo), pero NINGUNA fuente menciona a 'Credicuca' ni vincula ese vehículo financiero con la repartición de contratos. El núcleo específico de la afirmación —que los contratos se repartieron 'a punta de credicuca'— carece de respaldo en el material entregado.",
+          "context": "Lo que sí está documentado en las fuentes: SEMANA reveló chats, audios, giros y testimonios de empresarios que aportaron documentos y comprobantes de transferencia (Fuente 4). Según esa investigación, entre 2024, 2025 y 2026 las hermanas —sin vinculación laboral con el Gobierno— habrían cobrado 1 millón por la primera cita, un anticipo de 200 millones y el 10% del valor de cada proyecto adjudicado, además de 35 millones por municipio en vivienda (Fuente 4, Fuente 5). Se citan proyectos concretos: acueducto en el Cesar (viceministro Edward Libreros, sacado por Petro en octubre de 2025), cámaras con recursos del Fonsecon del Ministerio del Interior, mejoramiento de vivienda con recursos del Ministerio de Vivienda, y un proyecto hídrico en La Guajira por más de 27.000 millones (Fuente 5). Entre finales de 2024 y comienzos de 2025 un solo empresario habría girado al menos 53 millones (Fuente 4, Fuente 5). Es crucial: se trata de INVESTIGACIÓN PERIODÍSTICA con derecho de contradicción, no de condenas. La única fuente que documenta corrupción en una caja de compensación (Fuente 2, Publimetro) es un caso de la Fiscalía en NARIÑO entre octubre de 2025 y mayo de 2026, por 9.804 millones en ocho contratos, con cuatro imputados —pero no nombra a Credicuca ni a las hermanas Guerrero—. La Fuente 3 documenta corrupción contractual en el Parque de las Aguas de Medellín, pero correspondiente a contratos de 2021, administración anterior. La Fuente 1 es un sistema de alertas automáticas que advierte explícitamente que 'una alerta no significa corrupción'.",
+          "progressivePerspective": "Tres matices importantes. Primero, la afirmación mezcla dos hechos distintos: la presunta red de las Guerrero (bien documentada por prensa) y 'Credicuca', vínculo para el cual no existe evidencia en las fuentes; usar 'Credicuca' sin prueba convierte una acusación concreta en un decir sin sustento. Segundo, la propia investigación periodística indica que las mujeres NO eran servidoras públicas ni tenían vinculación formal con el Gobierno (Fuente 5), lo que cambia la lectura: no es 'el Gobierno reparte contratos' sino que personas ajenas habrían lucrado con la permisividad de funcionarios; de hecho el gobierno Petro sacó al viceministro Libreros en octubre de 2025, lo que contradice la tesis de que el Ejecutivo institucionalizó el esquema. Tercero, este tipo de señales no son exclusivas de esta administración: la Fuente 3 muestra un caso de corrupción contractual flagrante en 2021 (administración anterior), y la Fuente 1 registra 146.039 alertas de riesgo en los últimos 12 meses distribuidas entre miles de entidades de todos los niveles y periodos, con la advertencia explícita de que las señales 'nunca son acusaciones'. Criminalizar todo el gobierno por la conducta presunta de dos personas sin cargo resulta una generalización analítica, no un hecho.",
+          "whatTheyOmit": "Omite: (1) que ninguna fuente menciona 'Credicuca' como mecanismo de reparto de contratos; (2) que se trata de investigaciones periodísticas y no de condenas judiciales, con derecho de contradicción de los mencionados; (3) que las Guerrero no tenían cargo ni vinculación formal con el Gobierno; (4) que el viceministro involucrado (Libreros) fue removido por el propio presidente Petro en octubre de 2025; (5) que los montos concretos documentados son moderados (53 millones de un empresario, 200 millones de anticipo) frente al tono grandilocuente de 'se están robando el país'; (6) que casos similares de corrupción contractual se dan en otras administraciones y entidades (contratos de 2021 en Medellín, caja de compensación en Nariño), por lo que no hay evidencia de que sea un fenómeno exclusivo o sistémico del gobierno Petro; (7) que los propios sistemas de alerta advierten que las señales de riesgo no determinan culpabilidad.",
+          "keyFacts": [
+            "SEMANA reveló testimonios, audios, chats y consignaciones que implican a Juliana y Verónica Guerrero en una presunta red que cobraba por gestionar contratos entre 2024, 2025 y 2026 (Fuente 4)",
+            "Las hermanas no tenían vinculación laboral formal con el Gobierno (Fuente 4, Fuente 5)",
+            "Las tarifas presuntas: 1 millón por la primera cita, anticipo de 200 millones y 10% del valor de cada proyecto adjudicado; 35 millones por municipio en vivienda (Fuente 4, Fuente 5)",
+            "Un empresario giró al menos 53 millones de pesos entre finales de 2024 y comienzos de enero de 2025 (Fuente 4, Fuente 5)",
+            "Proyectos citados: acueducto en el Cesar (viceministro Edward Libreros, removido por Petro en octubre de 2025), cámaras con Fonsecon del Ministerio del Interior, mejoramiento de vivienda con el Ministerio de Vivienda, agua potable en La Guajira por más de 27.000 millones (Fuente 5)",
+            "NO hay mención de 'Credicuca' en ninguna de las cinco fuentes",
+            "Existe un caso de corrupción en contratación de una caja de compensación en Nariño (octubre 2025-mayo 2026), 8 contratos por 9.804 millones, 4 imputados, pero sin vinculación con Credicuca ni con las Guerrero (Fuente 2)",
+            "La SIC señaló corrupción contractual en el Parque de las Aguas de Medellín por 15.748 millones, pero correspondiente a contratos de 2021, administración anterior (Fuente 3)",
+            "El sistema de monitoreo de contratación advierte que las alertas son 'señales, no veredictos' y no determinan culpabilidad (Fuente 1)",
+            "El caso de las Guerrero es investigación periodística con derecho de contradicción; no equivale a condena penal (Fuente 3, sobre la lógica aplicable)"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.semana.com/nacion/articulo/semana-revela-las-pruebas-de-la-red-de-corrupcion-de-juliana-guerrero-y-su-hermana-veronica-chats-audios-y-consignaciones-bancarias/202610/",
+              "note": "Fuente primaria de la investigación sobre la red de Juliana y Verónica Guerrero: pruebas documentales, montos, proyectos y mecanismos de cobro. No menciona Credicuca.",
+              "host": "semana.com",
+              "title": "SEMANA revela las pruebas de la red de corrupción de Juliana Guerrero y su hermana Verónica: chats, audios y consignaciones bancarias",
+              "image": "https://www.semana.com/resizer/v2/6MD7L7AKJZG2BFHAGW3HGGBIQI.jpg?auth=d8d40567ff1de8a696a3aacd2ab5969fcd08e29919b889dead84a25231bbdea7&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "",
+              "url": "https://www.eltiempo.com/justicia/investigacion/revelan-pruebas-de-presunta-red-de-trafico-de-influencias-de-juliana-guerrero-y-su-hermana-cobro-por-contratos-con-el-estado-3573783",
+              "note": "Replica y resume la investigación de SEMANA sobre la presunta red de tráfico de influencias; confirma falta de vinculación laboral formal y detalla proyectos. No menciona Credicuca.",
+              "host": "eltiempo.com",
+              "title": "Revelan pruebas de presunta red de tráfico de influencias de Juliana Guerrero y su hermana: cobro por contratos con el Estado",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/25/6a64ac9c88fea.r_d.314-224-0.png"
+            },
+            {
+              "ref": "",
+              "url": "https://www.publimetro.co/noticias/2026/08/05/destapan-millonario-entramado-de-corrupcion-direccionaban-contratos-por-mas-de-9800-millones-en-caja-de-compensacion/",
+              "note": "Único caso de corrupción en caja de compensación en las fuentes (Nariño, Fiscalía, 9.804 millones, 4 imputados), pero sin vinculación con Credicuca ni con las Guerrero.",
+              "host": "publimetro.co",
+              "title": "Destapan millonario entramado de corrupción: direccionaban contratos por más de $9.800 millones en caja de compensación",
+              "image": "https://www.publimetro.co/resizer/v2/PVCAGKUCDNEAFPZXVEKLJKFEV4.jpeg?smart=true&auth=cbcc5e112b438ed6bab77f15fe91641a7d23a7f6e643971f201eec105da885e1&width=1200&height=630"
+            },
+            {
+              "ref": "",
+              "url": "https://caracol.com.co/2026/09/12/sic-senala-presunto-esquema-de-corrupcion-en-contratos-del-parque-de-las-aguas-de-medellin/",
+              "note": "Caso de corrupción contractual de la SIC en contratos de 2021 (administración anterior), útil como comparación y contexto. No menciona Credicuca.",
+              "host": "caracol.com.co",
+              "title": "SIC señala presunto esquema de corrupción en contratos del Parque de las Aguas de Medellín",
+              "image": "https://caracol.com.co/resizer/v2/ZGHWOAZKDNFDPEUU437Y2PVAZE.PNG?auth=eac5dbeea3084a1e6d03af4c55638ed3a2605e50a1a4a61d9d4af3cddd726845&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "",
+              "url": "https://www.anticorrupcion.co/",
+              "note": "Sistema de alertas automáticas de contratación que advierte que las señales de riesgo no son acusaciones ni determinan culpabilidad.",
+              "host": "anticorrupcion.co",
+              "title": "agente anticorrupción — radar de corrupción en colombia",
+              "image": "https://www.anticorrupcion.co/static/og-default.png?v=f0386e3a"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "social",
+          "claim": "El gobierno eliminó subsidios de Mi Casa Ya, Juventud en Acción, Familias en Acción y otros programas sociales.",
+          "quote": "acabaron mi casa ya un poco de subsidio de jóvenes en acción familia en acción madres solteras no sé qué ellos acabaron con toda esa mondá",
+          "figures": [],
+          "verdict": "falso",
+          "color": "red",
+          "confidence": "media",
+          "summary": "Según las fuentes, ni Mi Casa Ya ni Jóvenes en Acción fueron eliminados: siguen vigentes y operando bajo el gobierno de Petro (2022-2026). Mi Casa Ya incluso se publicita con 8.672 cupos y fue ajustado (no suprimido) en 2025, y Jóvenes en Acción mantiene inscripciones abiertas. Para Familias en Acción las fuentes no ofrecen información, por lo que esa parte queda sin evidencia en este paquete de fuentes.",
+          "context": "Mi Casa Ya sigue activo como 'Subsidio familiar de vivienda nueva' (Minvivienda, actualizado enero 2026): 8.672 cupos, subsidio de hasta 30 SMMLV (~$39 millones) para hogares Sisbén A1-C8 y 20 SMMLV (~$26 millones) para C9-D20, con postulaciones permanentes. El programa sufrió AJUSTES en 2025 (Resolución 202 de 2025): pasó de criterios de ingresos a criterios de Sisbén IV, y se estableció una etapa de transición que anulaba registros antiguos en 'Habilitado' con vigencia hasta marzo de 2024; también cambió el orden de asignación, priorizando víctimas del conflicto, mujeres cabeza de hogar, informales y madres comunitarias. Ese rediseño, sumado a la transición administrativa, puede haber generado la percepción de que 'acabaron' el programa. Jóvenes en Acción sigue con inscripciones abiertas del Departamento de Prosperidad Social, con convocatorias anuales. Las fuentes no cubren Familias en Acción ni 'madres solteras', por lo que no es posible verificar esa parte aquí.",
+          "progressivePerspective": "La afirmación confunde 'rediseñar y reorientar' con 'eliminar'. Los programas siguen existiendo y con montos incluso altos (hasta 50 SMMLV con concurrencia de subsidios). Los cambios de 2025 ampliaron la cobertura de Sisbén (A1-D20) y priorizan precisamente a los grupos más vulnerables: víctimas del conflicto armado, mujeres cabeza de hogar de estratos bajos, trabajadores informales y madres comunitarias —justamente la 'madre soltera' que el video dice que dejaron sin ayuda. Críticas legítimas podrían centrarse en los cupos limitados o en los tiempos de transición, no en una supuesta desaparición de los programas.",
+          "whatTheyOmit": "Omite que Mi Casa Ya sigue vigente con postulaciones permanentes y cupos activos en 2026; omite que los montos del subsidio continúan (20-30 SMMLV) y que se mantuvo la cobertura a la tasa de interés; omite que Jóvenes en Acción sigue con inscripciones abiertas; omite que los cambios de 2025 priorizan a mujeres cabeza de hogar y víctimas del conflicto; no aporta ninguna evidencia de eliminación de Familias en Acción ni de programas para madres solteras; usa lenguaje coloquial impreciso ('no sé qué', 'esa mondá') que revela desconocimiento de los programas que dice que desaparecieron.",
+          "keyFacts": [
+            "Mi Casa Ya sigue vigente: Minvivienda reporta 8.672 cupos y el sitio fue actualizado en enero de 2026 como 'Subsidio familiar de vivienda nueva' del Gobierno del Cambio (Fuente 1)",
+            "El subsidio de Mi Casa Ya sigue pagando hasta 30 SMMLV (~$39 millones) para Sisbén A1-C8 y 20 SMMLV (~$26 millones) para C9-D20, con postulaciones permanentes (Fuente 1)",
+            "En 2025 Mi Casa Ya se rediseñó (Resolución 202 de 2025): pasó a criterios de Sisbén IV y se prioriza a víctimas del conflicto, mujeres cabeza de hogar, informales y madres comunitarias (Fuente 2)",
+            "Jóvenes en Acción sigue operando con inscripciones abiertas del Departamento de Prosperidad Social, con convocatorias anuales (Fuente 5)",
+            "Las fuentes no contienen información sobre Familias en Acción, por lo que no es verificable en este paquete si hubo cambios en ese programa"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://minvivienda.gov.co/viceministerio-de-vivienda/mi-casa-ya/subsidio-familiar-de-vivienda-nueva-0",
+              "note": "Página oficial del Minvivienda con 8.672 cupos, actualizada enero 2026: demuestra que Mi Casa Ya sigue activo bajo el gobierno de Petro",
+              "host": "minvivienda.gov.co",
+              "title": "Así avanza el programa Subsidio familiar de vivienda nueva",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://www.metrocuadrado.com/noticias/actualidad/requisitos-del-subsidio-mi-casa-ya-2025-4703",
+              "note": "Detalla los ajustes de 2025 (Resolución 202 de 2025): cambio a Sisbén IV, etapa de transición y nueva priorización; aclara que el programa se rediseñó, no se eliminó",
+              "host": "metrocuadrado.com",
+              "title": "Requisitos del Subsidio Mi Casa Ya 2025",
+              "image": "https://d219336yigegi3.cloudfront.net/sites/noticias-m2/files/field/image/iStock-1322844458.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://www.minvivienda.gov.co/programa/mi-casa-ya",
+              "note": "Ficha del programa Mi Casa Ya en el Minvivienda",
+              "host": "minvivienda.gov.co",
+              "title": "Mi Casa Ya",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://mascolombia.com/mi-casa-ya-2025-guia-subsidio-colombia/",
+              "note": "Guía 2025 del programa: confirma vigencia, montos y requisitos actualizados de Mi Casa Ya",
+              "host": "mascolombia.com",
+              "title": "Mi casa ya 2025: guía completa para acceder al subsidio de vivienda en Colombia",
+              "image": "https://mascolombia.com/wp-content/uploads/2025/08/Casa-en-manos-humanas.webp"
+            },
+            {
+              "ref": "",
+              "url": "https://www.jovenesen-accion.com.co/inscripciones/",
+              "note": "Confirma que Jóvenes en Acción mantiene inscripciones abiertas con convocatorias del Departamento de Prosperidad Social",
+              "host": "jovenesen-accion.com.co",
+              "title": "Inscripciones - Jóvenes en Acción",
+              "image": "https://www.jovenesen-accion.com.co/wp-content/uploads/2024/06/¿Que-es-Inscripciones-Jovenes-en-Accion.webp"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "social",
+          "claim": "Los subsidios fueron reemplazados por programas dirigidos a adultos mayores (los abuelitos).",
+          "quote": "entonces dan esos subsidios a los abuelitos que sí muy bueno",
+          "figures": [],
+          "verdict": "engañoso",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Es cierto que existe un subsidio estatal dirigido a adultos mayores (Colombia Mayor, hasta $230.000/mes), pero las fuentes no respaldan en absoluto la afirmación de que 'los subsidios fueron reemplazados' por programas para abuelitos: no hay evidencia de eliminación o sustitución de ningún otro subsidio, y el programa para adultos mayores tiene fundamento legal desde la Ley 100 de 1993 y la Constitución de 1991, es decir, precede por décadas al gobierno de Petro. La palabra 'reemplazado' es lo falso o, mejor dicho, indemostrado con estas fuentes.",
+          "context": "Colombia Mayor es el programa de transferencias monetarias para adultos mayores sin pensión: $80.000 mensuales, o $230.000 para mujeres de 60+ y hombres de 65+ (Fuente 1 y Fuente 2). Sus requisitos son SISBÉN IV grupos A/B/C1, no tener pensión y edad desde 54 años (mujeres) / 59 (hombres). Las fuentes muestran que es un programa estructural y antiguo: su marco normativo incluye la Constitución de 1991, la Ley 100 de 1993 y varios CONPES de protección social al adulto mayor (Fuente 4), además de la Ley 1276 de 2009 para los Centros Vida (Fuente 2). Existen además otros programas para adultos mayores que tampoco son nuevos: Centros Vida (Ley 1276 de 2009) y BEPS de Colpensiones (Ley 1328 de 2009, Decreto 604 de 2013) (Fuente 2). El único anuncio de cambio es una reforma con 'incremento progresivo del monto', nuevos criterios de focalización y bancarización, con la aclaración de que 'los adultos mayores que ya reciben el subsidio no perderán su cupo' (Fuente 3). Contexto demográfico: Colombia tiene ~7,5 millones de personas de 60+ y menos del 30% tiene pensión, es decir ~5 millones sin ingresos regulares (Fuente 2). Las fuentes también confirman una limitación estructural: 'los recursos disponibles no son suficientes para cubrir a todos los' beneficiarios, por lo que hay metodología de priorización con cupos por municipio (Fuente 1 y Fuente 4). Ninguna fuente documenta que se haya suprimido, recortado o 'reemplazado' un subsidio previo para financiar a los adultos mayores.",
+          "progressivePerspective": "La afirmación sugiere (con tono sarcástico: 'entonces dan esos subsidios a las abuelitos que sí muy bueno') que el gobierno redirigió recursos quitándolos de otro lugar hacia los abuelitos. Esa lectura no se sostiene: (1) Colombia Mayor no es una creación ni una reorientación de este gobierno, sino un programa con base legal desde 1993, anterior en casi 30 años al actual; (2) las fuentes no muestran ningún subsidio suprimido ni realocado; (3) el único cambio documentado va en sentido contrario al que insinúa el video: aumento progresivo del monto y mejor focalización (Fuente 3), y (4) se omite que los adultos mayores son una de las poblaciones más pobres del país: 70% de los mayores de 60 carece de pensión (Fuente 2), de modo que subsidiarlos no es un desvío sino el cumplimiento del mandato constitucional de protección social (arts. 13, 46 de la Constitución, citados en Fuente 1 y 4). Además, los montos son modestos ($80.000–$230.000 mensuales) y el cupo limitado es una restricción presupuestal histórica, no una decisión de este gobierno.",
+          "whatTheyOmit": "Omite (a) el origen legal histórico del programa (Ley 100 de 1993, Constitución 1991, CONPES), que desmiente la idea de que es una reorientación reciente; (b) cualquier evidencia de un subsidio que haya sido 'reemplazado' o eliminado — las fuentes no lo mencionan; (c) que la reforma anunciada aumenta el monto y que los beneficiarios actuales conservan su cupo (Fuente 3); (d) el carácter estructural de la insuficiencia de cupos, documentada desde antes (Fuente 1 y 4); y (e) la magnitud real de la cobertura: 7,5 millones de adultos mayores y ~5 millones sin pensión, frente a un subsidio de montos bajos y con listas de priorización.",
+          "keyFacts": [
+            "Colombia Mayor entrega $80.000 mensuales, y $230.000 para mujeres de 60+ y hombres de 65+, a adultos mayores sin pensión y con SISBÉN A/B/C1 (Fuente 1, Fuente 2)",
+            "El programa tiene fundamento en la Constitución de 1991, la Ley 100 de 1993 y varios CONPES de protección social al adulto mayor, por lo que es anterior al gobierno actual (Fuente 1, Fuente 4)",
+            "No existe en las fuentes evidencia de que algún subsidio haya sido 'reemplazado' o suprimido para dar paso a programas de adultos mayores (ausencia de evidencia en todas las fuentes)",
+            "El gobierno anunció ajustes a Colombia Mayor: incremento progresivo del monto, nuevos criterios de focalización y bancarización; 'los adultos mayores que ya reciben el subsidio no perderán su cupo' (Fuente 3)",
+            "Los recursos de Colombia Mayor no alcanzan para cubrir a todos los que cumplen requisitos, por lo que opera una metodología de priorización con cupos limitados por municipio (Fuente 1, Fuente 4)",
+            "En Colombia hay ~7,5 millones de personas de 60+ y menos del 30% tiene pensión; los programas del Estado son el principal soporte de ~5 millones (Fuente 2)",
+            "Los programas para adultos mayores (Centros Vida, Ley 1276 de 2009; BEPS, Ley 1328 de 2009) también tienen legislación previa a este gobierno (Fuente 2)"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://prosperidadsocial.gov.co/colombia-mayor/colombia-mayor-2/",
+              "note": "Fuente oficial: montos, requisitos, marco normativo (Constitución 1991, Ley 100 de 1993) y metodología de priorización por cupos insuficientes del programa Colombia Mayor",
+              "host": "prosperidadsocial.gov.co",
+              "title": "Colombia Mayor - Prosperidad Social",
+              "image": "https://prosperidadsocial.gov.co/wp-content/uploads/2026/09/BANNER-BIENVENIDOS.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://colombiatramita.co/poblaciones-vulnerables/adulto-mayor-programas/",
+              "note": "Inventario de los 5 programas para adultos mayores en 2026 con su legislación previa (Ley 1276 de 2009, Ley 1328 de 2009) y datos demográficos (7,5M mayores de 60, <30% con pensión)",
+              "host": "colombiatramita.co",
+              "title": "Adulto mayor Colombia: programas 2026",
+              "image": "https://colombiatramita.co/wp-content/uploads/2026/06/banner-colombia-tramita-1.png"
+            },
+            {
+              "ref": "",
+              "url": "https://misubsidio.com/colombia-mayor/colombia-mayor-cambia/",
+              "note": "Anuncio de reforma con incremento progresivo del monto y aclaración de que los beneficiarios actuales no pierden su cupo; no menciona eliminación de otros subsidios",
+              "host": "misubsidio.com",
+              "title": "Colombia Mayor cambia: así quedará el subsidio con los nuevos ajustes del Gobierno",
+              "image": "https://misubsidio.com/wp-content/uploads/2025/11/Colombia-Mayor-cambia-asi-quedara-el-subsidio-con-los-nuevos-ajustes-del-Gobierno.avif?v=1790867117"
+            },
+            {
+              "ref": "",
+              "url": "https://prosperidadsocial.gov.co/colombia-mayor/",
+              "note": "Página oficial del programa: régimen normativo histórico, criterios de priorización y operación de entrega de ciclos",
+              "host": "prosperidadsocial.gov.co",
+              "title": "Colombia Mayor - Prosperidad Social",
+              "image": ""
+            },
+            {
+              "ref": "",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-y-desigualdad",
+              "note": "Portal del DANE sobre pobreza; no aporta cifras específicas sobre el programa ni sobre un 'reemplazo' de subsidios, por lo que es poco útil para esta afirmación concreta",
+              "host": "dane.gov.co",
+              "title": "Pobreza y desigualdad",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "seguridad",
+          "claim": "Las bandas criminales y organizaciones vinculadas al narcotráfico están reclutando menores de edad.",
+          "quote": "llegan repartiendo el balín y reclutando menores",
+          "figures": [],
+          "verdict": "verdadero",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El hecho de que grupos armados, bandas criminales y estructuras vinculadas al narcotráfico recluten menores de edad en Colombia está ampliamente respaldado por fuentes oficiales (Defensoría del Pueblo, ONU, Unicef) y por organizaciones como Indepaz e International Crisis Group. La afirmación es cierta, pero el video la presenta como si fuera una novedad o responsabilidad exclusiva de un gobierno cuando se trata de un fenómeno estructural que crece de forma sostenida desde hace más de una década.",
+          "context": "Magnitud real según las fuentes: entre 2019 y 2024 fueron reclutados más de 1.200 menores, con un aumento del 300% en cinco años (Unicef/ONU); solo en 2024 se verificaron 453 casos, es decir uno cada 20 horas. International Crisis Group documenta un crecimiento \"drástico\" en 10 años: de unos 100 menores reclutados en 2016 (año de la firma del acuerdo de paz con las FARC) a al menos 620 casos en 2024. La Defensoría del Pueblo registró 651 casos de reclutamiento forzado en 2024 y 257 en 2025 (aunque organizaciones como Tejedores de Paz denuncian subregistro: reportaron al menos 120 casos en Norte de Santander frente a los 10 oficiales). En 2025, el grupo señalado con más casos fue el Estado Mayor Central (EMC, disidencia de las FARC) con 47,1%, seguido de disidencias (15,6%), ELN (11,7%) y Clan del Golfo (8,2%). El crecimiento se inicia en 2016 y atraviesa los gobiernos de Santos, Duque y Petro: el aumento del 64% entre 2023 y 2024 ocurrió durante el gobierno Petro, pero la tendencia de fondo es anterior y multianual.",
+          "progressivePerspective": "La lectura progresista coincide con el diagnóstico pero cuestiona la intención política del dato: (1) el reclutamiento no nace con este gobierno, sino que se dispara tras 2016, cuando el Estado no ocupó los territorios que dejaron las FARC, según el informe de International Crisis Group, y se mantiene como tendencia de más de una década; (2) la raíz del problema es estructural —control territorial de economías ilegales, violencias estructurales, ausencia del Estado, comunidades indígenas y afrodescendientes históricamente desatendidas—, no administrativa; (3) las propias fuentes señalan que la reducción de programas de prevención financiados por USAID tras su cierre por el gobierno de Trump afectó significativamente las actividades de protección infantil desde inicios de 2025, factor que el video omite; (4) el reclutamiento hoy opera sobre todo por oferta y promesa (dinero, motos, estatus, protección) en redes sociales como TikTok y Facebook, lo que exige políticas de prevención y presencia social, no solo respuestas militaristas; (5) el dato de 2025 muestra incluso una caída respecto a 2024 (257 vs 651 según la Defensoría), matiz que desdice la idea de un deterioro lineal e indefinido.",
+          "whatTheyOmit": "El video omite: (a) que el reclutamiento de menores es un fenómeno multianual que crece desde 2016, atravesando distintos gobiernos; (b) las causas estructurales identificadas por las fuentes (vacío territorial tras el acuerdo de paz, economías ilegales, vulnerabilidad de comunidades indígenas y afrodescendientes); (c) que el mayor responsable en 2025 fue el EMC (47,1%), una disidencia de las FARC, y que el 8,2% correspondió al Clan del Golfo; (d) la modalidad mayoritariamente coercitiva por oferta y redes sociales, no solo \"repartir dinero\"; (e) el subregistro reconocido por la propia Defensoría y denunciado por Tejedores de Paz; (f) el impacto del cierre de USAID en los programas de prevención; (g) la reducción de casos reportados en 2025 frente a 2024.",
+          "keyFacts": [
+            "Entre 2019 y 2024 más de 1.200 menores fueron reclutados en Colombia, un aumento del 300% en cinco años (Unicef/ONU, vía El Colombiano)",
+            "En 2024 se verificaron 453 casos de reclutamiento, equivalente a un menor cada 20 horas (Unicef, vía El Colombiano)",
+            "International Crisis Group documenta un crecimiento de unos 100 menores reclutados en 2016 a al menos 620 en 2024, atribuido a que el Estado no ocupó los territorios que dejaron las FARC",
+            "La Defensoría del Pueblo registró 257 casos de reclutamiento forzado en 2025, frente a 651 en 2024",
+            "En 2025 el EMC fue señalado como presunto responsable del 47,1% de los casos de reclutamiento forzado, el Clan del Golfo del 8,2%",
+            "El reclutamiento se realiza mediante promesas de dinero, poder y protección, y a través de Facebook, TikTok y otras plataformas (International Crisis Group)",
+            "Tejedores de Paz denunció subregistro: reportó al menos 120 casos en Norte de Santander en 2025 frente a los 10 de la Defensoría",
+            "El cierre de USAID afectó significativamente programas de prevención financiados en comunidades vulnerables desde inicios de 2025, según ICG",
+            "Entre 2023 y 2024 el reclutamiento aumentó un 64%, con el 52% de casos en población indígena y afrodescendiente"
+          ],
+          "sources": [
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/colombia/cifras-reclutamiento-menores-colombia-aumento-2025-alerta-unicef-onu-ME31068015",
+              "note": "Cifras de Unicef y ONU: +1.200 menores reclutados 2019-2024, aumento del 300% en cinco años, 453 casos en 2024, zonas más afectadas (Cauca, Nariño, Chocó, Arauca, Norte de Santander)",
+              "host": "elcolombiano.com",
+              "title": "MÃ¡s de 1.200 menores fueron reclutados en los Ãºltimos cinco aÃ±os en Colombia, alerta Unicef y la ONU",
+              "image": "https://estaticos.elcolombiano.com/binrepository/400x319/0c0/0d0/none/11101/NDNV/cifras-reclutamiento-menores-2025_49303781_20251120133310.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://cnnespanol.cnn.com/2026/02/12/colombia/reclutamiento-menores-grupos-criminales-orix",
+              "note": "Informe de International Crisis Group: crecimiento de ~100 casos en 2016 a 620+ en 2024, causas estructurales (vacío territorial tras el acuerdo de paz), reclutamiento vía redes sociales, impacto del cierre de USAID",
+              "host": "cnnespanol.cnn.com",
+              "title": "Con promesas de riqueza y redes sociales, crece en Colombia el reclutamiento de menores por grupos armados y criminales | CNN",
+              "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1305579-topshot-colombia-election-poverty-daily-life.jpg?c=16x9&q=w_800,c_fill"
+            },
+            {
+              "ref": "",
+              "url": "https://www.elcolombiano.com/colombia/persiste-reclutamiento-forzado-menores-colombia-257-casos-2025-CO32783405",
+              "note": "Defensoría del Pueblo: 257 casos de reclutamiento forzado en 2025 vs 651 en 2024; responsables por grupo (EMC 47,1%, Clan del Golfo 8,2%) y denuncia de subregistro por Tejedores de Paz",
+              "host": "elcolombiano.com",
+              "title": "Persiste el reclutamiento forzado de menores en Colombia: 257 casos en 2025",
+              "image": "https://estaticos.elcolombiano.com/binrepository/640x427/0c-247/1200d675/none/11101/SJPM/image-2026-01-22t184004-138_49762729_20260122184442.jpg"
+            },
+            {
+              "ref": "",
+              "url": "https://indepaz.org.co/mientras-el-reclutamiento-crece-la-infancia-se-reduce-dinamicas-de-reclutamiento-de-nna-en-territorios-bajo-control-armado/",
+              "note": "Informe de Indepaz sobre reclutamiento como fenómeno multidimensional vinculado a control territorial, economías ilegales y falencias institucionales, con énfasis en Cauca",
+              "host": "indepaz.org.co",
+              "title": "Mientras el reclutamiento crece, la infancia se reduce: Dinámicas de Reclutamiento de NNA en Territorios Bajo Control Armado - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2026/01/captura-de-pantalla-2026-01-29-081150.png"
+            },
+            {
+              "ref": "",
+              "url": "https://indepaz.org.co/los-influencers-de-la-guerra-reclutamiento-a-menores-a-traves-de-redes-sociales/",
+              "note": "Investigación PACIFISTA-INDEPAZ sobre reclutamiento de menores a través de redes sociales, confirmando la modalidad digital del fenómeno",
+              "host": "indepaz.org.co",
+              "title": "Los Influencers de la Guerra: Reclutamiento a menores a través de redes sociales. - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2024/09/whatsapp-image-2024-09-24-at-93744-pm.jpeg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
