@@ -18,6 +18,11 @@ export default function ClaimCard({ claim }: { claim: Claim }) {
   const [open, setOpen] = useState(false);
   const c = colorStyle(claim.color);
 
+  const isPlainTrue = (claim.verdict || "").toLowerCase() === "verdadero";
+  const verdictText = isPlainTrue
+    ? claim.headline || "Verdadero, pero con matices"
+    : verdictLabel(claim.verdict);
+
   return (
     <article className={`overflow-hidden rounded-xl border bg-white transition-shadow hover:shadow-sm ${open ? c.border : "border-zinc-200"}`}>
       <button
@@ -32,7 +37,7 @@ export default function ClaimCard({ claim }: { claim: Claim }) {
         <div className="min-w-0 flex-1">
           <div className="mb-1 flex flex-wrap items-center gap-1.5">
             <span className={`rounded-md px-2 py-0.5 text-[11px] font-semibold leading-snug ring-1 ring-inset ${c.pill}`}>
-              {claim.headline || verdictLabel(claim.verdict)}
+              {verdictText}
             </span>
             <span className="rounded-full bg-zinc-100 px-2 py-0.5 text-[10px] font-medium text-zinc-500">
               {claim.topic}
