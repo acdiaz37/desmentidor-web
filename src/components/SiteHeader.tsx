@@ -13,7 +13,7 @@ export function Stats({ data }: { data: SiteData }) {
   const items = [
     { label: "Videos", value: data.videos.length, cls: "text-zinc-900" },
     { label: "Datos", value: counts.claims, cls: "text-zinc-900" },
-    { label: "Verdaderos", value: counts.green, cls: "text-emerald-600" },
+    { label: "Mayormente", value: counts.green, cls: "text-emerald-600" },
     { label: "A medias", value: counts.lime, cls: "text-lime-600" },
     { label: "Con matices", value: counts.orange, cls: "text-amber-600" },
     { label: "Falsos", value: counts.red, cls: "text-rose-600" },

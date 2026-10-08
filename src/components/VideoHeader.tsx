@@ -1,7 +1,7 @@
 import type { Video } from "@/lib/types";
 
 export default function VideoHeader({ video }: { video: Video }) {
-  const counts = { green: 0, orange: 0, red: 0 } as Record<string, number>;
+  const counts = { green: 0, lime: 0, orange: 0, red: 0 } as Record<string, number>;
   for (const c of video.claims) counts[c.color] += 1;
 
   return (
@@ -39,7 +39,10 @@ export default function VideoHeader({ video }: { video: Video }) {
 
         <div className="mt-auto flex flex-wrap gap-2 pt-3 text-[11px]">
           <span className="rounded-full bg-emerald-500/15 px-2 py-0.5 font-medium text-emerald-700">
-            {counts.green} verdaderos
+            {counts.green} mayormente verdaderos
+          </span>
+          <span className="rounded-full bg-lime-500/15 px-2 py-0.5 font-medium text-lime-700">
+            {counts.lime} a medias
           </span>
           <span className="rounded-full bg-amber-500/15 px-2 py-0.5 font-medium text-amber-700">
             {counts.orange} con matices
