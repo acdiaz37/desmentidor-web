@@ -27,6 +27,7 @@ export default function Home() {
         <p>
           Cada dato se contrasta con fuentes verificables y se clasifica en{" "}
           <span className="font-medium text-emerald-600">verdadero</span>,{" "}
+          <span className="font-medium text-lime-600">verdadero, pero le falta contexto</span>,{" "}
           <span className="font-medium text-amber-600">con matices / exagerado</span> o{" "}
           <span className="font-medium text-rose-600">falso</span>. Un dato puede ser cierto y aun
           así estar fuera de contexto: lo ponemos en su justa medida.

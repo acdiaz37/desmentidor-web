@@ -33,6 +33,13 @@ export const COLOR_STYLE: Record<VerdictColor, ColorStyle> = {
     text: "text-emerald-700",
     soft: "bg-emerald-50",
   },
+  lime: {
+    dot: "bg-lime-500",
+    pill: "bg-lime-500/15 text-lime-700 ring-lime-600/25",
+    border: "border-lime-500/30",
+    text: "text-lime-700",
+    soft: "bg-lime-50",
+  },
   orange: {
     dot: "bg-amber-500",
     pill: "bg-amber-500/15 text-amber-700 ring-amber-600/25",

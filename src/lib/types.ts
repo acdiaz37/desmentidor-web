@@ -1,4 +1,4 @@
-export type VerdictColor = "green" | "orange" | "red";
+export type VerdictColor = "green" | "lime" | "orange" | "red";
 
 export interface SourceLink {
   ref: string;

@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { SiteData } from "@/lib/types";
 
 export function Stats({ data }: { data: SiteData }) {
-  const counts = { green: 0, orange: 0, red: 0, claims: 0 };
+  const counts = { green: 0, lime: 0, orange: 0, red: 0, claims: 0 };
   for (const v of data.videos) {
     for (const c of v.claims) {
       counts[c.color] += 1;
@@ -14,6 +14,7 @@ export function Stats({ data }: { data: SiteData }) {
     { label: "Videos", value: data.videos.length, cls: "text-zinc-900" },
     { label: "Datos", value: counts.claims, cls: "text-zinc-900" },
     { label: "Verdaderos", value: counts.green, cls: "text-emerald-600" },
+    { label: "A medias", value: counts.lime, cls: "text-lime-600" },
     { label: "Con matices", value: counts.orange, cls: "text-amber-600" },
     { label: "Falsos", value: counts.red, cls: "text-rose-600" },
   ];
