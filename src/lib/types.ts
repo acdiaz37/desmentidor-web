@@ -16,6 +16,7 @@ export interface Claim {
   quote: string;
   figures: string[];
   verdict: string;
+  headline: string;
   color: VerdictColor;
   confidence: string;
   summary: string;

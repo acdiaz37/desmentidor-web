@@ -31,8 +31,8 @@ export default function ClaimCard({ claim }: { claim: Claim }) {
 
         <div className="min-w-0 flex-1">
           <div className="mb-1 flex flex-wrap items-center gap-1.5">
-            <span className={`rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide ring-1 ring-inset ${c.pill}`}>
-              {verdictLabel(claim.verdict)}
+            <span className={`rounded-md px-2 py-0.5 text-[11px] font-semibold leading-snug ring-1 ring-inset ${c.pill}`}>
+              {claim.headline || verdictLabel(claim.verdict)}
             </span>
             <span className="rounded-full bg-zinc-100 px-2 py-0.5 text-[10px] font-medium text-zinc-500">
               {claim.topic}
