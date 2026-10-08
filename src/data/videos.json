@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T19:47:38",
+  "generatedAt": "2026-10-07T20:17:40",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -910,192 +910,198 @@
         {
           "id": 1,
           "topic": "seguridad",
-          "claim": "Existen criterios generales de buen trato, incluido garantizar comida a las personas retenidas, incluso cuando no había comida suficiente para los propios captores.",
+          "claim": "Timochenko sostiene ante la JEP que existían criterios generales de buen trato, buena comida e incluso que, si no había comida para uno, se debía garantizar la comida para el retenido.",
           "quote": "no hay unos criterios generales de buen trato de buen trato buena comida incluso si no había comida para uno para el para el que estaba ahí retenido se debía garantizar la comida",
           "figures": [],
-          "verdict": "mayormente_verdadero",
+          "verdict": "verdadero",
           "color": "green",
-          "confidence": "media",
-          "summary": "El núcleo de la afirmación es correcto y está respaldado: en Colombia existe un marco legal de buen trato que garantiza la alimentación de las personas privadas de la libertad como derecho incondicionado, incluso de manera explícita prohibida como sanción disciplinaria [F3][F5]. Sin embargo, la cláusula más llamativa del video —'incluso cuando no había comida suficiente para los propios captores'— no aparece en ninguna de las fuentes entregadas, por lo que esa parte queda sin verificación [F3][F5]. Nota metodológica: las fuentes son heterogéneas y solo parcialmente pertinentes; [F2] no aporta contenido verificable (solo repetición de nombres de autoras), y [F1] corresponde a un caso de detenciones en México, no a Colombia.",
-          "context": "El estándar invocado no es nuevo ni propio de un solo gobierno: la Ley 65 de 1993 (Código Penitenciario y Carcelario) establece en su artículo 64 que el Inpec y la Uspec deben dotar los dormitorios con las condiciones necesarias para el descanso, y en su artículo 67 que 'está prohibida la suspensión o limitación de la alimentación como medida disciplinaria', lo que significa que la alimentación es un derecho que no puede condicionarse ni retirarse [F3]. Esa norma lleva vigente 29 años, atravesando los gobiernos de Gaviria, Uribe, Santos, Duque y Petro [F3]. En el ámbito de víctimas del conflicto armado, la atención humanitaria inmediata y el derecho a la 'subsistencia mínima' como expresión del mínimo vital se sistematizaron con base en la Ley 1448 de 2011 y los decretos-ley 4633 y 4635 de 2011, es decir, marco normativo del gobierno Santos [F5]. En el campo de los derechos de las personas detenidas en protestas, la exigencia de garantizar 'la integridad física y psicológica de las personas detenidas' y el respeto a sus derechos fundamentales fue formulada por la UAM en un caso de detenciones durante las protestas del Mundial 2026 en la Ciudad de México [F1]. Existe además un balance comparado de protección a la población civil durante el gobierno Petro (2022-2026) frente a Santos y Duque publicado por Indepaz, herramienta que habría que usar para cualquier comparación histórica seria [F4].",
-          "progressivePerspective": "La afirmación, lejos de ser un señalamiento contra el gobierno Petro, describe una norma que existe desde hace casi tres décadas: el artículo 67 de la Ley 65 de 1993 prohíbe suspender o limitar la alimentación como medida disciplinaria, y el artículo 64 obliga a garantizar condiciones de descanso, derechos vigentes de forma idéntica bajo Uribe, Santos, Duque y Petro [F3]. El propio verificador La Silla Vacía descartó como falso el relato viral de que en Colombia las personas privadas de la libertad deben trabajar para 'ganar' su alimentación y descanso: esas imágenes fueron creadas con inteligencia artificial y, según el artículo 67, la alimentación y el descanso son derechos que no se pueden quitar como medida disciplinaria [F3]. Del mismo modo, el estándar humanitario de garantizar la ayuda inmediata y la subsistencia mínima de las víctimas del conflicto proviene de la Ley 1448 de 2011, del gobierno Santos, no de una política reciente [F5]. En cuanto a la comparación con administraciones anteriores, Indepaz publicó precisamente un 'balance de protección a la población civil durante el gobierno de Gustavo Petro (2022-2026) comparación con los gobiernos de Juan Manuel Santos e Iván Duque', de modo que cualquier juicio de tendencia debe apoyarse en ese tipo de series y no en la anécdota [F4].",
-          "whatTheyOmit": "Omite que la norma que garantiza la comida a las personas retenidas es de 1993 y no una creación ni una falla exclusiva del gobierno Petro: el artículo 67 de la Ley 65 de 1993 prohíbe suspender o limitar la alimentación como medida disciplinaria, y el artículo 64 obliga a garantizar condiciones de descanso [F3]. Omite el resultado del fact-check que desmintió la narrativa de que la alimentación quedó condicionada al trabajo, señalando que las imágenes circulantes eran generadas con inteligencia artificial y que la alimentación y el descanso son derechos [F3]. Omite que la garantía de ayuda humanitaria inmediata y de la subsistencia mínima ya estaba en la Ley 1448 de 2011 y en los decretos-ley 4633 y 4635 de 2011 [F5]. Y omite, finalmente, que la cláusula de 'no haber comida para los propios captores' no tiene respaldo en ninguna fuente entregada: es una exageración no verificable con el material disponible [F3][F5].",
+          "confidence": "alta",
+          "summary": "Es correcto que Timochenko (Rodrigo Londoño) sostuvo ante la JEP, en una audiencia del 14 de febrero de 2019 presidida por la magistrada Julieta Lemaitre, que existían \"criterios unitarios de buen trato, buena comida\" y que, si no había comida, se debía garantizar la del retenido. La cita es esencialmente fiel a lo registrado en la grabación revelada por la senadora María Clara Posada [F2][F3][F4][F5]. Lo que sí es falso —y el video no lo aclara— es que esa versión sea cierta: la propia JEP estableció en el Caso 01 que esa norma de \"buen trato\" nunca se cumplió en la práctica [F2][F3][F4][F5].",
+          "context": "La declaración corresponde a una audiencia reservada de la JEP del 14/feb/2019, revelada públicamente por la senadora María Clara Posada (Centro Democrático) en octubre de 2026 [F2][F3][F4]. La JEP imputó en el Caso 01 crímenes de guerra y de lesa humanidad a 63 exintegrantes de las FARC-EP, incluidos los 7 exmiembros del Secretariado (entre ellos Londoño), por toma de rehenes, secuestro, tortura, trato cruel, homicidio, desaparición forzada, desplazamiento forzado y violencia sexual [F3][F4][F5]. La política de secuestro dejó 21 mil víctimas [F2]. Los exintegrantes del Secretariado reconocieron su responsabilidad en los secuestros \"y otros crímenes que cometieron en los contextos del cautiverio, incluido el crimen de tortura\" a mediados de 2022 y cumplen sanciones propias de hasta 8 años (búsqueda de cuerpos de desaparecidos en Pitalito, construcción de memoria) [F2][F3]. Víctimas como el mayor general Luis Herlindo Mendieta (12 años de cautiverio) y el coronel Enrique Blanco rechazaron la declaración, describiendo cadenas, llagas, hambre y tortura [F5].",
+          "progressivePerspective": "Este caso ilustra con claridad la tensión entre verdad y versión del perpetrador en la justicia transicional. Timochenko es el PERPETRADOR del secuestro, no una fuente neutral: su declaración ante la JEP forma parte del proceso de rendición de cuentas, pero no equivale a un hallazgo judicial. La JEP precisó que la existencia de una norma interna de \"buen trato\" no fue cumplida y que los secuestrados \"quedaron a merced de la guardia\", sometidos a \"todo tipo de vejámenes y de crímenes\" [F2][F3][F4][F5]. En términos de los cuatro pilares: (1) VERDAD — la declaración, si se presenta sin la respuesta de la JEP, distorsiona la verdad y sirve a la relativización; el pilar de verdad se cumple cuando el tribunal contrasta la versión del victimario con pruebas periciales y testimonios, como ocurrió [F3][F5]; (2) JUSTICIA — no hay impunidad: hay imputación a 63 personas, sentencia y sanciones propias con restricción efectiva de libertades [F3][F4][F2]; (3) REPARACIÓN — la sanción incluye líneas restaurativas de búsqueda de desaparecidos y memoria para víctimas [F2][F3]; (4) NO REPETICIÓN — difundir la frase de Timochenko sin contexto revictimiza (como lo expresaron Mendieta y Blanco: \"una cachetada a nuestro cautiverio\" [F5]) y trivializa el crimen. Un uso responsable del dato debe mostrar tanto la declaración como la refutación judicial documentada.",
+          "whatTheyOmit": "La afirmación aislada omite el dato central: la JEP concluyó que esa directriz de \"buen trato\" NUNCA se cumplió en la práctica y que los secuestrados sufrieron tortura, vejámenes, homicidios y violencia sexual [F2][F3][F4][F5]. También omite que Timochenko y el Secretariado reconocieron su responsabilidad penal por los secuestros y la tortura, que fueron condenados/sancionados, y que cumplen sanciones propias de hasta 8 años [F2][F3]. Omite las víctimas: 21 mil secuestrados y el testimonio de oficiales como Mendieta y Blanco [F2][F5]. Si el video presenta la frase como prueba de \"buenismo\" o cinismo de la JEP, distorsiona: fue la propia JEP la que rechazó públicamente la versión y documentó los crímenes por primera vez [F3][F4][F5].",
           "keyFacts": [
-            "El artículo 67 de la Ley 65 de 1993 establece que 'está prohibida la suspensión o limitación de la alimentación como medida disciplinaria' en los centros penitenciarios colombianos [F3]",
-            "El artículo 64 de la misma ley obliga al Inpec y a la Uspec a dotar los dormitorios con las condiciones necesarias para el descanso, y la alimentación y el descanso son derechos que no se pueden quitar como medida disciplinaria [F3]",
-            "La exigencia de garantizar 'la integridad física y psicológica de las personas detenidas' y el respeto pleno de sus derechos fundamentales fue formulada por la UAM ante detenciones de estudiantes durante protestas [F1]",
-            "La atención humanitaria inmediata a víctimas del conflicto armado y el derecho a la subsistencia mínima se sistematizan en el marco de la Ley 1448 de 2011 y los decretos-ley 4633 y 4635 de 2011 [F5]",
-            "El Detector de La Silla Vacía calificó como falso el rumor de que las personas privadas de la libertad deben trabajar para ganar su alimentación y descanso, y detectó que las imágenes asociadas fueron creadas con inteligencia artificial [F3]",
-            "El trabajo comunitario en cárceles (proyecto 'Buena Esa', Inpec, desde junio de 2025) sirve para redimir la pena conforme a los artículos 79, 82 y 99 de la Ley 65 de 1993 y no condiciona la alimentación [F3]",
-            "Ninguna de las fuentes entregadas respalda la cláusula específica de que se debía garantizar la comida a los retenidos 'incluso cuando no había comida suficiente para los propios captores' [F3][F5]"
+            "Timochenko declaró ante la JEP el 14/feb/2019 que había \"criterios unitarios de buen trato, buena comida\" y que, si no había comida, se debía garantizar la del retenido; también afirmó \"tortura no, jamás\" [F2][F3][F4][F5]",
+            "La grabación de esa audiencia reservada fue revelada por la senadora María Clara Posada en octubre de 2026 [F2][F3][F4]",
+            "La JEP respondió que, aunque existía una norma interna de \"buen trato\", esta NO se cumplió: los secuestrados \"quedaron a merced de la guardia\" y fueron sometidos a \"todo tipo de vejámenes y de crímenes\" [F2][F3][F4][F5]",
+            "La Sala de Reconocimiento imputó crímenes de guerra y de lesa humanidad a 63 exintegrantes de las FARC-EP, incluidos los 7 del Secretariado, por secuestro, tortura, homicidio, desaparición forzada, desplazamiento y violencia sexual [F3][F4]",
+            "Los exintegrantes del Secretariado reconocieron su responsabilidad en los secuestros y en otros crímenes del cautiverio, incluida la tortura [F3]",
+            "Cumplen sanciones propias de hasta 8 años: búsqueda de desaparecidos en el cementerio de Pitalito y construcción de memoria para las víctimas [F2][F3]",
+            "La política de secuestro de las FARC dejó 21 mil víctimas [F2]",
+            "Víctimas como el mayor general Mendieta (12 años de cautiverio) y el coronel Blanco rechazaron la declaración de Timochenko [F5]"
           ],
           "sources": [
             {
               "ref": "F1",
-              "url": "https://fueradelugar.desinformemonos.org/uam-exige-proteccion-para-estudiantes-detenidos-durante-protestas-del-mundial/",
-              "note": "Exige garantizar la integridad física y psicológica de personas detenidas en protestas (caso México, Mundial 2026); aporta el estándar general de buen trato a detenidos, no datos colombianos.",
-              "host": "fueradelugar.desinformemonos.org",
-              "title": "UAM exige protección para estudiantes detenidos durante protestas del Mundial",
-              "image": ""
+              "url": "https://razonpublica.com/las-preocupaciones-las-victimas-la-jep/",
+              "note": "Contexto general sobre preocupaciones de víctimas y macrocasos de la JEP, incluido el macrocaso de crímenes de las FARC-EP. No menciona la declaración de Timochenko.",
+              "host": "razonpublica.com",
+              "title": "Las preocupaciones de las víctimas sobre la JEP | Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2022/04/victimas-conflicto-armado-JEP-pregunta-victimas-Helber-Noguera-Alberto-Yepes.jpg"
             },
             {
               "ref": "F2",
-              "url": "https://razonpublica.com/que-ha-cambiado-en-las-farc-del-caguan-a-hoy/",
-              "note": "Aporte nulo: el contenido extraído es únicamente la repetición de nombres de autoras, sin texto verificable sobre buen trato o alimentación de retenidos.",
-              "host": "razonpublica.com",
-              "title": "¿Qué ha cambiado en las FARC del Caguán a hoy? - Razón Pública",
-              "image": ""
+              "url": "https://www.lasillavacia.com/en-vivo/rodrigo-londono-dijo-a-la-jep-en-2019-que-hubo-buen-trato-a-secuestrados/",
+              "note": "Confirma la declaración de 2019, la revelación por Posada, la respuesta de la JEP (directriz no cumplida), la condena al Secretariado, las sanciones propias y las 21 mil víctimas del secuestro.",
+              "host": "lasillavacia.com",
+              "title": "Rodrigo Londoño dijo a la JEP en 2019 que hubo buen trato a secuestrados",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Rodrigo-Londono.jpg"
             },
             {
               "ref": "F3",
-              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-abelardo-no-ordeno-trabajo-en-carceles-por-comida-y-descanso/",
-              "note": "Fuente central: cita los artículos 64, 67, 79, 82 y 99 de la Ley 65 de 1993 (alimentación y descanso como derecho, prohibición de condicionarlos), desmiente la narrativa de comida por trabajo, detecta imágenes con IA y describe el marco penitenciario bajo Petro y el gobierno posterior.",
-              "host": "lasillavacia.com",
-              "title": "Detector: Abelardo no ordenó trabajo en cárceles por comida y descanso",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/abelardo_de_la_espriella_armas_porte.jpg"
+              "url": "https://www.semana.com/nacion/articulo/la-jep-reacciono-a-las-polemicas-declaraciones-de-timochenko-en-que-justifico-los-secuestros-durante-el-conflicto-armado/202637/",
+              "note": "Cita textual completa de la declaración, respuesta detallada de la JEP, imputación a 63 exintegrantes y reconocimiento de responsabilidad por tortura.",
+              "host": "semana.com",
+              "title": "La JEP reaccionó a las polémicas declaraciones de Timochenko en las que justificó los secuestros durante el conflicto armado",
+              "image": "https://www.semana.com/resizer/v2/B3UMASVRCREDHBSOZAYP5HECUU.jpg?auth=e91dfdae55ca7f667ac0b0476c8ad26f57373f2d0d82fcc17848a3cbeecfe376&smart=true&quality=75&width=1280&height=720"
             },
             {
               "ref": "F4",
-              "url": "https://indepaz.org.co/category/informes/",
-              "note": "Útil como antecedente del contraste solicitado: existe un balance comparado de protección a la población civil de Petro (2022-2026) frente a Santos y Duque; el extracto no contiene cifras, por lo que no permite comparaciones numéricas.",
-              "host": "indepaz.org.co",
-              "title": "Informes - Indepaz",
-              "image": "https://indepaz.org.co/wp-content/uploads/2026/04/indepaz-banner-redes.png"
+              "url": "https://caracol.com.co/2026/10/05/jep-responde-a-cuestionamientos-por-declaracion-de-timochenko-sobre-trato-a-secuestrados/",
+              "note": "Corrobora fecha y contenido de la declaración y la conclusión de la JEP: existía la directriz pero no se cumplió en la práctica.",
+              "host": "caracol.com.co",
+              "title": "JEP responde a cuestionamientos por declaración de Timochenko sobre trato a secuestrados",
+              "image": "https://caracol.com.co/resizer/v2/CN5QWDQS2NEDXDR7GS2GRWA46Q.jpg?auth=d6220c0627d39d8cdcd54d4d3c229d9f46397efe60df04186759260701caa8b8&quality=70&width=1200&height=675&smart=true"
             },
             {
               "ref": "F5",
-              "url": "https://www.unidadvictimas.gov.co/documentos_bibliotec/buenas-practicas-y-lecciones-aprendidas-en-la-atencion-y-ayuda-humanitaria-inmediata-a-victimas-del-conflicto-armado/",
-              "note": "Aporta el marco de ayuda humanitaria inmediata y derecho a la subsistencia mínima/mínimo vital bajo la Ley 1448 de 2011 y decretos 4633/4635 de 2011 (gobierno Santos), es decir, precedente normativo anterior a Petro.",
-              "host": "unidadvictimas.gov.co",
-              "title": "Buenas prácticas y lecciones aprendidas en la Atención y Ayuda Humanitaria Inmediata a víctimas del conflicto armado | Unidad para las Víctimas",
-              "image": "https://www.unidadvictimas.gov.co/wp-content/uploads/2024/10/48.1-1.png"
+              "url": "https://www.infobae.com/colombia/2026/10/06/secuestrados-por-las-farc-rechazaron-las-declaraciones-de-un-buen-trato-que-hizo-timochenko-sobre-los-cautiverios-mi-dolor-supera-todo/",
+              "note": "Reacción de víctimas concretas (Mendieta, Blanco), descripción de padecimientos reales y explicación de que la JEP basó sus hallazgos en pruebas periciales y testimonios, no en los relatos de los excomandantes.",
+              "host": "infobae.com",
+              "title": "Secuestrados por las Farc rechazaron las declaraciones de un “buen trato” que hizo ‘Timochenko’ sobre los cautiverios: “Mi dolor supera todo”",
+              "image": "https://www.infobae.com/resizer/v2/OTXPTFW2QRFJPMWZVBUAO3HVX4.png?auth=87d1ec5b705c9ee04c216b3566ce5f1c28e0718ffb5ff5b824db6c5769d59df4&smart=true&width=1200&height=630&quality=85"
             }
           ]
         },
         {
           "id": 2,
           "topic": "seguridad",
-          "claim": "Según el hablante, la JEP estableció que no se podía torturar a los retenidos.",
-          "quote": "o sea que no se podía torturar o no no no no menos la tortura no jamás",
+          "claim": "Timochenko afirmó ante la JEP que a los retenidos no se les podía torturar.",
+          "quote": "o sea que no se podía torturar o no no no no menos la tortura no jamás es que ni ni internamente eso lo está diciendo ante la JEP",
           "figures": [],
-          "verdict": "mayormente_verdadero",
+          "verdict": "verdadero",
           "color": "green",
-          "confidence": "media",
-          "summary": "La afirmación es esencialmente cierta pero trivial: la JEP efectivamente aplica el Derecho Internacional Humanitario, que prohíbe la tortura, y la ha usado para sancionar e imputar ese delito. El problema no es la veracidad sino el tono sarcástico con que se presenta, como si 'prohibir la tortura' fuera algo ridículo o novedoso que la JEP se hubiera inventado; en realidad la prohibición viene del DIH y la JEP la ha aplicado contra todas las partes del conflicto, guerrilla y fuerza pública [F2][F4][F5].",
-          "context": "La JEP ha investigado la tortura cometida por ambos bandos. En el Caso 01 (secuestros de las FARC) imputó crímenes de guerra y de lesa humanidad a 63 máximos responsables del secretariado y mandos medios, incluidos tortura, tratos crueles, esclavitud y violencia sexual; la JEP señaló que estos delitos fueron cometidos por las FARC y que la justicia ordinaria 'no había procesado anteriormente' conductas como tortura, esclavitud y violencia sexual [F4]. En el Caso 03 imputó a 27 excomandantes de los bloques Oriental y Sur por, entre otros, tortura y violencia sexual, con 2.436 víctimas acreditadas [F5]. Del lado estatal, la JEP sancionó a 12 integrantes del Batallón 'La Popa' por 135 asesinatos y desapariciones forzadas presentadas como bajas en combate, con sanciones propias de hasta 8 años [F2]. La primera sentencia de la JEP, contra 7 excomandantes del Secretariado de las FARC por toma de rehenes y graves privaciones de la libertad, contempla sanciones restaurativas de máximo 8 años [F1].",
-          "progressivePerspective": "El sarcasmo del hablante oculta que la JEP ha sido precisamente el mecanismo que juzgó la tortura que la justicia ordinaria dejó en la impunidad. Según la propia JEP, delitos como 'tortura, tratos crueles e inhumanos, esclavitud e incluso violencia sexual' cometidos por las FARC 'no había procesado' la justicia ordinaria con anterioridad [F4]: es decir, bajo los gobiernos previos (Uribe, Santos, Duque) esos crímenes no fueron procesados y la JEP es quien los saca a la luz. En el Caso 03, la JEP documentó un 'patrón macrocriminal sistemático y con lógica institucional' del Batallón 'La Popa' —135 civiles asesinados entre enero de 2002 y julio de 2005, período coincide con gobiernos anteriores— y estableció que los crímenes 'no fueron excesos individuales', sino un plan para engrosar estadísticas de éxito militar [F2]. Del lado guerrillero, la JEP imputó por tortura a Timochenko, Carlos Antonio Lozada, Mauricio Jaramillo y Joaquín Gómez, entre otros 27, y documentó 54 casos de tortura solo en el Bloque Sur, 37 de violencia sexual sobre 398 víctimas directas, y 185 personas aún desaparecidas [F4][F5]. En suma, lejos de ser motivo de burla, que la JEP 'establezca que no se podía torturar' significa que está juzgando crímenes que antes no se juzgaban, con sanciones reales y vigilancia de la ONU [F2].",
-          "whatTheyOmit": "Omite (1) que la prohibición de la tortura no la creó la JEP sino que emana del DIH y de los Convenios de Ginebra, por lo que presentarlo como una 'regla' curiosa de la JEP es impreciso; (2) que la JEP ha sancionado e imputado por tortura a actores de todos los bandos: 12 militares por 135 homicidios y desapariciones [F2], y decenas de exjefes de las FARC por tortura, esclavitud y violencia sexual [F4][F5]; (3) que la justicia ordinaria anterior no había procesado crímenes como tortura y violencia sexual de las FARC [F4], lo cual desmiente la idea de impunidad selectiva; y (4) que las sanciones de la JEP sí existen y son máximas de 8 años con vigilancia del Mecanismo de Monitoreo y Verificación y la Misión de la ONU [F1][F2]. Nota: la fuente [F3] no pudo cargarse (bloqueo de Scribd), por lo que no aporta evidencia verificable.",
+          "confidence": "alta",
+          "summary": "Es cierto que Timochenko afirmó ante la JEP, en diligencia del 14 de febrero de 2019, que a los retenidos no se les podía torturar (\"tortura no, jamás, es que ni internamente\"); la cita está documentada por la JEP y reproducida por medios [F2][F4]. Sin embargo, esa afirmación del perpetrador fue desmentida por la propia Sala de Reconocimiento de Verdad de la JEP, que estableció que la directriz de \"buen trato\" no se cumplió en la práctica y que las víctimas fueron sometidas a tortura, tratos crueles, violencia sexual, homicidio y desaparición forzada [F2][F4][F5].",
+          "context": "La declaración se produjo en el marco del Caso 01 (toma de rehenes y graves privaciones de la libertad de las FARC-EP), ante la magistrada Julieta Lemaitre, y fue difundida públicamente por la senadora María Clara Posada [F4]. La JEP imputó crímenes de guerra y de lesa humanidad a 63 exintegrantes de las FARC-EP —entre ellos los 7 del Secretariado, incluido Timochenko— por toma de rehenes y delitos concurrentes como tortura, trato cruel, homicidio, desaparición forzada y violencia sexual [F2][F4]. La JEP condenó al último Secretariado a la \"máxima sanción propia\" de hasta 8 años, con siete líneas restaurativas que incluyen búsqueda de personas desaparecidas (actualmente en el cementerio de Pitalito, Huila), acción contra minas, medio ambiente y reparación simbólica [F2][F3]. Además, el Caso 01 abarca más de 21.000 secuestros y la JEP ordenó revisar la inclusión de 2.721 víctimas en los registros de la Unidad para las Víctimas [F3], y exigió información sobre 185 personas aún desaparecidas [F5]. A mediados de 2022 los últimos exintegrantes del Secretariado reconocieron su responsabilidad en los secuestros \"y otros crímenes... incluido el crimen de tortura\" [F2].",
+          "progressivePerspective": "La cita es auténtica, pero quién la dice importa: Timochenko es el perpetrador, no una fuente neutral, y su versión de \"buen trato\" y \"nunca tortura\" constituye una minimización de los crímenes que la propia jurisdicción de justicia transicional desmentió con pruebas [F2][F4][F5]. En términos de los cuatro pilares de la JEP, este episodio ilustra una tensión real: la VERDAD exige que el perpetrador reconozca lo que hizo —y aquí Timochenko no lo hizo en 2019, aunque el Secretariado luego reconoció tortura en 2022— [F2]; la JUSTICIA operó al imputar y condenar a los máximos responsables con sanciones propias efectivas (8 años de trabajo restaurativo), no con impunidad [F2][F3]; la REPARACIÓN está en ejecución vía las líneas restaurativas y la búsqueda de desaparecidos [F2][F3]; y la NO REPETICION se refuerza cuando se establece que la norma interna de \"buen trato\" fue letra muerta y no impidió crímenes sistemáticos [F2][F4]. Lo que sí resulta cuestionable es el uso del video: al presentar la frase de Timochenko para acusar a la JEP de \"buenista\" o \"cínica\", se confunde la declaración del victimario con la decisión judicial, cuando fue precisamente la JEP la que documentó, por primera vez según ella misma, los crímenes adicionales y sancionó a los responsables [F2][F4][F5]. Críticas como la de la senadora Posada, que tildó la declaración de \"cinismo y burla a las víctimas\", se dirigen legítimamente al perpetrador, no al tribunal [F4].",
+          "whatTheyOmit": "El video omite que la JEP no se limitó a escuchar la versión de Timochenko: la Sala de Reconocimiento de Verdad concluyó que la directriz de \"buen trato\" no se cumplió, que los secuestrados quedaron \"a merced de la guardia\", y les imputó tortura, tratos crueles, homicidio, desaparición forzada y violencia sexual [F2][F4]. Omite que el Secretariado reconoció en 2022 su responsabilidad, incluido el crimen de tortura [F2], y que fue condenado a la máxima sanción propia, cumpliendo actualmente la búsqueda de desaparecidos en Pitalito [F2][F3]. Omite la magnitud: más de 21.000 secuestros, 63 máximos responsables imputados, 185 desaparecidos aún sin localizar y hallazgos sobre esclavitud y violencia sexual [F3][F5]. También omite que el régimen sancionatorio de la JEP no es \"pagar la pena en La Habana\" ni impunidad: es justicia restaurativa con restricción efectiva de libertades por hasta 8 años y posible pasaje a juicio adversarial con hasta 20 años de cárcel si niegan responsabilidad [F2][F5].",
           "keyFacts": [
-            "La JEP imputó crímenes de guerra y de lesa humanidad —incluida la tortura— a 22 exjefes de los bloques Oriental y Sur de las FARC por delitos que la justicia ordinaria 'no había procesado anteriormente', como tortura, esclavitud y violencia sexual [F4]",
-            "En agosto de 2026 la JEP imputó a 27 excomandantes de las FARC (incluidos Timochenko, Carlos Antonio Lozado, Mauricio Jaramillo y Joaquín Gómez) por, entre otros, tortura y violencia sexual, con 2.436 víctimas acreditadas [F5]",
-            "La JEP sancionó a 12 integrantes del Batallón 'La Popa' con la sanción propia máxima de 8 años por 135 asesinatos y desapariciones forzadas presentadas como bajas en combate entre 2002 y 2005, hechos que 'no fueron excesos individuales' sino un plan sistemático con lógica institucional [F2]",
-            "La primera sentencia de la JEP condenó a 7 excomandantes del Secretariado de las FARC por toma de rehenes y graves privaciones de la libertad, con sanciones restaurativas de máximo 8 años y vigilancia de la JEP y la ONU [F1]",
-            "El fallo de la primera sentencia abarcó al menos 59 condenas preexistentes de la justicia ordinaria [F1]"
+            "Timochenko afirmó el 14 de febrero de 2019 ante la JEP, en diligencia presidida por la magistrada Julieta Lemaitre: \"Había criterios unitarios de buen trato... tortura no, jamás, es que ni internamente\" [F4]",
+            "La cita fue difundida públicamente por la senadora María Clara Posada, quien la calificó de \"cinismo y burla a las víctimas\" [F2][F4]",
+            "La Sala de Reconocimiento de Verdad de la JEP estableció que existía una norma de \"buen trato\" pero que en la práctica no se cumplió y los secuestrados quedaron a merced de la guardia [F2][F4]",
+            "La JEP imputó a 63 exintegrantes de las FARC-EP —entre ellos los 7 del Secretariado— crímenes de guerra y de lesa humanidad: toma de rehenes, tortura, trato cruel, homicidio, desaparición forzada, desplazamiento forzado y violencia sexual [F2][F4]",
+            "A mediados de 2022 los últimos exintegrantes del Secretariado reconocieron su responsabilidad en los secuestros y otros crímenes, incluido el crimen de tortura [F2]",
+            "El último Secretariado fue condenado a la máxima sanción propia: hasta 8 años en siete líneas restaurativas, incluida la búsqueda de personas desaparecidas en el cementerio de Pitalito (Huila) [F2][F3]",
+            "El Caso 01 abarca más de 21.000 secuestros de las FARC-EP y la JEP ordenó revisar la inclusión de 2.721 víctimas en los registros de la Unidad para las Víctimas [F3]",
+            "La JEP exigió a los exjefes información sobre 185 personas desaparecidas tras ser secuestradas [F5]",
+            "Si los comparecientes niegan su responsabilidad, el caso pasa a la Unidad de Investigación y Acusación (UIA), donde enfrentarán juicio adversarial con penas de hasta 20 años de cárcel [F5]"
           ],
           "sources": [
             {
               "ref": "F1",
-              "url": "https://razonpublica.com/la-primera-sentencia-la-jep-algunas-preguntas-lo-viene/",
-              "note": "Analítica de la primera sentencia de la JEP (7 excomandantes FARC): sanciones restaurativas de máximo 8 años, vigilancia con dispositivos electrónicos y ONU; aporta el marco de sanciones y sus límites.",
+              "url": "https://razonpublica.com/el-camino-de-la-paz-los-discursos-de-santos-y-timochenko/",
+              "note": "Análisis de los discursos de Santos y Timochenko en 2012 sobre el inicio de paz; aporta contexto sobre el estilo y las omisiones del discurso de Timochenko, pero no contiene información sobre la declaración ante la JEP.",
               "host": "razonpublica.com",
-              "title": "La primera sentencia de la JEP: algunas preguntas para lo que viene",
-              "image": "https://razonpublica.com/wp-content/uploads/2025/09/Sentencia_JEP.jpg"
+              "title": "El camino de la Paz: Los discursos de Santos y Timochenko - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2012/09/Adolfo_Atehortua_paz_Razonpublica.jpg"
             },
             {
               "ref": "F2",
-              "url": "https://www.jep.gov.co/Sala-de-Prensa/Paginas/-jep-emite-primera-sentencia-por-asesinatos-y-desapariciones-forzadas-ilegitimamente-presentadas-como-bajas-en-combate-en-l.aspx",
-              "note": "Comunicado oficial de la JEP: primera sentencia del Caso 03, 12 agentes del Estado sancionados con 8 años por 135 homicidios, patrón sistemático con lógica institucional; contraste de que la JEP también juzga crímenes estatales de 2002-2005.",
-              "host": "jep.gov.co",
-              "title": "JEP emite primera sentencia por asesinatos y desapariciones forzadas ilegítimamente presentadas como bajas en combate en la Costa Caribe. Entre 5 a 8 años de Sanciones Propias para 12 exintegrantes del Batallón ‘La Popa’",
-              "image": "https://www.jep.gov.co/Sala-de-Prensa/PublishingImages/2025/cover180925.jpg"
+              "url": "https://www.semana.com/nacion/articulo/la-jep-reacciono-a-las-polemicas-declaraciones-de-timochenko-en-que-justifico-los-secuestros-durante-el-conflicto-armado/202637/",
+              "note": "Reproduce la cita textual de Timochenko y la respuesta de la JEP: la norma de buen trato no se cumplió; imputación de 63 exintegrantes; reconocimiento de tortura en 2022; sanción de 8 años de líneas restaurativas. Fuente central para verificar y contextualizar.",
+              "host": "semana.com",
+              "title": "La JEP reaccionó a las polémicas declaraciones de Timochenko en las que justificó los secuestros durante el conflicto armado",
+              "image": "https://www.semana.com/resizer/v2/B3UMASVRCREDHBSOZAYP5HECUU.jpg?auth=e91dfdae55ca7f667ac0b0476c8ad26f57373f2d0d82fcc17848a3cbeecfe376&smart=true&quality=75&width=1280&height=720"
             },
             {
               "ref": "F3",
-              "url": "https://es.scribd.com/document/977135180/Sentencia-TP-SAR-001-17-Diciembre-2025",
-              "note": "No verificable: el sitio Scribd bloqueó el acceso (JavaScript deshabilitado); no aporta evidencia utilizable.",
-              "host": "es.scribd.com",
-              "title": "Client Challenge",
-              "image": ""
+              "url": "https://www.jep.gov.co/macrocasos/caso01.html",
+              "note": "Página oficial del Caso 01: más de 21.000 secuestros, condena al último Secretariado a la máxima sanción propia, imputaciones regionales, reconocimientos públicos de responsabilidad y revisión de 2.721 víctimas. Fuente primaria de la JEP.",
+              "host": "jep.gov.co",
+              "title": "Caso 01: Toma de rehenes, graves privaciones de la libertad y otros crÃmenes concurrentes cometidos por las Farc-EP",
+              "image": "https://www.jep.gov.co/macrocasos/pictures/caso01/card01.jpg"
             },
             {
               "ref": "F4",
-              "url": "https://laopinion.co/colombia/jep-imputa-22-exjefes-de-farc-por-secuestro-tortura-y-esclavitud",
-              "note": "Imputación por tortura, esclavitud y violencia sexual a 22 exjefes de las FARC (Caso 01); clave para el contraste: la justicia ordinaria previa no había procesado estos delitos.",
-              "host": "laopinion.co",
-              "title": "JEP imputa a 22 exjefes de Farc por secuestro, tortura y esclavitud",
-              "image": "https://laopinion.co/sites/default/files/2025-04/JEP_2.jpg"
+              "url": "https://caracol.com.co/2026/10/05/jep-responde-a-cuestionamientos-por-declaracion-de-timochenko-sobre-trato-a-secuestrados/",
+              "note": "Detalla fecha y diligencia de la declaración (14 de febrero de 2019, magistrada Julieta Lemaitre), la reacción de la senadora Posada y la respuesta de la JEP sobre la directriz de buen trato incumplida.",
+              "host": "caracol.com.co",
+              "title": "JEP responde a cuestionamientos por declaración de Timochenko sobre trato a secuestrados",
+              "image": "https://caracol.com.co/resizer/v2/CN5QWDQS2NEDXDR7GS2GRWA46Q.jpg?auth=d6220c0627d39d8cdcd54d4d3c229d9f46397efe60df04186759260701caa8b8&quality=70&width=1200&height=675&smart=true"
             },
             {
               "ref": "F5",
-              "url": "https://www.infobae.com/colombia/2026/08/04/la-jep-imputo-crimenes-de-guerra-y-de-lesa-humanidad-a-27-excomandantes-de-las-farc-son-responsables-de-masacres-homicidios-y-tortura/",
-              "note": "Imputación de 2026 a 27 excomandantes de las FARC por tortura y otros crímenes, con 2.436 víctimas acreditadas; evidencia la continuidad de la acción de la JEP contra la tortura guerrillera.",
-              "host": "infobae.com",
-              "title": "La JEP imputó crímenes de guerra y de lesa humanidad a 27 excomandantes de las Farc: son responsables de masacres, homicidios y tortura",
-              "image": "https://www.infobae.com/resizer/v2/NYKVTSTO6ZHZ7HJP3XESNNAWOI.jpeg?auth=ce00fff60fce0d5a141c9aa2d6cca26c77aeec0a6db5b6f6ed745f7036aa4ee4&smart=true&width=1200&height=630&quality=85"
+              "url": "https://laopinion.co/colombia/jep-imputa-22-exjefes-de-farc-por-secuestro-tortura-y-esclavitud",
+              "note": "Detalla imputaciones a 22 exjefes por tortura, esclavitud y violencia sexual, patrones de secuestro, casos concretos de víctimas, 185 desaparecidos y riesgo de juicio adversarial con hasta 20 años de cárcel si niegan responsabilidad.",
+              "host": "laopinion.co",
+              "title": "JEP imputa a 22 exjefes de Farc por secuestro, tortura y esclavitud",
+              "image": "https://laopinion.co/sites/default/files/2025-04/JEP_2.jpg"
             }
           ]
         },
         {
           "id": 3,
           "topic": "seguridad",
-          "claim": "La JEP confirmó que el supuesto buen trato no se cumplía y documentó tratos crueles, homicidios, desapariciones y violencia sexual.",
+          "claim": "La JEP confirmó que el supuesto buen trato a los retenidos no se cumplía y documentó tratos crueles, homicidios, desapariciones y violencia sexual.",
           "quote": "pero la propia JEP confirma que ese supuesto buen trato no se cumplía y documentó tratos crueles homicidios desapariciones y hasta violencia sexual",
           "figures": [],
           "verdict": "verdadero",
           "color": "green",
           "confidence": "alta",
-          "summary": "La afirmación es factualmente correcta: la JEP, en su primera sentencia (Caso 01), documentó que los altos mandos de las FARC no emitieron órdenes claras sobre el trato humanitario de cautivos, permitiendo malos tratos, asesinatos, violencia sexual y esclavitud [F1]. Sin embargo, el dato está fuertemente descontextualizado: se refiere a crímenes históricos de las FARC cometidos entre 1993 y 2012, no a políticas del gobierno de Petro [F1].",
-          "context": "La sentencia de la JEP contra el último Secretariado de las FARC se refiere a más de 21.000 víctimas de secuestro y crímenes atroces (homicidio, desaparición forzada, tortura, violencia sexual, esclavitud) cometidos entre 1993 y 2012 [F1]. Los siete exjefes fueron condenados a la máxima pena de 8 años —sin prisión, sino con proyectos restaurativos— tras reconocer responsabilidad y aportar verdad [F1]. La JEP fue creada por el Acuerdo de Paz de 2016 durante el gobierno de Santos, y esta es su PRIMERA sentencia, emitida tras 7 años y medio de trabajo [F1]. Las bases de datos conjuntas CEV-JEP-HRDAG cubren violaciones de DDHH de homicidio, secuestro, desaparición y reclutamiento de 1985 a 2018 [F5]. Nada de esto tiene relación directa con las políticas del gobierno de Petro (2022-2026).",
-          "progressivePerspective": "Lo que la JEP documenta son crímenes históricos de las FARC cometidos entre 1993 y 2012 [F1], período que abarca los gobiernos de Samper, Pastrana, Uribe y Santos. En lugar de ser un argumento contra Petro, la sentencia demuestra que la justicia transicional está funcionando: la JEP investigó, estableció responsabilidad por 3 patrones macrocriminales (secuestro como financiación, como canje de prisioneros y como control territorial), y condenó a los máximos responsables [F1]. El hecho de que el video cite la sentencia de la JEP para criticar al gobierno actual es un desplazamiento deliberado: el tribunal está juzgando crímenes que ocurrieron décadas antes de que Petro asumiera, en un mecanismo creado por Santos en 2016 [F1]. Además, la sentencia también incluye responsabilidad de mandos medios y 'carceleros' que impusieron condiciones degradantes [F1], lo que reforzaría la narrativa de que la justicia transicional no está eximiendo a nadie, incluyendo a quienes no reconocieron su responsabilidad, a diferencia de lo que ocurre con crímenes estatales donde las víctimas señalan procesamientos restrictivos y asimétricos [F3].",
-          "whatTheyOmit": "1) Omite que los crímenes documentados ocurrieron entre 1993 y 2012, es decir, durante los gobiernos de Samper, Pastrana, Uribe y Santos, no durante el de Petro [F1]. 2) Omite que la JEP fue creada por el Acuerdo de Paz de 2016 (gobierno Santos) y que esta es su primera sentencia [F1]. 3) Omite que la sentencia impuso la máxima pena posible de 8 años con obligaciones reparativas intensas [F1]. 4) Omite que el video degrada así un mecanismo de justicia transicional que sí está documentando y sancionando crímenes históricos [F1]. 5) Omite el contexto de que víctimas y organizaciones han señalado que la justicia transicional es insuficiente particularmente frente a crímenes estatales (falsos positivos, paramilitarismo), con procesamientos 'restrictivos, asimétricos y excesivamente mesurados' [F3]. 6) El video utiliza la sentencia de la JEP como si fuera evidencia de fracaso del gobierno Petro, cuando es un producto judicial independiente que juzga crímenes de décadas anteriores [F1].",
+          "summary": "La afirmación coincide con lo documentado: la JEP aclaró que, si bien existía una norma interna de las FARC sobre 'buen trato', esa directriz no se cumplió en la práctica, y en el Caso 01 estableció responsabilidades por tortura, tratos crueles, inhumanos y degradantes, homicidio, desaparición forzada, desplazamiento forzado y violencia sexual [F4][F3].",
+          "context": "El Caso 01 de la JEP (2018-) prioriza los secuestros de las FARC-EP entre 1982 y 2012 e identificó al menos 21.396 víctimas; los crímenes concurrentes imputados incluyen toma de rehenes, homicidio, tortura, tratos inhumanos y degradantes, violencia sexual, desaparición forzada y desplazamiento forzado [F3]. La JEP imputó crímenes de guerra y de lesa humanidad a 63 exintegrantes de las FARC, entre ellos los siete del antiguo Secretariado, incluido Rodrigo Londoño (Timochenko) [F4], y condenó al último Secretariado por más de 21.000 secuestros con la máxima Sanción Propia: 8 años de trabajos en búsqueda de desaparecidas, acción contra minas, medio ambiente y reparación simbólica [F2]. La aclaración de la JEP se produjo tras la difusión de fragmentos de una audiencia reservada de 2019 en la que Londoño afirmó que existían instrucciones de alimentación y buen trato y que no se permitía torturar [F4].",
+          "progressivePerspective": "Desde el marco de la justicia transicional (verdad, justicia, reparación y no repetición), este dato ABONA a la VERDAD: la propia jurisdicción desmiente la narrativa del perpetrador —Timochenko, ex máximo comandante de las FARC y máximo responsable imputado— de que los cautivos recibieron buen trato, y sostiene que la existencia de una consigna general no equivale a prueba de trato digno efectivo, pues los custodios actuaron con amplia discrecionalidad [F4]. También abona a la JUSTICIA, porque las conclusiones de la JEP se construyeron con pruebas documentales y testimonios de víctimas, no solo con las declaraciones de los excomandantes, y culminaron en condenas y sanciones propias con deber de reparación [F4][F2][F1]. Ahora bien, el narrador del video usa ese dato VERDADERO para descalificar a la JEP como 'buenista' y 'cínica', lo cual invierte la responsabilidad: quien mintió sobre el 'buen trato' fue el perpetrador en una audiencia de 2019; la JEP fue precisamente la institución que lo desmintió, documentó los crímenes y condenó a los máximos responsables [F4]. La lectura éticamente correcta es que el dato fortalece la función de la JEP, no la deslegitima.",
+          "whatTheyOmit": "El video omite que la condena de la JEP al último Secretariado de las FARC impone la máxima Sanción Propia (8 años de proyectos de búsqueda de desaparecidas, desminado, medio ambiente y reparación simbólica) con vigilancia electrónica y supervisión de la ONU [F2][F1]; omite el número real de víctimas (al menos 21.396 personas afectadas por las privaciones de la libertad) [F3]; omite que la JEP imputó a 63 exintegrantes de las FARC y que los exmandos reconocieron públicamente secuestros, asesinatos, desapariciones y crímenes de violencia sexual ante las víctimas [F4][F2]; y omite que el 'buen trato' solo existía como directriz interna no cumplida, precisamente desmentida por la JEP, no avalada por ella [F4]. También omite que el régimen de la JEP no es impunidad: es justicia restaurativa con sanciones efectivas, deber de verdad y reparación a las víctimas [F1].",
           "keyFacts": [
-            "La JEP condenó a los 7 miembros del último Secretariado de las FARC a 8 años de sanción por crímenes que afectaron a más de 21.000 víctimas de secuestro [F1]",
-            "La sentencia documenta crímenes de guerra y lesa humanidad: homicidio, toma de rehenes, desaparición forzada y tortura, ocurridos entre 1993 y 2012 [F1]",
-            "La JEP determinó que los altos mandos no emitieron órdenes claras sobre el trato humanitario, permitiendo malos tratos, asesinatos, violencia sexual y esclavitud, por lo que son responsables por omisión de mando [F1]",
-            "Los crímenes documentados ocurrieron entre 1993 y 2012, abarcando gobiernos de Samper, Pastrana, Uribe y Santos, no el de Petro [F1]",
-            "Esta es la PRIMERA sentencia de la JEP, tras 7 años y medio de investigación; el tribunal fue creado por el Acuerdo de Paz de 2016 del gobierno Santos [F1]",
-            "Las bases de datos CEV-JEP-HRDAG documentan violaciones a DDHH de homicidio, secuestro, desaparición y reclutamiento de 1985 a 2018 [F5]",
-            "Víctimas y organizaciones han señalado procesamientos restrictivos y asimétricos de crímenes estatales ante la JEP [F3]"
+            "La JEP aclaró que nunca avaló el supuesto 'buen trato' a los secuestrados de las FARC y que una directriz interna sobre buen trato existía pero no se cumplió en la práctica [F4]",
+            "La JEP estableció responsabilidades por tortura, tratos crueles, inhumanos y degradantes, homicidio, desaparición forzada, desplazamiento forzado y violencia sexual en el Caso 01 [F4]",
+            "El Caso 01 prioriza secuestros de las FARC-EP de 1982 a 2012 y reconoce al menos 21.396 víctimas de privaciones de la libertad [F3]",
+            "Los crímenes de guerra y de lesa humanidad imputados en el Caso 01 incluyen toma de rehenes, homicidio, tortura, tratos inhumanos y degradantes, violencia sexual, desaparición forzada y desplazamiento forzado [F3]",
+            "La JEP imputó a 63 exintegrantes de las FARC, entre ellos los siete del antiguo Secretariado, incluido Rodrigo Londoño (Timochenko) [F4]",
+            "Las conclusiones de la JEP se basaron en pruebas documentales, testimonios de víctimas y otros elementos, no solo en declaraciones de excomandantes [F4]",
+            "La JEP condenó al último Secretariado de las FARC por más de 21.000 secuestros con la máxima Sanción Propia: 8 años de trabajos de búsqueda de desaparecidas, acción contra minas, medio ambiente y reparación simbólica [F2]",
+            "Los condenados por la JEP quedan sometidos a vigilancia con dispositivos electrónicos supervisados por la propia JEP y Naciones Unidas [F1]"
           ],
           "sources": [
             {
               "ref": "F1",
-              "url": "https://www.lasillavacia.com/silla-nacional/claves-de-la-sentencia-de-la-jep-contra-el-ultimo-secretariado-de-las-farc/",
-              "note": "Fuente principal: claves de la sentencia de la JEP contra el Secretariado FARC. Documenta los crímenes, el rango temporal 1993-2012, la responsabilidad de mando y las sanciones. Confirma la afirmación pero también que los crímenes son históricos, previos al gobierno Petro.",
-              "host": "lasillavacia.com",
-              "title": "Claves de la sentencia de la JEP contra el último Secretariado de las Farc",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/09/Diseno-sin-titulo-2025-09-16T172448.360.jpg"
+              "url": "https://razonpublica.com/la-primera-sentencia-la-jep-algunas-preguntas-lo-viene/",
+              "note": "Análisis de la primera sentencia de la JEP: sanciones restaurativas de 8 años, vigilancia electrónica, debate sobre víctimas y participación política. Aporta el régimen sancionatorio real (contraste con la idea de impunidad).",
+              "host": "razonpublica.com",
+              "title": "La primera sentencia de la JEP: algunas preguntas para lo que viene",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/09/Sentencia_JEP.jpg"
             },
             {
               "ref": "F2",
-              "url": "https://elecciones-2026.lasillavacia.com/paula-alejandra-moreno-villalobos",
-              "note": "Irrelevante: perfil de candidata política a Bogotá; no aporta información sobre la JEP ni crímenes de la FARC.",
-              "host": "elecciones-2026.lasillavacia.com",
-              "title": "Paula Alejandra Moreno Villalobos",
-              "image": ""
+              "url": "https://www.jep.gov.co/macrocasos/caso01.html",
+              "note": "Página oficial del Caso 01: condena al último Secretariado por más de 21.000 secuestros, reconocimientos públicos de crímenes (incluida violencia sexual) y ejecución de la sentencia.",
+              "host": "jep.gov.co",
+              "title": "Caso 01: Toma de rehenes, graves privaciones de la libertad y otros crÃmenes concurrentes cometidos por las Farc-EP",
+              "image": "https://www.jep.gov.co/macrocasos/pictures/caso01/card01.jpg"
             },
             {
               "ref": "F3",
-              "url": "https://razonpublica.com/las-preocupaciones-las-victimas-la-jep/",
-              "note": "Aporta contexto: preocupaciones de víctimas sobre la JEP, incluyendo procesamientos restrictivos de crímenes estatales y limitaciones del tribunal. Sirve como contraste.",
-              "host": "razonpublica.com",
-              "title": "Las preocupaciones de las víctimas sobre la JEP | Razón Pública",
-              "image": "https://razonpublica.com/wp-content/uploads/2022/04/victimas-conflicto-armado-JEP-pregunta-victimas-Helber-Noguera-Alberto-Yepes.jpg"
+              "url": "https://herramientaspedagogicas.jep.gov.co/archivos-vivos/casos/caso-01/",
+              "note": "Ficha pedagógica del Caso 01: 21.396 víctimas, catálogo de crímenes concurrentes imputados (homicidio, tortura, tratos crueles, violencia sexual, desaparición forzada), patrones macrocriminales y daños a las víctimas.",
+              "host": "herramientaspedagogicas.jep.gov.co",
+              "title": "Caso 01 - Archivos Vivos de la JEP",
+              "image": "https://herramientaspedagogicas.jep.gov.co/archivos-vivos/wp-content/uploads/2024/09/C_01_Encabezado_4_FOTO_Audiencia-de-reconocimiento-caso-01-y-encuentro-pervio_20220621_NicoleAcuna.jpg"
             },
             {
               "ref": "F4",
-              "url": "https://fueradelugar.desinformemonos.org/la-justicia-que-falta-para-las-desaparecidas-precisamos-saber-quien-y-por-que-se-las-llevan-que-esta-pasando-en-el-pais-exige-madre-buscadora/",
-              "note": "Irrelevante: trata de desapariciones en México, no de Colombia ni la JEP.",
-              "host": "fueradelugar.desinformemonos.org",
-              "title": "La justicia que falta para las desaparecidas",
-              "image": ""
+              "url": "https://www.infobae.com/colombia/2026/10/06/jep-aclara-que-nunca-avalo-supuesto-buen-trato-a-secuestrados-de-las-farc-y-recuerda-graves-violaciones/",
+              "note": "Fuente central: aclaración de la JEP tras difusión de audiencia de 2019 con Timochenko; confirma que la directriz de buen trato no se cumplió y enumera los crímenes documentados; 63 imputados. Respaldada por transcripción de Blu Radio/Congreso.",
+              "host": "infobae.com",
+              "title": "JEP aclara que nunca avaló supuesto ‘buen trato’ a secuestrados de las Farc y recuerda graves violaciones",
+              "image": "https://www.infobae.com/resizer/v2/DH2YMLLMK5A3FAFATYF46ZDPLA.JPG?auth=2f07a8b39a4809e292f8107f3c10120e0b07063c2652dce885cdcfdf01ae3513&smart=true&width=1200&height=630&quality=85"
             },
             {
               "ref": "F5",
-              "url": "https://microdatos.dane.gov.co/index.php/catalog/795/related-materials",
-              "note": "Aporta contexto estadístico: bases de datos CEV-JEP-HRDAG sobre violaciones de DDHH (homicidio, secuestro, desaparición, reclutamiento) de 1985 a 2018, confirmando el carácter histórico de los crímenes documentados.",
-              "host": "microdatos.dane.gov.co",
-              "title": "Integración de datos y estimación estadística de víctimas en el marco del conflicto armado ( CEV - JEP - HRDAG ).",
+              "url": "https://bapp.com.co/documento/jurisdiccion-especial-para-la-paz-jep-ficha-tecnica-macrocaso-01/",
+              "note": "Ficha técnica del macrocaso 01: confirma que agrupa los secuestros de las FARC-EP y sus patrones de macrocriminalidad (control social).",
+              "host": "bapp.com.co",
+              "title": "Jurisdicción Especial para la Paz (JEP) – Ficha técnica macrocaso 01 - BAPP",
               "image": ""
             }
           ]
@@ -1103,64 +1109,327 @@
         {
           "id": 4,
           "topic": "politica",
-          "claim": "Según el hablante, las penas de los firmantes del acuerdo se pagarían en La Habana y el tiempo pasado allí se contabilizaría como parte de la pena.",
-          "quote": "y las pagan aquí en la Habana y esto tiempo que llevan aquí se contabiliza como parte de la pena vea y los iban a poner dizque a pagar las penas en la Habana",
+          "claim": "El narrador sostiene que las FARC buscaban un acuerdo para ir a la cárcel en condiciones suaves, no para reparar a las víctimas.",
+          "quote": "cómo creen ustedes que nos van a plantear hacer un acuerdo para firmar un acuerdo e irnos pa la cárcel claro es que ustedes no querían paz para reparar a las víctimas ustedes querían paz para no terminar en la cárcel",
           "figures": [],
-          "verdict": "sin_evidencia",
+          "verdict": "engañoso",
           "color": "orange",
           "confidence": "media",
-          "summary": "Ninguna de las fuentes entregadas confirma ni desmiente directamente que las penas de los firmantes del acuerdo se pagarían en La Habana ni que el tiempo allí contara como parte de la pena. Lo que sí describen las fuentes es un sistema de sanciones restaurativas, no penas de prisión convencionales, a través de la JEP [F2][F5].",
-          "context": "Las fuentes explican que el Acuerdo de La Habana implementó un Sistema Integral de Verdad, Justicia, Reparación y Garantías de No Repetición que incluye la JEP, la Comisión de la Verdad y la Unidad de Búsqueda. La JEP sustituyó la sanción retributiva de largas penas en prisión por medidas punitivas y restauradoras: 13.928 personas están sometidas a la JEP (9.785 FARC y 3.789 de fuerza pública), y en julio de 2026 se informó que 19 comparecientes que reconocieron responsabilidad tenían sanciones propias impuestas, con más de $20.000 millones asegurados para los primeros proyectos restaurativos [F2][F5]. Las fuentes no mencionan en ningún momento que las penas se sirvan en La Habana ni que el tiempo en Cuba cuente como cumplimiento de pena [F1][F2][F3][F4][F5].",
-          "progressivePerspective": "La afirmación del hablante parece ser una versión distorsionada de la realidad del sistema de justicia transicional acordado. Las fuentes describen que el Acuerdo no establece penas de prisión ordinarias que deban 'pagarse' en La Habana, sino sanciones restaurativas: el propósito declarado fue 'el remplazo de la sanción retributiva de largas penas en la cárcel por medidas punitivas y restauradoras de las víctimas' [F2]. Es importante notar que la Comisión de la Verdad documentó 450.664 homicidios, 121.785 desapariciones forzadas, 24.600 muertes en 4.237 masacres entre 1958 y 2019, y 6.402 falsos positivos entre 2002 y 2008 [F2], contexto que respalda la lógica de una justicia restaurativa orientada a víctimas en lugar de un sistema carcelario tradicional. Además, 406 firmantes de paz han sido asesinados en siete años, evidenciando que la principal violación no es impunidad sino la ausencia de garantías de seguridad para quienes se desmovilizaron [F2]. Ninguna fuente respalda que se contabilizara tiempo en La Habana como parte de una pena [F1][F2][F3][F4][F5].",
-          "whatTheyOmit": "El video omite que el sistema de sanciones de la JEP es restaurativo y no de prisión convencional, lo que hace irrelevante la idea de 'pagar penas' en prisión o en La Habana. También omite que la JEP ha imputado a exmiembros de las FARC por crímenes de guerra y lesa humanidad, así como a 35 militares (incluidos 5 generales) por falsos positivos, demostrando que el sistema aplica a ambos bandos [F2]. Omite que Salvatore Mancuso, exjefe paramilitar, fue admitido en la JEP como bisagra con la fuerza pública, ampliando el alcance del sistema de justicia más allá de los firmantes del acuerdo [F2]. También omite que el plebiscito se perdió por apenas 53.894 votos con una participación cercana al 38%, y que sectores promotores del 'no' reconocieron que se difundieron mensajes falsos sobre el contenido del acuerdo [F4][F5]. Las fuentes no confirman la afirmación específica sobre La Habana [F1][F2][F3][F4][F5].",
+          "summary": "La afirmación contiene un grano de verdad —las sanciones de la JEP no son cárcel tradicional—, pero distorsiona dos cosas: (1) atribuye a las FARC una motivación puramente pecuniaria de evitar la cárcel, algo que ninguna fuente puede verificar; (2) ignora que la reparación a las víctimas es pilar explícito y obligatorio del Acuerdo Final y del régimen sancionatorio de la JEP [F1][F2][F3][F4].",
+          "context": "El Acuerdo Final de 2016 estructuró un Sistema Integral de Verdad, Justicia, Reparación y Garantías de No Repetición con tres componentes: JEP, Comisión de la Verdad y Unidad de Búsqueda de Desaparecidos [F2]. La primera sentencia de la JEP contra siete excomandantes del Secretariado de las FARC impuso sanciones de 8 años con proyectos de memoria, reparación simbólica, búsqueda de desaparecidos y acción contra minas antipersonal, más monitoreo electrónico y supervisión de la ONU [F1]. La JEP ha acreditado 343.341 víctimas en once macro casos y 13.928 personas sometidas (9.785 FARC, 3.789 fuerza pública) [F2]. En el Caso 01 (Secuestro), la JEP identificó al menos 21.396 víctimas de privación de la libertad cometida por las FARC entre 1982 y 2012, con patrones macrocriminales que incluyeron homicidio, tortura, violencia sexual y desaparición forzada [F5]. Un estudio académico concluye que el modelo colombiano satisface los derechos a la verdad y a la justicia, se aproxima a modelos de memoria y retribución (no de perdón y olvido), con sanciones condicionadas a la confesión, ausencia de amnistías generales y sanciones restrictivas de libertad por delitos graves [F4]. Al mismo tiempo, existe un debate legítimo: víctimas se han quejado por déficit de participación y por el tipo de sanciones impuestas, y se cuestiona si la justicia restaurativa realmente pone en el centro a las víctimas [F1], así como si el sistema logra evitar la impunidad [F2].",
+          "progressivePerspective": "La afirmación confunde dos planos: (a) las sanciones de la JEP efectivamente no son cárcel tradicional, sino sanciones restaurativas condicionadas a reconocimiento pleno de verdad y responsabilidad [F1][F4]; (b) pero de ahí no se sigue que las FARC 'solo querían ir a la cárcel en condiciones suaves' ni que la reparación a las víctimas no fuera un propósito del acuerdo. La reparación es pilar central del Acuerdo Final [F2][F3] y las sanciones de la JEP incluyen obligaciones concretas de reparación simbólica, búsqueda de desaparecidos y participación en proyectos restaurativos, con monitoreo electrónico y supervisión de la ONU por ocho años [F1]. El estudio académico determina que el modelo colombiano satisface los derechos a la verdad y la justicia y se acerca más a la retribución moderada que al perdón y olvido [F4]. Desde la perspectiva de los cuatro pilares de la JEP (verdad, justicia, reparación, no repetición), la afirmación del narrador: (i) desconoce el pilar de REPARACIÓN, presente en el acuerdo y en las sentencias [F1][F2]; (ii) reduce el régimen sancionatorio a 'condiciones suaves', omitiendo que las sanciones son condicionales a la verdad y que no hay amnistía ni indulto para crímenes de lesa humanidad y crímenes de guerra [F4]; (iii) sí abona parcialmente a la crítica legítima de víctimas y analistas sobre déficits de participación y efectividad de la restauración [F1][F2], pero lo hace desde una caricatura que revictimiza al reducir un proceso complejo a una supuesta intención vil de las FARC. Es legítimo cuestionar si las sanciones restaurativas son suficientemente reparadoras, pero hacerlo distorsionando el marco normativo no contribuye a la verdad ni a la no repetición.",
+          "whatTheyOmit": "Omite que la reparación a las víctimas es pilar explícito del Acuerdo Final y del Sistema Integral [F2][F3]. Omite que las sanciones de la JEP son condicionales al reconocimiento pleno de verdad y responsabilidad, con monitoreo electrónico, supervisión de la ONU y duración de ocho años [F1]. Omite que no hay amnistía ni indullo para crímenes de lesa humanidad, genocidio ni crímenes de guerra, y que el análisis académico concluye que el modelo colombiano satisface los derechos a la verdad y a la justicia [F4]. Omite la magnitud de los crímenes: al menos 21.396 víctimas de secuestro por las FARC con patrones macrocriminales [F5] y 343.341 víctimas acreditadas en once macro casos [F2]. Omite que las FARC fueron sometidas a la JEP como sujetos de investigación por crímenes de guerra y lesa humanidad, no como simples negociadores que lograron un trato favorable [F2][F5].",
           "keyFacts": [
-            "El Acuerdo de La Habana creó un Sistema Integral de Verdad, Justicia, Reparación y Garantías de No Repetición que incluye la JEP, la Comisión de la Verdad y la Unidad de Búsqueda [F2][F5]",
-            "La JEP sustituyó la sanción retributiva de largas penas en prisión por medidas punitivas y restaurativas orientadas a las víctimas [F2]",
-            "13.928 personas están sometidas a la JEP: 9.785 de las FARC y 3.789 de la fuerza pública, con 4.378 personas con resolución de amnistía [F2]",
-            "En julio de 2026, 19 comparecientes que reconocieron responsabilidad tenían sanciones propias impuestas en la JEP [F5]",
-            "La Comisión de la Verdad documentó 450.664 homicidios y 121.785 desapariciones forzadas entre 1985 y 2016 [F2]",
-            "Ninguna de las cinco fuentes menciona que las penas se sirvan en La Habana ni que el tiempo en Cuba cuente como parte de la pena [F1][F2][F3][F4][F5]"
+            "La JEP impuso en su primera sentencia sanciones de 8 años con proyectos de memoria, reparación simbólica, búsqueda de desaparecidos y acción contra minas, con monitoreo electrónico y supervisión de la ONU [F1]",
+            "Las sanciones de la JEP son condicionales al reconocimiento pleno de verdad y responsabilidad, y no hay amnistía ni indulto para crímenes de lesa humanidad, genocidio ni crímenes de guerra [F4]",
+            "El estudio académico concluye que el modelo colombiano satisface los derechos a la verdad y a la justicia, y se aproxima a modelos de memoria y retribución más que de perdón y olvido [F4]",
+            "La JEP identificó al menos 21.396 víctimas de privación de la libertad por las FARC entre 1982 y 2012, con crímenes incluyendo homicidio, tortura, violencia sexual y desaparición forzada [F5]",
+            "Hay 343.341 víctimas acreditadas en once macro casos y 13.928 personas sometidas a la JEP [F2]",
+            "Existe debate legítimo: víctimas se han quejado por déficit de participación y por el tipo de sanciones restaurativas impuestas [F1]",
+            "El Sistema Integral incluye explícitamente un componente de REPARACIÓN a las víctimas como pilar junto con verdad, justicia y no repetición [F2][F3]",
+            "Las Fuentes no permiten verificar la motivación interna de las FARC al buscar el acuerdo: la afirmación sobre sus 'intenciones' es una interpretación, no un dato comprobable con estas fuentes"
           ],
           "sources": [
             {
               "ref": "F1",
-              "url": "https://razonpublica.com/el-acuerdo-de-la-habana-y-su-vigencia-juridica-falacias-y-aclaraciones/",
-              "note": "Analiza la vigencia jurídica del Acuerdo de La Habana; no menciona el lugar de cumplimiento de penas",
+              "url": "https://razonpublica.com/la-primera-sentencia-la-jep-algunas-preguntas-lo-viene/",
+              "note": "Analiza la primera sentencia de la JEP: sanciones restaurativas de 8 años, monitoreo, y dudas legítimas de víctimas sobre la efectividad de la justicia restaurativa. Aporta tanto el dato de las sanciones como el debate crítico.",
               "host": "razonpublica.com",
-              "title": "El acuerdo de La Habana y su vigencia jurídica: falacias y aclaraciones - Razón Pública",
-              "image": "https://razonpublica.com/images/2016/maria_alvarez_acuerdos_habana_nobel_paz.jpg"
+              "title": "La primera sentencia de la JEP: algunas preguntas para lo que viene",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/09/Sentencia_JEP.jpg"
             },
             {
               "ref": "F2",
               "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/a-siete-anos-del-acuerdo-de-paz-con-las-farc/",
-              "note": "Describe el Sistema Integral, la JEP y las sanciones restaurativas; aporta contexto sobre víctimas y crímenes documentados; no menciona penas en La Habana",
+              "note": "Describe el Sistema Integral de Verdad, Justicia, Reparación y No Repetición, cifras de víctimas y personas sometidas a la JEP, y el debate sobre impunidad y legitimidad. Aporta el marco de los cuatro pilares.",
               "host": "lasillavacia.com",
               "title": "A siete años del Acuerdo de Paz con las Farc",
               "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/10/FranciscoCortesPortada.jpg?fit=1200%2C900&ssl=1"
             },
             {
               "ref": "F3",
-              "url": "https://es.scribd.com/document/849915495/Resumen-del-Acuerdo-de-Paz-de-La-Habana",
-              "note": "Página no cargable; no aporta contenido verificable",
-              "host": "es.scribd.com",
-              "title": "Resumen del Acuerdo de Paz de La Habana",
-              "image": "https://imgv2-1-f.scribdassets.com/img/document/849915495/original/fe791da12f/1?v=1"
+              "url": "https://www.jep.gov.co/Normativa/Paginas/Acuerdo-Final.aspx",
+              "note": "Texto original del Acuerdo Final firmado el 24/11/2016 entre el Gobierno Nacional y las FARC-EP. Documento normativo base del sistema de justicia transicional.",
+              "host": "jep.gov.co",
+              "title": "Acuerdo Final",
+              "image": "https://www.jep.gov.co"
             },
             {
               "ref": "F4",
-              "url": "https://www.infobae.com/colombia/2026/10/02/plebiscito-por-la-paz-en-colombia-10-anos-despues-las-lecciones-que-dejo-el-triunfo-del-no-al-acuerdo-de-la-habana/",
-              "note": "Contexto del plebiscito de 2016 y la renegociación posterior; no menciona penas en La Habana",
-              "host": "infobae.com",
-              "title": "Plebiscito por la Paz en Colombia, 10 años después: las lecciones que dejó el triunfo del “no” al acuerdo de La Habana",
-              "image": "https://www.infobae.com/resizer/v2/2G7NMXYIMZFHBIJ2XDCDTTPEBE.png?auth=c047707d2cd647665862864ed195b3b397b01e8341e0b59804683d3946daf8eb&smart=true&width=1200&height=630&quality=85"
+              "url": "https://revistascientificas.cuc.edu.co/juridicascuc/article/view/5623",
+              "note": "Estudio académico que concluye que el modelo colombiano satisface los derechos a la verdad y la justicia, se aproxima a retribución moderada y no a perdón y olvido, con sanciones condicionadas a confesiones y ausencia de amnistías generales. Contraste clave contra la afirmación de 'condiciones suaves'.",
+              "host": "revistascientificas.cuc.edu.co",
+              "title": "Acuerdo de paz con las FARC y proceso de justicia transicional en Colombia: Derechos a la verdad y a la justicia",
+              "image": ""
             },
             {
               "ref": "F5",
-              "url": "https://www.vanguardia.com/colombia/2026/10/02/10-anos-del-no-al-plebiscito-por-la-paz-que-paso-despues-con-el-acuerdo-firmado-con-las-farc/",
-              "note": "Describe las sanciones restaurativas de la JEP y los proyectos restaurativos; no menciona penas en La Habana",
-              "host": "vanguardia.com",
-              "title": "10 años del No al plebiscito por la paz: qué pasó después con el acuerdo firmado con las Farc",
-              "image": "https://www.vanguardia.com/resizer/v2/6GY2XNQG2RAS3DJUPG6O3H5XK4.jpg?auth=1fb0c19031aefdc504e2260ef3cd8837356b7068707ff6b6c9726ea7cf9b097a&smart=true&width=1200&height=630&quality=70"
+              "url": "https://herramientaspedagogicas.jep.gov.co/archivos-vivos/casos/caso-01/",
+              "note": "Documenta el Caso 01 de secuestro de las FARC: 21.396 víctimas, patrones macrocriminales, crímenes de guerra y lesa humanidad imputados, proceso de responsabilidad 'de arriba a abajo' sobre el Secretariado. Aporta la magnitud real de los hechos.",
+              "host": "herramientaspedagogicas.jep.gov.co",
+              "title": "Caso 01 - Archivos Vivos de la JEP",
+              "image": "https://herramientaspedagogicas.jep.gov.co/archivos-vivos/wp-content/uploads/2024/09/C_01_Encabezado_4_FOTO_Audiencia-de-reconocimiento-caso-01-y-encuentro-pervio_20220621_NicoleAcuna.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "El narrador afirma que los excombatientes pagan penas en La Habana y que ese tiempo se contabiliza como parte de la pena.",
+          "quote": "unas penas más suaves y tal y y las pagan aquí en la Habana y esto tiempo que llevan aquí se contabiliza como parte de la pena",
+          "figures": [],
+          "verdict": "engañoso",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación mezcla un dato parcialmente cierto con una formulación distorsionada: es correcto que cierto tiempo de cumplimiento se descuenta de la sanción propia de la JEP, pero las sanciones no se 'pagan en La Habana' ni son penas ejecutadas fuera de Colombia, sino restricciones efectivas de libertad ejecutadas en Colombia con monitoreo de la JEP y la ONU, y el régimen prevé además sanciones alternativas y ordinarias con privación efectiva de libertad de 5 a 20 años [F5], [F1]",
+          "context": "La Ley 1957 de 2019 (ley estatutaria de la JEP) distingue tres regímenes sancionatorios: (1) sanciones propias, con 'restricción efectiva' que 'en ningún caso se entenderán como cárcel o prisión' y con espacios territoriales de ejecución cuyo tamaño máximo equivale al de las Zonas Veredales Transitorias de Normalización (ZVTN) [F5]; (2) sanciones alternativas de 5 a 8 años con 'función esencialmente retributiva de pena privativa de la libertad' para quienes reconozcan verdad y responsabilidad ante la Sección de Enjuiciamiento [F5]; y (3) sanciones ordinarias de 15 a 20 años de privación efectiva de libertad para quienes no reconozcan verdad y responsabilidad, que 'sí incluirán privaciones efectivas de la libertad como cárcel o prisión' [F5]. El artículo 132 establece que el período de permanencia en las ZVTN o en una ubicación territorial definida y verificable se considera 'tiempo de cumplimiento de la sanción propia' si durante esa permanencia se realizaron trabajos, obras o actividades [F5]. En el primer fallo de la JEP, siete excomandantes del Secretariado de las FARC fueron condenados a proyectos de memoria, reparación simbólica, búsqueda de desaparecidos, medio ambiente y acción contra minas antipersonal, con límite de ocho años, dispositivos electrónicos y supervisión de la JEP y Naciones Unidas [F1]. En la justicia ordinaria colombiana también existe descuento por trabajo: la Ley 65 de 1993 abona un día de reclusión por dos días de trabajo [F2].",
+          "progressivePerspective": "A la luz de los cuatro pilares de la JEP, la afirmación incurre en tres problemas. Primero, distorsiona el pilar de JUSTICIA al sugerir que no hay sanción real: la propia norma prevé privación efectiva de libertad de 15 a 20 años para quienes no reconozcan responsabilidad y de 5 a 8 años en las sanciones alternativas, además de sanciones propias con restricción efectiva supervisada por la JEP y la ONU [F5], [F1]; presentar esto como 'penas más suaves pagadas en La Habana' omite que la ejecución es en Colombia, bajo monitoreo, y que existen condenas reales de cárcel [F5]. Segundo, debilita el pilar de VERDAD cuando se usa la frase para descalificar de entrada el proceso, en lugar de examinar los hallazgos del macrocaso de secuestros [F1]. Tercero, respecto de REPARACIÓN y NO REPETICION, la fuente señala que el propósito de la justicia restaurativa es reparar el daño y que estudios comparados muestran mayor satisfacción de víctimas en procesos restaurativos, aunque también reconoce quejas de víctimas por déficit de participación en este caso específico [F1]: eso exige exigir mayor efectividad y control de las sanciones, no negarlas. El descuento de tiempo previsto en la ley no es un 'favor' exclusivo de los excombatientes: la redención de pena por trabajo existe también en la justicia ordinaria para toda la población privada de libertad [F2].",
+          "whatTheyOmit": "Omite que la JEP prevé sanciones ordinarias de 15 a 20 años de privación efectiva de libertad y sanciones alternativas de 5 a 8 años con función retributiva, que 'sí incluirán privaciones efectivas de la libertad como cárcel o prisión' [F5]. Omite que la restricción efectiva implica monitoreo, horarios, lugar de residencia fijado por el tribunal, autorización de desplazamientos y supervisión de la JEP y Naciones Unidas, con dispositivos electrónicos en la primera sentencia [F5], [F1]. Omite que el descuento de tiempo opera por permanencia en ZVTN o ubicación territorial definida con trabajo u obras, y no por 'estar en La Habana' [F5]. Omite que el primer fallo contempla hasta ocho años de sanción y proyectos restaurativos, y que el propio análisis señala reclamos de víctimas por déficit de participación, es decir, un problema de implementación y no de inexistencia de sanción [F1]. Omite también que la redención de pena por trabajo es una figura vigente en la justicia ordinaria colombiana [F2].",
+          "keyFacts": [
+            "La ley estatutaria de la JEP establece que la 'restricción efectiva' de libertad 'en ningún caso se entenderá como cárcel o prisión ni adopción de medidas de aseguramiento equivalentes', con espacios territoriales de tamaño máximo equivalente al de las ZVTN [F5]",
+            "Las sanciones alternativas de la JEP tienen 'función esencialmente retributiva de pena privativa de la libertad de cinco (5) a ocho (8) años' [F5]",
+            "Las sanciones ordinarias para quienes no reconozcan verdad y responsabilidad implican privación efectiva de libertad no inferior a 15 años ni superior a 20 años, y 'sí incluirán privaciones efectivas de la libertad como cárcel o prisión' [F5]",
+            "El artículo 132 de la ley estatutaria contempla que el período de permanencia en las ZVTN o en una ubicación territorial definida y verificable se considere como tiempo de cumplimiento de la sanción propia, siempre que se hayan realizado trabajos, obras o actividades [F5]",
+            "En la primera sentencia de la JEP, siete excomandantes del Secretariado de las FARC recibieron proyectos de memoria, reparación simbólica, búsqueda de desaparecidos y medio ambiente, con límite de ocho años, dispositivos electrónicos y supervisión de la JEP y la ONU [F1]",
+            "Las víctimas del primer fallo de la JEP se quejaron de un déficit de participación durante el proceso y luego por el tipo de medidas adoptadas [F1]",
+            "En la justicia ordinaria colombiana, la Ley 65 de 1993 abona un día de reclusión por dos días de trabajo, y el trabajo comunitario redime la pena [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-primera-sentencia-la-jep-algunas-preguntas-lo-viene/",
+              "note": "Análisis de la primera sentencia de la JEP: sanciones restaurativas de hasta ocho años, monitoreo con dispositivos electrónicos y supervisión de la ONU, dudas sobre efectividad y reclamos de víctimas por déficit de participación; aporta el contraste entre propósito restaurativo y percepción de víctimas.",
+              "host": "razonpublica.com",
+              "title": "La primera sentencia de la JEP: algunas preguntas para lo que viene",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/09/Sentencia_JEP.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-abelardo-no-ordeno-trabajo-en-carceles-por-comida-y-descanso/",
+              "note": "Verificador que cita la Ley 65 de 1993: la redención de pena por trabajo (un día de reclusión por dos días de trabajo) existe en la justicia ordinaria colombiana, lo que permite contrastar la idea de que el descuento de tiempo sea un beneficio exclusivo de los excombatientes de la JEP.",
+              "host": "lasillavacia.com",
+              "title": "Detector: Abelardo no ordenó trabajo en cárceles por comida y descanso",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/abelardo_de_la_espriella_armas_porte.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.jep.gov.co/",
+              "note": "Portal institucional de la JEP; en la fuente entregada no contiene contenido sustantivo verificable más allá del encabezado, por lo que no se usa para sustentar datos específicos.",
+              "host": "jep.gov.co",
+              "title": "Imperdibles de la JEP",
+              "image": "https://www.jep.gov.co"
+            },
+            {
+              "ref": "F4",
+              "url": "https://leyes.co/estatutaria_de_la_administracion_de_justicia_en_la_jurisdiccion_especial_para_la_paz/127.htm",
+              "note": "Reproducción del artículo 127 de la ley estatutaria de la JEP sobre restricción efectiva, criterios de ejecución y compatibilidad con tareas del Acuerdo Final; confirma que no es cárcel ni prisión y que hay condiciones fijadas por el Tribunal.",
+              "host": "leyes.co",
+              "title": "Estatutaria de la Administración de Justicia en la Jurisdicción Especial para la Paz Artículo 127. Restricción efectiva",
+              "image": "https://leyes.co/images/og_img.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1957_2019_pr003.html",
+              "note": "Texto oficial de los artículos 127 a 132 de la Ley 1957 de 2019: restricción efectiva, sanciones alternativas (5-8 años), sanciones ordinarias (15-20 años con cárcel efectiva), fuero carcelario y descuento de la sanción propia por permanencia en ZVTN; es la fuente central para verificar la afirmación.",
+              "host": "secretariasenado.gov.co",
+              "title": "Leyes desde 1992",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "El narrador afirma que a los excombatientes se les iba a poner a pagar las penas en La Habana.",
+          "quote": "vea y los iban a poner dizque a pagar las penas en la Habana",
+          "figures": [],
+          "verdict": "falso",
+          "color": "red",
+          "confidence": "media",
+          "summary": "No existe en el marco del Acuerdo de Paz ni en la Ley Estatutaria 1957 de 2019 ninguna disposición por la cual los excombatientes 'paguen sus penas en La Habana': La Habana fue la sede de la NEGOCIACIÓN política (2012-2016) y el Acuerdo Final se firmó en Bogotá, mientras que las sanciones propias de la JEP se ejecutan en Colombia, con lugares de residencia fijados judicialmente cuyo tamaño máximo equivale al de las antiguas Zonas Veredales Transitorias de Normalización [F2][F3][F5]. La afirmación es falsa como hecho; se califica con confianza 'media' porque la palabra 'dizque' en la cita textual sugiere que el narrador la presenta como algo que se dijo (creencia ajena o rumor) y no necesariamente como hecho propio, lo que hace ambiguo si el video la sostiene o la exhibe como absurda [F# implícito en la cita]. En cualquier caso, tal como está enunciada, la frase distorsiona el régimen sancionatorio real.",
+          "context": "Las sanciones propias de la JEP duran de 5 a 8 años (máximo 8 años globales por la totalidad de las sanciones, incluidos concursos de delitos) y consisten en restricción efectiva de libertades y derechos (residencia, movimiento, horarios), con monitoreo y supervisión del Tribunal; la norma precisa expresamente que estas condiciones 'en ningún caso se entenderán como cárcel o prisión' [F3]. Existen además sanciones alternativas (5 a 8 años de privación efectiva de libertad) y sanciones ordinarias (15 a 20 años de prisión efectiva para quien no reconoce verdad y responsabilidad), de modo que el sistema escala desde 8 años de restricción sin cárcel hasta 20 años de prisión según el momento y la calidad del reconocimiento; el régimen fue declarado constitucional por la Corte Constitucional en la sentencia C-080 de 2018 [F3]. Los lugares de residencia de los excombatientes de las Farc-EP tendrán un tamaño máximo equivalente al de las Zonas Veredales Transitorias de Normalización, y el cumplimiento se verifica mediante mecanismos de monitoreo, con incidente de incumplimiento del Régimen de Condicionalidad que puede derivar en remisión a la jurisdicción ordinaria [F2][F4]. El proceso de paz se negoció en La Habana entre 2012 y 2016 y concluyó con el Acuerdo Final firmado en el Teatro Colón de Bogotá el 24 de noviembre de 2016 [F5].",
+          "progressivePerspective": "Desde el marco de la JEP —verdad, justicia, reparación y no repetición— la afirmación es problemática en dos sentidos. Primero, distorsiona la JUSTICIA: el régimen de sanciones propias es un régimen penal propio, judicial, con individualización de responsabilidades, monitoreo verificable y escalamiento hasta 20 años de prisión para quien no reconoce, y no una 'pena en el extranjero' que sustraería a los perpetradores de la jurisdicción colombiana; el Acuerdo estableció explícitamente que 'los acuerdos de paz no pueden implicar un intercambio de impunidades' [F1][F3]. Decir que 'los iban a poner a pagar las penas en La Habana' borra el hecho de que las víctimas tienen un rol clave en el diseño, estructuración y ejecución de las sanciones, y que la sanción se dosifica según el grado de verdad aportada y los compromisos de reparación [F2][F3]. Segundo, respecto de la NO REPETICION y la VERDAD: este tipo de caracterización simplista alimenta la narrativa de impunidad que ha sido uno de los principales motores de deslegitimación del sistema de justicia transicional, sin reconocer que el fin declarado de la sanción propia es satisfacer los derechos de las víctimas con función restaurativa y reparadora [F3][F4]. Con todo, es legítimo y necesario debatir —con datos correctos— puntos reales de controversia que las fuentes documentan: la compatibilidad de la ejecución de la sanción con la participación en política de los sentenciados se decide caso por caso por el Tribunal [F2], y las FARC tardaron en reconocer sus víctimas, a lo que se agregó la ausencia de víctimas en la mesa inicial de La Habana [F1]. La crítica constructiva fortalece la exigencia de verdad y reparación; la descripción falsa del régimen sancionario, en cambio, dificulta el esclarecimiento y revictimiza al trivializar el proceso en el que las víctimas finalmente obtuvieron participación [F1][F2].",
+          "whatTheyOmit": "Omite que La Habana fue el lugar de la NEGOCIACIÓN, no de cumplimiento de sanciones: el Acuerdo Final se firmó en Bogotá y su implementación judicial es íntegramente colombiana [F5]. Omite la existencia de las tres escalas de sanción (propia, alternativa y ordinaria), que incluyen privación efectiva de libertad de hasta 20 años para quien no reconoce verdad [F3]. Omite que las sanciones se ejecutan con monitoreo, verificación y régimen de incumplimiento que puede llevar a la jurisdicción ordinaria [F2][F4]. Omite que las víctimas participan en el diseño y ejecución de las sanciones y que los criterios de individualización incluyen la magnitud del daño, la vulnerabilidad de las víctimas y los compromisos de reparación [F2][F4]. Omite igualmente el debate legítimo que sí existe —la compatibilidad de la sanción con la actividad política de los sentenciados—, sustituyéndolo por una caricatura que confunde sede diplomática con lugar de cumplimiento [F2][F5].",
+          "keyFacts": [
+            "La JEP no impone ni ejecuta penas en La Habana: La Habana fue la sede de la negociación política entre 2012 y 2016 y el Acuerdo Final se firmó en Bogotá el 24 de noviembre de 2016 [F5]",
+            "Las sanciones propias de la JEP duran de 5 a 8 años (tope global de 8 años) y consisten en restricción efectiva de libertades y derechos, no en prisión [F3]",
+            "Los lugares de residencia de los excombatientes de las Farc-EP que cumplen sanción propia tendrán un tamaño máximo equivalente al de las antiguas Zonas Veredales Transitorias de Normalización, en Colombia [F2]",
+            "El régimen sancionatorio tiene tres niveles: propia (5-8 años de restricción), alternativa (5-8 años de privación efectiva de libertad) y ordinaria (15-20 años de prisión para quien no reconoce), declarado constitucional en la sentencia C-080 de 2018 [F3]",
+            "El cumplimiento de las sanciones está sujeto a monitoreo y verificación, con incidente de incumplimiento del Régimen de Condicionalidad que puede derivar en remisión a la jurisdicción ordinaria [F4]",
+            "El Acuerdo estableció que 'los acuerdos de paz no pueden implicar un intercambio de impunidades' y comprometió el reconocimiento de verdad, justicia, reparación y garantías de no repetición [F1]",
+            "Las víctimas tienen un rol clave en el diseño, estructuración y ejecución de las sanciones propias [F2]",
+            "La compatibilidad de la ejecución de la sanción con la participación en política del sentenciado la determina el Tribunal caso por caso mediante decisión judicial [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-momento-de-las-victimas-en-la-habana/",
+              "note": "Contexto de La Habana como mesa de negociación: declaración de principios sobre víctimas, 'no intercambio de impunidades', compromisos de verdad, justicia, reparación y no repetición; reconoce el reconocimiento tardío de víctimas por las FARC y la ausencia inicial de víctimas en la mesa. Aporta el contraste entre negociación política y régimen punitivo.",
+              "host": "razonpublica.com",
+              "title": "El momento de las víctimas en La Habana - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2014/06/nelson_sanchez_reconocimiento_victimas_delegacion_farc.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.jep.gov.co/Sala-de-Prensa/Paginas/Tribunal-para-la-paz-de-la-JEP-adopta-lineamientos-complementarios-en-materia-de-sanciones-propias-y-Trabajos,-Obras-y-Acti.aspx",
+              "note": "Fuente oficial de la JEP: sanciones propias de 2 a 5 y 5 a 8 años, restricción efectiva de derechos, residencias con tamaño máximo equivalente al de las ZVTN (en Colombia), participación de víctimas en el diseño de sanciones, compatibilidad con participación en política decidida por el Tribunal, y revisión de resoluciones de conclusiones contra el Secretariado de las FARC por el Caso 01 (secuestro).",
+              "host": "jep.gov.co",
+              "title": "Tribunal para la paz de la JEP adopta lineamientos complementarios en materia de sanciones propias y Trabajos, Obras y Acti",
+              "image": "https://www.jep.gov.co/Sala-de-Prensa/PublishingImages/2023/coveredificio2023.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://estudiopenal.com/sanciones-propias-en-la-jep-que-son-y-cuanto-duran",
+              "note": "Análisis jurídico de la Ley 1957 de 2019: sanciones propias de 5-8 años de restricción efectiva sin cárcel; alternativas de 5-8 años de privación de libertad; ordinarias de 15-20 años; sentencia C-080 de 2018; verificación y monitoreo. Clave para demostrar que ninguna pena se cumple en el extranjero.",
+              "host": "estudiopenal.com",
+              "title": "Sanciones propias en la JEP: qué son y cuánto duran",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://encolombia.com/derecho/leyes/justicia-especial-paz/graduacion-sanciones/",
+              "note": "Textos normativos de la JEP: individualización de sanciones (gravedad, daño a víctimas, aporte de verdad, reparación y no repetición), componente restaurativo, verificación y régimen de incumplimiento con remisión a la jurisdicción ordinaria.",
+              "host": "encolombia.com",
+              "title": "Graduación de las Sanciones y Redención de la Pena",
+              "image": "https://encolombia.com/wp-content/uploads/2017/09/impuestos-sanciones.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://historiacolombiana.com/hechos/dialogos-de-la-habana-2012-2016",
+              "note": "Los Diálogos de La Habana (2012-2016) como proceso de NEGOCIACIÓN: Acuerdo Final firmado en Bogotá el 24-nov-2016, creación de JEP, Comisión de la Verdad y Unidad de Búsqueda; polarización del debate público en torno a la supuesta impunidad de la JEP.",
+              "host": "historiacolombiana.com",
+              "title": "Diálogos de La Habana (2012–2016): el proceso de paz con las FARC",
+              "image": "https://historiacolombiana.com/api/public-image/cmrsqmxjv000iad010tu333qd?v=ff154bf92ee654774740a8ea9d9382ba32367ec01c4133e13971571b8544a510"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "El narrador cuestiona que se denomine 'justicia transicional' a este régimen de sanciones.",
+          "quote": "ustedes tienen el Descaro de que llamemos a esto justicia transicional",
+          "figures": [],
+          "verdict": "verdadero",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La cita textual del video ('ustedes tienen el descaro de que llamemos a esto justicia transicional') confirma que el narrador cuestiona de hecho que se use el término 'justicia transicional' para referirse al régimen de sanciones de la JEP: la afirmación sobre lo que dice el video es verdadera. Ahora bien, que el narrador cuestione el término es una OPINIÓN, no un hecho: las fuentes muestran que el régimen de sanciones propias de la JEP sí encaja en la definición académica e internacional de justicia transicional, que no equivale a impunidad [F1][F2][F5].",
+          "context": "La justicia transicional se define como el conjunto de medidas judiciales y políticas para responder a violaciones masivas de derechos humanos, equilibrando verdad, justicia, reparación y garantías de no repetición con la necesidad de paz [F2]. La ONU-DH documenta todo un marco de principios, resoluciones y relatores especiales sobre este enfoque, incluido el derecho de las víctimas a la reparación y a la lucha contra la impunidad [F3]. Razón Pública aclara expresamente que la justicia transicional 'no puede equipararse a la impunidad', que admite 'amnistías parciales y una menor provisión de justicia punitiva' pero que los crímenes internacionales no pueden amnistiarse, y que el Estado puede 'disminuir penas, establecer mecanismos de reparación, señalar penas alternativas o definir formas y centros de reclusión' [F1]. En Colombia, la JEP impuso sentencias restaurativas con restricción de derechos y libertades y Trabajos, Obras y Actividades con contenido Reparador-Restaurador (TOAR) a los siete exintegrantes del Secretariado de las FARC por el macrocaso 01 de secuestros (4.325 víctimas acreditadas, 41 imputados), confirmadas en segunda instancia [F5].",
+          "progressivePerspective": "ANÁLISIS. Desde el marco de los cuatro pilares de la JEP —verdad, justicia, reparación y no repetición—, el cuestionamiento del narrador merece matices críticos. Por un lado, la indignación frente a las penas es legítima como dolor de las víctimas: el secuestro fue crimen de guerra y de lesa humanidad, y 4.325 personas fueron acreditadas como víctimas en el macrocaso 01 [F5]. Pero afirmar que a esto no se le puede llamar 'justicia transicional' confunde la categoría: la justicia transicional no es sinónimo de impunidad ni de 'perdón y olvido', sino una rama jurídica que exige rendición de cuentas, admisión de responsabilidad sin excusas y mecanismos de reparación [F1], y que opera justamente cuando el derecho penal ordinario resulta insuficiente para juzgar violaciones masivas, como mostraron Argentina y Ruanda [F1]. La JEP juzga a los máximos responsables, declaró su responsabilidad penal en crímenes de guerra y de lesa humanidad e impone sanciones propias con restricción efectiva de libertades y deber reparador [F5]. El relato del narrador, en cambio, corre el riesgo de deslegitimar la única vía que ha producido verdad judicial y condena a exjefes de las FARC, sin proponer alternativa que no sea la impunidad o la persecución penal ordinaria que el acuerdo descartó [F1][F2]. Eso no abona a la no repetición ni a la reparación de las víctimas, aunque sí expresa un legítimo reclamo de severidad [F1][F5].",
+          "whatTheyOmit": "El video omite que el régimen de sanciones de la JEP fue diseñado con restricción efectiva de libertades y trabajos reparadores, no con impunidad: la sentencia de apelación confirmó las condenas y ordenó incluir 35 propuestas restaurativas de las víctimas [F5]. Omite que la justicia transicional, por definición, no equivale a perdón y olvido ni a amnistía total para crímenes internacionales [F1][F2], y que la JEP ya documentó tratos crueles, torturas, homicidios, violencia sexual y desapariciones en el macrocaso 01 [F5]. También omite el contexto de que Timochenko es el perpetrador de esos secuestros, no una fuente neutral: sus declaraciones ante la JEP son la versión del victimario, no un dato verificable por sí mismas [F5].",
+          "keyFacts": [
+            "El narrador del video cuestiona expresamente que se llame 'justicia transicional' al régimen de la JEP, según su propia cita textual: 'ustedes tienen el descaro de que llamemos a esto justicia transicional' [F5]",
+            "La justicia transicional no equivale a impunidad ni a perdón y olvido: admite amnistías parciales y menor provisión de justicia punitiva, pero no puede amnistiarse los crímenes internacionales [F1]",
+            "La JEP impuso sanciones propias con restricción de derechos y libertades y actividades reparadoras (TOAR) a siete exintegrantes del Secretariado de las FARC por el macrocaso 01 de secuestros [F5]",
+            "En el macrocaso 01 hay 4.325 personas acreditadas como víctimas y 41 exintegrantes de las FARC imputados [F5]",
+            "La Sección de Apelaciones de la JEP confirmó las condenas a los exjefes de las FARC por crímenes de guerra y de lesa humanidad en segunda instancia [F5]",
+            "El marco internacional de justicia transicional exige verdad, justicia, reparación y garantías de no repetición como respuesta a violaciones masivas de derechos humanos [F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/gustavo-salazar/",
+              "note": "Explica qué NO es la justicia transicional: no es perdón y olvido ni impunidad total; sí admite penas alternativas y reducción de castigo. Aporta el contraste conceptual contra la crítica del narrador.",
+              "host": "razonpublica.com",
+              "title": "Justicia transicional: ¿qué es y para qué sirve? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2015/03/Gustavo_salazar_justicia_transicional_paul_kagame.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.wikipedia.org/wiki/Justicia_transicional",
+              "note": "Definición general: medidas judiciales y políticas ante violaciones masivas de DDHH, con verdad, justicia, reparación y no repetición. Aporta el marco académico e histórico del término que el narrador cuestiona.",
+              "host": "es.wikipedia.org",
+              "title": "Justicia transicional - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://hchr.org.mx/cajas_herramientas/materiales-sobre-justicia-transicional/",
+              "note": "Compilación ONU-DH de principios, resoluciones y relatores especiales sobre justicia transicional, derecho a la verdad, reparación y lucha contra la impunidad. Aporta el respaldo institucional internacional.",
+              "host": "hchr.org.mx",
+              "title": "Materiales sobre Justicia Transicional",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.jep.gov.co/Paginas/Normativa-aplicable.aspx",
+              "note": "Página de normativa aplicable de la JEP; aporta el marco normativo de la jurisdicción, aunque el contenido detallado no está desarrollado en la fuente.",
+              "host": "jep.gov.co",
+              "title": "Normatividad aplicable",
+              "image": "https://www.jep.gov.co"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elespectador.com/judicial/la-jep-resuelve-las-primeras-apelaciones-sobre-sentencias-de-secuestros-y-falsos-positivos/",
+              "note": "Detalla las sentencias de la JEP en el macrocaso 01 (secuestros FARC), las sanciones propias, las 4.325 víctimas acreditadas y la confirmación en apelaciones. Aporta la magnitud real del régimen de sanciones que el narrador critica.",
+              "host": "elespectador.com",
+              "title": "La JEP deja en firme sus dos primeras sentencias de secuestros y falsos positivos",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/XW5RBUYHQRAM3BEZZ54RG4OB6Q.JPG?quality=60&w=1024&resize=1200,630"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "social",
+          "claim": "El narrador sostiene que las víctimas, y no los victimarios, terminaron pagando el precio de la guerra.",
+          "quote": "dígame usted quién terminó pagando el precio de la guerra las víctimas o los victimarios",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Como afirmación fáctica parcial es cierto: las víctimas soportaron la mayor carga material y humana de la guerra (220.000 muertos y 4,7 millones de desplazados entre 1985 y 2013, costos económicos de miles de billones de pesos) [F2]. Sin embargo, la exclusiva \"y no los victimarios\" es engañosa: la JEP ya condenó a siete exintegrantes del último Secretariado de las FARC —incluido Rodrigo Londoño 'Timochenko'— como penalmente responsables por 21.936 secuestros, imponiéndoles la máxima sanción propia de ocho años de trabajos restauradores con medidas de restricción de derechos y libertades [F5], tras el reconocimiento público de responsabilidad por más de 21.000 secuestros [F4]. La frase es, en última instancia, una opinión o denuncia de las víctimas, no un dato verificable en su totalidad.",
+          "context": "El conflicto armado colombiano dejó entre 1985 y 2013 un total de 220.000 muertos y 4,7 millones de desplazados (Universidad de los Andes); se estima que le costó al país $2.724 billones desde 1964 y que equivale al 4,5 % del PIB (US$30 millones diarios, según ONU) [F2]. El Acuerdo de Paz de 2016 fijó expresamente que \"los acuerdos de paz no pueden implicar un intercambio de impunidades\" y comprometió a las partes a satisfacer los derechos a la verdad, la justicia, la reparación y las garantías de no repetición [F1]. En el Caso 01 (macrocaso de secuestros), la JEP imputó crímenes de guerra y de lesa humanidad, acreditó 4.325 víctimas de secuestro y obtuvo el reconocimiento público de responsabilidad de mandos medios y máximos de las FARC [F4], dictando la primera sentencia restaurativa: ocho años —el máximo del Acuerdo de 2016— de trabajos, obras y actividades restauradoras en 46 proyectos (búsqueda de desaparecidas, contra minas, medio ambiente, memoria y reparación simbólica), con restricción efectiva de derechos pero sin cárcel [F5].",
+          "progressivePerspective": "La pregunta retórica del narrador conecta con un reclamo legítimo de las víctimas: ellas cargaron con el dolor, la pérdida y el despojo, mientras los autores materiales de los secuestros no enfrentan prisión tradicional. Ese malestar está documentado y alimenta la percepción de impunidad [F1] [F2]. Ahora bien, a la luz de los cuatro pilares de la JEP, la afirmación completa resulta parcial: omite que el pilar VERDAD ya operó (405 comparecientes versionados, reconocimientos públicos de responsabilidad por secuestros, violencia sexual, homicidios y desapariciones) [F4] [F5]; que el piler JUSTICIA produjo la primera sentencia contra los máximos responsables, con sanción efectiva aunque restaurativa y no carcelaria [F5]; y que el pilar REPARACIÓN está en ejecución con proyectos de búsqueda de desaparecidas, memoria y reparación simbólica [F4] [F5]. Decir que \"solo pagaron las víctimas\" puede ser legítimo como grito de dolor, pero usado para deslegitimar la JEP como si esta no sancionara a los perpetradores, tiende a negar los avances en verdad y justicia, lo que debilita el relato de no repetición al sugerir que el sistema es cómplice de la impunidad cuando precisamente está juzgando a los máximos responsables [F4] [F5]. El marco correcto no es \"víctimas contra victimarios ante un Estado cómplice\", sino exigir que la sanción restaurativa sea efectiva, verificable y acompañada de reparación integral [F1] [F5].",
+          "whatTheyOmit": "Omite la sentencia de 16 de septiembre de la JEP contra siete exintegrantes del último Secretariado de las FARC (Timochenko, Pablo Catatumbo, Pastor Alape, Joaquín Gómez, 'El Médico', Carlos Antonio Lozada y Ricardo Téllez) por 21.936 secuestros, con declaración de responsabilidad penal por crímenes de guerra y de lesa humanidad y la máxima sanción propia de ocho años con medidas de restricción de libertades [F5]. Omite que 4.325 personas fueron acreditadas como víctimas y que 795 víctimas de secuestro se pronunciaron sobre los dichos de 405 comparecientes [F4] [F5]. Omite el reconocimiento público de responsabilidad de mandos de las FARC por secuestros, violencia sexual, homicidios y desapariciones, y la ejecución de trabajos de búsqueda de personas dadas por desaparecidas [F4] [F5]. Omite que el propio acuerdo de 2016 descartó un \"intercambio de impunidades\" [F1]. La frase, además, es una opinión retórica del narrador, no un dato judicial.",
+          "keyFacts": [
+            "Entre 1985 y 2013 murieron 220.000 colombianos por el conflicto armado y se produjeron 4,7 millones de desplazados (investigación Universidad de los Andes) [F2]",
+            "El conflicto le costó a Colombia $2.724 billones desde 1964, equivalente a 12 veces el presupuesto anual del país, y equivale al 4,5 % del PIB según la ONU [F2]",
+            "La JEP condenó a siete exintegrantes del último Secretariado de las FARC —entre ellos Rodrigo Londoño Echeverry, 'Timochenko'— como penalmente responsables por crímenes de guerra y de lesa humanidad en 21.936 casos de secuestro [F5]",
+            "La sanción impuesta es la máxima sanción propia del Acuerdo de 2016: ocho años de trabajos, obras y actividades restauradoras en 46 proyectos (búsqueda de desaparecidas, contra minas antipersonal, medio ambiente, memoria y reparación simbólica), con restricción de derechos y libertades, sin cárcel [F5]",
+            "4.325 personas fueron acreditadas como víctimas de secuestro de las FARC ante la JEP, y 795 víctimas se pronunciaron sobre los dichos de 405 comparecientes [F4] [F5]",
+            "Exmandos y mandos medios de las FARC reconocieron en público ante la JEP su responsabilidad por secuestros, crímenes de violencia sexual, homicidios y desapariciones [F4]",
+            "El acuerdo de 2016 estableció que los acuerdos de paz no pueden implicar un intercambio de impunidades y comprometió las partes con la verdad, la justicia, la reparación y las garantías de no repetición [F1]",
+            "La frase 'las víctimas y no los victimarios pagaron el precio' es una opinión retórica del narrador del video, no un dato que las fuentes respalden en su totalidad [F4] [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-momento-de-las-victimas-en-la-habana/",
+              "note": "Contexto del acuerdo de víctimas en La Habana: reconocimiento de responsabilidad, principio de no 'intercambio de impunidades' y los cuatro derechos (verdad, justicia, reparación, no repetición). Aporta el marco normativo contra el cual se mide la afirmación.",
+              "host": "razonpublica.com",
+              "title": "El momento de las víctimas en La Habana - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2014/06/nelson_sanchez_reconocimiento_victimas_delegacion_farc.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elpais.com.co/proceso-de-paz/cuanto-le-costo-a-colombia-el-conflicto-armado-de-mas-de-50-anos-con-las-farc.html",
+              "note": "Cuantificación del costo humano y económico de la guerra: 220.000 muertos, 4,7 millones de desplazados, $2.724 billones. Respaldra que las víctimas y la sociedad civil pagaron el precio material y humano de la guerra.",
+              "host": "elpais.com.co",
+              "title": "¿Cuánto le costó a Colombia el conflicto armado de más de 50 años con las Farc?",
+              "image": "https://www.elpais.com.co/resizer/z8CQq4XNGwZjPQZcW5NeoOINPSk=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/semana/SHKDWZK5FNACTA6IJM5NTLQOTI.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://historiacolombiana.com/ideas/economia-de-guerra",
+              "note": "Contexto histórico de la economía de guerra: extorsión, narcotráfico y despojo como motor de financiación de todos los actores armados (guerrillas, paramilitares, carteles), lo que muestra que el 'precio' de la guerra fue pagado por la población civil y el territorio.",
+              "host": "historiacolombiana.com",
+              "title": "Economía de guerra en Colombia: dos siglos de conflicto",
+              "image": "https://historiacolombiana.com/api/public-image/cmscyv3nd001bad0182z2su24?v=1785747387123"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.jep.gov.co/macrocasos/caso01.html",
+              "note": "Fuente oficial del Caso 01: más de 21.000 secuestros, imputaciones por crímenes de guerra y de lesa humanidad, reconocimientos públicos de responsabilidad, 4.321-4.325 víctimas acreditadas y ejecución de la sentencia con búsqueda de desaparecidas. Contrasta directamente la idea de que los victimarios no 'pagaron' nada.",
+              "host": "jep.gov.co",
+              "title": "Caso 01: Toma de rehenes, graves privaciones de la libertad y otros crÃmenes concurrentes cometidos por las Farc-EP",
+              "image": "https://www.jep.gov.co/macrocasos/pictures/caso01/card01.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elespectador.com/judicial/la-jep-sanciono-con-ocho-anos-a-siete-exjefes-de-las-farc-por-21936-casos-de-secuestro/",
+              "note": "Detalle de la primera sentencia restaurativa de la JEP: ocho años de sanción propia (máximo del Acuerdo) a Timochenko y seis exjefes por 21.936 secuestros, con responsabilidad penal declarada y restricción efectiva de libertades. Contraste decisivo con la afirmación del video.",
+              "host": "elespectador.com",
+              "title": "La JEP sancionó con ocho años a siete exjefes de las Farc por 21.936 casos de secuestro",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/3YNWIPSYPVFXVBNN2ES3C7YJHM.png?resize=1200,630"
             }
           ]
         }
