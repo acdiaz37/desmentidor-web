@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:32:49",
+  "generatedAt": "2026-10-14T15:55:34",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -2875,6 +2875,549 @@
               "host": "adnamerica.com",
               "title": "Polémica en Colombia: hija de Petro afirma que si su padre no gana habría fuerte estallido social",
               "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "petro-deje-de-joderle-la-vida-a-los-colombianos-acabamos-de-salir-d",
+      "title": "PETRO, DEJE DE JODERLE LA VIDA A LOS COLOMBIANOS. Acabamos de salir d...",
+      "uploader": "jaimearizabaleta",
+      "url": "https://www.tiktok.com/@jaimearizabaleta/video/7696105581945408774",
+      "duration": 82,
+      "thumbnail": "/media/petro-deje-de-joderle-la-vida-a-los-colombianos-acabamos-de-salir-d/thumb.jpg",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se afirma que Abelardo de la Espriella dijo que no iba a disminuir el salario mínimo, sino a aumentarlo.",
+          "quote": "Abelardo ya dijo que el salario mínimo no lo iba a disminuir al revés lo va a aumentar",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación es mayormente consistente con los registros públicos disponibles. Abelardo de la Espriella ha dicho explícitamente que el salario mínimo 'no se puede bajar' porque ya se le anunció a la gente, y dio instrucciones en sus empresas para mantener el incremento del 23,7% [F5]. La Silla Vacía descartó como falsa una imagen que le atribuía la intención de bajarlo a $1.450.000 y documentó que jamás propuso una disminución [F1]. La segunda parte del enunciado ('lo va a aumentar') es solo parcialmente verificable: no se encuentra en las fuentes una promesa explícita y descarnada de aumento; como candidato condicionó los aumentos a estabilidad macroeconómica, crecimiento y criterios del Banco de la República, y fue crítico del aumento del 23% de 2026 [F1]; como presidente defendió que ese aumento se mantuviera [F5] y su gobierno abrió la concertación para 2027, con proyecciones privadas de alza entre 8% y 10% [F4].",
+          "context": "El salario mínimo de 2026 quedó en $1.750.905 tras un incremento del 23,7%, con auxilio de transporte de $249.095 (pago total de $2.000.000) [F4]. El 12 de febrero de 2026 el Consejo de Estado suspendió provisionalmente ese mínimo por considerar que el gobierno no aplicó los criterios de la Ley 278 de 1996 (inflación, productividad y PIB); de la Espriella se pronunció tres días después defendiendo que el aumento se mantuviera, y el 19 de febrero de 2026 el decreto quedó en firme [F1]. En la mesa de concertación de 1 de octubre de 2026 para el mínimo de 2027 participaron Andi, Asobancaria, SAC, Acopi, Fenalco, el Consejo Gremial Nacional, CGT, CTC, CUT y confederaciones de pensionados, sin cifra oficial aún definida [F4]. Las proyecciones técnicas citadas apuntan a un alza cercana al 8,5% (Davivienda) o de 9% a 10% (Credicorp Capital), lo que llevaría el mínimo de 2027 aproximadamente a $1.925.996 [F4]. Al mismo tiempo, la informalidad laboral supera el 54% según el DANE, debate abierto sobre los efectos del incremento [F4].",
+          "progressivePerspective": "Desde el estándar de verificación democrática, la afirmación tiene un núcleo verificable y respaldado (el rechazo a disminuir el mínimo), pero su forma de 'no lo baja, lo aumenta' comprime matices que el ciudadano necesita para juzgar la política laboral: como candidato, De la Espriella criticó el aumento del 23% de 2026 y sostuvo que los aumentos deben darse 'en medio de una estabilidad económica', 'sin populismo' y con criterios fijados por el Banco de la República [F1][F2]. Como presidente, su conducta documentada es la de defender el aumento ya anunciado y abrir la concertación [F5][F4], no la de anunciar unilateralmente una alza. El valor de verdad completa exige distinguir entre 'no bajar lo ya anunciado', 'aumentar' y 'condicionar el aumento a variables macroeconómicas', pues confundirlos incide directamente sobre el poder adquisitivo de asalariados y pensionados. El tema no corresponde al marco de la JEP (verdad, justicia, reparación y no repetición sobre crímenes del conflicto armado), por lo que se evalúa con los criterios generales de exactitud y buena fe informativa.",
+          "whatTheyOmit": "El video omite que, como candidato, De la Espriella fue crítico del aumento del 23% de 2026 y que condicionó los futuros aumentos al crecimiento económico y a los criterios del Banco de la República [F1]. Omite también que ese aumento de 2026 fue objeto de suspensión provisional por el Consejo de Estado por incumplir la Ley 278 de 1996 [F1]. Y omite que para 2027 no existe cifra oficial: las cifras de 8% o 10% provienen de proyecciones privadas de bancos, no de un compromiso del gobierno [F4].",
+          "keyFacts": [
+            "De la Espriella dijo textualmente que 'el salario mínimo no se puede bajar porque ya se le anunció a la gente' e instruyó a sus empresas a mantener el incremento del 23,7% [F5]",
+            "No existen registros públicos, medios confiables ni redes oficiales que respalden que De la Espriella propusiera bajar el salario mínimo a $1.450.000; esa atribución fue verificada como falsa [F1]",
+            "Como candidato condicionó los aumentos salariales a estabilidad económica, crecimiento sostenido y a decisiones del Banco de la República, y así lo incluyó en su plan de gobierno [F1]",
+            "Fue crítico del aumento del 23% del salario mínimo decretado en el gobierno anterior, calificándolo de ajeno a la 'manera más responsable' [F1]",
+            "El salario mínimo 2026 quedó en $1.750.905 tras un incremento del 23,7% [F4]",
+            "En octubre de 2026 su gobierno abrió la concertación para el mínimo de 2027 sin cifra oficial; las proyecciones privadas van del 8% al 10%, lo que ubicaría el mínimo de 2027 cerca de $1.925.996 [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-dijo-que-bajara-el-salario-minimo-a-1-450-000/",
+              "note": "Verificador (IFCN) que descarta como falsa la atribución de una baja a $1.450.000 y documenta sus declaraciones reales como candidato: crítico del aumento del 23%, condicionado a crecimiento y al Banco de la República; también narra la suspensión del mínimo de 2026 por el Consejo de Estado y su defensa del aumento.",
+              "host": "lasillavacia.com",
+              "title": "Detector: De la Espriella no dijo que bajará el salario mínimo a $1.450.000",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/06/Abelardo-de-la-Espriella-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/una-comparacion-cuidadosa-las-propuestas-economicas-los-candidatos/",
+              "note": "Contexto económico de la propuesta de De la Espriella: ajuste fiscal de 70 billones, meta de crecimiento de 3% a 7% y reactivación minero-energética; aporta el marco de restricciones macroeconómicas que él invoca para condicionar aumentos salariales.",
+              "host": "razonpublica.com",
+              "title": "Una comparación cuidadosa de las propuestas económicas de los candidatos",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/06/3.1.-dinero.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/comunicados-y-boletines/estadisticas-sociales/mercado-laboral",
+              "note": "Portal del DANE con series históricas del mercado laboral y de la negociación salarial (incluye contexto para la concertación del salario mínimo 2026 y 2027); sirve como fuente primaria para contrastar cifras de empleo y salarios.",
+              "host": "dane.gov.co",
+              "title": "Mercado laboral (Empleo y desempleo) Históricos",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/10/06/salario-minimo-de-2027-gobierno-de-abelardo-de-la-espriella-puso-la-primer-condicion-a-trabajadores-y-empresarios-para-el-proximo-aumento/",
+              "note": "Situación real bajo el gobierno de De la Espriella: concertación abierta para 2027 sin cifra oficial, proyecciones privadas del 8% al 10%, salario mínimo 2026 en $1.750.905 y formalidad por debajo del 54% de informalidad.",
+              "host": "infobae.com",
+              "title": "Hacemos Periodismo",
+              "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/confidenciales/articulo/salario-minimo-abelardo-de-la-espriella-pide-mantener-el-incremento-del-237-y-lanza-una-propuesta-para-los-empresarios/202625/",
+              "note": "Registro directo de su declaración: el salario mínimo 'no se puede bajar' porque ya se anunció; instrucciones en sus empresas para mantener el 23,7% y propuesta de bajar impuestos a empresarios; confirma la parte 'no disminuir' de la afirmación.",
+              "host": "semana.com",
+              "title": "Salario mínimo: Abelardo de la Espriella pide mantener el incremento del 23,7% y lanza una propuesta para los empresarios",
+              "image": "https://www.semana.com/resizer/v2/WDQLBBZ7OVDRPF3GRVJNKELKLI.jpg?auth=e9a83c4b218f12dcf292c1d9ec25b95067429c462043d95807dc6fe965f8f61a&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se atribuye al gobierno anterior el haber aumentado el precio de los alimentos en un 32%.",
+          "quote": "en tu gobierno subió el precio de los alimentos en un 32%",
+          "figures": [
+            "32%"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes entregadas respalda ni desmiente la cifra de 32% de aumento en el precio de los alimentos atribuida al gobierno anterior: las fuentes del DANE y del Banco de la República aportan únicamente la estructura de publicación del IPC, sin las series numéricas ni el subgrupo de alimentación, y las fuentes periodísticas tratan otros temas [F3][F4][F5][F2][F1]. Por tanto, la afirmación queda como dato no verificable con la evidencia disponible.",
+          "context": "El Índice de Precios al Consumidor (IPC) del DANE es la serie oficial con la que en Colombia se miden las variaciones de precios, incluido el subgrupo de alimentación, y tanto el DANE como el Banco de la República publican boletines técnicos y comunicados mensuales con esas variaciones; sin embargo, las páginas capturadas en las fuentes solo muestran el índice temporal de boletines de 2018 a 2026, sin cifras de variación acumulada ni desagregado de alimentos [F3][F4][F5]. La afirmación tampoco precisa período (acumulado del mandato, variación anual, punto a punto), ámbito (índice nacional, canasta básica) ni fuente que la sustente, lo que hace imposible contrastarla con la evidencia disponible [F3][F4][F5]. Como referencia del período, el artículo de La Silla Vacía documenta que el nuevo gobierno firmó su primer mes de actos administrativos y que un terremoto le tocó a los dos días de iniciar, contexto que el video también menciona, pero no aporta datos de precios de alimentos [F2].",
+          "progressivePerspective": "La afirmación se enmarca en un monólogo de contraste político entre gobiernos, no en materia del conflicto armado ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repeticion resulta sólo tangencial: se aplica el criterio general de verificación de datos públicos. Desde ese criterio, atribuir un porcentaje exacto a un gobierno sin indicar periodo, fuente ni metodología, y sin que las fuentes oficiales del DANE presentes en el material lo respalden, introduce un dato no comprobable en el debate público [F3][F4][F5]. El esclarecimiento de la verdad —ya sea en el debate político ordinario o en sede judicial— exige trazabilidad de la cifra: sin la serie del IPC del subgrupo de alimentación, la cifra no puede ni confirmarse ni descartarse, y presentarla como hecho consolidado puede inducir a error a quien la escuche [F3][F5]. Señalar esto no implica que la cifra sea falsa, sino que la evidencia suministrada no alcanza para concluirla [F3][F4][F5].",
+          "whatTheyOmit": "Se omite la fuente de la cifra, el período exacto al que correspondería el 32%, si se trata de variación acumulada del mandato o de un año, y la base de comparación; tampoco se distingue entre inflación general y variación específica del subgrupo de alimentación, ni se descarta el efecto de factores externos (tipo de cambio, precios internacionales, choques de oferta) sobre los precios de los alimentos [F3][F4][F5]. También se omite que las fuentes disponibles no contienen las series numéricas que permitirían contrastar el dato [F3][F4][F5].",
+          "keyFacts": [
+            "El IPC del DANE, con boletines técnicos y comunicados mensuales de 2018 a 2026, es la serie oficial de precios al consumidor en Colombia, base de medición de la inflación y de sus componentes [F3][F4]",
+            "El Banco de la República publica a su vez el índice de precios al consumidor como referencia de política monetaria [F5]",
+            "Las fuentes entregadas no incluyen ninguna cifra de variación de precios de alimentos, por lo que la cifra de 32% no puede contrastarse con ellas [F3][F4][F5]",
+            "La afirmación carece de indicación de periodo, ámbito o fuente que la sustente en el propio video [F3]",
+            "El artículo de La Silla Vacía documenta el arranque del nuevo gobierno, su producción normativa inicial y un terremoto ocurrido a los dos días de inicio, coincidente con la mención del video a un terremoto reciente [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/eln-dinamita-la-paz-total-gobierno/",
+              "note": "Análisis sobre el ELN, la Paz Total y la gobernabilidad territorial; no aporta datos de precios de alimentos, por lo que no sirve para contrastar el 32%.",
+              "host": "razonpublica.com",
+              "title": "ELN dinamita la Paz Total con el gobierno | Razón Pública 2025",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/02/destruccion_de_cultivo_y_laboratorio_base_de_coca_3.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-por-decreto-de-abelardo-avanza-mas-lento-de-lo-que-prometio/",
+              "note": "Contexto del primer mes del gobierno de De la Espriella (decretos, derogaciones de normas de Petro, terremoto a los dos días); útil para situar la comparación entre gobiernos, pero sin cifras de precios de alimentos.",
+              "host": "lasillavacia.com",
+              "title": "El gobierno por decreto de Abelardo avanza más lento de lo que prometió",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/FotoJet-20.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc/ipc-historico?highlight=WyJvY2RlIiwyMDE5XQ==",
+              "note": "Índice histórico de boletines del IPC del DANE 2018-2026; confirma la existencia de la serie oficial pero no muestra los valores numéricos ni el subgrupo de alimentación.",
+              "host": "dane.gov.co",
+              "title": "Índice de Precios al Consumidor -IPC- Histórico",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://sitios.dane.gov.co/ipc/visorIPC/",
+              "note": "Visor del IPC del DANE: herramienta oficial de consulta de precios, sin cifras extraídas en la fuente.",
+              "host": "sitios.dane.gov.co",
+              "title": "Visor IPC",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.banrep.gov.co/economia/calendario/IPC.htm",
+              "note": "Calendario de publicación del IPC del Banco de la República; la página devolvió una pantalla de bloqueo, por lo que no aporta series numéricas verificables.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Se afirma que el gobierno anterior dejó un déficit fiscal de 118 billones de pesos.",
+          "quote": "dejaste un déficit fiscal de 118 billones de pesos",
+          "figures": [
+            "118 billones de pesos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La cifra corresponde al dato oficial: el cierre fiscal 2025 del Gobierno Nacional Central arrojó un déficit de $117,8 billones (≈$118 billones), equivalente al 6,4% del PIB [F3][F5]. Es correcta como monto, pero la presentación como simple 'dejo' sin contexto omite que la cifra mejora frente a 2024 (6,7%) y quedó por debajo de la meta del Marco Fiscal de Mediano Plazo (7,1%) [F3][F5].",
+          "context": "El déficit total 2025 fue de $117,8 billones, 6,4% del PIB, el segundo más alto de la historia reciente excluyendo la pandemia (2020-2021), por debajo del dato de 2024 (6,7%) y dentro de la meta del MFMP (7,1%) [F3]. El déficit primario (sin intereses) empeoró: pasó de 2,4% del PIB en 2024 a 3,5% en 2025, incumpliendo la meta de 2,4%; el mejor resultado del déficit total se apoyó en operaciones contables de deuda, sin las cuales el CARF calcula que el déficit habría rondado 8,2% del PIB [F5]. En junio de 2025 el gobierno activó la cláusula de escape de la regla fiscal para 2025-2027, con concepto desfavorable del Comité Autónomo de la Regla Fiscal [F5]. La deuda bruta del Gobierno llegó a $1.192,6 billones (64,7% del PIB), la mayor en pesos desde 2001 [F3]. Una fuente independiente (Datosmacro) reporta un déficit público de 5,75% del PIB para 2025, cifra que difiere por metodología (déficit público consolidado vs. Gobierno Nacional Central) [F4].",
+          "progressivePerspective": "La afirmación incumple parcialmente con los principios de verdad y no repetición en materia de rendición de cuentas económica: la cifra de $118 billones es real y verificable [F3][F5], pero presentarla aisladamente como si fuera un 'déjame' sin explicar su composición omite datos materiales: el déficit total bajó frente a 2024 y cumplió la meta del MFMP, mientras que el deterioro real se concentró en el déficit primario y en la deuda, cuyo crecimiento estructural es previo a la administración mencionada [F3][F5]. El estándar de no repetición aplicado a la gestión pública exige que los datos fiscales se publiquen con su serie histórica y metodología, de modo que la ciudadanía pueda atribuir responsabilidades con precisión; una cifra verdadera usada sin su evolución y sin las advertencias técnicas del CARF [F5] cumple el propósito de asignar culpa pero no el de esclarecer la causa ni orientar la corrección, que es lo que permite evitar la repetición de desequilibrios fiscales.",
+          "whatTheyOmit": "Se omita que el déficit 2025 (6,4%) fue menor que el de 2024 (6,7%) y por debajo de la meta del MFMP de 7,1% [F3][F5]. Se omite que el déficit primario empeoró (de 2,4% a 3,5% del PIB) y que, según el CARF, sin operaciones contables de deuda el déficit habría sido ~8,2% [F5]. Se omite la activación de la cláusula de escape de la regla fiscal en junio de 2025 y el concepto desfavorable del CARF [F5]. También se omite que existen metodologías alternativas que sitúan el déficit público de Colombia 2025 en 5,75% del PIB [F4], y que la cifra corresponde al cierre anual 2025 reportado por el Ministerio de Hacienda [F2][F3].",
+          "keyFacts": [
+            "El cierre fiscal 2025 del Gobierno Nacional Central registró un déficit de $117,8 billones, equivalente al 6,4% del PIB [F3]",
+            "El déficit de 2025 quedó por debajo del dato de 2024 (6,7% del PIB) y dentro de la meta del Marco Fiscal de Mediano Plazo (7,1%) [F3][F5]",
+            "El déficit primario pasó de 2,4% del PIB en 2024 a 3,5% en 2025, incumpliendo la meta de 2,4% [F5]",
+            "En junio de 2025 el gobierno activó la cláusula de escape de la regla fiscal para 2025, 2026 y 2027, con concepto desfavorable del CARF [F5]",
+            "La deuda bruta del Gobierno llegó a $1.192,6 billones (64,7% del PIB), la mayor en pesos desde 2001 [F3]",
+            "Una fuente externa estima el déficit público de Colombia 2025 en 5,75% del PIB, cifra distinta a la del cierre fiscal del Gobierno Nacional Central [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/tag/deficit-fiscal-2026/",
+              "note": "Página de archivo sobre déficit fiscal 2026; el contenido disponible en la fuente no aporta cifras verificables para esta afirmación.",
+              "host": "razonpublica.com",
+              "title": "Déficit fiscal 2026 archivos - Razón Pública",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minhacienda.gov.co/documents/d/portal/cierre-macro-fiscal-4t2025",
+              "note": "Cierre fiscal oficial del Ministerio de Hacienda (4T 2025); la fuente no fue accesible directamente (bloqueo por verificación), por lo que los datos se toman de su reporte secundario en F3 y F5.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.valoraanalitik.com/confirmado-deficit-fiscal-de-colombia-en-2025-llego-a-64-del-pib-el-segundo-mas-alto-del-siglo-sin-contar-la-pandemia/",
+              "note": "Reporta el déficit 2025 en $117,8 billones (6,4% del PIB), su comparación con 2024 y el MFMP, la deuda bruta y los ingresos/gastos del año. Es la fuente clave que respalda la cifra alegada.",
+              "host": "valoraanalitik.com",
+              "title": "Confirmado: Déficit fiscal de Colombia en 2025 llegó a 6,4 % del PIB, el segundo más alto del siglo sin contar la pandemia",
+              "image": "https://www.valoraanalitik.com/wp-content/uploads/2025/10/Petro-bandera-Colombia.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://datosmacro.expansion.com/deficit/colombia",
+              "note": "Contraste metodológico: estima el déficit público de Colombia 2025 en 5,75% del PIB (déficit consolidado), cifra inferior a la del cierre fiscal del Gobierno Nacional Central.",
+              "host": "datosmacro.expansion.com",
+              "title": "Déficit público de Colombia 2025",
+              "image": "https://datosmacro.expansion.com/img/flag/COg.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://jhonmosquera.com/economia/macro/deficit-fiscal/deficit-fiscal-colombia/",
+              "note": "Detalle del déficit 2025 (6,4%, ~$118 billones), evolución del déficit primario, rol de operaciones de deuda, estimación del CARF (~8,2% sin ellas) y activación de la cláusula de escape de la regla fiscal. Aporta el contexto que la afirmación omite.",
+              "host": "jhonmosquera.com",
+              "title": "Déficit fiscal de Colombia: 6,4% del PIB en 2025",
+              "image": "https://jhonmosquera.com/wp-content/uploads/2026/07/deficit-fiscal-colombia-hero-16x9-1.webp"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "economia",
+          "claim": "Se afirma que con Abelardo de la Espriella multinacionales de todo el mundo han anunciado inversiones de 1.000 millones de dólares.",
+          "quote": "con Abelardo de las preyes ya las multinacionales alrededor del mundo han dicho que van a invertir 1 000 millones de dólares",
+          "figures": [
+            "1.000 millones de dólares"
+          ],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La cifra de 1.000 millones de dólares sí tiene respaldo: el 27 de septiembre de 2026 el presidente Abelardo de la Espriella anunció una inversión de USD 1.000 millones a cinco años de una multinacional de alimentos (vinculada a la agenda con PepsiCo), comunicada por su cuenta de X [F5]. Sin embargo, las fuentes disponibles solo documentan UNA empresa y UN anuncio, no a 'multinacionales de todo el mundo' en plural; la generalización de la afirmación no está respaldada por las fuentes entregadas [F5].",
+          "context": "El dato exacto corresponde a un anuncio presidencial individual: 'Una inversión de USD 1.000 millones para los siguientes cinco años fue anunciada el domingo 27 de septiembre de 2026 por el presidente Abelardo de la Espriella... a través de su cuenta de X', con tres líneas de gasto (producción, operaciones y distribución) sin desglose público, y contexto previo de una agenda gobierno-PepsiCo del 6 de septiembre de 2026 sobre materias primas agrícolas [F5]. Como referencia de magnitud, la inversión extranjera directa recibida en Colombia en 2024 fue de USD 11.808 millones en flujos financieros, según la EAID del DANE [F4]; esto sitúa los 1.000 millones anunciados (a cinco años) como un monto relevante pero de un solo proyecto, no como una ola de inversiones mundiales. Adicionalmente, una investigación sobre el 'universo empresarial' del propio de la Espriella encontró 35 empresas a su nombre, con fortaleza en bienes raíces y marcas con pérdidas, lo que aporta contexto sobre su imagen de éxito empresarial [F2].",
+          "progressivePerspective": "No aplica el marco de verdad, justicia, reparación y no repetición de la JEP: la afirmación no corresponde al conflicto armado colombiano ni a procesos de justicia transicional. En su propio terreno —verificación de información pública—, la observación relevante es de método: el video convierte un anuncio único, presidencial, a cinco años y sin desglose, en un plural amplificado ('las multinacionales alrededor del mundo') que sugiere un respaldo global masivo. Esa expansión de un hecho puntual a una tendencia universal es la parte no respaldada por las fuentes y es la que merece verificación antes de aceptarse [F5]. Separando planos: el monto citado es verificable y correcto; la atribución plural y global es opinión/generalización sin evidencia en las fuentes disponibles [F5].",
+          "whatTheyOmit": "Se omite que, según las fuentes, existe un solo anuncio de USD 1.000 millones de una compañía de alimentos, no un conjunto de multinacionales; se omite que la cifra corresponde a un horizonte de cinco años y que el anuncio no desglosa el destino de los recursos [F5]. También se omite cualquier referencia a la magnitud histórica de la IED colombiana (USD 11.808 millones de flujos recibidos en 2024), que permitiría dimensionar el anuncio dentro del total de inversión extranjera del país [F4].",
+          "keyFacts": [
+            "El 27 de septiembre de 2026 el presidente Abelardo de la Espriella anunció, vía su cuenta de X, una inversión de USD 1.000 millones para los siguientes cinco años en Colombia, de una compañía de alimentos, para ampliar producción, modernizar operaciones y expandir distribución [F5]",
+            "El anuncio se conecta con una agenda previa gobierno-PepsiCo del 6 de septiembre de 2026 sobre aumento de producción nacional de materias primas (papa, plátato, maíz amarillo) [F5]",
+            "La IED recibida en Colombia registró flujos financieros de USD 11.808 millones en 2024 según la EAID del DANE [F4]",
+            "Las fuentes entregadas no documentan anuncios de inversión de 1.000 millones por parte de múltiples multinacionales distintas; solo consta el anuncio de una compañía [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/es-posible-recuperar-el-control-de-las-carceles/",
+              "note": "Artículo sobre control penitenciario (INPEC, cárceles flotantes, megacárceles); no aporta información sobre el anuncio de inversión de 1.000 millones.",
+              "host": "razonpublica.com",
+              "title": "¿Es posible recuperar el control de las cárceles? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/10/6.1-Sistema-carcelario-colombiano.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-universo-empresarial-de-abelardo-de-la-espriella/",
+              "note": "Contexto sobre el perfil empresarial de de la Espriella: 35 empresas rastreadas, fortaleza en bienes raíces, marcas con pérdidas; útil para el contraste de imagen de éxito empresarial.",
+              "host": "lasillavacia.com",
+              "title": "El “universo empresarial” de Abelardo de la Espriella",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/01/Abelardo_De_La_Espriella_y_sus_negocios_portada_huevos_924.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.banrep.gov.co/es/node/27981",
+              "note": "Página del Banco de la República bloqueada por control anti-bot; no aporta datos utilizables.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/comercio-internacional/encuesta-anual-de-inversion-directa",
+              "note": "EAID 2024 del DANE: IED recibida en Colombia por USD 11.808 millones en flujos; aporta magnitud real para dimensionar el anuncio.",
+              "host": "dane.gov.co",
+              "title": "Encuesta Anual de Inversión Directa (EAID)",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2026/09/28/abelardo-de-la-espriella-anuncio-inversion-de-usd-1000-millones-en-colombia-para-ampliar-produccion-distribucion-y-apoyar-al-campo/",
+              "note": "Fuente central: confirma el anuncio de USD 1.000 millones a cinco años por una sola compañía anunciado por el presidente el 27/09/2026; es el respaldo del monto y la base del contraste con el plural 'multinacionales de todo el mundo'.",
+              "host": "infobae.com",
+              "title": "Abelardo de la Espriella anunció inversión de empresa internacional por USD 1.000 millones en Colombia para ampliar producción, distribución y apoyar al campo",
+              "image": "https://www.infobae.com/resizer/v2/W4TIVLTY4BAPHKHYK36QRCRN54.png?auth=cab34bb871e305566cb8b0274f309243e360e8efb6ae94e66f853f61251abc67&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se atribuye al gobierno anterior haber entregado a Santurbán la minería ilegal.",
+          "quote": "le entregaste a saturban a la minería ilegal",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Se constata que existe minería ilegal activa y dañina en el páramo de Santurbán [F4] y que organizaciones de la región formularon textualmente la acusación de que el gobierno saliente 'entregó' Santurbán a la minería criminal [F5]. Sin embargo, ninguna de las fuentes aporta una prueba, investigación o decisión oficial que establezca que el gobierno anterior 'entregó' el páramo a la minería ilegal; se trata de una alegación política de terceros, no de un hecho demostrado [F2][F4][F5].",
+          "context": "El conflicto de Santurbán arranca mucho antes de la administración acusada: la delimitación de 2014 fue anulada por la Corte Constitucional (sentencia T-361 de 2017) por falta de participación, y las decisiones sobre explotación minera en el páramo han dependido históricamente de la Presidencia en distintos gobiernos [F1][F4]. En marzo de 2025 el Ministerio de Ambiente creó una Zona de Reserva Temporal sobre 75.000 hectáreas de la provincia de Soto Norte que restringió la minería de oro y plata [F4]. En julio de 2026 ese ministerio presentó tres proyectos normativos (Resolución 863 de 2026, reserva en la microcuenca de La Baja y prórroga de la reserva temporal hasta 2029) que, según el propio ministerio, no habilitan minería en páramo y remiten la minería ilegal a las autoridades competentes [F2]. Paralelamente, investigaciones periodísticas documentan más de 200 entradas a minas en jurisdicción de California, la pérdida de cobertura vegetal y una estimación de la UIAF de ingresos cercanos a los $26.000 millones mensuales por la actividad ilegal [F4].",
+          "progressivePerspective": "En términos de verdad, reparación y no repetición, la afirmación funciona como atribución generalizada de responsabilidad a un solo actor sin sustento probatorio en las fuentes: ninguna prueba de un acto formal de 'entrega' aparece en los documentos disponibles [F2][F4][F5]. El responsable de la acusación citada en las fuentes es una dirigente regional de minería pequeña, cuya organización anunció denuncias penales (prevaricato, abuso de autoridad) que aún no tienen resolución conocida [F5], de modo que la alegación está en disputa y no constituye verdad judicialmente establecida. Asimismo, el relato omite que la administración acusada también adoptó medidas de protección (reserva temporal de 75.000 hectáreas en 2025 y los tres instrumentos de 2026) [F2][F4], y que la minería ilegal en la zona es un fenómeno precedente, vinculado a precios del oro y a la llegada de personas de otras regiones, no a un acto único de entrega [F4]. Presentar un problema estructural de décadas como un hecho atribuible a una sola administración reduce la complejidad y dificulta la verificación, aunque la denuncia en sí misma sí proviene de actores locales que señalan perjuicios concretos sobre su actividad económica [F5].",
+          "whatTheyOmit": "Omite que la minería ilegal en Santurbán es anterior a la administración acusada y que la disputa por el páramo abarca gobiernos sucesivos, incluida la decisión presidencial sobre explotación reportada para la administración de Iván Duque [F1][F4]. Omite también que el mismo ministerio acusado impuso la Zona de Reserva Temporal de 75.000 hectáreas en 2025 y presentó en julio de 2026 instrumentos que, según sus propios términos, no habilitan minería en páramo y remiten la acción sobre minería ilegal a las autoridades competentes [F2][F4]. Finalmente, omite que la cita de 'entrega' corresponde a una declaración de una dirigente minera local que anuncia denuncias aún sin resolver, no a una investigación concluida [F5].",
+          "keyFacts": [
+            "La minería ilegal está activa en zona de influencia del páramo de Santurbán: se documentaron más de 200 entradas a minas en jurisdicción de California, pérdida de cobertura vegetal y circulación de motocicletas para transporte de trabajadores y materiales [F4]",
+            "Un estudio de la UIAF citado por el medio regional estimó que la minería ilegal en la zona de Soto Norte podría generar ingresos cercanos a los $26.000 millones mensuales [F4]",
+            "La acusación de que el gobierno 'entregó' Santurbán a la minería criminal proviene de declaraciones de una dirigente de organización minera de Vetas, cuyo grupo anunció denuncias por prevaricato, abuso de autoridad y extralimitación de funciones contra el ministerio y sus funcionarios [F5]",
+            "El Ministerio de Ambiente de la administración acusada estableció en marzo de 2025 una Zona de Reserva Temporal sobre 75.000 hectáreas de Soto Norte que restringió la minería de extracción de oro y plata por dos años, con posibilidad de ampliación [F4]",
+            "En julio de 2026 el ministerio presentó la Resolución 863 de 2026 y dos proyectos más de delimitación progresiva y reserva, señalando que no habilitan minería en el área de páramo y que la minería ilegal corresponde a las autoridades competentes [F2]",
+            "El proceso de delimitación de Santurbán arranca de la Resolución 2090 de 2014, anulada por la Corte Constitucional en la sentencia T-361 de 2017 por vulnerar el derecho a la participación ambiental [F1][F4]",
+            "Las decisiones sobre minería en inmediaciones del páramo han dependido históricamente de la decisión presidencial, según el análisis del proceso de delimitación y licenciamiento en gobiernos anteriores [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/paramo-santurban-dano-se-viene/",
+              "note": "Contexto histórico: la explotación en Santurbán dependía de la delimitación (Ministerio de Ambiente) y la licencia ambiental (ANLA), con alto ingrediente político ligado a la Presidencia, en la administración de Iván Duque; aporta el precedente de que la controversia precede al gobierno acusado.",
+              "host": "razonpublica.com",
+              "title": "El páramo de Santurbán: el daño se viene encima - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2020/08/delimitacion-favorece-mineras-Santurban-caminos-Duque-Erwing-Rodriguez.Salaj_.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.infobae.com/colombia/2026/07/15/en-medio-de-la-polemica-por-mineria-ilegal-en-santurban-ministerio-de-ambiente-de-petro-presento-hoja-de-ruta-para-la-proteccion-de-los-paramos/",
+              "note": "Contraste: los tres instrumentos normativos de julio de 2026 del ministerio de la administración acusada, con la aclaración de que no habilitan minería en páramo y de que la minería ilegal corresponde a las autoridades competentes.",
+              "host": "infobae.com",
+              "title": "En medio de la polémica por minería ilegal en Santurbán, Ministerio de Ambiente de Petro presentó hoja de ruta para la protección de los páramos",
+              "image": "https://www.infobae.com/resizer/v2/TFKFJ6YVR5C65DUKCP326GMFOU.jpg?auth=d19e00d0a1c000d600b424819612ce5a3a153f090b9b45d1548b9b3aa10ba462&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/vida/medio-ambiente/paramo-de-santurban-cual-es-el-impacto-de-la-mineria-en-el-ecosistema-y-el-agua-792134",
+              "note": "Contexto: magnitud hídrica del páramo (2,5 millones de personas, 1 millón en el área metropolitana de Bucaramanga, 30% del agua de Cúcuta) y antigüedad de la actividad minera en la región.",
+              "host": "eltiempo.com",
+              "title": "Páramo de Santurbán: sin delimitación y entre tensiones por la minería",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/08/01/64c9c35fe704f.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/negocios/mineria-ilegal-santurban-fotografias-danos-paramo-santander-PE38787679",
+              "note": "Evidencia del daño por minería ilegal actual (200+ entradas a minas, cobertura vegetal perdida, estimación UIAF) y de la Zona de Reserva Temporal de marzo de 2025 sobre 75.000 hectáreas; aporta el hecho verificable y el contraste sobre medidas del gobierno acusado.",
+              "host": "elcolombiano.com",
+              "title": "FotografÃas revelan cÃ³mo la minerÃa ilegal deja graves daÃ±os en el pÃ¡ramo de SanturbÃ¡n",
+              "image": "https://estaticos.elcolombiano.com/binrepository/742x519/0c0/0d0/none/11101/SJPF/paramo-santurban-mineria-ilegal_51108373_20260713122759.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://elfrente.com.co/gobierno-petro-le-entrego-el-paramo-de-santurban-a-la-mineria-criminal/",
+              "note": "Única fuente que contiene la acusación literal ('entregó el páramo a la minería criminal'), atribuida a declaraciones de una dirigente minera local que anuncia denuncias penales; muestra que se trata de una alegación en disputa, no de una verdad judicial.",
+              "host": "elfrente.com.co",
+              "title": "\"Gobierno Petro le entregó el páramo de Santurbán a la minería criminal\"",
+              "image": "https://elfrente.com.co/content/images/size/w1200/2026/07/1-31.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "seguridad",
+          "claim": "Se afirma que había una mina de minería ilegal de oro en una base militar bajo control del gobierno anterior.",
+          "quote": "había una Mina de minería ilegal de oro en una base militar que vos controlabas",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La existencia de una mina ilegal de oro al interior (y en los inmediatos) de una base militar es un hecho documentado: la finca La Mandinga, operada por mineros ilegales ligados al Clan del Golfo, llegó hasta unos 137 metros de las dependencias del Batallón 31 Rifles en Caucasia, Antioquia [F3][F4][F5]. Sin embargo, la atribución de 'control' de esa mina al gobierno anterior no tiene respaldo en las fuentes: ellas señalan que quien controlaba y cobraba cuotas por la extracción era el Clan del Golfo, que el predio estaba bajo administración de la Sociedad de Activos Especiales tras extinción de dominio, y que el ministro de Defensa de ese gobierno ordenó la investigación al conocer el reportaje [F3][F4][F5].",
+          "context": "El reportaje del fotoperiodista Federico Ríos en The New York Times (abril de 2026) documentó con imágenes aéreas, recorridos y testimonios la explotación aurífera dentro del perímetro del Batallón de Infantería No. 31 Rifles. La finca La Mandinga, de cerca de 2.000 hectáreas, está bajo administración de la Sociedad de Activos Especiales (SAE) tras haber sido objeto de extinción de dominio, y en ella se asentaban entre 2.000 y 2.500 mineros informales sin título legal [F3][F4][F5]. El Ejército afirmó que desde 2022 había puesto los hechos en conocimiento de la Fiscalía y la Procuraduría y que había realizado más de 20 intervenciones con destrucción de maquinaria; el comandante de la base negó inicialmente la extracción y, al ver las imágenes, reconoció la actividad [F3][F4][F5]. El ministro de Defensa de entonces ordenó una verificación e investigación inmediata y advirtió que no se toleraría 'ninguna relación entre los miembros del sector defensa y las economías criminales' ni 'omisiones' [F4][F5]. El contexto estructural es el de un sector minero con vacíos de control, información no transparente y riesgos persistentes de corrupción que datan de administraciones anteriores [F1], y de una disputa criminal por el oro en la que el Clan del Golfo financia sus estructuras con minería ilegal, con una unidad de élite de la Policía (Unimil) y un batallón del Ejército desplegados para contenerla [F2][F3].",
+          "progressivePerspective": "A la luz de los fines de verdad, justicia, reparación y no repetición, el punto central es que la afirmación contiene un hecho grave y verificable cuya esclarecimiento es valioso: la minería ilegal al interior de una instalación militar, con cuotas que financian a una estructura armada criminal y con oro que llega a cadenas formales internacionales [F3], expone una falla institucional seria cuya aceptación y reparación son condiciones de no repetición. El reconocimiento de omisiones —el comandante de la base negó inicialmente la explotación y solo la reconoció ante las imágenes [F4][F5]— es precisamente el tipo de verdad que fortalece la rendición de cuentas. Ahora bien, la afirmación desplaza esa responsabilidad institucional hacia una atribución de 'control' al gobierno anterior que las fuentes no respaldan: ellas ubican el control material de la mina en el Clan del Golfo, el predio bajo administración de la SAE y la reacción del ministro de Defensa de ese mismo gobierno ordenando la investigación [F3][F4][F5]. Atribuir responsabilidad sin evidencia ni decisión judicial no esclarece la verdad ni reconoce responsabilidades verificables; por el contrario, politiza un caso que sí amerita investigarse con rigor para garantizar no repetición. Las fuentes disponibles son reportajes periodísticos y comunicados institucionales, no decisiones judiciales, por lo que no es posible concluir sobre responsabilidad formal de funcionarios o gobiernos [F3][F4][F5].",
+          "whatTheyOmit": "Se omite que el control efectivo de la mina y la recaudación de cuotas correspondían al Clan del Golfo y a mineros ilegales, no a funcionarios del gobierno [F3]. Se omite que el predio estaba bajo administración de la SAE tras extinción de dominio [F3][F4][F5]. Se omite que el ministro de Defensa de ese gobierno ordenó la investigación inmediata al conocer el reportaje y advirtió contra vínculos y omisiones [F4][F5]. Se omite que el Ejército afirma haber denunciado los hechos desde 2022 ante Fiscalía y Procuraduría y haber realizado más de 20 intervenciones [F3][F4][F5]. Se omite que el comandante de la base negó inicialmente la extracción y que la revelación provino de un reportaje periodístico [F4][F5]. Se omite que no existe en las fuentes ninguna decisión judicial que atribuya 'control' de la mina al gobierno anterior [F3][F4][F5]. También se omite el dato de que parte del oro ilícito llegó a circuitos formales internacionales, incluida la Casa de la Moneda de Estados Unidos, según una auditoría del Tesoro de ese país [F3].",
+          "keyFacts": [
+            "Existió una mina ilegal de oro (finca La Mandinga) en los límites y al interior del Batallón de Infantería No. 31 Rifles, en Caucasia, Antioquia, documentada con imágenes aéreas, recorridos y testimonios [F4][F5]",
+            "La explotación alcanzó hasta unos 137 metros de la piscina y las dependencias de la base [F4][F5]",
+            "Entre 2.000 y 2.500 mineros informales operaban sin título en un predio de cerca de 2.000 hectáreas bajo administración de la SAE tras extinción de dominio [F3][F4][F5]",
+            "Los mineros deben pagar cuotas al Clan del Golfo, lo que convierte la extracción de oro en fuente clave de financiación de esa estructura armada [F3]",
+            "Parte del oro extraído ilegalmente logró insertarse en cadenas internacionales de suministro, incluso en la Casa de la Moneda de Estados Unidos, según auditoría del Tesoro de EE. UU. de 2024 [F3]",
+            "El comandante de la base negó inicialmente la extracción de oro y, tras compartir las imágenes, se mostró sorprendido y prometió medidas [F4][F5]",
+            "El ministro de Defensa de abril de 2026 ordenó verificación e investigación inmediata por el caso y advirtió que no se tolerarían vínculos ni omisiones con economías criminales [F4][F5]",
+            "El Ejército afirmó que desde 2022 había denunciado los daños ambientales ante Fiscalía y Procuraduría y realizado más de 20 intervenciones con destrucción de maquinaria [F3][F4][F5]",
+            "Las intervenciones militares generaron respuestas violentas, como bloqueos en la Troncal de Occidente e intentos de asonada contra la Fuerza Pública, anunciados como objeto de investigaciones judiciales [F3][F4][F5]",
+            "En el año en curso se intervinieron alrededor de 2.500 minas ilegales y se destruyeron cerca de 1.000 máquinas de extracción ilegal, según el ministro de Defensa [F3][F4][F5]",
+            "Las fuentes no contienen ninguna decisión judicial ni hallazgo que atribuya el control de la mina a funcionarios del gobierno anterior [F3][F4][F5]",
+            "El sector minero colombiano presenta vacíos de control, información no transparente y riesgos persistentes de corrupción que preceden a la administración en cuestión, al amparo de un código de minas de 2001 y la caída de la Ley 1382 de 2010 [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/vacios-que-motivan-la-corrupcion-minera-siguen-vigentes/",
+              "note": "Contexto estructural: vacíos de control, obsolescencia normativa y riesgos de corrupción minera acumulados en el tiempo; no trata el caso de la base militar.",
+              "host": "razonpublica.com",
+              "title": "Vacíos que motivan la corrupción minera siguen vigentes - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2013/11/alvaro_pardo_sector_mineria_mineria_esmeraldas.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-clan-del-golfo-va-ganando-la-guerra-subterranea-del-oro-en-buritica/",
+              "note": "Contraste: documenta la guerra por el oro en la mina de Buriticá (Zijin), el avance de mineros ilegales ligados al Clan del Golfo y la respuesta institucional (Unimil y batallón del Ejército) en otro caso, no en la base militar.",
+              "host": "lasillavacia.com",
+              "title": "El Clan del Golfo va ganando la guerra subterránea del oro en Buriticá",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/03/IMG_9975-scaled.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/ejercito-responde-a-denuncia-sobre-mineria-ilegal-en-base-militar-reconocio-actividad-masiva-en-la-mandinga-MG35882493",
+              "note": "Respuesta del Ejército: reconoce la actividad minera masiva, atribuye el predio a la SAE, afirma denuncias desde 2022 y más de 20 intervenciones, y detalla las cuotas al Clan del Golfo y la inserción del oro en cadenas internacionales.",
+              "host": "elcolombiano.com",
+              "title": "EjÃ©rcito responde a denuncia sobre minerÃa ilegal en base militar: ReconociÃ³ actividad masiva en La Mandinga",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x908/0c94/1280d720/none/11101/RVOE/whatsapp-image-2026-04-26-at-4-41_50464957_20260426165921.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lapatria.com/colombia/gobierno-colombiano-investigara-explotacion-ilegal-de-mina-de-oro-dentro-de-base-militar",
+              "note": "Reportaje de Federico Ríos en The New York Times y orden de investigación del ministro de Defensa; incluye la negación inicial del comandante de la base y el alcance de 137 metros de la explotación.",
+              "host": "lapatria.com",
+              "title": "Gobierno colombiano investigará explotación ilegal de mina de oro dentro de base militar",
+              "image": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-04/26int-gold-colombia-superJumbo.jpg?itok=NsP9pYQ0"
+            },
+            {
+              "ref": "F5",
+              "url": "https://boyaca7dias.com.co/2026/04/27/gobierno-colombiano-investigara-explotacion-ilegal-de-mina-de-oro-dentro-de-base-militar/",
+              "note": "Reproducción (EFE) de la misma noticia que F4; confirma fecha (abril de 2026), datos de la mina La Mandinga, la orden de investigación y las cifras de operaciones contra minería ilegal.",
+              "host": "boyaca7dias.com.co",
+              "title": "Gobierno colombiano investigará explotación ilegal de mina de oro dentro de base militar – Boyacá 7 Días",
+              "image": "https://boyaca7dias.com.co/wp-content/uploads/2026/04/Mina_Ilegal-2.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Se afirma que Abelardo apenas lleva dos meses en el cargo, mientras el gobierno anterior gobernó 4 años.",
+          "quote": "cuando Abelardo apenas lleva dos meses vos gobernaste 4 años",
+          "figures": [
+            "2 meses",
+            "4 años"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La comparación temporal es consistente con la cronología documentada: De la Espriella tomó posesión el 7 de agosto de 2026, por lo que un video publicado a inicios de octubre de 2026 correspondería efectivamente a unos dos meses de gobierno [F3][F4][F5]. El dato de los 4 años del gobierno anterior también es correcto, pues Petro ejercó el período 2022-2026 completo y aparece en las fuentes como presidente saliente el mismo 7 de agosto de 2026 [F4][F5]. Lo que no puede confirmarse con las fuentes entregadas es la fecha exacta de publicación del video, por lo que 'apenas dos meses' queda como plausible pero no verificable con certeza absoluta.",
+          "context": "La posesión de Abelardo de la Espriella como 36.º presidente de Colombia se celebró el 7 de agosto de 2026 en la Universidad Santiago de Cali, en un cuatrienio 2026-2030, tras vencer en segunda vuelta al candidato Iván Cepeda el 21 de junio de 2026 [F3][F4]. La ceremonia contó con la transmisión formal del mando: Gustavo Petro pronunció su discurso de despedida esa misma jornada antes de que De la Espriella asumiera [F5]. El mandato precedente cubrió el período completo constitucional de cuatro años, caracterizado en las fuentes por profundas tensiones institucionales en torno al lugar de la investidura y por la ausencia del presidente saliente en la ceremonia [F1][F4][F5].",
+          "progressivePerspective": "La afirmación es un recurso comparativo: se contrapone la brevedad del mandato actual (dos meses) con la duración del anterior (cuatro años) para desacreditar críticas al gobierno en curso. Desde el punto de vista del debate democrático, el argumento es un recurso retórico legítimo pero asimétrico: la duración de un mandato no invalida por sí misma una crítica, ni otorga ni retira responsabilidad por hechos concretos. En un marco de rendición de cuentas, la crítica a un gobierno en ejercicio puede formularse tempranamente, igual que el balance de un gobierno saliente requiere datos verificables y no generalizaciones. El video no aporta evidencia sobre hechos específicos del período de dos meses que sustenten la comparación, y omite que la responsabilidad de gobierno se juzga por actos concretos, no solo por el reloj [F3][F4][F5].",
+          "whatTheyOmit": "Se omite la fecha de publicación del video, sin la cual 'apenas dos meses' no puede verificarse con certeza [F3][F4]. También se omite que la comparación 'dos meses contra cuatro años' no constituye en sí misma un argumento sobre política pública alguna: no aporta datos sobre el desempeño del período corto, ni matiza que ambos mandatarios ejercen o ejercieron responsabilidades constitucionales equivalentes. Además, la presentación de la crítica como ilegítima por la brevedad del gobierno silencia el derecho de fiscalización que existe desde el primer día de un mandato [F4][F5].",
+          "keyFacts": [
+            "Abelardo de la Espriella tomó posesión como presidente de Colombia el 7 de agosto de 2026, en Cali, para el período 2026-2030 [F3][F4][F5]",
+            "Gustavo Petro fue el presidente saliente el 7 de agosto de 2026 y pronunció ese día su discurso de despedida [F4][F5]",
+            "El período anterior al actual cubrió el ciclo constitucional completo de cuatro años (2022-2026), lo que hace correcta la referencia a '4 años' de gobierno del mandatario anterior [F4]",
+            "La investidura de De la Espriella fue la primera celebrada fuera de Bogotá, con tensión institucional previa entre el presidente saliente y el presidente entrante por el lugar de la ceremonia [F1][F3][F4]",
+            "Las fuentes entregadas no registran la fecha exacta de publicación del video, por lo que la cifra de 'dos meses' es plausible pero no verificable con certeza absoluta [F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-posesion-de-abelardo/",
+              "note": "Análisis de contexto sobre la disputa institucional previa a la investidura y el traspaso del mando militar; aporta el marco del período de transición, no datos sobre la duración del mandato actual.",
+              "host": "razonpublica.com",
+              "title": "La posesión de Abelardo - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/12/Hernando-Gomez-Buendia.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-vicky-davila-no-ha-dicho-que-sera-presidenta-despues-de-abelardo/",
+              "note": "Verificación sobre una desinformación distinta; aporta contexto sobre el ecosistema informativo del momento, no sobre la duración del mandato.",
+              "host": "lasillavacia.com",
+              "title": "Detector: Vicky Dávila no ha dicho que será presidenta después de Abelardo",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/vicky_davila_semana_presidenta.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Investidura_presidencial_de_Abelardo_de_la_Espriella",
+              "note": "Confirma la fecha de posesión (7 de agosto de 2026), el período 2026-2030, la segunda vuelta del 21 de junio de 2026 y la sede en Cali.",
+              "host": "es.wikipedia.org",
+              "title": "Investidura presidencial de Abelardo de la Espriella - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Universidad_Santiago_de_Cali_2023.jpg/1280px-Universidad_Santiago_de_Cali_2023.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/Inauguration_of_Abelardo_de_la_Espriella",
+              "note": "Confirma a De la Espriella como presidente entrante y a Petro como presidente saliente, el inicio del cuatrienio 2026-2030 y la cronología completa de la transición.",
+              "host": "en.wikipedia.org",
+              "title": "Inauguration of Abelardo de la Espriella - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Abelardo_de_la_Espriella_signature.svg/1280px-Abelardo_de_la_Espriella_signature.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F5",
+              "url": "https://cnnespanol.cnn.com/2026/08/07/colombia/live-news/abelardo-espriella-posesion-investidura-presidencial-orix",
+              "note": "Cobertura en vivo del 7 de agosto de 2026: confirma el traspaso de mando, el discurso de despedida de Petro y el primer mensaje de De la Espriella.",
+              "host": "cnnespanol.cnn.com",
+              "title": "Resumen de la investidura presidencial de Abelardo de la Espriella, 7 de agosto | CNN",
+              "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-07t215913z-1742923791-rc2wtmaay791-rtrmadp-3-colombia-politics.JPG?c=16x9&q=w_800,c_fill"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "social",
+          "claim": "Se afirma que el gobierno anterior sacó a la gente a las calles también al salir de la pandemia de COVID.",
+          "quote": "lo mismo hiciste cuando salíamos del COVID",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "media",
+          "summary": "Las fuentes atribuyen la movilización del 28 de abril de 2021 al Comité Nacional de Paro (sindicatos y centrales obreras) y la desencadenó la reforma tributaria del gobierno de Iván Duque, no una convocatoria de Gustavo Petro, quien para esa fecha era oposición; además, las protestas ocurrieron en pleno pico pandémico, no 'al salir' del COVID [F3][F4][F5].",
+          "context": "El estallido social colombiano comenzó el 28 de abril de 2021 como reacción al proyecto de reforma tributaria del gobierno de Iván Duque, que proponía recaudar 23,4 billones de pesos (USD 6.294 millones, ~2% del PIB) y gravar productos básicos de la canasta familiar y servicios públicos [F5]. Fue convocado por el Comité Nacional de Paro, heredero del Paro Nacional 2019-2020, y se extendió con gran intensidad hasta diciembre de 2021, siendo consideradas las protestas más extendidas de la historia republicana del país [F3]. En esa fecha Colombia atravesaba 'el peor repunte de contagios y muertes desde que empezó la pandemia': 2,8 millones de casos y más de 72.000 muertes por COVID-19 a 28 de abril de 2021 [F5]. El saldo reportado por Wikipedia es de 3 policías muertos y 80 muertos (según algunas ONG), con más de 70 manifestantes fallecidos, cientos de desaparecidos, más de 800 heridos y más de 500 detenidos; la CIDH condenó graves violaciones de derechos humanos y la Corte Constitucional dictó en 2023 la sentencia T-372 por obstrucción a la libertad de expresión, reunión y asociación [F3][F4]. El Observatorio de Indepaz documentó los hechos de violencia del Paro Nacional 2021 [F2].",
+          "progressivePerspective": "Desde el propósito de esclarecer la verdad y garantizar la no repetición, la afirmación concentra la responsabilidad de la protesta en una sola figura política y omite las causas estructurales que las fuentes sí documentan: reforma tributaria que afectaba la canasta familiar, colapso sanitario, desempleo del 14%, caída del PIB de 6,8% en 2020 y 42% de colombianos con ingresos menores a USD 90 mensuales [F4][F5]. Esa lectura individualizadora tiende a criminalizar o deslegitimar la protesta social en lugar de examinar los hechos de violencia estatal y no estatal que dejaron decenas de muertos, cientos de heridos, denuncias de brutalidad policial y sanciones de la CIDH y la Corte Constitucional [F3][F4][F2], lo cual debilita el reconocimiento de las víctimas y las condiciones de no repetición. Asimismo, la formulación 'salíamos del COVID' desdibuja que la movilización ocurrió en el punto más agudo de la pandemia, cuando las autoridades incluso habían prohibido las manifestaciones por riesgo sanitario [F4][F5].",
+          "whatTheyOmit": "Se omite que la convocatoria correspondió al Comité Nacional de Paro, integrado por sindicatos y centrales obreras, y que el detonante fue la reforma tributaria del gobierno en ejercicio de Iván Duque, no de Gustavo Petro, quien figuraba entonces como oposición [F3][F4][F5]. Se omite también la magnitud de la represión y el daño: 80 muertos según algunas ONG, más de 800 heridos, más de 500 detenidos, más de 2.000 denuncias de brutalidad policial y 27 casos de violencia sexual reportados, la condena de la CIDH y la sentencia T-372 de la Corte Constitucional [F3][F4]. Se omite el contexto socioeconómico de la protesta (caída del PIB, desempleo, debilidad del Ingreso Solidario) y el hecho de que se produjo en medio de un récord de contagios y muertes por COVID-19, no al salir de la pandemia [F4][F5].",
+          "keyFacts": [
+            "Las protestas de 2021 fueron convocadas por el Comité Nacional de Paro, formado por sindicatos y centrales obreras, y desencadenadas por la reforma tributaria propuesta por el gobierno de Iván Duque [F3][F4][F5]",
+            "Las manifestaciones iniciaron el 28 de abril de 2021 y se extendieron al menos hasta diciembre de 2021, siendo las protestas más extendidas de la historia republicana de Colombia [F3][F4]",
+            "Los hechos ocurrieron en pleno repunte de la pandemia: a 28 de abril de 2021 Colombia registraba 2,8 millones de casos y más de 72.000 muertes por COVID-19, con prohibición judicial de manifestar por riesgo sanitario [F4][F5]",
+            "El saldo reportado fue de 3 policías muertos y 80 muertos según algunas ONG, más de 70 manifestantes fallecidos, cientos de desaparecidos, más de 800 heridos y más de 500 detenidos [F3][F4]",
+            "La CIDH condenó graves violaciones de derechos humanos en el contexto de las protestas y la Corte Constitucional dictó la sentencia T-372 de 2023 por vulneración de la libertad de expresión, reunión y asociación [F3]",
+            "El Observatorio de Derechos Humanos y Conflictividades de Indepaz documenta las cifras de violencia del Paro Nacional 2021 [F2]",
+            "Ninguna fuente entregada establece que Gustavo Petro haya convocado o dirigido las calles durante ese episodio; las fuentes identifican al gobierno de Iván Duque como parte gubernamental y a Petro como figura política del bloque de oposición [F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/",
+              "note": "Detector de mentiras de La Silla Vacía; no aporta datos directos sobre la convocatoria de las protestas de 2021, útil como referencia metodológica de verificación de afirmaciones públicas",
+              "host": "lasillavacia.com",
+              "title": "Detector de Mentiras",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/04/Banner_Detector_alianza-contra-la-desinformacion.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://indepaz.org.co/cifras-de-la-violencia-en-el-marco-del-paro-nacional-2021/",
+              "note": "Observatorio de DDHH de Indepaz con las cifras de violencia del Paro Nacional 2021; aporta la dimensión del daño no mencionada en el video",
+              "host": "indepaz.org.co",
+              "title": "CIFRAS DE LA VIOLENCIA EN EL MARCO DEL PARO NACIONAL 2021 - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2021/06/Captura-de-pantalla-2021-06-28-201635.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2021",
+              "note": "Contexto, causas, convocantes, saldo de muertos, condena de la CIDH y sentencia T-372; lista a Gustavo Petro como figura política, no como convocante, e indica que la parte gubernamental era la de Iván Duque",
+              "host": "es.wikipedia.org",
+              "title": "Protestas en Colombia de 2021 - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Protestas_contra_la_reforma_tributaria_de_2021_en_Cali_el_1ro_de_Mayo_10.jpg/1280px-Protestas_contra_la_reforma_tributaria_de_2021_en_Cali_el_1ro_de_Mayo_10.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/2021_Colombian_protests",
+              "note": "Causas económicas y sanitarias, cronología, prohibición judicial de manifestar, denuncias de brutalidad policial y contexto de la pandemia en curso",
+              "host": "en.wikipedia.org",
+              "title": "2021 Colombian protests - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Protestas_contra_la_reforma_tributaria_de_2021_en_Cali_el_1ro_de_Mayo_10.jpg/1280px-Protestas_contra_la_reforma_tributaria_de_2021_en_Cali_el_1ro_de_Mayo_10.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.bbc.com/mundo/noticias-america-latina-56897151",
+              "note": "Cobertura del 28 de abril de 2021: convocatoria en rechazo a la reforma tributaria de Duque en medio del peor repunte de COVID-19 y cifras de la reforma",
+              "host": "bbc.com",
+              "title": "Paro nacional en Colombia: miles de personas marchan en protesta por la reforma tributaria en medio de un grave repunte de casos de coronavirus - BBC News Mundo",
+              "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/DDD7/production/_118219765_gettyimages-1315038612.jpg"
             }
           ]
         }
