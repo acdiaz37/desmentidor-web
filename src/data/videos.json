@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:28:18",
+  "generatedAt": "2026-10-14T15:03:46",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -1466,72 +1466,6 @@
       "claims": [
         {
           "id": 1,
-          "topic": "politica",
-          "claim": "Se defendió esa semana en X la propuesta del gobierno sobre el cambio/refinanciación de la deuda.",
-          "quote": "Juan Felipe Pedraza alias renta yo esta semana a defender la propuesta del gobierno en x con respecto a el cambio de la deuda",
-          "figures": [],
-          "verdict": "sin_evidencia",
-          "headline": "",
-          "color": "orange",
-          "confidence": "baja",
-          "summary": "Las fuentes confirman que la propuesta de refinanciar/renegociar la deuda externa existió y fue prometida por Abelardo De la Espriella desde la campaña y por su equipo de gobierno [F4][F5], y confirman la identidad de Juan Felipe Pedraza Ramírez como comentarista en X [F3]. Sin embargo, ninguna de las fuentes entregadas documenta que dicho comentarista haya defendido 'esa semana' en X la propuesta gubernamental sobre el cambio/refinanciación de la deuda; el dato central de la afirmación queda sin respaldo documental y no puede darse por cierto ni por falso con este material [F3][F4][F5].",
-          "context": "El hecho de fondo está verificado: en campaña, De la Espriella anunció iniciar un proceso de renegociación de la deuda externa como una de sus primeras acciones, con José Manuel Restrepo como responsable [F4]; esa prioridad se mantiene tras la posesión, con el debate centrado en distinguir refinanciar (extender plazos sin tocar capital ni condiciones) de reestructurar (reducir montos o intereses, señal que los expertos consideran fatal para la credibilidad) [F5]. La magnitud real acota la propuesta: la deuda bruta llegó en mayo a 1.169 billones de pesos, de los cuales 881 billones son deuda interna y 288 billones deuda externa, o sea apenas el 25% del total, por lo que 'refinanciar la deuda externa' solo puede tocar una fracción limitada del problema [F5]. Se citan asimismo analistas que advierten que la utilidad depende de las tasas logradas y de la credibilidad del ajuste fiscal, y que el problema fiscal colombiano tiene un componente de déficit primario y de pago de intereses que una operación de pasivos no resuelve por sí sola [F5]. La identidad de la persona aludida está confirmada como Juan Felipe Pedraza Ramírez, aunque la única fuente que lo trata es un mensaje de X que además cuestiona su titulación, no su posición sobre la deuda [F3].",
-          "progressivePerspective": "Este caso no involucra el conflicto armado colombiano ni a la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no aplica aquí; corresponde en cambio el estándar básico de rigor: no dar por cierta una acusación sin evidencia. El señalamiento formulado tiene una lógica política verosímil y consistente con el material disponible: la propuesta que el nuevo gobierno impulsa —refinanciar/reperfil de deuda— es exactamente la misma familia de medidas que se atribuye como solución al 'sobreendeudamiento' de Petro, mientras se imputa al gobierno anterior la responsabilidad del pasivo que ahora él ayuda a administrar [F4][F5]. Esa coincidencia de fondo (administrar deuda cara cuando gobierna tu lado, culpar al anterior por la deuda) es la contradicción señalada, y debe subrayarse como hipótesis razonable pero señalando con honestidad que el post concreto de X no está en las fuentes, de modo que la denuncia queda parcialmente acreditada: lo que sí es cierto es que la propuesta existe y es del gobierno de De la Espriella [F4][F5], no que la haya defendido quien se señala. Además, la propia evidencia neutraliza el argumento simplista 'deuda externa 4% es mejor que interna 13%': la deuda externa es solo el 25% del total y los expertos coinciden en que los beneficios dependen de las tasas negociadas y de la señal de responsabilidad fiscal, pudiendo terminarse pagando más a largo plazo si se negocia mal [F5].",
-          "whatTheyOmit": "Se omite por completo el material probatorio del hecho central: ninguna fuente reproduce, captura o cita el supuesto post defendiendo la propuesta de cambio de deuda, de modo que el señalamiento es una afirmación no verificable con este expediente [F3][F4][F5]. También se omite que la única fuente (F3) es un mensaje de X de tono insultante y ad hominem centrado en la titulación de la persona señalada, no en sus posiciones económicas, por lo que no sirve como evidencia del contenido de sus publicaciones sobre deuda [F3]; atribuirle a esa fuente respaldo del señalamiento sería un error. Asimismo, se omite la distinción técnica crucial entre refinanciar y reestructurar y el hecho de que la deuda externa solo representa el 25% del pasivo total, lo que acota el alcance real de la propuesta que se discute [F5].",
-          "keyFacts": [
-            "De la Espriella anunció en campaña que, de llegar a la Presidencia, una de sus primeras acciones sería iniciar un proceso de renegociación de la deuda externa, liderado por su fórmula vicepresidencial José Manuel Restrepo [F4]",
-            "Tras la elección, la refinanciación de la deuda sigue como promesa prioritaria, con los analistas distinguiendo refinanciar (mover vencimientos sin tocar capital ni condiciones) de reestructurar (reducir montos o intereses), operación que considerarían dañina para la credibilidad del país [F5]",
-            "La deuda bruta del país llegó en mayo a 1.169 billones de pesos: 881 billones de deuda interna y 288 billones de deuda externa, esta última equivalente al 25% del total, por lo que refinanciarla por completo sería complejo y solo alcanzaría a una parte [F5]",
-            "El resultado de cualquier operación de deuda depende de las tasas negociadas y de la credibilidad del ajuste fiscal: mal negociada, puede hacer que el país pague más a largo plazo [F5]",
-            "Juan Felipe Pedraza Ramírez fue identificado en una publicación de X que además cuestiona su titulación como economista, sin indicar su posición frente a la deuda [F3]",
-            "Ninguna fuente entregada contiene el post de X en el que se supondría que se defendería esa semana la propuesta gubernamental de cambio/refinanciación de la deuda: el hecho central queda sin evidencia documental [F3][F4][F5]",
-            "La fuente [F1] trata sobre la transición energética del gobierno Petro y [F2] es una página bloqueada del Banco de la República por detección de bot; ninguna de las dos aporta al verificar esta afirmación [F1][F2]"
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://www.lasillavacia.com/silla-nacional/asi-entrega-el-gobierno-petro-su-promesa-de-transicion-energetica/",
-              "note": "Balance de la transición energética del gobierno Petro; no trata de deuda ni de r3ntas. No aporta a la verificación (contraste irrelevante).",
-              "host": "lasillavacia.com",
-              "title": "Así entrega el gobierno Petro su promesa de transición energética",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/05/Petrotransicion.jpg"
-            },
-            {
-              "ref": "F2",
-              "url": "https://www.banrep.gov.co/es/estadisticas/deuda-publica",
-              "note": "Página de estadísticas de deuda pública del Banco de la República, inaccesible (bloqueo por bot); no aporta datos verificables en este caso.",
-              "host": "banrep.gov.co",
-              "title": "Nos disculpamos por los inconvenientes...",
-              "image": ""
-            },
-            {
-              "ref": "F3",
-              "url": "https://x.com/CamiloGHakim_93/status/2089140146029359373",
-              "note": "Única fuente que identifica a Juan Felipe Pedraza Ramírez, alias @r3ntas; es un mensaje de X de tono ad hominem sobre su titulación, no sobre su posición sobre la deuda. Sirve para la identidad, no para el hecho denunciado.",
-              "host": "x.com",
-              "title": "Camilo González (@CamiloGHakim_93) on X",
-              "image": "https://pbs.twimg.com/media/HP4d49JW4AAt_8C?format=webp&name=large"
-            },
-            {
-              "ref": "F4",
-              "url": "https://politicacaribe.com/2026/06/17/abelardo-de-la-espriella-propone-renegociar-la-deuda-externa-y-reducir-impuestos-para-reactivar-la-economia/",
-              "note": "Confirma que la propuesta de renegociar/refinanciar la deuda externa es del proyecto de gobierno de De la Espriella (encargado: José Manuel Restrepo). Es el contexto de lo que supuestamente r3ntas habría defendido.",
-              "host": "politicacaribe.com",
-              "title": "Abelardo De la Espriella propone renegociar la deuda externa y reducir impuestos para reactivar la economía",
-              "image": "https://politicacaribe.com/wp-content/uploads/2026/06/dela-espriellasaa.jpg"
-            },
-            {
-              "ref": "F5",
-              "url": "https://www.semana.com/economia/macroeconomia/articulo/la-deuda-le-marca-la-agenda-economica-al-gobierno-de-de-la-espriella/202600/",
-              "note": "Aporta magnitud y matices: composición de la deuda (881 interna / 288 externa de 1.169 billones), distinción refinanciación vs reestructuración, y advertencias de expertos sobre tasas, credibilidad y alcance limitado de la operación.",
-              "host": "semana.com",
-              "title": "La deuda le marca la agenda económica al gobierno de De La Espriella",
-              "image": "https://www.semana.com/resizer/v2/BHMPCB5YWBHZTLOB77VHEGO5U4.jpg?auth=f68a968e5fd58e5ff3beca9a5b0984773a78f3e47c1da362e9fc87e06c4f0d58&smart=true&quality=75&width=1280&height=720"
-            }
-          ]
-        },
-        {
-          "id": 2,
           "topic": "economia",
           "claim": "Se afirma que la deuda interna de Colombia paga 12-13% de interés mientras que la deuda externa sería al 4% fijo.",
           "quote": "la deuda interna el interés sería 12 13% mientras que la deuda externa sería al 4% fijo eso que está diciendo el doctor en economía el doctor Teo es falso",
@@ -1600,7 +1534,7 @@
           ]
         },
         {
-          "id": 3,
+          "id": 2,
           "topic": "economia",
           "claim": "La deuda externa también está por encima del 12% y llega al 13,15%, por lo que esa afirmación es falsa.",
           "quote": "la deuda externa también está al 12+1 coma 15%",
@@ -1669,7 +1603,7 @@
           ]
         },
         {
-          "id": 4,
+          "id": 3,
           "topic": "economia",
           "claim": "Se afirma que el Fondo Monetario Internacional cobra a Colombia una deuda al 4%.",
           "quote": "el Fondo Monetario Internacional que nos está cobrando test al 4% o sea deuda al 4%",
@@ -1735,7 +1669,7 @@
           ]
         },
         {
-          "id": 5,
+          "id": 4,
           "topic": "economia",
           "claim": "Se afirma que PIMCO cobra a Colombia intereses del 13,15% por los TES que se le entregaron.",
           "quote": "si nos están cobrando test al 13,15% ... al 13,15% de interés",
@@ -1803,7 +1737,7 @@
           ]
         },
         {
-          "id": 6,
+          "id": 5,
           "topic": "economia",
           "claim": "Se describe a PIMCO como un \"fondo buitre\" y se afirma que se le entregaron TES (Títulos del Tesoro) directamente.",
           "quote": "podemos ver los test que le entregaron a Pinko Pinko es un fondo buitre",
@@ -1869,139 +1803,7 @@
           ]
         },
         {
-          "id": 7,
-          "topic": "economia",
-          "claim": "PIMCO no es una empresa colombiana: es Pacific Investment Management Company, con sede en California.",
-          "quote": "Pinko no me van a decir que es una empresa de Colombia cuando es Pacific investment management Company y es de California",
-          "figures": [],
-          "verdict": "verdadero",
-          "headline": "Verdadero, pero a medias",
-          "color": "lime",
-          "confidence": "alta",
-          "summary": "PIMCO es la sigla de Pacific Investment Management Company, una firma estadounidense de gestión de inversiones con sede en Newport Beach, California (EE. UU.), no una empresa colombiana [F3][F4].",
-          "context": "PIMCO fue fundada en 1971 y se constituyó como unidad de Pacific Life Insurance Co.; en el año 2000 fue adquirida por Allianz SE, una multinacional de servicios financieros con sede en Múnich (Alemania), y desde entonces opera como filial autónoma de esa casa matriz europea [F3][F4]. Es una de las mayores gestoras de activos del mundo, con más de 2 billones de dólares (US$2,26 trillion a dic. 2025) bajo gestión, 3.195+ empleados y oficinas en 22 países de América, Europa y Asia, y es descrita como un 'gigante de Wall Street' y una 'potencia de bonos' [F3]. Estos datos de magnitud explican su capacidad para colocar deuda soberana de países emergentes: en 2025 ya había prestado privadamente cerca de 6.000 millones de dólares a gobiernos emergentes (Panamá, República Dominicana, Arabia Saudita, Qatar, entre otros) mediante préstamos o bonos estructurados de forma privada [F3]. El alcance concreto de sus operaciones con TES colombianos (colocación directa, montos y tasas) no está documentado en las fuentes entregadas; las únicas fuentes utilizables sobre la identidad de PIMCO son F3 y F4, mientras que F1 solo es un índice temático de cookies y F2 es una página de bloqueo por bot del Banco de la República [F1][F2].",
-          "progressivePerspective": "Los datos se confirman: PIMCO no es colombiana sino estadounidense, con sede en California y, además, matriz alemana (Allianz SE) [F3][F4]. El marco de análisis de este video es un debate económico, no el conflicto armado colombiano ni la JEP, por lo que los principios de verdad, justicia, reparación y no repetición no resultan aplicables aquí; el criterio rector es la verificación rigurosa y la transparencia informativa. La afirmación gana solidez con las fuentes: identificar correctamente a PIMCO permite constatar que los intereses que paga Colombia por su deuda en colocaciones directas con gestoras privadas se dirigen a un actor financiero transnacional —estadounidense, con matriz alemana— y no a un agente económico colombiano, lo cual es relevante para evaluar quién se beneficia del servicio de la deuda y por qué la crítica a las condiciones onerosas y a la opacidad de las colocaciones directas es legítima [F3]. Además, el perfil de PIMCO como prestamista privado creciente hacia gobiernos emergentes con bonos estructurados de forma privada refuerza el argumento de que estas operaciones deben ser examinadas con escrutinio público y no presentarse como triviales [F3]. En sentido estricto, hay un matiz de precisión: PIMCO es estadounidense por sede y origen, pero su casa matriz desde 2000 es una empresa alemana; en ningún caso es una empresa colombiana, de modo que el matiz no debilita la afirmación sino que la enriquece [F3][F4].",
-          "whatTheyOmit": "La cita no menciona que desde el año 2000 PIMCO pertenece a Allianz SE, multinacional alemana con sede en Múnich, lo que matiza la idea de que sea 'de California' en sentido de propiedad: es de California por sede y origen, pero su matriz es europea [F3][F4]. También omite dimensionar la operación con deuda colombiana específica: ninguna de las fuentes entregadas documenta las cifras de colocación directa de TES, montos acumulados ni tasas (13,15%, ~$23 billones, ~$41 billones) que circulan en el debate del video, por lo que esos datos concretos quedan sin verificación con esta bibliografía y no deben presentarse como confirmados [F1][F2]. Por otra parte, el reconocimiento de que PIMCO es extranjera no prueba por sí solo que su inversión haya sido un mal negocio para Colombia: eso requeriría las condiciones contractuales y la comparación de tasas efectivas, que las fuentes entregadas no cubren [F3].",
-          "keyFacts": [
-            "PIMCO es la sigla de Pacific Investment Management Company LLC, una firma estadounidense de gestión de inversiones, no una empresa colombiana [F3][F4]",
-            "La sede de PIMCO está en Newport Beach, California (EE. UU.), cerca del océano Pacífico [F3][F4]",
-            "PIMCO fue fundada en 1971 con 12 millones de dólares en activos, inicialmente como unidad de Pacific Life Insurance Co. [F3][F4]",
-            "Desde el año 2000 PIMCO es propiedad de Allianz SE, compañía de servicios financieros con sede en Múnich (Alemania), y opera como filial autónoma [F3][F4]",
-            "PIMCO administra más de 2 billones de dólares en activos (US$2,26 trillion a 31 dic. 2025), con 3.195+ empleados y oficinas en 22 países [F3]",
-            "PIMCO es descrita como un 'gigante de Wall Street' y una 'potencia de bonos' (bond powerhouse), la mayor gestora de fondos boneros activos del mundo [F3]",
-            "En 2025 PIMCO había prestado cerca de 6.000 millones de dólares de forma privada a gobiernos emergentes, incluidos Panamá, República Dominicana, Arabia Saudita y Qatar [F3]"
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://razonpublica.com/categoria/temas/economia-y-sociedad/",
-              "note": "Índice temático de economía de Razón Pública; el contenido extraído es solo el aviso de cookies y privacidad, por lo que no aporta datos verificables sobre PIMCO o la deuda colombiana.",
-              "host": "razonpublica.com",
-              "title": "Economía y Sociedad archivos - Razón Pública",
-              "image": ""
-            },
-            {
-              "ref": "F2",
-              "url": "https://www.banrep.gov.co/es/noticias/novedades-boletin-estadisticas-deuda-externa",
-              "note": "Página del Banco de la República bloqueada por detección de bot; no aporta información utilizable. Confirma que las estadísticas de deuda externa citadas en el debate no pudieron verificarse con esta fuente.",
-              "host": "banrep.gov.co",
-              "title": "Nos disculpamos por los inconvenientes...",
-              "image": ""
-            },
-            {
-              "ref": "F3",
-              "url": "https://en.wikipedia.org/wiki/PIMCO",
-              "note": "Fuente central y confirmatoria: identidad (Pacific Investment Management Company LLC), sede en Newport Beach, California, origen estadounidense, casa matriz alemana Allianz SE, tamaño (US$2,26 billones en AUM, 3.195+ empleados, 22 oficinas) y su rol como prestamista privado a gobiernos emergentes.",
-              "host": "en.wikipedia.org",
-              "title": "PIMCO - Wikipedia",
-              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/PimcoHQCloseup.jpg/960px-PimcoHQCloseup.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
-            },
-            {
-              "ref": "F4",
-              "url": "https://es.wikipedia.org/wiki/PIMCO",
-              "note": "Fuente en español que corroboración la misma afirmación: 'firma de inversión con sede en Newport Beach, California, en los Estados Unidos' y adquisición por Allianz SE (Alemania) en 2000.",
-              "host": "es.wikipedia.org",
-              "title": "PIMCO - Wikipedia, la enciclopedia libre",
-              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/PimcoHQCloseup.jpg/960px-PimcoHQCloseup.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
-            },
-            {
-              "ref": "F5",
-              "url": "https://www.bing.com/aclick?ld=e8Koy2HBKAcj7lHAjuzkZMOjVUCUz0zlSeeKq0ubUyTmn4gt1sDx9Edsi8qZIuxIR-LdxRQGY67dEXuJRhC5zA0RbDElN-S7w1mUjX70v5SOeaEdElAhMhRjXck_mVenGMWumA0iihTQSI6uRgd37sy5TtSMMyjcIldgjiYGmg_x4xwLa_RtdFsABj6Gm2-OnO8P1i0Q&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MzgyMzc0OTA3NyUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MDA0NDM2NSUyNmRzX2FfY2lkJTNkNTkzMjY2NDQxJTI2ZHNfYV9jYWlkJTNkMjM4NTA1ODk4NTIlMjZkc19hX2FnaWQlM2QxOTUxODkzNjczNDMlMjZkc19hX2xpZCUzZGt3ZC01NjA1MDU0NjYyODAlMjYlMjZkc19lX2FkaWQlM2Q4MTM2NDAwNzA4NzQ2MyUyNmRzX2VfdGFyZ2V0X2lkJTNkZXdkLTgxMzY0MjYzMDA4NTcwJTNhbG9jLTE5MCUyNiUyNmRzX25ldHdvcmslM2Rkb1VbQ",
-              "note": "Anuncio/landing de PIMCO sobre 'Alternative Investments'; confirma que se trata de la gestora estadounidense Pacific Investment Management Company (menciona PIMCO Prime Real Estate LLC y 'Pacific Investment Management Company') y aporta su tamaño en alternativos (US$210 mil millones), pero no aporta datos sobre operaciones con Colombia.",
-              "host": "bing.com",
-              "title": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "id": 8,
-          "topic": "economia",
-          "claim": "La diferencia estructural entre ambos tipos de deuda es que una está en pesos y la otra en dólares.",
-          "quote": "la diferencia también ... es que una deuda es en pesos y otra es en dólares",
-          "figures": [],
-          "verdict": "mayormente_verdadero",
-          "headline": "",
-          "color": "green",
-          "confidence": "alta",
-          "summary": "La afirmación describe correctamente la distinción básica: la deuda interna del Gobierno Nacional Central se emite en el mercado local, sobre todo en pesos vía TES, mientras que la deuda externa se contrata con acreedores o mercados internacionales y está denominada principalmente en dólares [F1][F4][F5]. Es, sin embargo, una descripción incompleta, no un argumento conclusivo: presentar esa diferencia como razón suficiente para concluir que la deuda externa es 'mejor' omite el riesgo cambiario, la prociclicidad y la concentración de acreedores, que son justamente los factores que definen el costo real para el país [F1][F4].",
-          "context": "A 31 de mayo de 2026, el 75,4% de la deuda del Gobierno Nacional Central era interna (la mayor proporción desde 2001) y solo una cuarta parte era externa; a 31 de agosto de 2026 la deuda interna era 78,66% y la externa 21,34% [F4][F5]. La 'pesificación' encareció el financiamiento nominal (intereses internos ~10% frente al 4,2% de la deuda externa, costo medio de la cartera en 8,57%, el más alto desde 2009), pero eliminó exposición cambiaria: la deuda externa se recortó unos US$15.900 millones entre diciembre de 2025 y mayo de 2026 [F4]. La deuda externa a largo plazo creció 107,32% desde 2016 y el 94% se concentra en inversionistas internacionales y multilaterales [F1]. La operación directa con PIMCO (US$6.000 millones por $23 billones en TES, diciembre de 2025) dejó a esa gestora con el 30% de la deuda colombiana en manos foráneas, con riesgos de concentración en un solo prestamista [F4].",
-          "progressivePerspective": "La frase es correcta como descripción, pero en el marco del debate constituye una simplificación retórica: convertir la dicotomía pesos/dólares en la conclusión de que 'obviamente la deuda externa es mejor' es una lectura que la evidencia no respalda. El punto de partida es que el descalce cambiario es el riesgo central: los ingresos del Estado están en pesos y la deuda externa en dólares, de modo que una depreciación eleva automáticamente el valor real de la deuda y activa un mecanismo de amplificación (peores indicadores fiscales → mayor percepción de riesgo → tasas más altas) [F1]. La teoría macroeconómica distingue entre financiamiento estable y procíclico: depender de inversionistas internacionales significa que el costo depende de tasas en economías avanzadas, liquidez global y aversión al riesgo, no de los fundamentos internos, y ese es el mecanismo detrás de múltiples crisis en economías emergentes [F1]. Por eso la pesificación, aunque cara en tasa nominal, le quitó al país la exposición a una devaluación [F4]. En términos de verdad, justicia, reparación y no repeticion fiscal —aplicados aquí como deber de transparencia con la ciudadanía—, decir 'en pesos o en dólares' sin explicar el riesgo cambiario, la concentración en PIMCO (30% de la deuda en manos foráneas) y el encadenamiento de operaciones con derivados (swap en francos suizos) es una simplificación que oculta decisiones de política de deuda de largo alcance y su costo efectivo [F1][F4]. La verdad económica exige decir que la moneda es una dimensión del riesgo, no su totalidad.",
-          "whatTheyOmit": "Esta frase, usada para justificar volver a deuda externa, omite: (1) el riesgo cambiario —la deuda externa está en dólares y los ingresos del Estado en pesos, y una depreciación aumenta automáticamente el valor real de la deuda [F1]; (2) la prociclicidad del financiamiento externo: en contracción global el acceso se encarece o desaparece, con cada nueva emisión más cara [F1]; (3) la concentración de acreedores: PIMCO pasó a ser el 30% de la deuda colombiana en manos foráneas, con riesgo de concentración en un solo prestamista [F4]; (4) que la deuda externa no es solo en dólares (el portafolio incluyó francos suizos vía un Total Return Swap) y la interna no es 100% inmune: conserva riesgos de tasa, inflación y refinanciación, y los vencimientos cortos se amontonaron [F4][F5]; (5) que la comparación 4% vs 13% ignora que en 2026 la diferencia se redujo (externa ~5,0%-6,68% frente a interna ~10%-14%) y que el costo medio subió a 8,57%, el más alto desde 2009, precisamente por la reestructuración [F4].",
-          "keyFacts": [
-            "La deuda interna se coloca principalmente en el mercado local y la externa se contrata con acreedores o mercados internacionales: la descripción básica de la frase es correcta [F5]",
-            "La deuda externa de Colombia está denominada principalmente en dólares, mientras que los ingresos del Estado están en pesos, lo que crea un descalce cambiario que amplifica el riesgo ante una depreciación [F1]",
-            "A mayo de 2026 el 75,4% de la deuda del Gobierno Nacional Central era interna, la mayor proporción desde 2001; a agosto de 2026 era 78,66% frente a 21,34% externa [F4][F5]",
-            "Financiarse internamente resultó 2,4 veces más caro que en el exterior (frente a 1,7 veces a inicios de 2025), con intereses internos cercanos al 10% frente al 4,2% externo [F4]",
-            "Desde 2016 la deuda externa a largo plazo creció 107,32% (US$80.961 millones adicionales) y el 94% se concentra en inversionistas internacionales y multilaterales [F1]",
-            "En diciembre de 2025 el Gobierno colocó directamente a PIMCO $23 billones en TES a cambio de US$6.000 millones; PIMCO llegó al 30% de la deuda colombiana en manos foráneas, con riesgos de concentración [F4]",
-            "La dependencia de inversionistas internacionales hace que el costo de la deuda refleje en tiempo real la percepción de riesgo global, con una dinámica acumulativa y procíclica que ha estado detrás de crisis en economías emergentes [F1]"
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://www.lasillavacia.com/red-de-expertos/red-social/mas-deuda-externa-menos-autonomia-economica/",
-              "note": "Análisis de expertos sobre deuda externa colombiana: crecimiento 107,32% desde 2016, concentración de acreedores (94% en inversionistas internacionales y multilaterales), riesgo cambiario por descalce dólares-ingresos en pesos, y prociclicidad del financiamiento externo. Aporta el contraste clave frente a la idea de que la deuda externa 'es mejor por ser en dólares'.",
-              "host": "lasillavacia.com",
-              "title": "Más deuda externa, menos autonomía económica",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/04/Caros_Alape_Jorge_Viafara-.jpg"
-            },
-            {
-              "ref": "F4",
-              "url": "https://elpais.com/america-colombia/2026-06-29/el-gobierno-de-gustavo-petro-deja-al-pais-muy-endeudado-en-pesos-y-poco-en-dolares.html",
-              "note": "Reportaje con datos de Minhacienda: composición de la deuda (75,4% interna a mayo 2026), costos comparados (interna 2,4 veces más cara), operación con PIMCO (US$6.000M por $23 billones en TES, 30% de la deuda foránea), swap en francos suizos y riesgos de concentración. Confirma la descripción pesos/dólares pero matiza sus implicaciones.",
-              "host": "elpais.com",
-              "title": "El Gobierno de Gustavo Petro deja al país muy endeudado en pesos y poco en dólares",
-              "image": "https://imagenes.elpais.com/resizer/v2/6QE5XBLVDJHWBDNJF6B2CX5BR4.jpg?auth=6671e4f40c4a6787b7983d574f8b3f60e7dfacab20d0384ca8a092e2d8c3697c&width=1200"
-            },
-            {
-              "ref": "F5",
-              "url": "https://www.observatoriocolombia.com/preguntas/que-porcentaje-de-la-deuda-es-interna-y-externa",
-              "note": "Cifras a 31 ago 2026 (Minhacienda/IRC): deuda interna 78,66%, externa 21,34%. Explica que la deuda interna reduce el canal cambiario pero conserva riesgos de tasa, inflación y refinanciación, y advierte que una asociación temporal no demuestra causalidad.",
-              "host": "observatoriocolombia.com",
-              "title": "Deuda interna y externa de Colombia | Observatorio Colombia",
-              "image": "https://usaahkxcdnljajpdctrq.supabase.co/storage/v1/object/public/observatorio-media/seo/indicators/2026/10/participacion-deuda-interna-gnc-mensual-social-b97fc87d32c6.png"
-            },
-            {
-              "ref": "F2",
-              "url": "https://www.minhacienda.gov.co/deuda-publica",
-              "note": "Fuente oficial no accesible (bloqueo por bot); no aporta datos utilizables en esta verificación.",
-              "host": "minhacienda.gov.co",
-              "title": "We are sorry...",
-              "image": ""
-            },
-            {
-              "ref": "F3",
-              "url": "https://www.banrep.gov.co/es/glosario/tasa-cambio-trm",
-              "note": "Fuente oficial no accesible (bloqueo por bot); no aporta datos utilizables en esta verificación.",
-              "host": "banrep.gov.co",
-              "title": "Nos disculpamos por los inconvenientes...",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "id": 9,
+          "id": 6,
           "topic": "economia",
           "claim": "Se atribuye a la posición contraria que el dólar tiene tendencia a posicionarse (subir) frente al peso en los gobiernos de derecha.",
           "quote": "el dólar tiene la tendencia de posicionarse frente al peso en gobiernos de derecha",
@@ -2066,7 +1868,7 @@
           ]
         },
         {
-          "id": 10,
+          "id": 7,
           "topic": "economia",
           "claim": "Se afirma que el comportamiento del dólar respecto al peso ha sido mixto: ha habido tanto devaluaciones como revaluaciones, por lo que no es cierto que los gobiernos de derecha solo tengan devaluación.",
           "quote": "ha sido simplemente mixta el comportamiento del dólar respecto a el peso colombiano tanto hemos tenido devaluaciones como hemos tenido revaluación",
@@ -2131,142 +1933,7 @@
           ]
         },
         {
-          "id": 11,
-          "topic": "politica",
-          "claim": "Se afirma que Abelardo de la Espriella es el presidente de Colombia.",
-          "quote": "el Presidente de Colombia no es el ilegítimo es Abelardo de la Espriella",
-          "figures": [],
-          "verdict": "verdadero",
-          "headline": "Verdadero, pero engañoso",
-          "color": "lime",
-          "confidence": "alta",
-          "summary": "La parte verificable de la cita es cierta: Abelardo de la Espriella es el presidente de Colombia desde el 7 de agosto de 2026, tras vencer en segunda vuelta a Iván Cepeda; fue reconocido como presidente electo por la prensa colombiana [F3][F4][F5]. El calificativo \"el ilegítimo\" con que se despide al predecessor es una etiqueta de valoración política, no un hecho demostrado por las fuentes, y ninguna de ellas respalda que el gobierno saliente ni el entrante carezcan de legitimidad democrática [F3][F4][F5].",
-          "context": "Abelardo Gabriel de la Espriella Otero, nacido el 31 de julio de 1978, es abogado, empresario y político; fundó el movimiento Defensores de la Patria en 2024 y se postuló en 2026 mediante un Grupo Significativo de Ciudadanos, sin haber ocupado nunca un cargo público previo [F3][F4]. En la segunda vuelta del 21 de junio de 2026 obtuvo el 49,66% frente al 48,70% de Iván Cepeda, el margen más estrecho registrado en una elección presidencial colombiana, con cerca de 13 millones de votos (43,74% en primera vuelta) [F4][F5]. Asumió el 7 de agosto de 2026, sucediendo a Gustavo Petro, con José Manuel Restrepo como vicepresidente [F3][F4]. Su programa incluye libre mercado, reducción del Estado, \"mano dura\" contra la delincuencia, terminar los procesos de paz con grupos armados, retirarse de organismos internacionales como la CIDH y la ONU, y restablecer relaciones con Israel [F3][F4][F5].",
-          "progressivePerspective": "La afirmación contiene un dato verificable y una carga retórica. El dato (De la Espriella es presidente) se confirma con tres fuentes independientes y debe aceptarse como verdad, porque negar hechos verificables debilita la credibilidad de cualquier análisis crítico [F3][F4][F5]. Lo que sí merece contraste es la construcción de \"ilegitimidad\": ninguna fuente muestra vicios electorales en la elección de 2026; el resultado fue el margen más estrecho de la historia colombiana, lo que indica una sociedad dividida, no una fraudulencia [F4]. Llamar \"ilegítimo\" al gobierno saliente o al proceso político anterior no aporta verdad ni reconocimiento de responsabilidades: es una operación que reemplaza el debate de hechos por la descalificación, en la misma línea que otras descalificaciones registradas en el análisis (\"cuasieconomista\", ataques a la apariencia) [F3]. En el marco de los fines de la JEP (verdad, justicia, reparación y no repetición), el dato relevante es que el nuevo presidente llegó con un programa explícito de terminar los procesos de paz con grupos armados y de salir de instancias internacionales de derechos humanos [F3][F4], lo que compromete las garantías institucionales sobre las que se sostienen la verdad y la reparación de las víctimas; además, como defensor histórico de paramilitares (AUC), de Salvatore Mancuso y de Alex Saab, y como promotor de un referendo contra la extradición, su llegada al poder abre un escenario de riesgo para la continuidad de la justicia transicional [F4]. La lectura afín a la no repetición no consiste en negar su presidencia, sino en exigir que la transición no desarme la verdad y la justicia [F4][F3].",
-          "whatTheyOmit": "Se omite que la legitimidad de De la Espriella se sustenta en una elección validada, con el margen más estrecho de la historia (49,66% vs 48,70%), es decir, con un país prácticamente partido por la mitad [F4][F5]. Se omite que no tenía experiencia previa en cargo público alguno antes de la presidencia [F3][F4]. Se omite su trayectoria: defensa de paramilitares de las AUC y de Salvatore Mancuso (a quien publicamente apoyó diciendo que en su lugar \"habría hecho lo mismo\"), trabajo asesorando a las AUC en FIPAZ, y defensa de Alex Saab [F4]. Se omite su programa de terminar los procesos de paz y retirarse de la CIDH y la ONU, consecuencias directas para las víctimas del conflicto armado y para la justicia transicional [F3][F4]. Y se omite que usar el epíteto \"ilegítimo\" sin evidencia de vicios electorales es una afirmación de valor, no un hecho verificable [F4][F5].",
-          "keyFacts": [
-            "Abelardo de la Espriella es el presidente de la República de Colombia desde el 7 de agosto de 2026 [F3][F4]",
-            "Sucedió en el cargo a Gustavo Petro, con José Manuel Restrepo como vicepresidente [F3][F4]",
-            "Ganó la segunda vuelta del 21 de junio de 2026 con 49,66% frente a 48,70% de Iván Cepeda, el margen más estrecho registrado en una elección presidencial colombiana [F4][F5]",
-            "Obtuvo cerca de 13 millones de votos en segunda vuelta y 43,74% en primera vuelta del 31 de mayo de 2026 [F4][F5]",
-            "Fundó el movimiento Defensores de la Patria en 2024 y nunca había ejercido un cargo público antes de la presidencia [F3][F4]",
-            "Su programa incluye terminar los procesos de paz con grupos armados, libre mercado, reducción del Estado y salida de organismos internacionales como la CIDH y la ONU [F3][F4]",
-            "Como abogado defendió a miembros de grupos paramilitares vinculados a la parapolítica y a Alex Saab, y apoyó públicamente a Salvatore Mancuso [F4]",
-            "Ninguna fuente aportada documenta vicios de legitimidad en su elección: el calificativo \"ilegítimo\" es una opinión, no un hecho verificable [F4][F5]"
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://razonpublica.com/de-la-espriella-un-bukele-en-colombia/",
-              "note": "Confirma que De la Espriella sustituye a Gustavo Petro en la presidencia y lo encuadra en la nueva derecha populista latinoamericana (comparación con Bukele); aporta su perfil de campaña de \"mano dura\" y amenazas a actores armados no estatales [F1].",
-              "host": "razonpublica.com",
-              "title": "De la Espriella: ¿un Bukele en Colombia? - Razón Pública",
-              "image": "https://razonpublica.com/wp-content/uploads/2026/08/3.1.-Bukele_Abelardo-1024x683.png"
-            },
-            {
-              "ref": "F2",
-              "url": "https://www.lasillavacia.com/abelardo-de-la-espriella-candidato-presidencial-2026/",
-              "note": "Página de La Silla Vacía sobre su candidatura presidencial 2026; el contenido recuperado es solo el aviso de cookies, por lo que no aporta datos verificables sustantivos para esta afirmación [F2].",
-              "host": "lasillavacia.com",
-              "title": "Abelardo de la Espriella: candidato presidencial 2026",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/01/Abelardo_de_la_Espriella_2026.jpeg"
-            },
-            {
-              "ref": "F3",
-              "url": "https://es.wikipedia.org/wiki/Abelardo_de_la_Espriella",
-              "note": "Fuente central en español: 43.º presidente desde el 7 de agosto de 2026, precedido por Petro, vicepresidente Restrepo, biografía, partido y programa de gobierno [F3].",
-              "host": "es.wikipedia.org",
-              "title": "Abelardo de la Espriella - Wikipedia, la enciclopedia libre",
-              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/960px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
-            },
-            {
-              "ref": "F4",
-              "url": "https://en.wikipedia.org/wiki/Abelardo_de_la_Espriella",
-              "note": "Contraste clave en inglés: resultados exactos de las dos vueltas (43,74%; 49,66% vs 48,70%, margen más estrecho de la historia), trayectoria defendiendo a paramilitares y a Alex Saab, y agenda de fin de los procesos de paz [F4].",
-              "host": "en.wikipedia.org",
-              "title": "Abelardo de la Espriella - Wikipedia",
-              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/960px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
-            },
-            {
-              "ref": "F5",
-              "url": "https://caracol.com.co/2026/06/21/abelardo-de-la-espriella-es-el-presidente-electo-de-colombia/",
-              "note": "Medio colombiano que lo reconoce como presidente electo 2026-2030 tras la segunda vuelta, con casi 13 millones de votos; aporta su plan de gobierno y su carácter de presidente electo antes de la posesión [F5].",
-              "host": "caracol.com.co",
-              "title": "Abelardo de la Espriella es el nuevo presidente de Colombia 2026-2030",
-              "image": "https://caracol.com.co/resizer/v2/4L6QHIAKENFXHFDP3LIY2YUUYU.jpg?auth=31d42aaaba3c588fc6814c5ed7b8b81912a74859083c91818b895f53c31d7264&quality=70&width=1200&height=675&smart=true"
-            }
-          ]
-        },
-        {
-          "id": 12,
-          "topic": "economia",
-          "claim": "La TRM nace en 1991 y la banda cambiaria se eliminó en 1994, año a partir del cual se puede medir devaluaciones y revaluaciones del peso.",
-          "quote": "la TDM nace en 1 991 pero la banda cambiaría se quita en 1 994",
-          "figures": [
-            "1991",
-            "1994"
-          ],
-          "verdict": "engañoso",
-          "headline": "",
-          "color": "orange",
-          "confidence": "media",
-          "summary": "Solo la primera mitad tiene respaldo parcial: la Ley 9 de 1991 (17 de enero) es efectivamente la norma general que reorganizó el régimen cambiario colombiano [F5]. Sin embargo, ninguna fuente entregada dice que la TRM 'nazca' en 1991 ni que la banda cambiaria se 'eliminara' en 1994 (el sitio del Banco de la República sobre la Ley 9/1991 bloqueó el acceso y no aportó texto) [F3][F5], y la segunda parte de la afirmación —que solo desde 1994 se pueden medir devaluaciones y revaluaciones— es contradicha por la serie histórica del peso, que registra promedios mensuales del dólar desde 1950 con fuertes devaluaciones (1957, 1962, 1965, 1980-1990) y hasta una apreciación dentro de 1991 (nov 687,59 → dic 630,38) [F4].",
-          "context": "El marco normativo cambiario colombiano moderno nace con la Ley 9 de 1991, que fijó 'los criterios, propósitos y funciones' del régimen cambiario y las funciones de regulación del Gobierno y la Junta Monetaria [F5]. La ley, en su parágrafo 1º, habla de una 'banda' de 100 kilómetros de litoral, concepto totalmente distinto de la banda cambiaria de tipo de cambio, detalle que puede generar confusión terminológica en el debate [F5]. Las cifras de tipo de cambio se vienen registrando en Colombia de manera continua desde 1950, con promedios mensuales publicados, por lo que la medición de devaluaciones es anterior a 1994 [F4]. Las fuentes entregadas no contienen la fecha de creación de la TRM ni la fecha de eliminación de la banda cambiaria: la página normativa del BanRep no devolvió contenido [F3] y el texto de la Ley 9/1991 de la DIAN no menciona ni TRM ni bandas cambiarias [F5]. En consecuencia, la segunda parte de la afirmación queda sin evidencia en las fuentes y la primera solo es verificable como creación del régimen cambiario, no como 'nacimiento' específico de la TRM.",
-          "progressivePerspective": "Este es un debate económico-técnico, no un caso del conflicto armado ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no aplica directamente; sí aplica su criterio rector: la verdad exige precisión en los datos antes de asignar culpas. Usar una fecha equivocada (1994) como corte para 'empezar a medir' devaluaciones y revaluaciones resulta funcional a una lectura que responsabiliza a un solo gobierno de la volatilidad cambiaria, cuando la serie histórica muestra devaluaciones fuertes y continuas desde 1950 y apreciaciones del peso en gobiernos anteriores al corte señalado [F4]. La advertencia de que el dólar tiende a subir en gobiernos de derecha y de que endeudarse en moneda extranjera encarece la deuda ante una devaluación coincide con la evidencia disponible: la volatilidad cambiaria es estructural y no nace en 1994 ni se explica por un solo gobierno [F4][F5]. Reconocer con exactitud cuándo y por qué se miden las variaciones cambiarias abona a esclarecer la verdad del fenómeno (por qué la deuda en dólares es riesgosa para el país) en vez de manipular el punto de partida para culpar o exculpar a un gobierno [F4][F5].",
-          "whatTheyOmit": "Se omite que la serie oficial de tipo de cambio colombiano es mucho más antigua que 1994: hay promedios mensuales desde 1950, con devaluaciones de gran magnitud entre 1957 y 1990 y con apreciaciones del peso registradas antes de 1994 (por ejemplo, de 687,59 en noviembre de 1991 a 630,38 en diciembre de 1991) [F4]. Se omite también que la fuente que debía acreditar la norma cambiaria (Banco de la República, Ley 9 de 1991) no pudo consultarse porque el sitio bloqueó el acceso, de modo que no hay evidencia documental en el material entregado ni para la 'creación de la TRM en 1991' ni para la 'eliminación de la banda en 1994' [F3][F5]. Y se omite que la Ley 9 de 1991 habla de régimen cambiario en general, no de TRM ni de bandas de tipo de cambio (la única 'banda' que menciona es geográfica: 100 km de litoral) [F5].",
-          "keyFacts": [
-            "La Ley 9 de 1991, expedida el 17 de enero de 1991, dicta 'las normas generales a las que deberá sujetarse el Gobierno Nacional para regular los cambios internacionales' y define propósitos y funciones de regulación del régimen cambiario [F5]",
-            "Ninguna de las fuentes entregadas menciona la fecha de creación de la TRM ni la fecha de eliminación de la banda cambiaria; el enlace normativo del Banco de la República devolvió una página de bloqueo sin contenido [F3][F5]",
-            "La serie histórica del peso colombiano registra promedios mensuales del dólar desde 1950, con devaluaciones antes de 1994 (1957: de 3,65 a 5,38; 1962: de 7,07 a 9,00; 1965: de 12,15 a 13,50) [F4]",
-            "Antes de 1994 ya se registraron apreciaciones (revaluaciones) del peso: en 1991 la serie pasa de 687,59 en noviembre a 630,38 en diciembre; en 1992 de 733,42 en diciembre a 645,18 en enero de 1992 [F4]",
-            "La única 'banda' que aparece en la Ley 9 de 1991 es geográfica (100 km del litoral y San Andrés y Providencia), no una banda de tipo de cambio [F5]",
-            "La atribución de quién dice esta afirmación en el dueto no está determinada por la ficha de contexto ni por las fuentes: no es posible identificar a qué participante corresponde."
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://razonpublica.com/la-verdadera-herencia-de-1991/",
-              "note": "Contexto institucional de la Constitución de 1991 y del Banco de la República; no aporta datos sobre TRM ni bandas cambiarias",
-              "host": "razonpublica.com",
-              "title": "La verdadera herencia de 1991 - Razón Pública",
-              "image": "https://razonpublica.com/wp-content/uploads/2026/07/7.1.-constitucion-1.jpg"
-            },
-            {
-              "ref": "F2",
-              "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/la-constitucion-del-91-fue-lo-que-estabilizo-a-colombia/",
-              "note": "Contexto sobre autonomía del Banco de la República (art. 373) y estabilidad macroeconómica; no aporta fechas de TRM o banda cambiaria",
-              "host": "lasillavacia.com",
-              "title": "La Constitución del 91 fue lo que estabilizó a Colombia",
-              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2024/02/diego-dorado-1.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
-            },
-            {
-              "ref": "F3",
-              "url": "https://www.banrep.gov.co/es/normatividad/cambiaria/ley-9-1991",
-              "note": "Fuente que debía acreditar la norma cambiaria del BanRep, pero devolvió una página de bloqueo por bot: no aporta contenido verificable",
-              "host": "banrep.gov.co",
-              "title": "Nos disculpamos por los inconvenientes...",
-              "image": ""
-            },
-            {
-              "ref": "F4",
-              "url": "https://es.wikipedia.org/wiki/Anexo:Cotización_histórica_del_peso_colombiano",
-              "note": "Serie de tipo de cambio promedio mensual desde 1950; permite constatar devaluaciones y apreciaciones del peso anteriores a 1994, contradiendo el corte propuesto en la afirmación",
-              "host": "es.wikipedia.org",
-              "title": "Anexo:Cotización histórica del peso colombiano - Wikipedia, la enciclopedia libre",
-              "image": ""
-            },
-            {
-              "ref": "F5",
-              "url": "https://normograma.dian.gov.co/dian//compilacion/docs/ley_0009_1991.htm",
-              "note": "Texto íntegro de la Ley 9 de 1991: confirma que en 1991 se dictó el marco general del régimen cambiario, pero no menciona TRM ni bandas de tipo de cambio (su 'banda' es geográfica)",
-              "host": "normograma.dian.gov.co",
-              "title": "Compilación Jurídica de la DIAN",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "id": 13,
+          "id": 8,
           "topic": "economia",
           "claim": "Se afirma que hubo devaluación del peso con Ernesto Samper y Andrés Pastrana, revaluación con Álvaro Uribe, estabilidad en el primer período de Juan Manuel Santos y movimientos bruscos con la crisis del petróleo, el segundo gobierno de Santos e Iván Duque (incluido el paro de 2021).",
           "quote": "hemos tenido devaluaciones como con Ernesto Samper con Pastrana ... reevaluaciones como ha sido con el gobierno de Álvaro Uribe ... también movimientos bruscos como los que tuvo Iván Duque el paro guerrillero que tuvimos en 2 021",
@@ -2335,70 +2002,7 @@
           ]
         },
         {
-          "id": 14,
-          "topic": "economia",
-          "claim": "Se afirma que el peso suele depreciarse frente al dólar hasta 1,6% anual como mínimo 1,3%, lo que acumulado en 4 años equivaldría a unos 12% de depreciación.",
-          "quote": "el peso suele evaluarse hasta 1 6 por 100 anualmente frente al dólar mínimo 1 3 por 100 mínimo ... sería en realidad un 12% dentro de 4 años",
-          "figures": [
-            "1,6%",
-            "1,3%",
-            "12%",
-            "4 años"
-          ],
-          "verdict": "parcialmente_verificable",
-          "headline": "",
-          "color": "orange",
-          "confidence": "media",
-          "summary": "La dirección cualitativa del argumento (el peso colombiano tiende a depreciarse y esa depreciación encarece la deuda pública en dólares) está respaldada: las fuentes documentan episodios de fuerte depreciación y confirman que cuando el dólar sube la deuda externa en pesos se encarece [F1][F3]. Sin embargo, las cifras EXACTAS (1,6% anual 'hasta', mínimo 1,3% anual) NO aparecen en ninguna de las fuentes entregadas [F1][F2][F3][F4], y la propia afirmación es internamente inconsistente: a 1,6% o 1,3% anual, el acumulado en 4 años sería ~5–6,6% (interés compuesto), no 12%, lo que implicaría una depreciación de ~2,9% anual. Es decir, el dato es matemáticamente autocontradictorio y empíricamente no verificable con las fuentes disponibles.",
-          "context": "El peso colombiano es, según Razón Pública, una de las monedas que MÁS fluctúan en América Latina: se depreció 25% entre febrero y noviembre de 2022 (llegando a $5.061), luego se apreció 17% hasta $4.070 (julio 2023) y acumuló una apreciación de 11,5% en 2025 [F1]. Eso muestra que el comportamiento cambiario colombiano NO es una línea recta de depreciación constante de 1,3–1,6% anual, sino de episodios volátiles con depreciaciones fuertes seguidas de apreciaciones igualmente fuertes, movidas por el apetito de riesgo global (invasión rusa a Ucrania, aranceles de Trump, precios del petróleo, tasas de la Fed y de BanRep) más que por decisiones de un solo gobierno [F1]. En septiembre de 2026 el dólar pasó de $3.183 a $3.291 en una semana (+3,40%), el peor desempeño semanal de las principales divisas de LatAm, coincidiendo con el fortalecimiento internacional del dólar (índice DXY de 99,93 a 100,70) y con rendimientos al alza del bono del Tesoro a 10 años (4,99% a 5,16%) [F3]. La fuente [F2] (Banco de la República) no pudo consultarse y [F4] trata del peso MEXICANO, no del colombiano, por lo que no es aplicable a esta afirmación [F2][F4].",
-          "progressivePerspective": "El núcleo de la afirmación es que la deuda externa en dólares no es 'más barata' si se le suma el riesgo cambiario, porque una depreciación del peso encarece automáticamente el servicio de esa deuda en moneda local. Esto está respaldado explícitamente: 'cuando la tasa de cambio sube, se deprecia, la deuda pública en dólares se torna relativamente más cara, constriñe las finanzas públicas y puede inflexibilizar el PGN, que ya dedica cerca del 21% (2025) al pago de servicio de la deuda' [F1], y 'la subida del tipo de cambio incrementa en pesos el valor de las obligaciones externas del Estado' [F3]. De ese argumento se desprende un llamado a la no repetición de políticas de endeudamiento oneroso y a la rendición de cuentas sobre el costo real de las decisiones fiscales. Ahora bien, para que ese argumento sea sólido debe ir con datos precisos: usar una cifra de depreciación anual que ninguna fuente respalda y que además no cuadra con el propio acumulado de 4 años debilita la veracidad del punto y facilita que sea descartado como 'cuasieconomía' [F1][F3]. Además, la propia fuente que sustenta el análisis advierte que la tendencia cambiaria la dictan 'el apetito de riesgo y la percepción de los inversores sobre el mercado y condiciones globales', no el gobierno de turno, por lo que atribuir la depreciación o la revaluación en bloque a un presidente (izquierda o derecha) es una simplificación politizada [F1][F3].",
-          "whatTheyOmit": "1) Se omite que las tasas de 1,3%–1,6% anual de depreciación no constan en ninguna fuente: los documentos muestran depreciaciones de 25% en meses (2022) o de 3,4% en una sola semana (sep 2026) y apreciaciones de 17% y 11,5%, patrones incompatibles con una depreciación 'mínima' constante de ~1,3% anual [F1][F3]. 2) Se omite la inconsistencia aritmética interna: 1,3–1,6% anual acumulado en 4 años da ~5–6,6%, no 12%, de modo que o la tasa anual o el acumulado de 4 años está mal [F1][F3]. 3) Se omite que el factor estructural del tipo de cambio es exógeno (Fed, apetito de riesgo global, precios del petróleo, primas de riesgo geopolítico como Estrecho de Ormuz), no un capricho del gobierno colombiano, punto que debilita cualquier lectura partidista de la TRM, ya sea de un lado u otro [F1][F3]. 4) La fuente [F4] es sobre el peso mexicano (BBVA Research México, Banxico) y no sirve para sostener cifras sobre el peso colombiano [F4]; [F2] no fue accesible [F2].",
-          "keyFacts": [
-            "El peso colombiano es una de las monedas que más fluctúan en LatAm: depreciación del 25% entre feb y nov 2022 (a $5.061) y posterior apreciación del 17% (a $4.070 en jul 2023) [F1]",
-            "La apreciación reciente del peso en 2025 fue del 11,5% desde abril, liderando el fortalecimiento regional [F1]",
-            "Cuando el tipo de cambio sube, la deuda pública en dólares se vuelve más cara y constriñe las finanzas públicas (PGN 2025: ~21% al servicio de la deuda) [F1]",
-            "En la semana del 18 al 25 de sep 2026 el dólar subió de $3.183 a $3.291 (+3,40%), el peor desempeño semanal de LatAm, lo que 'agrava el endeudamiento externo del país' [F3]",
-            "Ninguna de las fuentes consultadas registra una tasa anual de depreciación del peso colombiano de 1,3% o 1,6%, por lo que esas cifras quedan sin evidencia documental [F1][F2][F3][F4]",
-            "La tendencia cambiaria la dictan apetito de riesgo global, tasas de la Fed y de BanRep y precios de materias primas; la incertidictad política solo impone una 'prima de riesgo' [F1]",
-            "La fuente [F4] corresponde al peso mexicano (18,9 MXN/USD de equilibrio según BBVA Research México) y no al colombiano [F4]"
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://razonpublica.com/dolar-3-700-entender-la-volatilidad-mas-alla-del-ruido/",
-              "note": "Aporta la evidencia central: volatilidad extrema del peso colombiano (25% de depreciación en 2022, 17% de apreciación en 2023, 11,5% en 2025), el carácter exógeno de la tendencia cambiaria y el efecto de la depreciación sobre la deuda pública en dólares. Contrasta con la afirmación de una depreciación 'constante mínima' de 1,3–1,6% anual.",
-              "host": "razonpublica.com",
-              "title": "El dólar a 3.700: entender la volatilidad más allá del ruido",
-              "image": "https://razonpublica.com/wp-content/uploads/2025/11/Dolar.jpg"
-            },
-            {
-              "ref": "F2",
-              "url": "https://www.banrep.gov.co/es/afecta-depreciacion-del-peso-algunos-indicadores-externos-economia-colombiana",
-              "note": "Fuente del Banco de la República: no fue accesible (bloqueo anti-bot), por lo que no aporta datos y no puede usarse para confirmar ni desmentir las tasas.",
-              "host": "banrep.gov.co",
-              "title": "Nos disculpamos por los inconvenientes...",
-              "image": ""
-            },
-            {
-              "ref": "F3",
-              "url": "https://www.infobae.com/colombia/2026/10/03/gustavo-petro-advirtio-las-consecuencias-que-tendria-el-pais-ante-la-depreciacion-del-peso-colombiano-esto-agrava/",
-              "note": "Documenta una depreciación semanal real (3,40% en sep 2026), su vinculación con factores globales (DXY, Tesoro a 10 años, Fed, Oriente Medio) y el efecto sobre el endeudamiento externo. Contrasta con la cifra de 1,3–1,6% anual.",
-              "host": "infobae.com",
-              "title": "Gustavo Petro advirtió las consecuencias que tendría el país ante la depreciación del peso colombiano: “Esto agrava”",
-              "image": "https://www.infobae.com/resizer/v2/QIGIGPGJZFERRN3RWKT5AXNSQE.png?auth=8afdd0701691cb3ac71faea5188f46e566fdcc5eab2fa48d1ab8c16aeb9b169f&smart=true&width=1200&height=630&quality=85"
-            },
-            {
-              "ref": "F4",
-              "url": "https://www.elfinanciero.com.mx/opinion/carlos-serrano-herrera/2026/10/01/la-reciente-depreciacion-del-peso/",
-              "note": "Análisis de BBVA Research sobre el peso MEXICANO (0,4% de depreciación en el año, 6,5% en un mes). Sirve solo como contraste metodológico: no es aplicable al peso colombiano y no respalda las tasas citadas.",
-              "host": "elfinanciero.com.mx",
-              "title": "La reciente depreciación del peso",
-              "image": "https://www.elfinanciero.com.mx/resizer/v2/EQYAEHCYTRGPZHHWE7IHMRIGIY.jpg?smart=true&auth=c342bbca294719eaa6e4d408866f16fd32c0ed5d0071372f9fe560817dffabe5&width=1200&height=630"
-            }
-          ]
-        },
-        {
-          "id": 15,
+          "id": 9,
           "topic": "economia",
           "claim": "Se afirma que si el dólar llega a 4.000 o 5.000 pesos, la deuda externa se multiplica en dólares y no conviene que Colombia tenga deuda con el FMI.",
           "quote": "llegamos a precios como 4 000 505 000 pesos el dólar ... entonces realmente no conviene que Colombia tenga una deuda con el FMI ... es un muy mal negocio",
@@ -2464,7 +2068,7 @@
           ]
         },
         {
-          "id": 16,
+          "id": 10,
           "topic": "economia",
           "claim": "El dólar jamás llegó a 5.000 pesos con Iván Duque y la primera vez que llegó a 5.000 fue el 1 de noviembre de 2022, cuando Gustavo Petro era presidente.",
           "quote": "con Duque el peso colombiano jamás llegó a 5 000 pesos la primera vez que llegó a 5 000 pesos fue 01/11/2022 me recuerdan cuál Presidente teníamos",
@@ -2534,7 +2138,7 @@
           ]
         },
         {
-          "id": 17,
+          "id": 11,
           "topic": "economia",
           "claim": "Se afirma que el peso se ha ido revaluando respecto al dólar por la cantidad de deuda exagerada que contrajo el gobierno de Gustavo Petro, porque más dólares en la economía hace bajar el precio del dólar.",
           "quote": "el peso colombiano se ha ido revaluando respecto al dólar por la cantidad de deuda exagerada que ha tomado el gobierno de Gustavo Petro más dólares en la economía significa que el precio del dólar baje",
@@ -2600,7 +2204,7 @@
           ]
         },
         {
-          "id": 18,
+          "id": 12,
           "topic": "economia",
           "claim": "Se afirma que PIMCO acumuló 41 billones de pesos colombianos en bonos durante el gobierno de Gustavo Petro.",
           "quote": "Pinko acumuló 41 billones de pesos colombianos en bonos en el gobierno de Gustavo Petro",
@@ -2669,7 +2273,7 @@
           ]
         },
         {
-          "id": 19,
+          "id": 13,
           "topic": "economia",
           "claim": "Se afirma que el gobierno de Petro endeudó al país interna y externamente, \"en todas las capacidades de endeudamiento del país\".",
           "quote": "nos endeudaron frente al mundo nos endeudaron internamente nos endeudaron en todas las capacidades de endeudamiento del país",
@@ -2736,7 +2340,7 @@
           ]
         },
         {
-          "id": 20,
+          "id": 14,
           "topic": "economia",
           "claim": "Se afirma que el nuevo gobierno lleva apenas 60 días, no ha emitido deuda en la misma capacidad que el gobierno anterior y no ha obtenido acuerdo de deuda con el FMI.",
           "quote": "el gobierno lleva 60 días y no ha emitido deuda ni en la misma capacidad que el anterior gobierno ni hemos obtenido deuda con el Fondo Monetario Internacional porque no se ha llegado a acuerdo",
@@ -2803,7 +2407,7 @@
           ]
         },
         {
-          "id": 21,
+          "id": 15,
           "topic": "economia",
           "claim": "Se sostiene que una deuda al 4% (externa) es obviamente mejor/menor que una del 12-13% (interna), calificando de \"estúpida\" la postura contraria.",
           "quote": "llegar y hablar de que una deuda del 4% es mayor a una del 13% es completamente estúpido",
@@ -2871,133 +2475,6 @@
               "host": "eltiempo.com",
               "title": "Colombia se endeuda cada vez más caro: tasas al 13 % impulsan el mercado, pero disparan la alerta fiscal",
               "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/02/24/699e561978f9f.jpeg"
-            }
-          ]
-        },
-        {
-          "id": 22,
-          "topic": "otros",
-          "claim": "Se afirma ser economista de profesión y dedicarse a la revisión de contratación pública.",
-          "quote": "hago temas de revisión de contratación pública pero pues yo soy economista de profesión",
-          "figures": [],
-          "verdict": "sin_evidencia",
-          "headline": "",
-          "color": "orange",
-          "confidence": "media",
-          "summary": "La afirmación de que 'es economista de profesión y se dedica a la revisión de contratación pública' es una autodeclaración hecha en el propio video; ninguna de las fuentes entregadas permite confirmar ni desmentir que quien la formula cuente con título, registro profesional o ejercicio acreditado como economista [F1][F2][F3][F4][F5].",
-          "context": "En Colombia la profesión de economía está regulada por la Ley 37 de 1990 y el Consejo Nacional Profesional de Economistas (Conalpe), que expide registros profesionales; sin embargo, existen reformas fallidas y debate permanente sobre esa reglamentación, y el propio debate público reconoce que hay personas sin títulos que 'tienen las credenciales para ejercer como tales' y otras que ejercen sin registro profesional, lo que hace que el mero título declarado sea un dato de autoridad muy débil sin verificación documental [F1]. Además, de acuerdo con la metodología del verificador de La Silla Vacía, las afirmaciones factuales solo pueden calificarse contrastándolas con datos, documentos o fuentes primarias y consultando a quien hizo la afirmación, cosa que las fuentes aportadas no hacen para este caso [F2]. Las fuentes [F3] (ficha de Diana Carolina Corcho), [F4] (página bloqueada del Banco de la República) y [F5] (anuncio publicitario de TikTok) no contienen información sobre la identidad o el perfil profesional del creador del video.",
-          "progressivePerspective": "La autodeclaración de 'soy economista de profesión' funciona en el debate como un gesto de autoridad retórica: es el mismo recurso con el que se descalifica al otro llamándolo 'cuasieconomista', es decir, se disputa el estatus de experto antes de disputar los datos [F1]. En una discusión sobre deuda pública, TES, PIMCO y la deuda con el FMI, el peso del argumento debe recaer en las cifras verificables —tasas del 13,15% de la colocación directa de PIMCO, ~$23 billones colocados en diciembre de 2024, ~$41 billones acumulados, TES a 13-14%— y no en la credencial [F1][F2]. El estándar de verificación del Detector de Mentiras exige chequear hechos con fuentes primarias y no opiniones ni credenciales autoafirmadas, aplicando el mismo criterio a quien tiene poder en el debate público [F2]. Presentarse como economista no valida las afirmaciones —deuda externa al 4% 'obviamente' mejor, Petro culpable de la revaluación, PIMCO 'durante Petro'—; el argumento de autoridad se puede usar de forma interesada para cerrar el debate en lugar de aportar a la verdad y al esclarecimiento del costo real de la deuda para el país.",
-          "whatTheyOmit": "Se omite cualquier documento que acredite título universitario, registro profesional en el Conalpe o vínculo laboral en revisión de contratación pública; la afirmación queda como simple autodeclaración sin contraste con fuentes primarias, tal como exige la metodología de verificación de discurso público [F1][F2]. También se omite que en Colombia ejercer como economista sin registro profesional es una realidad documentada y que el debate sobre la reglamentación de la profesión está lejos de estar zanjado, lo que hace insuficiente el uso del rótulo de 'economista' como garantía de expertise en el debate sobre deuda [F1].",
-          "keyFacts": [
-            "La afirmación 'yo soy economista de profesión' es una autodeclaración contenida en la cita del video y no está confirmada por ninguna de las fuentes entregadas [F1][F2][F3][F4][F5]",
-            "La profesión de economista en Colombia está regulada por la Ley 37 de 1990 y el Consejo Nacional Profesional de Economistas (Conalpe), que expide el registro profesional, y existen proyectos de reforma fallidos que intentaron reglamentar mejor el ejercicio [F1]",
-            "El debate público colombiano ha reconocido que hay personas sin títulos que en la práctica ejercen como economistas y otros que no cuentan con registro profesional, pese a lo cual desarrollan actividades propias de la disciplina [F1]",
-            "La metodología del Detector de Mentiras de La Silla Vacía establece que solo se chequean afirmaciones factuales contrastables con datos, documentos o fuentes, con cita de fuentes primarias y consulta a quien hizo la afirmación [F2]",
-            "Las fuentes [F3], [F4] y [F5] no contienen información verificable sobre la identidad, título o trayectoria profesional del creador [F3][F4][F5]"
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://razonpublica.com/otra-vez-la-ley-del-economista/",
-              "note": "Contexto sobre la regulación de la profesión de economista en Colombia (Ley 37 de 1990, Conalpe) y sobre el hecho de que se ejerce sin título o registro; no acredita ni desmiente al creador r3ntas.",
-              "host": "razonpublica.com",
-              "title": "Otra vez la ley del economista - Razón Pública",
-              "image": "https://razonpublica.com/wp-content/uploads/2021/09/economistas-simposio-economia-ley-economista-Colombia-Andres-Giraldo.jpg"
-            },
-            {
-              "ref": "F2",
-              "url": "https://www.lasillavacia.com/nuestra-metodologia/",
-              "note": "Metodología de verificación: solo hechos contrastables con fuentes primarias, consulta a la fuente, cita de fuentes; base para calificar esta afirmación como no verificable con la evidencia disponible.",
-              "host": "lasillavacia.com",
-              "title": "Metodología del Detector de Mentiras",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/08/Escala-Detector-2-2.png"
-            },
-            {
-              "ref": "F3",
-              "url": "https://elecciones-2026.lasillavacia.com/diana-carolina-corcho-mejia",
-              "note": "Ficha biográfica de Diana Carolina Corcho; no aporta información sobre el creador r3ntas (fuente no pertinente al dato).",
-              "host": "elecciones-2026.lasillavacia.com",
-              "title": "Diana Carolina Corcho Mejía",
-              "image": ""
-            },
-            {
-              "ref": "F4",
-              "url": "https://www.banrep.gov.co/es/3-tasas-interes",
-              "note": "Página del Banco de la República no accesible (bloqueo por bot); no aporta datos sobre la afirmación.",
-              "host": "banrep.gov.co",
-              "title": "",
-              "image": ""
-            },
-            {
-              "ref": "F5",
-              "url": "https://www.bing.com/aclick?ld=e84TtIE5WftoPh941qP35QxTVUCUxC2jHok7NVEP_BrMK7U_sIlfqMS_S1ivDEAiPDPQDdUiPfjmuDOV82yNBB8T_oNOGIWqpqHZZ01s1OlS1oL3mxoCjgOJqPWv57vJdb2U6E7neZucsMCYUYgBsKy_kx6etKz_QCGxldY8EWU9hRwOMdfSx5LsABd-Ud7E9RdCpp5Dqy3sIMyNxagwDAFHU1exc&u=aHR0cHMlM2ElMmYlMmZnZXRzdGFydGVkLnRpa3Rvay5jb20lMmZ0dDRiJTJmJTNmbGFuZyUzZGVzJTI2YXR0cl9zb3VyY2UlM2RiaW5nJTI2YXR0cl9tZWRpdW0lM2RzZWFyY2gtYnItYWQlMjZhdHRyX2FkZ3JvdXBfaWQlM2QxMzQwMzA3MDUxNjAyMzI5JTI2YXR0cl90ZXJtJTNkdGlrdG9rYWRzJTI2bXNjbGtpZCUzZGNmMWE0OWM2Yzc0NjExYmE2Y2I0MjMwOTcyZTI3ZTk4&rlid=cf1a49c6c74611ba6cb4230972e27e98",
-              "note": "Anuncio publicitario de TikTok for Business; sin relación con la afirmación verificada (fuente no pertinente).",
-              "host": "bing.com",
-              "title": "Get your business discovered on TikTok",
-              "image": "https://getstarted.tiktok.com/logo-big.png"
-            }
-          ]
-        },
-        {
-          "id": 23,
-          "topic": "politica",
-          "claim": "Se afirma en el video que el trabajo consiste en sacar a la luz contratos públicos, en reconocimiento del trabajo de Juan Felipe Pedraza en ese aspecto.",
-          "quote": "hago este video para desmeritar alguna parte del trabajo del señor Juan Felipe Pedraza sacando a la luz contratos ... en eso en eso le agradezco yo",
-          "figures": [],
-          "verdict": "sin_evidencia",
-          "headline": "",
-          "color": "orange",
-          "confidence": "media",
-          "summary": "La afirmación sobre el trabajo de sacar a la luz contratos públicos en reconocimiento a Juan Felipe Pedraza no puede verificarse con las fuentes entregadas, ya que ninguna menciona a Juan Felipe Pedraza ni a la cuenta en cuestión [F1][F2][F3][F4][F5].",
-          "context": "Las fuentes disponibles aportan contexto parcial: existe infraestructura pública de transparencia en contratación en Colombia a través de Colombia Compra Eficiente, que publica directorios de contratistas, datos de SECOP y SECOP II, y demás información accesible a la ciudadanía [F4][F5]. Sin embargo, ninguna fuente hace referencia a Juan Felipe Pedraza ni a su actividad de denuncia de contratos públicos, ni tampoco a su autodenominado trabajo como revisor de contratación pública [F1][F2][F3][F4][F5]. La fuente F3 corresponde a Jennifer Pedraza, una congresista colombiana distinta de Juan Felipe Pedraza, por lo que no es aplicable a esta afirmación específica [F3].",
-          "progressivePerspective": "Esta afirmación es esencialmente una autodescripción de propósito del creador de contenido y una referencia a una figura externa (Juan Felipe Pedraza) que ninguna fuente cubre. Es relevante señalar que el ejercicio periodístico ciudadano de revisar contratos públicos es legítimo y está amparado por el derecho de acceso a la información, respaldado por la infraestructura de Colombia Compra Eficiente [F4][F5]. Sin embargo, la legitimidad de esa labor se evalúa por la rigurosidad y transparencia con que se presenta la información, no solo por la declaración de intenciones. El hecho de que el creador se presente como defensor de la transparencia en contratación no valida automáticamente sus argumentos económicos posteriores en el debate [F1][F4][F5].",
-          "whatTheyOmit": "La afirmación omite evidencia concreta de trabajos específicos de contratación realizados por la cuenta mencionada, así como la base documental de la labor de Juan Felipe Pedraza. Las fuentes disponibles incluyen plataformas de acceso público a datos de contratación (SECOP, SIGEP) que permitirían verificar afirmaciones sobre contratos específicos [F4][F5], pero no hay material en las fuentes que documente la actividad específica de ninguno de los tres individuos mencionados [F1][F2][F3].",
-          "keyFacts": [
-            "La afirmación constituye una autodescripción de propósito del creador de contenido, no un hecho verificable directamente con las fuentes entregadas [F1][F2][F3][F4][F5]",
-            "Colombia Compra Eficiente pone a disposición de la ciudadanía directorios de contratistas, datos de SECOP, SECOP II y SIGEP, lo que facilita la revisión pública de contratos [F4][F5]",
-            "Juan Felipe Pedraza no aparece en ninguna de las fuentes entregadas; la fuente F3 corresponde a Jennifer Pedraza, una política colombiana distinta [F3]",
-            "La afirmación se emite en el contexto de un debate económico sobre deuda pública, donde el creador utiliza su autoridad autodenominada como revisor de contratación para respaldar sus argumentos económicos [F1][F4][F5]"
-          ],
-          "sources": [
-            {
-              "ref": "F1",
-              "url": "https://www.lasillavacia.com/opinion/por-una-agenda-progresista-mas-alla-de-petro/",
-              "note": "Artículo de opinión sobre agenda progresista; menciona la necesidad de combatir la captura del Estado y la corrupción en contratación, pero no menciona a Juan Felipe Pedraza ni a @r3ntas.",
-              "host": "lasillavacia.com",
-              "title": "Por una agenda progresista (más allá de Petro)",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/09/Olga-L-Gonzalez-1.jpg"
-            },
-            {
-              "ref": "F2",
-              "url": "https://silla-datos.lasillavacia.com/",
-              "note": "Portal de bases de datos de La Silla Vacía sobre poder en Colombia; no contiene información específica sobre las figuras mencionadas.",
-              "host": "silla-datos.lasillavacia.com",
-              "title": "La Silla Vacía | Bases de Datos",
-              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/08/lasilladatos-rec-1024x576.jpg"
-            },
-            {
-              "ref": "F3",
-              "url": "https://es.wikipedia.org/wiki/Jennifer_Pedraza",
-              "note": "Perfil de Jennifer Pedraza, economista y política colombiana; NO es Juan Felipe Pedraza. Su actividad en control político incluye denuncias de irregularidades en contratación pública.",
-              "host": "es.wikipedia.org",
-              "title": "Jennifer Pedraza - Wikipedia, la enciclopedia libre",
-              "image": ""
-            },
-            {
-              "ref": "F4",
-              "url": "https://operaciones.colombiacompra.gov.co/transparencia/estructura/funcionarios-y-contratistas",
-              "note": "Plataforma de Colombia Compra Eficiente con directorios de contratistas y datos de SECOP; evidencia la existencia de infraestructura de transparencia en contratación.",
-              "host": "operaciones.colombiacompra.gov.co",
-              "title": "Funcionarios y contratistas",
-              "image": ""
-            },
-            {
-              "ref": "F5",
-              "url": "https://colombiacompra.gov.co/transparencia/funcionarios-y-contratistas",
-              "note": "Portal de transparencia de Colombia Compra Eficiente con datos actualizados de contratación; complementa F4 como evidencia del ecosistema de transparencia pública.",
-              "host": "colombiacompra.gov.co",
-              "title": "Funcionarios y Contratistas",
-              "image": ""
             }
           ]
         }
