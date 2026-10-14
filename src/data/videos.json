@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:03:46",
+  "generatedAt": "2026-10-14T15:32:49",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -2475,6 +2475,406 @@
               "host": "eltiempo.com",
               "title": "Colombia se endeuda cada vez más caro: tasas al 13 % impulsan el mercado, pero disparan la alerta fiscal",
               "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/02/24/699e561978f9f.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tiktok-video-7695850365765373191",
+      "title": "TikTok video #7695850365765373191",
+      "uploader": "ferchitoisback",
+      "url": "https://www.tiktok.com/@ferchitoisback/video/7695850365765373191",
+      "duration": 114,
+      "thumbnail": "/media/tiktok-video-7695850365765373191/thumb.jpg",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Se afirma que las hijas de Petro viven en Europa con un estilo de vida de multimillonarias.",
+          "quote": "las hijas de Petro viven en Europa como multimillonarias",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación combina un dato parcialmente cierto con uno sin respaldo: solo una de las tres hijas de Petro reside en Europa; otra estudia en Brasil y la menor vive y estudia en Bogotá. Las fuentes no contienen ningún dato sobre patrimonio, ingresos o estilo de vida 'de multimillonarias' de las hijas, por lo que esa parte es sin_evidencia [F3][F4][F5].",
+          "context": "Petro tiene seis hijos de tres matrimonios. Andrea Petro Herrán reside principalmente en Francia (Europa), donde es emprendedora y asesora a empresas europeas; Sofía Petro Alcocer estudia en la Universidad de São Paulo, Brasil; Antonella Petro Alcocer cursa el bachillerato en el Lycée Français Louis Pasteur de Bogotá, tras considerar en agosto 2024 estudiar en el exterior por el acoso recibido y decidir quedarse en Colombia; Andrés Petro vive en Canadá con asilo político desde 2021; Nicolás Alcocer estudia/resside en Toulouse, Francia, y Nicolás Petro es diputado del Atlántico con procesos judiciales [F3][F4][F5]. Las fuentes describen profesiones y lugares de residencia, no patrimonios: no hay cifras de fortuna, bienes ni gastos de las hijas en ninguna de las cinco fuentes [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "La afirmación es una generalización que agrupa a 'las hijas' como si tuvieran una misma residencia y un mismo nivel de vida, cuando las fuentes muestran tres realidades distintas (Francia, Brasil, Bogotá) [F3][F4]. En términos de rigor informativo, atribuir un estilo de vida 'de multimillonarias' sin ningún dato de patrimonio, ingresos o bienes en las fuentes equivale a presentar una intención o un estereotipo como hecho probado [F3][F4][F5]. El caso sí ofrece un hecho verificable y documentado de enriquecimiento sin sustento en la familia: el de Nicolás Petro, procesado por enriquecimiento ilícito y lavado de activos, contexto que las fuentes tratan con datos judiciales concretos y que contrasta con la parte no verificable de la afirmación [F1][F2]. Separar ambos planos —hecho judicial acreditado frente a insinuación patrimonial sin evidencia— es lo que permite evaluar la afirmación sin convertir una descalificación en dato [F1][F3].",
+          "whatTheyOmit": "Omite que solo Andrea reside en Europa: Sofía vive en Brasil y Antonella permanece en Colombia, decisión documentada de agosto 2024 [F3][F4]. Omite que las hijas menores son estudiantes (bachillerato y filosofía) y que Andrea trabaja como asesora y emprendedora, sin que las fuentes registren fortuna alguna [F3][F4]. Omite también que uno de los hijos reside en Canadá por asilo político tras un atentado y amenazas, no por elección de estilo de vida [F5], y que el único caso de alegado enriquecimiento sin respaldo documentado en las fuentes es el de Nicolás Petro, no el de las hijas [F1][F2].",
+          "keyFacts": [
+            "Andrea Petro Herrán reside principalmente en Francia y trabaja de forma independiente asesorando a empresas europeas e impulsando proyectos propios [F3][F4]",
+            "Sofía Petro Alcocer estudia filosofía en la Universidad de São Paulo, Brasil, no en Europa [F3]",
+            "Antonella Petro Alcocer estudia en el Lycée Français Louis Pasteur de Bogotá; en agosto 2024 valoró estudiar en el exterior por el acoso recibido y decidió permanecer en Colombia [F3][F4]",
+            "Ninguna de las cinco fuentes aporta datos de patrimonio, ingresos, bienes o gastos de las hijas de Petro que permitan calificar su estilo de vida como 'de multimillonarias' [F1][F2][F3][F4][F5]",
+            "Nicolás Alcocer, hijo varón, estudia y reside en Toulouse, Francia, en administración y negocios [F3][F4]",
+            "Nicolás Petro, hijo mayor, es el único miembro de la familia con procesos penales: enriquecimiento ilícito y lavado de activos [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/nicolas-petro-dinero-la-etica/",
+              "note": "Analiza el caso penal de Nicolás Petro (enriquecimiento ilícito y lavado de activos) y el costo de las campañas; aporta el único dato de presunta fortuna indebida documentado, no así sobre las hijas.",
+              "host": "razonpublica.com",
+              "title": "Nicolás Petro: el dinero contra la ética | Razón Pública 2023",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/08/Nicolas-Gustavo-degradacion-politica-Ricardo-Garcia.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/petro-y-sus-6-hijos-distante-con-nicolas-cercano-a-las-mujeres/",
+              "note": "Perfil de los seis hijos y su relación con el padre; contexto sobre el escándalo de Nicolás Petro y la investigación solicitada por el propio presidente.",
+              "host": "lasillavacia.com",
+              "title": "Petro y sus 6 hijos: distante con Nicolás, cercano a las mujeres",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/03/Petro-Familia.jpg?fit=640%2C480&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://en.wikipedia.org/wiki/Family_of_Gustavo_Petro",
+              "note": "Ficha de datos sobre cada hijo: lugares de residencia y estudios (Andrea en Francia, Sofía en Brasil, Antonella en Bogotá, Andrés en Canadá); no registra patrimonios.",
+              "host": "en.wikipedia.org",
+              "title": "Family of Gustavo Petro - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/InaugurationPetro02.jpg/1280px-InaugurationPetro02.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.colombia.com/entretenimiento/noticias/quienes-son-los-hijos-de-gustavo-petro-y-a-que-se-dedican-actualmente-592340",
+              "note": "Síntesis de a qué se dedican y dónde viven los seis hijos; confirma que solo Andrea y Nicolás Alcocer residen en Europa, sin datos de fortuna.",
+              "host": "colombia.com",
+              "title": "Ellos son los hijos de Gustavo Petro y así es la vida que llevan actualmente",
+              "image": "https://cdn.colombia.com/sdi/2026/07/17/quienes-son-los-hijos-de-gustavo-petro-y-a-que-se-dedican-actualmente-1349993.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/asi-son-los-hijos-y-la-familia-de-petro-JM18368706",
+              "note": "Contraste sobre el asilo político de Andrés Petro en Canadá y la familia presidencial; documenta razones de seguridad, no estilo de vida opulento.",
+              "host": "elcolombiano.com",
+              "title": "Familia Petro: seis hijos y un ausente que se exiliÃ³ en CanadÃ¡",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/TVVE/20220807-honores-militares-pt-petro-cesar-carrion00024_40467223_20220811193652.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "seguridad",
+          "claim": "Se afirma que quienes apoyan al petrismo terminan en las guerrillas o en la cárcel.",
+          "quote": "los petroburros terminan en las guerrillas en la cárcel con el peor de los escenarios",
+          "figures": [],
+          "verdict": "opinión",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La frase «los petroburros terminan en las guerrillas en la cárcel con el peor de los escenarios» no es un hecho verificable: es una generalización descalificatoria sobre millones de personas que apoyan o apoyaron al gobierno, sin que ninguna de las fuentes entregadas aporte evidencia de que quienes apoyan a Petro terminen sistemáticamente en la guerrilla o en prisión [F1][F2][F3][F4][F5]. Se clasifica como opinión/descalificación sin sustento, no como dato probado.",
+          "context": "Las fuentes disponibles permiten establecer contrapuntos de contexto: (1) los procesos penales en Colombia se siguen contra personas por sus actos concretos y no por su adhesión política —por ejemplo, un usuario de TikTok que amenazó al presidente Petro fue citado por la Fiscalía, aceptó su responsabilidad y sería imputado por amenazas a servidor público [F4]; (2) el riesgo letal documentado en Colombia afecta principalmente a defensores de derechos humanos y líderes sociales: Indepaz registra asesinatos de líderes, firmantes del Acuerdo y defensores entre 2024-2026, y advierte reclutamiento forzado de NNA por grupos armados [F2]; (3) sobre el perfil del propio presidente, se documenta que su condición de exguerrillero y las tensiones históricas civiles-militares son un tema de análisis institucional, no un destino generalizado de sus simpatizantes [F1]; (4) se documenta también el comportamiento cotidiano de simpatizantes en redes sociales —como un seguidor que se ofreció como guardaespaldas— sin conexión alguna con actividades armadas o delictivas [F5]. Ninguna fuente cuantifica prisión o ingreso a guerrillas por razón de apoyo político; por tanto no existe base documental para la afirmación [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "En términos del marco de VERDAD, JUSTICIA, REPARACIÓN Y NO REPETICIÓN, la afirmación merece un examen crítico por tres razones. Primero, no abona a la verdad: convierte una descalificación en supuesto destino colectivo sin datos, lo que distorsiona el esclarecimiento de hechos y desplaza la discusión de hechos probados hacia el estereotipo. Segundo, confunde órdenes distintos de responsabilidad: la JEP juzga a los máximos responsables de crímenes graves —incluidos crímenes de reclutamiento forzado y participación en grupos armados— por sus conductas, no por adhesiones políticas; presentar a un bando entero como destinado «a la guerrilla o a la cárcel» diluye la atribución individual de responsabilidad que exige el derecho penal y la justicia restaurativa [F1][F2]. Tercero, respecto a NO REPETICIÓN, la historiografía del conflicto muestra que la estigmatización de adversarios políticos y de organizaciones sociales como «enemigos» ha sido un antecedente recurrente de violencia: Indepaz documenta la persistencia de asesinatos de líderes y firmantes del Acuerdo y advierte una instrumentalización de la violencia en periodos preelectorales [F2], mientras la CIDH/Comisión Interamericana mantiene recomendaciones sobre la protección de defensores de derechos humanos en Colombia [F2]. Desde una lectura ética, criminalizar simpatías políticas masivas tiende a revictimizar y a dificultar la participación cívica, contrario al objetivo de no repetición; además, al usar un apodo deshumanizante para designar a un grupo social amplio, la frase opera como insulto retórico y no como aporte verificable a la verdad [F5][F4].",
+          "whatTheyOmit": "Se omite cualquier dato o fuente que sustente que apoyar políticamente a Petro conduzca a la guerrilla o a la prisión: ninguna de las fuentes entregadas contiene cifras de procesos penales ni de reclutamiento clasificados por adhesión política [F1][F2][F3][F4][F5]. Se omite que la persecución penal opera por conducta concreta y puede alcanzar a críticos del gobierno —caso del tiktoker imputado por amenazar al presidente—, lo que contradice la idea de un destino carcelario reservado a un solo bando [F4]. Se omite que la violencia documentada contra líderes y defensores —asesinatos y reclutamiento forzado de NNA— afecta a quienes ejercen derechos en territorios en conflicto, no a «simpatizantes» como categoría [F2]. Se omite, asimismo, toda referencia a procesos de verdad o responsabilidad individuales (como los de la JEP) que exigen individualización de la culpa, y se sustituyen por una atribución colectiva y difusa que impide distinguir entre militancia política, discrepancia ciudadana y actividad delictiva [F1][F2].",
+          "keyFacts": [
+            "Ninguna de las fuentes entregadas aporta evidencia de que quienes apoyan al gobierno o a Petro terminen sistemáticamente en grupos guerrilleros o en prisión; se trata de una afirmación general sin soporte documental [F1][F2][F3][F4][F5]",
+            "La Fiscalía General de la Nación investigó e imputó a un usuario de TikTok que amenazó al presidente Petro; el citado aceptó su responsabilidad, ilustrando que las actuaciones penales se derivan de conductas específicas [F4]",
+            "Indepaz documenta asesinatos de líderes sociales, defensores de DD.HH. y firmantes del Acuerdo durante 2024, 2025 y 2026, y describe reclutamiento forzado de niños, niñas y adolescentes por grupos armados ilegales [F2]",
+            "La Comisión Interamericana de Derechos Humanos aprobó el 3 de febrero de 2026 un segundo informe de seguimiento sobre la situación de personas defensoras de derechos humanos y líderes sociales en Colombia [F2]",
+            "Se documenta públicamente a un simpatizante del presidente que se ofreció como guardaespaldas en redes sociales, hecho relatado sin vinculación con actividades armadas o delictivas [F5]",
+            "El análisis académico sobre la relación entre el presidente Petro —exguerrillero— y las Fuerzas Militares se enmarca en tensiones institucionales históricas, no en destinos carcelarios o guerrilleros de sus simpatizantes [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/petro-comandante-jefe-las-fuerzas-militares/",
+              "note": "Análisis de la relación entre el exguerrillero Petro y las Fuerzas Militares; aporta contexto institucional-histórico y no evidencia sobre simpatizantes en guerrilla o cárcel.",
+              "host": "razonpublica.com",
+              "title": "Gustavo Petro: ¿comandante en jefe de las Fuerzas Militares?",
+              "image": "https://razonpublica.com/wp-content/uploads/2022/05/Gustavo-Petro-militares-Gobernar-sin-militares-Juan-Carlos-Ruiz.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://indepaz.org.co/category/informes/",
+              "note": "Informes de Indepaz sobre asesinato de líderes, reclutamiento forzado y balance de protección de la población civil; contrapunto sobre quiénes sufren violencia armada, más allá de adhesiones políticas.",
+              "host": "indepaz.org.co",
+              "title": "Informes - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2026/04/indepaz-banner-redes.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.tiktok.com/@gustavopetrooficial",
+              "note": "Perfil oficial del presidente en TikTok; no aporta información verificable sobre la afirmación.",
+              "host": "tiktok.com",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.qhubocali.com/asi-paso/tiktoker-que-amenazo-al-presidente-petro-acepto-su-responsabilidad-ante-la-fiscalia/",
+              "note": "Caso de un crítico del presidente imputado por amenazas; muestra que la persecución penal obedece a conductas concretas y no a adhesión política.",
+              "host": "qhubocali.com",
+              "title": "'Tiktoker' que amenazó a Petro aceptó su responsabilidad ante la Fiscalía",
+              "image": "https://www.qhubocali.com/wp-content/uploads/2023/03/CCA4NEZGKB2TY7DODXCXGROXMY-scaled.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2026/03/04/un-seguidor-de-gustavo-petro-en-tiktok-se-hace-viral-por-querer-ser-su-guardaespaldas-pa-ver-quien-es-que-lo-va-a-matar/",
+              "note": "Caso de un simpatizante en redes sociales; ejemplos de apoyo ciudadano cotidiano sin vinculación con guerrilla o delincuencia.",
+              "host": "infobae.com",
+              "title": "Seguidor de Gustavo Petro en TikTok se hizo viral tras afirmar que quería ser su guardaespaldas: “Pa’ ver quién es que lo va a matar”",
+              "image": "https://www.infobae.com/resizer/v2/LC6EJOOKWNBLJHRRYSSBSW6DLE.jpg?auth=9f8bf7c2cc296cf8848431ac9de880adbc96dbd1869e502618a2443345c1a217&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Se afirma que el salario no se ha bajado.",
+          "quote": "no se bajó el salario de ninguna manera",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Las fuentes disponibles no documentan ningún recorte nominal del salario mínimo en Colombia: el mínimo de 2025 se fijó con un aumento del 23% ($1.750.905) y, tras la suspensión provisional decretada por el Consejo de Estado del decreto de 2026, el Gobierno expidió el Decreto 159 de 2026 que fija transitoriamente un incremento, no una baja [F2][F4][F5]. La afirmación es correcta en términos nominales, pero queda parcialmente verificable porque el texto del Decreto 159 suministrado no incluye el porcentaje ni el valor final, y porque la fijación del mínimo de 2026 sigue sujeta a una sentencia de fondo pendiente [F4][F5].",
+          "context": "El 12 de febrero de 2026 la Sección Segunda, Subsección A, de Sala de lo Contencioso Administrativo del Consejo de Estado (proceso 11001-03-25-000-2026-00004-00) suspendió provisionalmente el Decreto 1469 de 2025 por considerar que el gobierno no aplicó los criterios de la Ley 278 de 1996 (inflación, productividad y PIB) y ordenó expedir un decreto transitorio [F2][F4]. El 19 de febrero de 2026 se publicó el Decreto 159 de 2026, que fija transitoriamente el salario mínimo de 2026 con carácter sujeto a la decisión de fondo del contencioso administrativo [F4][F5]. Antes, para 2025 el aumento había sido del 23%, quedando en $1.750.905 [F2]. Existe además un debate académico sobre si aumentos salariales nominales elevados benefician la economía: un análisis de Razón Pública sostiene que ese aumento del 23% no debió superar el 12%, y advierte que sin ganancias de productividad el alza puede traducirse en inflación y en pérdida de poder adquisitivo [F1].",
+          "progressivePerspective": "La afirmación 'no se bajó el salario' es verificable y, con las fuentes entregadas, se sostiene en el plano nominal: no hay registro de una disminución del salario mínimo, sino un aumento del 23% en 2025 y una fijación transitoria con incremento en 2026 tras una suspensión judicial [F2][F4][F5]. El matiz que aporta el análisis es que el dato nominal no agota la realidad: el mismo marco normativo obliga a entender el salario como 'vital y móvil', ajustado a inflación, productividad y poder adquisitivo, y la discusión pública sobre el tamaño del alza cuestiona si el aumento nominal se traduce en mejoría real del ingreso [F1][F4]. Desde una lectura orientada a la verdad y a la información completa, afirmar sin matices que 'el salario no se bajó' es correcto como hecho, pero resulta insuficiente si se omite que la fijación del mínimo de 2026 está judicialmente cuestionada y es transitoria, pendiente de sentencia de fondo [F4][F5]. Distinguir el hecho verificable de las intenciones atribuidas a terceros (la acusación de financiamiento de supuestas 'bodegas') es esencial para que el debate salarial se sustente en datos y no en atribuciones sin evidencia [F2].",
+          "whatTheyOmit": "El video omite que la fijación del salario mínimo de 2026 está bajo suspensión provisional del Consejo de Estado por incumplimiento de los criterios de la Ley 278 de 1996 y que el decreto vigente es transitorio, sujeto a una sentencia de fondo que aún no se ha dictado, lo que deja el monto definitivo sin resolver [F4][F5]. También omite la discusión técnica sobre si aumentos salariales nominales elevados se traducen en mayor poder adquisitivo o en inflación, según la cual el alza del 23% habría podido limitarse a un entorno del 12% [F1]. La acusación de que quienes difunden el mensaje están 'financiados' carece de evidencia pública en las fuentes y debe tratarse como afirmación sin respaldo [F2].",
+          "keyFacts": [
+            "Para 2025 el salario mínimo en Colombia se aumentó 23%, quedando en $1.750.905 [F2]",
+            "El 12 de febrero de 2026 el Consejo de Estado suspendió provisionalmente el decreto del salario mínimo de 2026 por no haber aplicado los criterios de la Ley 278 de 1996 (inflación, productividad y PIB) [F2][F4]",
+            "El 19 de febrero de 2026 se publicó el Decreto 159 de 2026, que fija transitoriamente el salario mínimo mensual legal de 2026, sujeto a la sentencia de fondo del contencioso administrativo [F4][F5]",
+            "Ninguna de las fuentes entregadas documenta una disminución nominal del salario mínimo en 2025 o 2026 [F2][F4][F5]",
+            "Un análisis de Razón Pública cuestiona el aumento del 23% y estima que no debió superar el 12%, advirtiendo riesgos inflacionarios si no hay ganancias de productividad [F1]",
+            "La acusación de que quienes difunden el mensaje de que 'se bajó el salario' estarían financiados no tiene respaldo en las fuentes [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/cuando-subir-salario-minimo-deja-buena-idea/",
+              "note": "Análisis económico que cuestiona el aumento del 23% del salario mínimo, argumenta que no debió superar el 12% y explica riesgos de inflación y pérdida de poder adquisitivo; aporta el contraste técnico sobre el alcance real de los aumentos nominales.",
+              "host": "razonpublica.com",
+              "title": "Cuando subir el salario mínimo deja de ser buena idea",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/01/Salario.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-dijo-que-bajara-el-salario-minimo-a-1-450-000/",
+              "note": "Verificador de datos: confirma el aumento del 23% del mínimo a $1.750.905, la suspensión del Consejo de Estado del 12 de febrero de 2026, el respaldo gremial y sindical al aumento y el decreto firmado el 19 de febrero; también desmiente una atribución falsa de baja salarial a un candidato.",
+              "host": "lasillavacia.com",
+              "title": "Detector: De la Espriella no dijo que bajará el salario mínimo a $1.450.000",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/06/Abelardo-de-la-Espriella-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.banrep.gov.co/es/estadisticas-economicas/series-estadisticas-historicas-colombia",
+              "note": "Página del Banco de la República que no entregó contenido por bloqueo anti-bot; no aporta datos verificables para esta verificación.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://normograma.mintic.gov.co/mintic/compilacion/docs/decreto_0159_2026.htm",
+              "note": "Texto del Decreto 159 de 2026: fija transitoriamente el salario mínimo de 2026 por orden del Consejo de Estado, invoca la Ley 278 de 1996, la C-815 de 1999 y convenios de la OIT; el texto disponible no incluye el porcentaje ni el valor final.",
+              "host": "normograma.mintic.gov.co",
+              "title": "Compilación Jurídica del MINTIC",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/decreto_0159_2026.htm",
+              "note": "Mismo texto del Decreto 159 de 2026 alojado en la Cancillería; confirma la naturaleza transitoria de la fijación salarial y la pendencia de sentencia de fondo.",
+              "host": "cancilleria.gov.co",
+              "title": "Decreto 159 de 2026",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "economia",
+          "claim": "Se afirma que quienes perciben el salario mínimo pueden verificar en su desprendible de pago que el salario no fue reducido.",
+          "quote": "mire su desprendible de pago y va a ver que no se bajó el salario de ninguna manera",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El salario mínimo en Colombia no se redujo: pasó de $1.423.500 en 2025 a $1.750.905 en 2026 (+23%), y el auxilio de transporte subió 24,5% ($249.095), por lo que quien gana el mínimo con auxilio recibe $2.000.000 mensuales antes de descuentos. La suspensión provisional del Consejo de Estado (12 de febrero de 2026) no anuló ni redujo la cifra: el Decreto 0159 de 2026 mantuvo exactamente el mismo valor, de modo que $1.750.905 ha regido durante todo el año, lo cual es verificable en el desprendible de pago de quien percibe el mínimo [F3][F4][F1][F5].",
+          "context": "El incremento de 2026 fue decretado por el Ejecutivo (Decretos 1469 y 1470 del 29 de diciembre de 2025) al no haber acuerdo en la mesa de concertación; el Consejo de Estado suspendió provisionalmente el Decreto 1469 el 12 de febrero de 2026 por falta de sustento técnico exigido por la Ley 278 de 1996, y el Gobierno respondió con el Decreto 0159 del 19 de febrero, que fija transitoriamente el mismo valor de $1.750.905 hasta sentencia de fondo. En la práctica el salario no se interrumpió ni se rebajó [F3][F4][F1]. El aumento beneficia a cerca de 2,4 millones de colombianos que ganan exactamente el mínimo [F4]. Además, el Ministerio del Trabajo reconoce que la canasta básica de una familia de tres o cuatro personas ronda los $3.000.000, cifra superior al salario mínimo con auxilio [F4].",
+          "progressivePerspective": "La afirmación puntual —el salario mínimo no se bajó y ello se verifica en el desprendible— es consistente con las fuentes y abona al esclarecimiento de un dato verificable, frente a la desinformación circulante: La Silla Vacía documentó imágenes virales falsas que atribuían a candidatos la promesa de bajar el mínimo a $1.450.000, mentira que también circuló contra otra candidata [F1]. Verificar este dato con documentos oficiales (decretos, desprendibles) es compatible con la lógica de verdad y no repetición, pues sustituye rumores por hechos comprobables [F1][F3][F4]. Lo que no se deriva de las fuentes es la acusación de que quienes sostienen lo contrario estén financiados: esa atribución de intención carece de respaldo documental en las fuentes entregadas y no aporta ni verdad ni no repetición, sino que descalifica en lugar de verificar [F1][F3][F4]. Tampoco las fuentes permiten concluir nada sobre las hijas del presidente ni sobre su situación judicial: sin_evidencia en este punto [F1][F3].",
+          "whatTheyOmit": "Se omite que el proceso del mínimo 2026 tuvo una suspensión judicial (Consejo de Estado, 12 de febrero) que generó semanas de confusión sobre qué valor pagar, aunque finalmente el valor no cambió [F3][F4]. También se omite que el aumento se fijó por decreto sin acuerdo en la mesa de concertación y que su fundamento técnico aún está bajo revisión judicial pendiente de sentencia de fondo [F3][F4][F1]. No se menciona que el salario mínimo sigue por debajo de la canasta básica de una familia de tres o cuatro personas (~$3.000.000), ni que el dato es nominal (no se aportan cifras de inflación o poder adquisitivo en las fuentes disponibles; F2 no fue accesible) [F4][F2]. Finalmente, la afirmación de que quienes dicen «se bajó el salario» están financiados carece de evidencia pública en las fuentes [F1][F3][F4].",
+          "keyFacts": [
+            "El salario mínimo 2026 en Colombia es de $1.750.905, un aumento del 23% frente a los $1.423.500 de 2025 [F3][F4][F5]",
+            "El auxilio de transporte subió 24,5%, de $200.000 a $249.095, totalizando $2.000.000 mensuales antes de descuentos [F3][F4]",
+            "La suspensión provisional del Consejo de Estado (12 de febrero de 2026) no anuló el aumento ni ordenó devolver nada; el Decreto 0159 de 2026 mantuvo el mismo valor de $1.750.905, vigente sin interrupción durante todo 2026 [F3][F4][F1]",
+            "El aumento se decretó por el Gobierno (Decretos 1469 y 1470 de 2025) al no lograrse acuerdo en la mesa de concertación [F3][F4]",
+            "Circularon imágenes virales falsas que atribuían a candidatos la promesa de bajar el salario mínimo a $1.450.000, verificadas como falsas [F1]",
+            "La acusación de que quienes afirman «se bajó el salario» están financiados no tiene respaldo en las fuentes entregadas: sin_evidencia [F1][F3][F4]",
+            "Las fuentes no contienen información sobre residencia, estilo de vida o situación judicial de las hijas del presidente: sin_evidencia [F1][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-dijo-que-bajara-el-salario-minimo-a-1-450-000/",
+              "note": "Verificador: desmiente imágenes virales falsas sobre candidatos que 'bajarían' el mínimo a $1.450.000; documenta el recorrido del aumento 2026 (decretos, suspensión del Consejo de Estado y decreto final). Aporta el contraste con la desinformación circulante.",
+              "host": "lasillavacia.com",
+              "title": "Detector: De la Espriella no dijo que bajará el salario mínimo a $1.450.000",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/06/Abelardo-de-la-Espriella-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.banrep.gov.co/es/publicaciones-investigaciones/informe-politica-monetaria/recuadro1-enero-2026",
+              "note": "Página del Banco de la República sobre efectos macroeconómicos del aumento: no fue accesible (bloqueo anti-bot), por lo que no aporta datos utilizables sobre inflación o poder adquisitivo.",
+              "host": "banrep.gov.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://dineroclick.co/guias/salario-minimo-2026",
+              "note": "Detalle del salario 2026, cálculo neto en desprendible, y explicación de la suspensión del Consejo de Estado y el Decreto 0159 que mantuvo el valor sin interrupción.",
+              "host": "dineroclick.co",
+              "title": "Salario Mínimo 2026 Colombia: $1.750.905 + Auxilio de Transporte",
+              "image": "https://dineroclick.co/og-default.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://vacantes.com/es/blog/carrera-profesional/salario-minimo-en-colombia-2026-cuanto-es-tabla-y-valor-hora/",
+              "note": "Tablas 2025 vs 2026, cobertura (2,4 millones de trabajadores), estado jurídico del decreto y reconocimiento del Ministerio del Trabajo sobre el costo de la canasta básica.",
+              "host": "vacantes.com",
+              "title": "Salario mínimo en Colombia 2026, Decreto 159 y $1.750.905",
+              "image": "https://vacantes.com/og/blog/carrera-profesional/salario-minimo-en-colombia-2026-cuanto-es-tabla-y-valor-hora/?v=1788032583"
+            },
+            {
+              "ref": "F5",
+              "url": "https://salariovital.com/historico/2026/",
+              "note": "Confirmación histórica del valor 2026 ($1.750.905, +23%) y del auxilio de transporte; nota: su cálculo de hora ordinaria ($7.295) usa el divisor de 48 horas, desactualizado según F4.",
+              "host": "salariovital.com",
+              "title": "Salario MÃnimo Colombia 2026 - Valor, Auxilio y Tabla Completa",
+              "image": "https://salariovital.com/og-image.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se afirma que las difusiones de la supuesta bajada del salario están financiadas.",
+          "quote": "vienen repitiendo frenéticamente y financiados porque la mayoría de esto es financiado que se bajó el salario",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación de que las difusiones de la supuesta bajada del salario están 'financiadas' es una atribución de intención e interés que ninguna de las fuentes respalda: no existe evidencia pública documentada de financiación de ninguna campaña sobre el salario [F1][F2][F3][F5]. Sí es verificable, en cambio, que el salario mínimo NO se bajó: subió 23% en 2026 [F1][F2][F3].",
+          "context": "El salario mínimo legal mensual de 2026 quedó en $1.750.905 (más $249.095 de auxilio de transporte, total $2.000.000), un aumento del 23% frente a los $1.423.500 de 2025 [F2][F3]. El Consejo de Estado suspendió provisionalmente el Decreto 1469 por defectos metodológicos frente a la Ley 278 de 1996, pero el Gobierno expidió el Decreto 0159 de febrero de 2026 manteniendo el valor, y en julio de 2026 el Consejo de Estado revocó la suspensión [F1][F2][F5]. Sobre la narrativa de 'bajada del salario', el verificador documentó que circuló una imagen falsa que atribuía a un candidato de derecha la promesa de bajar el mínimo a $1.450.000; no se hallaron registros de esa declaración ni en medios confiables ni en sus redes oficiales, y la misma mentira había circulado antes contra otra candidata [F1].",
+          "progressivePerspective": "La verificación se apoya en el principio de que los hechos verificables deben separarse de las atribuciones de intención. El dato comprobable es que el salario no se redujo: aumentó 23% en 2026 y la cifra está vigente tras la revocatoria de la suspensión judicial [F2][F3][F5]. La acusación de 'financiación' de quienes difunden la versión contraria no tiene sustento en documento, investigación periodística, fallo o reporte alguno entre las fuentes disponibles [F1][F2][F3][F5]; se trata de una inferencia sobre motivos, no de un hecho probado. En un debate público sano, la carga de la prueba corresponde a quien afirma la financiación, y mientras no exista evidencia, presentarla como hecho erosiona la posibilidad misma de distinguir desinformación real de desacuerdo político, pues convierte toda difusión contraria en sospechosa por definición [F1]. El análisis no valida ni invalida ninguna postura política: únicamente constata que el dato central (subida del salario) sí es verificable y que la atribución de financiamiento no lo es.",
+          "whatTheyOmit": "Se omite que el verificador encontró que la narrativa falsa de 'bajar el salario a $1.450.000' fue atribuida a un candidato de oposición y a otra candidata, no a promotores del gobierno, lo cual contradice la premisa de que la difusión provendría exclusivamente de sectores 'financiados' contrarios al hablante [F1]. También se omite el matiz jurídico del proceso: el Consejo de Estado sí cuestionó inicialmente la metodología del Gobierno para fijar el aumento antes de revocar la suspensión [F1][F5], y se omite que el aumento fue criticado incluso por sectores empresariales y por el propio candidato opositor, lo que muestra que el debate sobre el salario no se reduce a dos bloques financiados [F1]. Finalmente, no se aporta fuente alguna —ni documento, ni reporte financiero, ni investigación— que respalde la afirmación de financiación [F1][F2][F3][F5].",
+          "keyFacts": [
+            "No existe evidencia en las fuentes de que las difusiones sobre una supuesta bajada del salario estén financiadas: es una atribución de intención sin respaldo documental [F1][F2][F3][F5]",
+            "El salario mínimo de 2026 es de $1.750.905, un aumento del 23% frente a $1.423.500 en 2025; el ingreso con auxilio de transporte suma $2.000.000 [F2][F3]",
+            "El Consejo de Estado suspendió provisionalmente el Decreto 1469 por defectos metodológicos frente a la Ley 278 de 1996, pero el Gobierno expidió el Decreto 0159 ratificando el valor y en julio de 2026 se revocó la suspensión [F1][F2][F5]",
+            "Circuló una imagen falsa atribuyendo a un candidato de derecha la promesa de bajar el mínimo a $1.450.000; el verificador no halló registros en medios confiables ni en las redes oficiales del candidato, y la misma mentira afectó antes a otra candidata [F1]",
+            "El aumento del 23% fue impugnado judicialmente y también criticado públicamente por el candidato opositor y por gremios, según el verificador [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-dido-que-bajara-el-salario-minimo-a-1-450-000/",
+              "note": "Verificador que documenta que la atribución de 'bajar el salario a $1.450.000' era falsa y trazada a un candidato de oposición, aportando el contexto del proceso del salario mínimo 2026 y la revocatoria de la suspensión. (Nota: la URL real es https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-dijo-que-bajara-el-salario-minimo-a-1-450-000/)",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://mintransporte.org/salario-minimo-2026/",
+              "note": "Confirma el valor oficial 2026 ($1.750.905, +23%), el decreto transitorio 0159 y el histórico; contexto del debate metodológico y del concepto de 'salario vital'.",
+              "host": "mintransporte.org",
+              "title": "Salario Minimo 2026: Valor oficial, auxilio de transporte y calculadora -",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://rulex.org/salario-minimo",
+              "note": "Confirma el salario mínimo, el auxilio de transporte y que el Consejo de Estado levantó la suspensión del decreto en julio de 2026.",
+              "host": "rulex.org",
+              "title": "Salario mínimo 2026 en Colombia: $1.750.905 — Auxilio de transporte, UVT y jornada",
+              "image": "https://rulex.org/og-image.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://lexivox.co/blog/salario-minimo-2026-colombia",
+              "note": "Confirma el valor vigente y el proceso de decreto-suspensión-ratificación; presenta un porcentaje de incremento inconsistente (9,53%) frente a otras fuentes.",
+              "host": "lexivox.co",
+              "title": "Salario Minimo 2026 Colombia: Valor, Decreto y Prestaciones",
+              "image": "https://lexivox.co/blog/images/salario-minimo-2026-colombia.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eluniversal.com.co/colombia/2026/07/17/asi-queda-el-salario-minimo-2026-tras-el-fallo-del-consejo-de-estado/",
+              "note": "Noticia sobre la revocatoria de la suspensión por el Consejo de Estado y la vigencia del aumento; aporta cifras ligeramente distintas ($1.746.882; 23,7%).",
+              "host": "eluniversal.com.co",
+              "title": "Así queda el salario mínimo 2026 tras el fallo del Consejo de Estado",
+              "image": "https://www.eluniversal.com.co/resizer/v2/JIXUYNPRYNGMPB3CVKXIVJNKZM.jpg?auth=d0149e127fea5ec132ee32a34f0f5a47509cec2f9c4acd602792638eb27f2c1f&smart=true&width=1200&height=630&quality=70"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "Se afirma que las hijas de Petro nunca irán a prisión por su participación en el estallido social ni irán a la primera línea.",
+          "quote": "usted nunca va a ver a las hijas de Petro metidas en la cárcel por estar en el estallido social... nunca van a ir a la primera línea",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes no aportan ningún respaldo de que las hijas de Petro hayan participado en el estallido social de 2021 ni de que exista, haya existido o se anuncie algún proceso penal en su contra por esos hechos; tampoco hay evidencia de que fueran a 'la primera línea' de nada. La frase combina una insinuación de participación (sin sustento) con una predicción especulativa sobre privilegio de clase, que no es verificable como dato [F2][F3][F4][F5].",
+          "context": "El estallido social ocurrió entre el 28 de abril de 2021 y 2022, durante el gobierno de Iván Duque, no durante el de Petro, quien entonces era senador de la oposición y luego candidato presidencial; sus hijas no ejercían cargo público alguno en ese período [F4]. La Fiscalía informó 8 líneas de investigación por las protestas (homicidios, caso Lucas Villa, Cali, agresiones sexuales en Popayán), sin que las fuentes registren a las hijas del expresidente como indagadas [F3]. De manera documentada, lo que sí existe es una constante fabricación de frases falsas atribuidas a Sofía y Andrea Petro sobre 'estallidos sociales', verificadas como montajes por un medio de la IFCN [F2].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, la afirmación opera al revés de la rendición de cuentas: toma un estallido en el que murieron al menos 80 personas —mayoritariamente manifestantes, con 3 policías muertos— y lo convierte en un arma arrojadiza contra una familia política, en vez de exigir esclarecimiento de las muertes y responsabilidades efectivas [F4]. Insinuar participación del hijo o hija de un funcionario sin evidencia, mientras se elude el debate sobre los patrones de violencia estatal y de terceros documentados ese año, tiende a revictimizar el debate público y a trivializar los hechos [F4][F3]. El énfasis en que 'nunca irán a prisión' apunta a un problema real —la desigualdad de la justicia en Colombia—, pero lo usa para generar desconfianza general y no para construir verdad verificable [F2].",
+          "whatTheyOmit": "Omite que el estallido social fue bajo el gobierno de Duque y que las hijas de Petro no tenían función pública ni se les atribuye rol institucional alguno en los hechos [F4]. Omite que la Fiscalía sí abrió líneas de investigación sobre las protestas y que no consta ningún proceso contra ellas [F3]. Omite también que las fuentes documentan precisamente un patrón verificado de desinformación con frases falsas atribuidas a las hijas del expresidente, precisamente sobre 'estallidos sociales' [F2].",
+          "keyFacts": [
+            "Las protestas conocidas como estallido social se desarrollaron del 28 de abril de 2021 en adelante, durante el gobierno de Iván Duque, y son consideradas las más extendidas de la historia republicana del país [F4]",
+            "El saldo registrado de las protestas fue de al menos 80 muertos (según algunas ONG) y 3 policías fallecidos [F4]",
+            "La Fiscalía informó 8 líneas de investigación por las protestas, incluidos 15 homicidios, el caso Lucas Villa, los casos de Cali y presuntas agresiones sexuales en Popayán [F3]",
+            "No existe en las fuentes ningún registro de proceso penal, investigación o acusación formal contra Sofía o Andrea Petro por su supuesta participación en el estallido social [F2][F3]",
+            "Verificador certificado por la IFCN documentó que circulan montajes y frases falsas atribuidas a Sofía y Andrea Petro sobre 'estallidos sociales', suplantando medios como Publimetro y El Tiempo [F2]",
+            "La declaración real de Sofía Petro fue en junio de 2022, en una entrevista sobre el candidato Rodolfo Hernández y las elecciones de 2022, no sobre el estallido de 2021 [F2][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/pagar-no-matar-nuevo-programa-del-gobierno-petro/",
+              "note": "Analiza el programa 'Jóvenes en Paz' de Petro como alcalde; no aporta datos sobre las hijas ni el estallido. Se cita solo para constatar que no contiene información sobre el hecho verificado.",
+              "host": "razonpublica.com",
+              "title": "¿Pagar por no matar? El nuevo programa del gobierno Petro",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/07/jovenes-delincuencia-pagos-jovenes-Hugo-Acero.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/sofia-petro-no-advirtio-a-abelardo-de-estallido-si-continua-ola-de-violencia/",
+              "note": "Verificador IFCN: documenta montajes y frases falsas atribuidas a Sofía y Andrea Petro sobre 'estallidos sociales', incluida la frase real de 2022 sobre Rodolfo Hernández, tergiversada. Aporta el contraste clave sobre desinformación.",
+              "host": "lasillavacia.com",
+              "title": "Sofía Petro no advirtió a Abelardo de estallido “si continúa ola de violencia”",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/sofia_petro_estallido_abelardo.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.fiscalia.gov.co/hechos-concretos/fiscalia-abrio-8-lineas-de-investigacion-relacionadas-con-las-protestas/",
+              "note": "Fuente oficial: lista las línes de investigación de la Fiscalía por las protestas de 2021; no menciona a las hijas de Petro entre las indagadas.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalía General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/Fiscalía-protestas.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2021",
+              "note": "Contexto y magnitud del estallido: fechas, saldo de muertos, gobierno de Duque en el poder y sentencia T-372 de la Corte Constitucional sobre libertad de expresión.",
+              "host": "es.wikipedia.org",
+              "title": "Protestas en Colombia de 2021 - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Protestas_contra_la_reforma_tributaria_de_2021_en_Cali_el_1ro_de_Mayo_10.jpg/1280px-Protestas_contra_la_reforma_tributaria_de_2021_en_Cali_el_1ro_de_Mayo_10.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F5",
+              "url": "https://adnamerica.com/colombia/polemica-en-colombia-hija-de-petro-afirma-que-si-su-padre-no-gana-habria-fuerte-estallido",
+              "note": "Registro de la declaración real de Sofía Petro (junio de 2022, sobre el candidato Rodolfo Hernández) y de la polémica política que generó, útil para contextualizar la manipulación posterior.",
+              "host": "adnamerica.com",
+              "title": "Polémica en Colombia: hija de Petro afirma que si su padre no gana habría fuerte estallido social",
+              "image": ""
             }
           ]
         }
