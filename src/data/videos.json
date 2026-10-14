@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:55:34",
+  "generatedAt": "2026-10-14T16:35:51",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -3418,6 +3418,1000 @@
               "host": "bbc.com",
               "title": "Paro nacional en Colombia: miles de personas marchan en protesta por la reforma tributaria en medio de un grave repunte de casos de coronavirus - BBC News Mundo",
               "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/DDD7/production/_118219765_gettyimages-1315038612.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "abelardo-de-la-espriella-gustavo-petro",
+      "title": "@Abelardo De La Espriella @Gustavo  Petro",
+      "uploader": "elcuchodelatrabajacion",
+      "url": "https://www.tiktok.com/@elcuchodelatrabajacion/video/7694701523560893704",
+      "duration": 211,
+      "thumbnail": "/media/abelardo-de-la-espriella-gustavo-petro/thumb.jpg",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "La subida de los alimentos se atribuye a la gestión del presidente Abelardo de la Espriella.",
+          "quote": "los alimentos se subieron por culpa de Abelardo",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "media",
+          "summary": "La atribución de la subida de los alimentos a la gestión de Abelardo de la Espriella no está respaldada por las fuentes: las únicas cifras de inflación disponibles corresponden a periodos anteriores a su posesión (enero-mayo de 2026, con datos publicados en junio de 2026), cuando aún era 'presidente electo' y el gabinete se anunciaba en julio de 2026, por lo que la causalidad es cronológicamente inviable para esos datos [F4][F5]. Además, en mayo de 2026 la división de alimentos y bebidas no alcohólicas registró una variación de -0,02%, es decir, estable y a la baja, por lo que no fue el motor del alza del IPC en ese periodo [F4].",
+          "context": "El DANE registró una inflación anual de 5,84% en Colombia, la más alta desde el 6,12% de agosto de 2024, y un acumulado enero-mayo de 2026 de 4,36% frente a 3,63% en el mismo periodo de 2025 [F4]. Esos números cubren meses previos al 7 de agosto de 2026, fecha en la que De la Espriella asume la presidencia; en julio de 2026 aún se le presentaba como 'presidente electo' al anunciar su ministro de Agricultura [F5]. En mayo de 2026 la mayor contribución al IPC provino de alojamiento, agua, electricidad, gas y otros combustibles (0,86%), mientras la división de alimentos cayó -0,02%, con caídas en hortalizas y legumbres frescas (-1,26%); los mayores alzas mensuales dentro de alimentos fueron zanahoria (13,83%), arracacha, ñame y otros tubérculos (6,76%) y carne de res y derivados (1,36%) [F4]. El IPC es una medida de variación de precios de una canasta de 443 artículos relevada en 38 ciudades [F2][F3].",
+          "progressivePerspective": "Este asunto no concierne al conflicto armado colombiano ni a la JEP, por lo que el marco de verdad, justicia, reparación y no repeticion resulta aplicable solo como criterio general de rendición de cuentas basada en evidencia. Bajo esa lógica, toda imputación de responsabilidad pública exige verificar primero los datos y los periodos: aquí, las cifras de inflación disponibles son anteriores a la administración señalada [F4][F5], de modo que la acusación causal carece de sustento en las fuentes y opera como asignación de culpa sin evidencia temporal. Al mismo tiempo, la propia lectura del video invierte el mismo criterio cuando traslada la responsabilidad de la inflación al gobierno saliente sin aportar series que lo demuestren; en ambos sentidos, la exigencia de verdad exige mostrar los datos completos y su cronología antes de atribuir culpas, condición indispensable para una discusión pública orientada a la no repetición de la manipulación de cifras con fines partidistas [F2][F4].",
+          "whatTheyOmit": "Se omite que todas las cifras de inflación citadas (enero-mayo de 2026, anual 5,84%) son anteriores a la posesión de De la Espriella, y que en mayo de 2026 los alimentos no fueron la fuente del alza del IPC sino una división estable (-0,02%) [F4]. También se omite la distinción metodológica del IPC, que mide variaciones de precios de una canasta fija relevada cada mes en 38 ciudades y no atribuye causalidad a un gobierno concreto por diseño [F2][F3]. Finalmente, las fuentes no contienen datos de inflación posteriores al 7 de agosto de 2026, por lo que tampoco es posible afirmar —ni refutar— con estos insumos cómo se comportaron los precios bajo la nueva administración [F4][F5].",
+          "keyFacts": [
+            "La inflación anual en Colombia llegó al 5,84%, el nivel más alto desde el 6,12% registrado en agosto de 2024; el acumulado enero-mayo de 2026 fue 4,36% frente a 3,63% en 2025 [F4]",
+            "En mayo de 2026 la división de alimentos y bebidas no alcohólicas varió -0,02%, comportándose estable y ayudando a contener el IPC mensual, mientras la mayor contribución al alza provino de vivienda y servicios (0,86%) [F4]",
+            "Los alimentos con mayor alza en mayo de 2026 fueron zanahoria (13,83%), arracacha/ñame y otros tubérculos (6,76%), condimentos (4,80%) y carne de res y derivados (1,36%) [F4]",
+            "Las cifras de inflación disponibles corresponden a meses previos a la posesión de De la Espriella, anunciada en julio de 2026 como 'presidente electo' junto con su ministro de Agricultura [F5]",
+            "El IPC mide la variación de precios de 443 artículos relevados mensualmente en 38 ciudades y no asigna causalidad a administraciones gubernamentales [F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/abelardo-de-la-espriella-populismo-religion-y-autoritarismo/",
+              "note": "Perfil analítico del gobierno de De la Espriella (dimensiones política, religiosa y autoritaria); no aporta datos de inflación, por lo que sirve solo como contexto del actor señalado.",
+              "host": "razonpublica.com",
+              "title": "Abelardo de la Espriella: populismo, religión y autoritarismo - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/10/9.1-ADEL-defensores-de-la-Patria.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc",
+              "note": "Metodología oficial del IPC: canasta de 443 artículos relevada en 38 ciudades, con la división 01 de alimentos y bebidas no alcohólicas; permite ver que el IPC mide variaciones, no causalidades presidenciales.",
+              "host": "dane.gov.co",
+              "title": "Índice de precios al consumidor (IPC) Base 2018",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://sitios.dane.gov.co/ipc/visorIPC/#!/division_gastos",
+              "note": "Visor del IPC por división de gasto; fuente técnica para consultar series históricas, incluida la de alimentos.",
+              "host": "sitios.dane.gov.co",
+              "title": "Visor IPC",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://caracol.com.co/2026/06/10/inflacion-colombia-dane-revelo-listado-de-alimentos-que-mas-subieron-de-precio-en-mayo-2026/",
+              "note": "Cifras DANE de mayo 2026: anual 5,84%, acumulado 4,36%, alimentos -0,02% y ranking de alimentos que subieron; es el contraste central para evaluar la atribución causal.",
+              "host": "caracol.com.co",
+              "title": "Inflación Colombia: DANE reveló listado de alimentos que más subieron de precio en mayo 2026",
+              "image": "https://caracol.com.co/resizer/v2/RDAIHLOGNVBFPCKKPX2MEMH2MM.png?auth=c06fc33a05d47392e5faef6b4b206b3334c07cbb6f195aff6610c8929e6bbf77&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2026/07/11/abelardo-de-la-espriella-designo-como-ministro-de-agricultura-a-indalecio-dangond-estos-son-sus-principales-objetivos/",
+              "note": "Anuncio de julio de 2026 del gabinete agropecuario cuando De la Espriella era 'presidente electo', lo que fija la línea temporal respecto a los datos de inflación previos.",
+              "host": "infobae.com",
+              "title": "Abelardo de la Espriella designó como ministro de Agricultura a Indalecio Dangond: estos son sus principales objetivos",
+              "image": "https://www.infobae.com/resizer/v2/WXEBBGGZVRFHDI4QXJZTIJP3JA.jpg?auth=198663d69596599abb97639122ae3e546fb7b22622134cbb94f0d9f3af147580&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "agricultura",
+          "claim": "La papa criolla o papa amarilla demora 4 meses en su ciclo.",
+          "quote": "la papa criolla o papa amarilla que llaman 4 meses",
+          "figures": [
+            "4 meses"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación está respaldada en lo esencial: las fuentes disponibles indican que la papa criolla o papa amarilla (Solanum phureja, variedad diploide) es un cultivo de ciclo corto, cosechable hacia los 130 días, es decir unos cuatro meses en promedio, frente a nueve o diez meses de otras variedades [F4]. La fuente de Fedepapa/FNFP, cartilla técnica colombiana sobre el cultivo de papa, confirma el carácter técnico-práctico de la referencia pero su extracto accesible no muestra la duración exacta del ciclo, por lo que el dato queda verificado principalmente con una fuente agregadora y no con la carta técnica colombiana completa [F5].",
+          "context": "La papa criolla (Solanum phureja) es una especie diploide distinta de la papa andina común (Solanum tuberosum). Su ciclo es marcadamente más corto que el de las variedades comerciales tradicionales: los tubérculos alcanzan madurez fisiológica a unos 75 días en precoces, 90 en intermedias y 120 en tardías, con cosecha reportada hasta en 130 días, un promedio cercano a cuatro meses [F4]. En Colombia la papa criolla se cultiva en Cundinamarca, Boyacá, Nariño y Antioquia, y su área y rendimiento vienen en expansión, según la misma fuente [F4]. El repositorio del Fondo Nacional de Fomento de la Papa (FNFP) y Fedepapa alberga una cartilla técnica colombiana que aborda semilla certificada, preparación del terreno, fertilización y cosecha, pero el contenido del ciclo no aparece en el extracto disponible [F5]. El SIPSA del DANE es la fuente oficial para precios mayoristas y abastecimiento de productos agroalimentarios, pero no aporta información sobre duración de ciclos de cultivo [F2].",
+          "progressivePerspective": "Este aparte del video es un dato agronómico y no una afirmación política: sirve al propósito de explicar con hechos verificables por qué una política gubernamental no puede alterar de inmediato el precio de un producto agrícola, dado el desfase propio del ciclo productivo. En términos del marco de verdad, no repetición y debate informado, sustentar explicaciones en datos técnicos verificables —ciclos de siembra y cosecha, fenómenos climáticos, precios oficiales del SIPSA/DANE— es el camino más adecuado para un debate público sobre costos del consumo, porque evita la atribución simplificada de responsabilidades exclusivas a un gobierno de turno [F4][F2][F5]. La afirmación puntual verificada no revictimiza, niega ni minimiza hechos de ninguna víctima ni asunto de justicia transicional.",
+          "whatTheyOmit": "El video no aclara que la duración del ciclo varía según condiciones de suelo, clima y manejo, y que los 130 días o cuatro meses corresponden al promedio reportado, pudiendo ser inferior en condiciones favorables [F4]. Tampoco matiza que existen variedades precoces que maduran en 75 días y tardías en 120 días, lo que acota el rango real [F4]. Además, la afirmación no está sustentada en la cartilla técnica colombiana de Fedepapa/FNFP, cuyo contenido específico sobre el ciclo no es visible en la fuente disponible [F5], ni en datos del DANE o del SIPSA, que no son utilizados para respaldar la duración del ciclo [F2].",
+          "keyFacts": [
+            "La papa criolla (Solanum phureja) se cosecha hasta en 130 días, unos cuatro meses en promedio, frente a nueve o diez meses en otras variedades [F4]",
+            "Los tubérculos de papa alcanzan madurez fisiológica a 75 días en variedades precoces, 90 días en intermedias y 120 días en tardías [F4]",
+            "La papa criolla se cultiva en Cundinamarca, Boyacá, Nariño y Antioquia, con área y rendimiento en expansión [F4]",
+            "Fedepapa y el Fondo Nacional de Fomento de la Papa publican una cartilla técnica colombiana que aborda el cultivo de papa, incluyendo siembra, manejo y cosecha, pero el extracto no muestra la duración del ciclo [F5]",
+            "El SIPSA del DANE informa precios mayoristas, abastecimiento e insumos de productos agroalimentarios, sin referir duración de ciclos de cultivo [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F4",
+              "url": "https://todosloshechos.es/cuanto-se-demora-la-papa-criolla-para-cosechar",
+              "note": "Página agregadora de respuestas que respalda el dato central: la papa criolla (Solanum phureja) se cosecha hasta en 130 días, cuatro meses en promedio, y aporta los rangos de madurez fisiológica por tipo de variedad.",
+              "host": "todosloshechos.es",
+              "title": "¿Cuánto se demora la papa criolla para cosechar?",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://repositorio.fedepapa.com/items/e1841c2e-62ee-4b1e-a9b0-0e86fe83be55/full",
+              "note": "Ficha de la cartilla técnica colombiana 'El Cultivo de Papa' de Fedepapa/FNFP (2024-2025). Aporta el marco técnico institucional colombiano, pero el extracto no contiene la duración del ciclo de la papa criolla.",
+              "host": "repositorio.fedepapa.com",
+              "title": "El Cultivo de Papa",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/sistema-de-informacion-de-precios-sipsa",
+              "note": "Página oficial del SIPSA del DANE sobre precios mayoristas y abastecimiento de alimentos. Sirve como referencia metodológica para verificar precios, no ciclos de cultivo.",
+              "host": "dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario (SIPSA)",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "agricultura",
+          "claim": "Las papas industriales como R12 y K única demoran 5 meses.",
+          "quote": "papas industriales como r 12 y k única 5 meses",
+          "figures": [
+            "5 meses"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Las fuentes permiten confirmar parcialmente el dato: R-12 es efectivamente una variedad industrial, la principal para procesamiento en Colombia (hojuela y bastón), pero ninguna fuente entregada indica que su ciclo de cultivo sea de 5 meses ni existen datos sobre la variedad K única [F5]. El componente de duración del ciclo queda sin respaldo documental con las fuentes disponibles.",
+          "context": "El repositorio de Fedepapa-FNFP incluye la cartilla técnica 'El Cultivo de Papa' (104 páginas, 2024-2025), que abarca siembra, manejo del cultivo y cosecha, pero en la fuente solo se muestra el índice y los metadatos, no el contenido específico sobre ciclos por variedad [F4]. El Calendario Agrícola de la Papa 2025 es una fuente pertinente en título, pero su contenido no pudo ser accesado: la página exige JavaScript y no carga el texto [F3]. La ficha de un productor sí describe R-12: porte medio, floración media, rendimiento potencial superior a 40 t/ha en condiciones óptimas y un 'periodo de reposo de 3 meses' (15 °C, 75 % HR) —parámetro de poscosecha que no equivale al ciclo de cultivo en campo—, además de confirmar que es la principal variedad para procesamiento en Colombia [F5]. Ninguna fuente aporta información sobre 'K única' ni sobre ciclos de 4, 5 o 5,5 meses citados en el video [F5].",
+          "progressivePerspective": "Este video no trata del conflicto armado colombiano ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repeticion no resulta aplicable directamente; la ficha de contexto pide imparcialidad y distinción entre hechos verificables y causalidad atribuida. La afirmación funciona como premisa de un argumento político más amplio: al señalar que los ciclos de cultivo son largos (4 a 5,5 meses), se sostiene que las decisiones de un gobierno no producen efectos inmediatos en los precios y que la inflación actual corresponde al periodo del gobierno saliente [F2]. Desde el criterio de verificación, la duración de los ciclos es verificable en fuentes agronómicas (Fedepapa-FNFP, calendarios agroecológicos), pero con las fuentes entregadas solo se confirma la condición industrial de R-12 y no la cifra de 5 meses; por tanto, la premisa debe tratarse como dato no comprobado con la evidencia disponible, sin que ello invalide ni confirme por sí solo la atribución causal política que se construye sobre ella [F4][F5][F3].",
+          "whatTheyOmit": "El video no cita fuente técnica para los tiempos de ciclo de cada variedad, ni matiza que la duración varía según región, altitud, manejo y condiciones de siembra; tampoco aporta dato cuantitativo (índices de precios, series del DANE, información de Fedepapa) que vincule el ciclo de los cultivos con el incremento de precios de alimentos que atribuye al gobierno saliente [F4][F5][F2]. No se incluye en las fuentes ninguna referencia sobre 'K única' ni sobre variedades criolla y pastusa, por lo que esa parte del listado queda sin soporte documental [F5].",
+          "keyFacts": [
+            "La variedad R-12 es descrita como la principal variedad para procesamiento en Colombia, tanto en hojuela como en bastón, es decir, una variedad industrial [F5]",
+            "La R-12 tiene periodo de reposo de 3 meses (15 °C y 75 % HR) y potencial de rendimiento superior a 40 t/ha en condiciones óptimas de cultivo [F5]",
+            "Existe una cartilla técnica oficial del FNFP-Fedepapa sobre el cultivo de papa que aborda siembra, manejo y cosecha, pero su contenido sobre duración de ciclos por variedad no está disponible en la fuente entregada [F4]",
+            "La fuente del Calendario Agrícola de la Papa 2025 no pudo ser consultada: la página requiere JavaScript y no muestra el texto [F3]",
+            "Ninguna de las fuentes entregadas confirma que R-12 o K única tengan un ciclo de 5 meses, ni aporta información sobre la variedad K única [F5][F4][F3]",
+            "Las fuentes F1 y F2 no guardan relación con el cultivo de papa ni con ciclos agrícolas [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-caso-de-los-implantes-pip-entre-lo-fraudulento-lo-necesario-y-las-tetas/",
+              "note": "Artículo sobre el caso de los implantes mamarios PIP; no contiene información sobre papas, variedades ni ciclos de cultivo. No aporta al verificación.",
+              "host": "razonpublica.com",
+              "title": "El caso de los implantes PIP: entre lo fraudulento, lo necesario… y las tetas - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2013/04/2013-17-9-_protesis.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-academica/las-preguntas-de-la-consulta-estan-hechas-de-forma-que-es-dificil-decir-no/",
+              "note": "Entrevista sobre la consulta popular de reforma laboral y cifras de desempleo del DANE (marzo 2025: 9,6 %). No trata de ciclos de cultivo; aporta contexto de debate político y económico general.",
+              "host": "lasillavacia.com",
+              "title": "“Las preguntas de la consulta están dirigidas a una única respuesta posible\"",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/05/marchas_1_de_mayo_portada.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.scribd.com/document/333110631/Calendario-Agroecologico-de-La-Papa",
+              "note": "Título pertinente (Calendario Agrícola/Agroecológico de la Papa), pero el contenido no se pudo cargar (requiere JavaScript). No sirve para confirmar ni refutar los 5 meses.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://repositorio.fedepapa.com/items/e1841c2e-62ee-4b1e-a9b0-0e86fe83be55/full",
+              "note": "Metadatos e índice de la cartilla técnica 'El Cultivo de Papa' (Fedepapa-FNFP, 2024/2025). Confirma que existe documentación técnica oficial, pero no muestra los datos de duración de ciclo por variedad.",
+              "host": "repositorio.fedepapa.com",
+              "title": "El Cultivo de Papa",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "http://www.papassyc.com.co/productos.html",
+              "note": "Ficha de productora que confirma que R-12 es la principal variedad industrial para procesamiento en Colombia y describe sus atributos (rendimiento, periodo de reposo de 3 meses); no menciona la duración del ciclo de 5 meses ni la variedad K única.",
+              "host": "papassyc.com.co",
+              "title": "Productos",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "agricultura",
+          "claim": "La papa superior (Pastusa) demora 5 meses y medio.",
+          "quote": "papa superior pastusa que antes llamaban 5 meses y medio",
+          "figures": [
+            "5 meses y medio"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las cinco fuentes entregadas indica la duración del ciclo del cultivo de la papa variedad Parda Pastusa, por lo que la afirmación de que 'demora 5 meses y medio' no puede confirmarse ni desmentirse con el material disponible: las fuentes solo identifican la variedad y su región de cultivo, sin precisar tiempos de ciclo [F5][F4][F3].",
+          "context": "Las fuentes permiten establecer, como contexto, que la Parda Pastusa es una variedad de papa priorizada para el altiplano cundiboyacense (Cundinamarca y Boyacá), 'la región más importante en área y producción de la papa en Colombia', y que el Ministerio de Agricultura y AGROSAVIA la han tomado como variedad receptora de tecnología [F5]. Existe una cartilla técnica del Fondo Nacional de Fomento de la Papa (FNFP)/Fedepapa sobre manejo del cultivo de papa que abarca siembra, manejo del cultivo y cosecha, pero el contenido accesible de la fuente solo muestra metadatos y tabla de contenidos, sin el dato de duración del ciclo [F4]. La guía de cultivo de papa [F3] no pudo cargarse (bloqueo de JavaScript), por lo que no aporta verificable. El SIPSA del DANE suministra precios mayoristas y abastecimiento de productos agroalimentarios, no ciclos agronómicos, y por tanto no sirve para verificar esta afirmación [F2]. La fuente [F1] trata de la elección del Fiscal general de la Nación y es ajena al tema agronómico [F1].",
+          "progressivePerspective": "El marco de verdad, justicia, reparación y no repetición de la JEP no es aplicable aquí: se trata de una afirmación técnica agronómica dentro de un debate político sobre precios de alimentos, sin vinculación con el conflicto armado ni con responsabilidades penales. En términos de rigor informativo, la afirmación funciona como premisa del argumento de que 'los efectos de una política no son inmediatos', es decir, se usa para trasladar la responsabilidad por la subida de precios a decisiones de gobiernos anteriores y no al gobierno actual [F5]. Esa lectura causal no es sostenible ni refutable con las fuentes entregadas, que no contienen series de precios, decisiones de política agrícola ni datos de inflación; el SIPSA aporta únicamente el marco institucional para consultar precios mayoristas y abastecimiento [F2]. La afirmación en sí misma es verificable con fuentes técnicas (AGROSAVIA, Fedepapa, Corpoica), pero el material suministrado no incluye esa cifra, por lo que la conclusión queda en 'sin_evidencia' y no en ni 'verdadero' ni 'falso' [F5][F4].",
+          "whatTheyOmit": "Las fuentes omiten por completo el dato central: ninguna indica el tiempo de ciclo de la Parda Pastusa (5, 5,5 u otro número de meses), por lo que no puede sostenerse como hecho respaldado [F5][F4][F3]. También se omite cualquier referencia a cómo varía el ciclo según altitud, siembra, temperatura o manejo, de modo que la cifra exacta quedaría como una generalización de un dato que en la práctica es variable [F4]. Además, ninguna fuente aporta evidencia sobre la causalidad económica que el video le atribuye a la afirmación (subsidios no otorgados, siembras no realizadas, inflación heredada), que queda como interpretación y no como hecho documentado [F2].",
+          "keyFacts": [
+            "La variedad Parda Pastusa es un cultivo de papa priorizado para el altiplano cundiboyacense (Cundinamarca y Boyacá), la región más importante en área y producción de papa de Colombia [F5]",
+            "Existe una monografía técnica de AGROSAVIA y el Ministerio de Agricultura específicamente sobre el modelo productivo de la Parda Pastusa, dirigida a asistentes técnicos y agricultores [F5]",
+            "El FNFP/Fedepapa publicó una cartilla técnica del cultivo de papa que cubre siembra, manejo y cosecha, pero el contenido accesible no revela la duración del ciclo [F4]",
+            "La fuente bibliográfica sobre guía de cultivo de papa no pudo accederse, por lo que no aporta información verificable [F3]",
+            "El SIPSA del DANE informa precios mayoristas, abastecimiento e insumos de productos agroalimentarios, no tiempos de ciclo de cultivo [F2]",
+            "No se encontró en las fuentes entregadas ninguna cifra que indique que el ciclo de la Parda Pastusa sea de 5 meses y medio [F5][F4][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/demora-premeditada-debido-proceso-la-eleccion-del-fiscal/",
+              "note": "Trata de la elección del Fiscal general de la Nación y el procedimiento de la Corte Suprema; es totalmente ajena al dato agronómico sobre ciclos de cultivo de papa.",
+              "host": "razonpublica.com",
+              "title": "¿Demora premeditada o debido proceso?, la elección del fiscal",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/03/Barbosa-Mancera-eleccion-fiscal-Daniela-Arciniegas.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/sistema-de-informacion-de-precios-sipsa",
+              "note": "Describe el SIPSA del DANE: precios mayoristas, abastecimiento e insumos agroalimentarios, con boletines e informes trimestrales; aporta el marco institucional para verificar precios de alimentos, no ciclos agronómicos.",
+              "host": "dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario (SIPSA)",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.scribd.com/document/557310841/MANUAL-DE-MANEJO-INTEGRADO-DE-LA-PAPA-FINAL",
+              "note": "Guía/manual de manejo de papa; la página no cargó (JavaScript deshabilitado), por lo que no aporta información utilizable.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://repositorio.fedepapa.com/items/e1841c2e-62ee-4b1e-a9b0-0e86fe83be55/full",
+              "note": "Cartilla 'El Cultivo de Papa' del FNFP/Fedepapa: confirma la existencia de una guía técnica (siembra, manejo, cosecha) pero solo muestra metadatos y tabla de contenidos, sin la duración del ciclo.",
+              "host": "repositorio.fedepapa.com",
+              "title": "El Cultivo de Papa",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/107",
+              "note": "Monografía de AGROSAVIA sobre el modelo productivo de la papa Parda Pastusa para el altiplano cundiboyacense; identifica la variedad, su región y actores, pero el fragmento disponible no indica el tiempo de ciclo de 5,5 meses.",
+              "host": "editorial.agrosavia.co",
+              "title": "Modelo productivo de la papa (Solanum tuberosum L.) de la variedad Parda Pastusa para el altiplano cundiboyacense",
+              "image": "https://editorial.agrosavia.co/public/presses/1/submission_107_145_coverImage_es_ES.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "Los alimentos se encarecieron porque los campesinos no sembraron lo suficiente en la temporada de marzo, abril y mayo al estar quebrados.",
+          "quote": "en la temporada que había que sembrar marzo abril y mayo los campesinos estaban quebrados no se sembró lo suficiente",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las cinco fuentes entregadas contiene datos sobre superficie sembrada en la temporada marzo-mayo de 2026, sobre el nivel de insolvencia de los campesinos en ese periodo, ni análisis de causalidad entre siembras y precios de alimentos; la afirmación no es ni confirmada ni refutada con el material disponible [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes describen condiciones estructurales del agro colombiano compatibles con la hipótesis de un descenso de siembras por falta de recursos, pero sin cifras del periodo señalado: el 65% de los habitantes del campo son pobres y el 60% del empleo es informal; solo 1,1 millones de las 18,4 millones de hectáreas aptas para riego están adecuadas (6%); el 20% de la red vial terciaria está en buen estado, y el 54% de los predios rurales se explota sin títulos de propiedad [F1]. Existen dificultades estructurales de acceso a crédito e infraestructura: la escasez de conectividad, infraestructura, crédito e inclusión financiera explica la persistencia del campesinado como respuesta adaptativa al abandono estructural [F2]. El DANE sí produce series de superficie, producción y rendimiento por cultivo (ENA), que serían la fuente para cuantificar la siembra efectiva, pero los enlaces entregados sólo indexan documentos históricos y un geovisor sin valores del periodo [F3][F4]. Finagro publica series de colocaciones crediticias y garantías desde 2011, útiles para medir el financiamiento disponible al productor, pero la fuente entregada no incluye cifras del año en cuestión [F5].",
+          "progressivePerspective": "El marco de verdad, justicia, reparación y no repetición de la JEP resulta aquí directamente aplicable: la afirmación corresponde a un debate de política económica y no a crímenes del conflicto armado, por lo que su valoración debe hacerse con el criterio de verificación de datos y de reconocimiento de causas estructurales. Desde esa óptica, la proposición contiene un núcleo plausible —el desfinanciamiento del pequeño productor es un problema documentado del agro colombiano [F1][F2]—, pero lo presenta como causa única y suficiente del encarecimiento de los alimentos, sin datos de superficie sembrada ni de precios que la sustenten [F3][F4], y sin medir el efecto de otros factores que el propio análisis reconoce como determinantes del sector: ausencia de política de riego, precariedad vial, informalidad, inseguridad jurídica de la tierra y dependencia de importaciones por 14 a 15 millones de toneladas anuales [F1][F2]. Una lectura orientada a no repetición exigiría que el esclarecimiento de las causas de la inseguridad alimentaria (13 millones de personas afectadas, 24,5% de la población) no se agote en atribuir la responsabilidad a un momento político específico, sino que identifique los déficits de crédito, infraestructura y titulación que hacen recurrente el problema [F1][F2].",
+          "whatTheyOmit": "Se omite cualquier cifra oficial de superficie cosechada o sembrada en marzo-mayo del año en cuestión (DANE-ENA), que es justamente la evidencia necesaria para sustentar que 'no se sembró lo suficiente' [F3][F4]. Se omiten también series de Finagro sobre colocaciones de crédito agropecuario que permitirían comprobar o descartar la hipótesis de que los campesinos 'estaban quebrados' y sin acceso a financiamiento en ese periodo [F5]. Se omiten factores alternativos o concurrentes del encarecimiento que las fuentes registran como estructurales del sector: riego apenas en el 6% de las hectáreas aptas, energía rural más costosa que en el resto de América Latina, deficiencia vial, falta de títulos de propiedad y alta importación de alimentos [F1][F2].",
+          "keyFacts": [
+            "El DANE produce la Encuesta Nacional Agropecuaria con área, producción y rendimiento de los principales cultivos transitorios y permanentes por departamento, que es la serie oficial con la que podría verificarse la superficie efectivamente sembrada en el periodo señalado [F3][F4].",
+            "Existe una fuente oficial de financiamiento agropecuario con series consolidadas desde 2011 (colocaciones, garantías, seguros y programas por productor y departamento) que permitiría evaluar el nivel de endeudamiento y acceso a crédito de los productores [F5].",
+            "El 65% de los habitantes del campo colombiano son pobres y el 60% del empleo rural es informal; el 54% de los predios rurales se explota sin títulos de propiedad [F1].",
+            "Solo 1,1 millones de las 18,4 millones de hectáreas colombianas con aptitud de riego están adecuadas (6%), frente al 40% en Perú, 44% en Chile y 66% en México [F1].",
+            "En Colombia 13 millones de personas padecen inseguridad alimentaria moderada y grave, el 24,5% de la población según DANE y FAO [F2].",
+            "Colombia importa cerca de 14 a 15 millones de toneladas de alimentos al año, cifra que en picos de insumos y granos ha rozado los 17 millones de toneladas [F2].",
+            "Ninguna de las fuentes entregadas aporta datos de superficie sembrada, nivel de insolvencia campesina ni precios de alimentos del periodo marzo-mayo en cuestión [F1][F2][F3][F4][F5]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/los-retos-del-agro-en-colombia/",
+              "note": "Describe problemas estructurales del agro colombiano (pobreza rural 65%, riego 6%, informalidad 60%, títulos en 54% de predios, energía y vialidad costosas) que contextualizan las dificultades de financiación del productor, sin datos del periodo específico.",
+              "host": "razonpublica.com",
+              "title": "Los retos del agro en Colombia - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/02/valencia-duque-agricultura-herrera.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/un-agro-sin-campesinos-el-mal-comienzo-de-la-politica-agraria-de-de-la-espriella/",
+              "note": "Espacio de debate externo; señala la falta histórica de crédito, infraestructura e inclusión financiera para el campesinado, la inseguridad alimentaria (13 millones de personas, 24,5%) y el volumen de importaciones (14-15 millones de toneladas). No aporta cifras de siembra del periodo.",
+              "host": "lasillavacia.com",
+              "title": "¿Un agro sin campesinos? El mal comienzo de la política agraria del nuevo gobierno",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/03/andres_bodensiek_portada.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/encuesta-nacional-agropecuaria-ena/encuesta-nacional-agropecuaria-por-departamentos",
+              "note": "Portal del DANE con series históricas, calendarios de siembra, área cosechada y producción por cultivo; identifica la fuente oficial para verificar superficie sembrada, pero los enlaces disponibles corresponden a documentos de años anteriores.",
+              "host": "dane.gov.co",
+              "title": "Encuesta nacional agropecuaria (ENA) Históricos",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://geoportal.dane.gov.co/geovisores/economia/resultados-ena/",
+              "note": "Geovisor del DANE de la ENA con producción y rendimiento por ubicación; herramienta de consulta, sin valores específicos del periodo en cuestión.",
+              "host": "geoportal.dane.gov.co",
+              "title": "Geovisor Encuesta Nacional Agropecuaria - ENA",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.finagro.com.co/estadisticas/informes",
+              "note": "Serie estadística oficial de crédito, garantías y seguros agropecuarios desde 2011 (por productor, departamento, programa); fuente idónea para medir financiamiento del campesinado, sin cifras del año específico en la página entregada.",
+              "host": "finagro.com.co",
+              "title": "Estadísticas",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "clima",
+          "claim": "Se atribuye la falta de siembra al miedo por el fenómeno del Niño.",
+          "quote": "por miedo al fenómeno del niño",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes confirman que existe un fenómeno de El Niño confirmado por el Ideam en junio de 2026, anticipado desde marzo de ese año, y que la agricultura colombiana es altamente sensible a la sequía; además, gremios agropecuarios recomendaron ajustar los calendarios de siembra por el mismo fenómeno. Sin embargo, ninguna de las fuentes entregadas documenta directamente que productores colombianos no hubieran sembrado en marzo-mayo de 2026 'por miedo' al Niño: esa causal concreta no es verificable con la evidencia disponible [F1][F5].",
+          "context": "El Ideam confirmó el Niño en junio de 2026, con una anomalía de +3.0 °C a mediados de septiembre y una probabilidad superior al 90% de que sea muy fuerte según la NOAA [F1]. El mismo evento ya produjo, entre el 1 de junio y el 21 de septiembre de 2026, 19.030 animales muertos y 511.604 desplazados según Fedegán [F1]. La estructura agrícola colombiana explica la sensibilidad: el 66,7% de las fincas con cultivos no usa riego, solo 1,1 de 18,4 millones de hectáreas aptas cuentan con ese servicio, el 69,9% de las fincas tiene menos de 5 hectáreas, solo el 10,7% solicita crédito agropecuario y la asistencia técnica llega apenas al 16,5% de las fincas [F1]; además, el 72% de la agricultura del país depende de las lluvias [F5]. El Banco de la República proyecta una inflación del 9,0% al cierre de 2026 y Corficolombiana estima que un Niño fuerte puede acelerar el IPC de alimentos hasta 3,9 puntos porcentuales [F1][F5]. Las fuentes también registran factores no climáticos simultáneos: encarecimiento de fertilizantes, tensiones en corredores marítimos, volatilidad cambiaria y tasas de interés elevadas [F4].",
+          "progressivePerspective": "El análisis requiere distinguir entre lo que las fuentes respaldan y lo que es atribución causal de la afirmación. Lo respaldado: existe un Niño intenso anunciado con meses de anticipación [F1][F2], los gremios recomendaron explícitamente ajustar los calendarios de siembra por el fenómeno [F5], y la vulnerabilidad climática, crediticia y técnica de los pequeños productores es estructural y medible [F1]. Por tanto, que la anticipación del Niño haya pesado en la decisión de sembrar o no es plausible y consistente con la evidencia disponible. Lo que no está respaldado por estas fuentes: la afirmación específica de que la falta de siembra de marzo-mayo de 2026 se debió 'por miedo' al Niño; ninguna fuente entrega datos de superficie no sembrada ni encuestas de intención de siembra que permitan confirmar o descartar esa causal [F1][F2][F3][F4][F5]. A la luz de un criterio de veracidad y de no repetición de diagnósticos incompletos, la afirmación parcial abona al reconocimiento de un riesgo climático real pero constituye una lectura monocausal: las mismas fuentes muestran que el encarecimiento de alimentos tiene además causas macroeconómicas (fertilizantes, tasas de interés, tipo de cambio) [F4], falta de planificación estatal frente al Niño [F2] y una infraestructura de riego, crédito y asistencia técnica históricamente deficitaria [F1].",
+          "whatTheyOmit": "La afirmación omite que ninguna fuente disponible acredita datos de superficie no sembrada por miedo al Niño: el SIPSA entregado solo describe la infraestructura estadística de precios y abastecimiento, sin series de siembra que sustenten esa causal [F3]. También omite los factores estructurales y de política que las fuentes sí documentan: ausencia de un plan nacional frente al Niño [F2], cobertura de crédito agropecuario en apenas el 10,7% de las fincas y asistencia técnica en el 16,5% [F1], y la presión combinada de fertilizantes, logística marítima y tasas de interés que la SAC califica de 'tormenta perfecta' [F4].",
+          "keyFacts": [
+            "El Ideam confirmó el fenómeno de El Niño en junio de 2026 y lo había anticipado desde marzo de ese año, con una anomalía de +3.0 °C en el Pacífico ecuatorial a mediados de septiembre [F1]",
+            "La NOAA estima una probabilidad superior al 90% de que el evento sea muy fuerte y de 75% de que entre octubre y diciembre esté entre los más intensos registrados desde 1950 [F1]",
+            "Fedearroz recomendó ajustar los calendarios de siembra para evitar que etapas sensibles de los cultivos coincidan con los mayores temperaturas por el Niño, lo que confirma que el fenómeno incide en las decisiones de siembra [F5]",
+            "El 66,7% de las fincas con cultivos no utiliza ningún tipo de riego y solo 1,1 de 18,4 millones de hectáreas aptas cuentan con riego y drenaje [F1]",
+            "El 72% de la agricultura colombiana depende de las lluvias [F5]",
+            "Entre el 1 de junio y el 21 de septiembre de 2026 Fedegán reportó 19.030 animales muertos y 511.604 desplazados por condiciones asociadas al fenómeno [F1]",
+            "Ninguna de las cinco fuentes entregadas contiene datos de superficie no sembrada ni encuestas que confirmen que productores dejaran de sembrar en marzo-mayo de 2026 por miedo al Niño [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-nino-en-la-despensa-por-que-colombia-sigue-reaccionando-tarde/",
+              "note": "Confirma fechas e intensidad del Niño 2026, la anticipación del Ideam desde marzo, la vulnerabilidad estructural (riego, crédito, asistencia técnica), pérdidas ganaderas y proyección de inflación del 9,0%: respalda la plausibilidad del factor climático pero no la causal concreta de siembras no realizadas.",
+              "host": "razonpublica.com",
+              "title": "El Niño en la despensa: por qué Colombia sigue reaccionando tarde",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/10/2.1-Fenomeno-del-Nino-y-cultivos-1024x566.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-fenomeno-del-nino-2026-un-desafio-sin-plan/",
+              "note": "Aporta contraste: el Niño fue anunciado con meses de anticipación pero sin plan nacional robusto de mitigación, lo que enmarca la responsabilidad institucional además de la decisión individual del productor.",
+              "host": "lasillavacia.com",
+              "title": "Fenómeno de El Niño: un desafío sin plan",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/03/a6490888-3026-4b8d-9eb8-43fc114550cf-1.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/sistema-de-informacion-de-precios-sipsa",
+              "note": "Describe el sistema de información de precios y abastecimiento del DANE; útil como referencia de dónde se verificarían precios y volúmenes, pero no contiene datos de superficie sembrada ni de causas de no siembra.",
+              "host": "dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario (SIPSA)",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://abceconomia.co/2026/09/16/fenomeno-del-nino-en-el-agro-colombiano-sac-2026/",
+              "note": "Contraste clave: la SAC atribuye la presión sobre el agro a una combinación de clima, fertilizantes, logística marítima y tasas de interés elevadas, lo que cuestiona cualquier explicación monocausal.",
+              "host": "abceconomia.co",
+              "title": "Fenómeno de El Niño en el agro colombiano preocupa a la SAC - ABC Economía",
+              "image": "https://abceconomia.co/wp-content/uploads/2026/09/jorge-enrique-bedoya-presidente-sac.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/economia/arroz-platano-y-cana-los-cultivos-mas-vulnerables-con-fenomeno-de-el-nino-4407408",
+              "note": "Aporta el respaldo más directo al vínculo Niño-siembra: Fedearroz recomienda ajustar calendarios de siembra por el fenómeno, y Corficolombiana estima efectos del Niño sobre PIB agropecuario e inflación de alimentos.",
+              "host": "larepublica.co",
+              "title": "Arroz, plátano y caña, los cultivos más vulnerables con fenómeno de El Niño",
+              "image": "https://img.lalr.co/cms/2026/06/03174010/eco_energia_p4_1080x900.jpg?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "economia",
+          "claim": "El año pasado (anterior) la comida estuvo muy barata, lo que dejó sin recursos a los campesinos para volver a sembrar.",
+          "quote": "el año pasado la comida estuvo muy barata entonces no habían recursos la gente tenía miedo a volver a sembrar",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes entregadas contiene series de precios de alimentos que permitan afirmar que 'el año pasado la comida estuvo muy barata', ni datos sobre la situación financiera de los campesinos que expliquen que no volvieron a sembrar. El DANE sí publica los instrumentos con los que ese dato podría verificarse (SIPSA, precios mayoristas e informes trimestrales), pero los resultados concretos de esos boletines no figuran en las fuentes [F3][F4]. La afirmación queda, por tanto, sin respaldo documental en el material provisto y su cadena causal (comida barata → falta de recursos → no siembra) constituye una atribución de causalidad no constatada [F3][F4].",
+          "context": "El SIPSA es el sistema del DANE que informa precios mayoristas de productos agroalimentarios, niveles de abastecimiento y precios de insumos, y publica informes trimestrales de comportamiento de precios de alimentos desde 2025 hasta el III trimestre de 2026, así como series históricas: son exactamente las fuentes necesarias para comprobar si los precios de 2025 fueron bajos [F3]. Los microdatos permiten descargar SIPSA por semestre y cuatrimestre entre 2018 y 2026 [F4]. Paralelamente, el Índice de Precios de Agroinsumos (MADR-DANE-UPRA) mide la variación de precios de insumos y factores de producción en 224 municipios de 24 departamentos, lo que es relevante porque el costo de producción —no solo el precio de venta— determina si el campesino cuenta con recursos para sembrar [F5]. Como contrapunto de magnitud, se reporta que en Colombia 13 millones de personas (24,5% de la población) padecen inseguridad alimentaria moderada y grave según DANE y FAO, y que el país importa entre 14 y 15 millones de toneladas de alimentos al año [F2].",
+          "progressivePerspective": "El marco de análisis aplicable aquí no es el de la JEP (no se trata de un video sobre el conflicto armado colombiano), sino el de la verificación factual y la atribución responsable de responsabilidades en política pública. La afirmación funciona como una exculpación por anticipado: desplaza la responsabilidad por la subida de precios hacia el gobierno saliente y hacia la decisión individual de los campesinos de no sembrar, sin aportar datos que sustenten ni la premisa (que la comida estuvo barata) ni el eslabón intermedio (que eso dejó a los campesinos sin recursos). Las fuentes disponibles sí muestran que existen los instrumentos oficiales para probarlo y que la situación estructural del campo colombiano —inseguridad alimentaria del 24,5% y fuerte dependencia de importaciones— era problemática de forma previa y continuada, lo que sugiere que una lectura completa debería considerar factores estructurales además del ciclo político [F2][F3][F5]. Sustentar la exculpación en un dato no verificado resta transparencia al debate público sobre precios y política agraria.",
+          "whatTheyOmit": "Se omite cualquier cifra de precios de alimentos de 2025 que respalde que 'la comida estuvo muy barata': los boletines SIPSA correspondientes existen pero sus resultados no se citan [F3]. Se omite también información sobre el nivel de precios de los insumos agrícolas, que es lo que condiciona realmente la capacidad de siembra del campesino [F5]. Finalmente, se omite el contexto estructural de inseguridad alimentaria (13 millones de personas, 24,5%) y de dependencia alimentaria por importación (14-15 millones de toneladas), que enmarca el problema del encarecimiento más allá de un solo ciclo gubernamental [F2].",
+          "keyFacts": [
+            "El DANE opera el SIPSA, que informa precios mayoristas de productos agroalimentarios, abastecimiento y precios de insumos, y publica informes trimestrales de precios de alimentos (del IV trimestre de 2025 al III trimestre de 2026), que son la fuente idónea para verificar si los alimentos estuvieron baratos en 2025 [F3].",
+            "Existen microdatos SIPSA descargables por semestre (2018-2023) y por cuatrimestre (2024-2026), lo que permite reconstruir series de precios [F4].",
+            "El MADR, el DANE y la UPRA producen un Índice de Precios de Agroinsumos y Alimentos Balanceados para Animales, con cobertura de 224 municipios en 24 departamentos, para medir variaciones en el costo de producción [F5].",
+            "Según DANE y FAO, 13 millones de personas en Colombia (24,5% de la población) padecen inseguridad alimentaria moderada y grave [F2].",
+            "Colombia importa cerca de 14 a 15 millones de toneladas de alimentos al año, cifra que en picos de insumos y granos ha rozado los 17 millones [F2].",
+            "Ninguna de las cinco fuentes entrega datos de precios de alimentos de 2025 ni indicadores de recursos financieros de los campesinos; la afirmación no puede verificarse con el material proporcionado [F1][F2][F3][F4][F5]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/ancla2019-un-nuevo-comienzo-para-la-agricultura-familiar-campesina/",
+              "note": "Artículo de 2019 sobre agricultura familiar campesina en Colombia (Decenio de la Agricultura Familiar de la ONU): aporta datos estructurales (3,4 millones de personas con hambre y malnutrición, ~12 millones de toneladas de alimentos importados, 75% de unidades productivas familiares, 47% de pobreza rural), pero no contiene información sobre precios de alimentos de 2025.",
+              "host": "razonpublica.com",
+              "title": "2019: ¿un nuevo comienzo para la Agricultura Familiar Campesina? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/01/agricultura-familiar-Alejandro-Gomez.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/un-agro-sin-campesinos-el-mal-comienzo-de-la-politica-agraria-de-de-la-espriella/",
+              "note": "Pieza de opinión (espacio de debate) sobre el inicio de la política agraria del gobierno de De la Espriella: aporta contraste con cifras estructurales (13 millones de personas en inseguridad alimentaria, 24,5% según DANE y FAO; 14-15 millones de toneladas importadas) y constata la ausencia de enfoque en soberanía alimentaria; no mide precios de 2025.",
+              "host": "lasillavacia.com",
+              "title": "¿Un agro sin campesinos? El mal comienzo de la política agraria del nuevo gobierno",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/03/andres_bodensiek_portada.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/sistema-de-informacion-de-precios-sipsa",
+              "note": "Página oficial del SIPSA del DANE: define el sistema que informa precios mayoristas, abastecimiento e insumos, y lista los boletines e informes trimestrales de precios de alimentos disponibles (2025-2026). Es la fuente que debería usarse para verificar la afirmación, pero no incluye sus resultados.",
+              "host": "dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario (SIPSA)",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://microdatos.dane.gov.co/index.php/catalog/697/get-microdata",
+              "note": "Catálogo de microdatos SIPSA (2018-2026): permite acceder a las series históricas de precios para contrastar el año 2025 con años anteriores; no aporta cifras en sí.",
+              "host": "microdatos.dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario Componente Abastecimiento de Alimentos - SIPSA - A - 2018 -2025",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://upra.gov.co/es-co/destacados/indice-de-precios-de-agroinsumos",
+              "note": "Índice de Precios de Agroinsumos (MADR-DANE-UPRA): aporta el lado de la estructura de costos de producción (insumos, jornales, arrendamiento, energía), relevante para evaluar la capacidad de siembra de los campesinos; no contiene datos de precios de alimentos finales.",
+              "host": "upra.gov.co",
+              "title": "Índices de precios de Insumos Agrícolas y Alimentos Balanceados Para Animales (ABA)",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "clima",
+          "claim": "Actualmente no es temporada de siembra porque no hay temporada de lluvias.",
+          "quote": "ahorita no es temporada de siembro de siembra porque nadie va a sembrar cómo se va a sembrar si no van a ver no hay temporada de lluvias",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación contiene un núcleo verificable (en la región Andina, agosto-septiembre es el periodo intermedio entre la temporada de lluvias de marzo-mayo y la de septiembre-noviembre, con menos lluvia), pero la plantea como hecho nacional y categórico ('no hay temporada de lluvias'), cuando en Colombia no existe un calendario nacional único de lluvias: hay regiones con lluvias casi todo el año (Chocó), una sola temporada larga (Orinoquía) y temporadas desplazadas por región [F3]. Además, la segunda temporada andina se inicia en septiembre y el IDEAM prevé El Niño 'muy fuerte' entre septiembre de 2026 y febrero de 2027, lo que reduce —pero no elimina— las lluvias [F5]. Es una generalización exagerada de una condición estacional regional [F3][F4].",
+          "context": "El IDEAM informa que la primera temporada de lluvias del año va de marzo (transición) a mayo (finaliza), y que en la región Andina hay dos temporadas de lluvia (marzo-mayo y septiembre-noviembre), separadas por periodos de menos lluvia que 'no significa que no llueva' [F3][F4]. La segunda temporada andina arranca en el norte y desciende, de modo que Pasto, Medellín y Bucaramanga no entran en lluvias el mismo día [F3]. La Zona de Convergencia Intertropical, la orografía y los pisos térmicos explican por dos ciudades a tres horas pueden tener calendarios distintos [F3]. En paralelo, el IDEAM confirma condiciones de El Niño en el océano y la atmósfera, con tendencia al fortalecimiento e intensidad más probable 'muy fuerte' entre septiembre de 2026 y febrero de 2027: históricamente se asocia a menos lluvias en algunos territorios, presiones hídricas e incendios, pero el IDEAM advierte explícitamente que El Niño no elimina las lluvias [F5]. Ese mismo fenómeno causa disminución pronunciada de humedad y precipitación, principalmente en las regiones Caribe y Andina [F1].",
+          "progressivePerspective": "Se separan tres planos. (1) HECHO meteorológico: que agosto-septiembre sea un periodo de menor lluvia en buena parte de la región Andina es consistente con el régimen de dos temporadas descrito por las fuentes [F3][F4]. (2) GENERALIZACIÓN: sostener que 'no hay temporada de lluvias' sin precisar región no es correcto a escala nacional, pues Colombia no tiene un único calendario de lluvias y hay territorios con lluvia casi permanente [F3]; además, el calendario de siembra debe ajustarse al régimen local real, no a un calendario nacional, de modo que afirmar que 'no es temporada de siembra' para todo el país no es sostenible con la evidencia disponible [F3]. (3) CAUSALIDAD atribuida a la política: las fuentes confirman el ciclo estacional, las variaciones ENSO y la variabilidad interanual de precios/agrícolas, pero no establecen que la ausencia de lluvias explique por sí sola el encarecimiento de alimentos, ni atribuyen esa situación a un gobierno u otro; esa atribución no está respaldada por las fuentes entregadas [F1][F3][F5]. En términos de responsabilidad informativa, el dato climático verificable se utiliza como soporte de una lectura causal que excede lo que la evidencia permite, y omite la ventana de siembra que se abre en septiembre en la región Andina [F3].",
+          "whatTheyOmit": "Se omite que la segunda temporada de lluvias de la región Andina comienza en septiembre (norandina primero, luego descendiendo), es decir que la ventana de siembra no está cerrada, sino próxima [F3]. Se omite que no existe calendario nacional de lluvias y que hay regiones con lluvias todo el año o con una sola temporada larga, por lo que 'no es temporada de siembra' no aplica igual en todo el territorio [F3]. Se omite que el IDEAM recomienda ajustar el calendario de siembra al régimen local y consultar boletines agroclimáticos por cultivo y región [F3]. Se omite que El Niño reduce la probabilidad de lluvias en algunas regiones pero no elimina las lluvias, con efectos que varían por región, altitud y época del año [F5], y que la tendencia histórica de precipitación agregada en Colombia es de +40,89 mm por década entre 1981 y 2024 [F3].",
+          "keyFacts": [
+            "En la región Andina de Colombia hay dos temporadas de lluvia: la primera de marzo a mayo y la segunda de septiembre-noviembre, con periodos intermedios de menos lluvia (no de ausencia total de lluvias) [F3]",
+            "Colombia no tiene un calendario nacional único de lluvias: en la Orinoquía hay una sola temporada larga y en buena parte del Chocó llueve prácticamente todo el año [F3]",
+            "El IDEAM informó que la primera temporada de lluvias arranca en marzo con la transición, se intensifica en abril y finaliza en mayo [F4]",
+            "El calendario de siembra debería ajustarse al régimen climático local real, no al calendario nacional, por la enorme diferencia entre regiones [F3]",
+            "El IDEAM confirma condiciones de El Niño en el océano y la atmósfera con tendencia al fortalecimiento, con intensidad más probable 'muy fuerte' entre septiembre de 2026 y febrero de 2027 [F5]",
+            "Históricamente, El Niño se asocia en Colombia a menos lluvias en algunos territorios, temperaturas más altas, déficit hídrico e incendios, pero no elimina las lluvias y sus efectos varían por región y altitud [F5]",
+            "El Niño causa disminución pronunciada de la humedad y las precipitaciones principalmente en las regiones Caribe y Andina de Colombia [F1]",
+            "Según registros del IDEAM, la precipitación anual agregada de Colombia muestra una tasa de cambio positiva de 40,89 mm por década entre 1981 y 2024 [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/deja-la-temporada-invernal-donde-va/",
+              "note": "Explica los ciclos ENSO (El Niño/La Niña) y su efecto sobre precipitaciones en Colombia; aporta el contexto de que El Niño reduce humedad sobre todo en Caribe y Andina y de que el efecto climático no es lineal ni predecible.",
+              "host": "razonpublica.com",
+              "title": "¿Qué deja la temporada invernal y para dónde va? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2021/06/lluvias-ciudad-clima-temporada-invernal-2021-Gonzalo-Duque-Escobar.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://bart.ideam.gov.co/wrfideam/tiempo.html",
+              "note": "Portal oficial de monitoreo mensual de precipitación del IDEAM; aporta la referencia institucional para verificar condiciones de lluvia actuales, sin datos específicos en el extracto.",
+              "host": "bart.ideam.gov.co",
+              "title": "COMPORTAMIENTO MENSUAL DE PRECIPITACIÓN",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://rivermax.com.co/temporada-de-lluvias-en-colombia-cuando-llueve-en-cada-region-y-como-prepararse/",
+              "note": "Fuente principal de contraste: detalla los calendarios de lluvia por región (dos temporadas andinas marzo-mayo y septiembre-noviembre; una en Orinoquía; casi todo el año en el Chocó), el papel de la ZCIT y la recomendación de ajustar la siembra al régimen local; también aporta la serie histórica de precipitación del IDEAM 1981-2024.",
+              "host": "rivermax.com.co",
+              "title": "Temporada de Lluvias en Colombia 2026",
+              "image": "https://rivermax.com.co/wp-content/uploads/2026/07/temporadas-de-lluvia-en-colombia.avif"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.eltiempo.com/colombia/otras-ciudades/primera-temporada-de-lluvias-en-colombia-ideam-informo-el-mes-y-las-zonas-con-mas-precipitaciones-3436056",
+              "note": "Cronología oficial del IDEAM de la primera temporada de lluvias (marzo-transición, abril-aumento, mayo-finaliza) y condiciones para el Fenómeno de la Niña; sirve para ubicar el momento estacional del año.",
+              "host": "eltiempo.com",
+              "title": "Primera temporada de lluvias en Colombia: Ideam informó el mes y las zonas con más precipitaciones",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/03/17/67d84a5f52875.r_d.800-482-0.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://ideam.gov.co/fenomeno-del-nino",
+              "note": "Fuente oficial del IDEAM sobre el El Niño en curso: condiciones confirmadas, intensidad prevista 'muy fuerte' entre septiembre de 2026 y febrero de 2027, efectos históricos por región y advertencia explícita de que El Niño no elimina las lluvias (contraste directo con la afirmación categórica del video).",
+              "host": "ideam.gov.co",
+              "title": "EL NIÑOEN COLOMBIA",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "economia",
+          "claim": "Se atribuye la inflación al gobierno saliente.",
+          "quote": "eso es culpa del gobierno que acaba de salir",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación señala que la inflación es culpa exclusiva del gobierno saliente. Las fuentes respaldan que durante ese gobierno la inflación fue, en promedio, más alta que en el periodo anterior, que en 2026 se rompió la tendencia descendiente y que el alza histórica del salario mínimo (23%) dispuesta por ese gobierno aportó unos 200 puntos básicos (2 pp) a la inflación de 2026 [F2]. Sin embargo, la atribución total de la culpa es engañosa: la inflación alcanzó 10,21% en julio de 2022 bajo el gobierno anterior y siguió subiendo hasta 13,34% en marzo de 2023, ya con el cambio de gobierno, y la inflación acumulada se explicó también por la reactivación pospandemia y el alza global de precios [F2]. Además, con 6,14% en junio de 2026 y 6,29% en septiembre de 2026, la contribución estimada de la política salarial ronda un tercio del incremento total, no la totalidad [F2][F3].",
+          "context": "Magnitud real: la variación anual del IPC fue de 6,14% en junio de 2026 (frente a 4,82% un año antes) y de 6,29% en septiembre de 2026, 1,11 puntos porcentuales por encima del 5,18% registrado en el mismo mes de 2025; en septiembre de 2026 la año corrido fue de 5,74% [F3][F2]. En el periodo de gobierno revisado (2023-2025) la inflación acumulada de precios fue de 31% frente al 20% acumulado en el mismo lapso (47 meses) del gobierno anterior, con un pico de 13,34% en marzo de 2023, que se produjo unos ocho meses después de que el último dato del gobierno anterior fuera de 10,21% en julio de 2022 [F2]. El Banco de la República estimó que el aumento nominal del salario mínimo de 23% en 2026 —el más alto nominal desde 1993— aportó aproximadamente 200 puntos básicos a la inflación de ese año [F2]. En el plano fiscal paralelo, el presupuesto de 2026 fue el más alto del siglo en precios constantes (ingresos de $550,5 billones) con ejecución de inversión por debajo del promedio histórico: 64,2% en 2025 frente a 77,7% del periodo 2000-2018 [F1]. El SIPSA, operado por el DANE desde 2012, es el sistema que produce las series de precios mayoristas de productos agropecuarios usadas para seguir el comportamiento de los alimentos, y su diseño separa explícitamente la recolección de datos de cualquier asignación causal [F4].",
+          "progressivePerspective": "A la luz de los criterios de verdad y no repetición —que exigen hechos verificables, atribución precisa de responsabilidades y evitación de simplificaciones que ocultan causalidad compartida—, la proposición 'la inflación es culpa del gobierno que salió' funciona como una verdad parcial convertida en verdad total [F2][F3]. El esclarecimiento de la verdad exigiría cuantificar contribuciones: el alza del salario mínimo dispuesta por el gobierno saliente explica unos 2 puntos de una inflación anual de 6,14%-6,29% [F2][F3]; el resto responde a otros componentes que las fuentes no desagregan y que arrancan en etapas previas (pico pospandemia, reactivación y alza global de precios) [F2]. Reconocer el aporte de la política salicial del gobierno saliente, sin convertirlo en causa única, es compatible con la rendición de cuentas: cuantificar una responsabilidad sin diluirla ni absolutizarla evita tanto la exculpación como la demonización, y es la vía para la no repetición de decisiones que presionan el costo de vida de los hogares [F2][F1].",
+          "whatTheyOmit": "Se omite que la inflación alcanzó 10,21% en julio de 2022 bajo el gobierno anterior y que siguió subiendo hasta su máximo de 13,34% en marzo de 2023, lo que muestra un traspaso de trayectoria entre administraciones y no un corte causal en la entrega del cargo [F2]. Se omite que el Banco de la República atribuye al aumento del mínimo solo unos 200 puntos básicos de la inflación de 2026, cifra que por sí sola descarta la exclusividad de la culpa [F2]. Se omiten también las cifras oficiales del DANE que miden la magnitud del fenómeno (6,14% en junio y 6,29% en septiembre de 2026, con año corrido de 5,74%), necesarias para dimensionar la inflación antes de asignarle un solo responsable [F3][F2]. El video no aporta la serie SIPSA que sustente que los precios de los alimentos respondan principalmente a esa causa [F4].",
+          "keyFacts": [
+            "La variación anual del IPC en septiembre de 2026 fue de 6,29%, 1,11 puntos porcentuales superior a los 5,18% del mismo mes de 2025, con año corrido de 5,74% [F3]",
+            "En junio de 2026 la inflación anual fue de 6,14%, frente a 4,82% un año antes, lo que rompió la tendencia descendiente [F2]",
+            "Durante el gobierno revisado la inflación acumulada en 47 meses fue de 31%, frente al 20% acumulado en el mismo lapso del gobierno anterior [F2]",
+            "La inflación llegó a 10,21% en julio de 2022 bajo el gobierno anterior y siguió subiendo hasta 13,34% en marzo de 2023 [F2]",
+            "El Banco de la República estimó que el aumento nominal del salario mínimo de 23% en 2026 (el más alto nominal desde 1993) aportó aproximadamente 200 puntos básicos a la inflación de ese año [F2]",
+            "El presupuesto de 2026 fue el más alto del siglo en precios constantes, con ejecución de inversión del 64,2% en 2025 frente al 77,7% del periodo 2000-2018 [F1]",
+            "El SIPSA, operado por el DANE desde 2012, produce las series de precios mayoristas de productos agropecuarios empleadas para seguir los alimentos [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/balance-del-gasto-publico-en-el-gobierno-petro-altos-recursos-baja-ejecucion/",
+              "note": "Balance fiscal del gobierno saliente: presupuesto histórico con ejecución de inversión por debajo del promedio; aporta contexto de política económica, no causalidad directa sobre la inflación.",
+              "host": "razonpublica.com",
+              "title": "Balance del gasto público en el gobierno Petro: altos recursos, baja ejecución - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/07/11.1.-Gasto.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/petro-engana-sobre-inflacion-al-destacar-su-alza-historica-del-minimo/",
+              "note": "Verificación central: compara inflación entre gobiernos, series DANE, aporte BanRep de la alza del mínimo y ruptura de la tendencia descendiente en 2026; sustenta tanto el respaldo parcial como el carácter engañoso de la atribución exclusiva.",
+              "host": "lasillavacia.com",
+              "title": "Petro engaña sobre inflación al destacar su alza histórica del mínimo",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Petro_inflacion_minimo_20julio_2026.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc/ipc-informacion-tecnica",
+              "note": "Dato oficial de magnitud: IPC septiembre 2026 (6,29% anual, 5,74% año corrido) comparado con 5,18% de septiembre de 2025.",
+              "host": "dane.gov.co",
+              "title": "IPC información técnica",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://microdatos.dane.gov.co/index.php/catalog/697",
+              "note": "Antecedentes y operación del SIPSA: permite distinguir entre series de precios agropecuarios y asignación causal; el video no cita dichas series.",
+              "host": "microdatos.dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario Componente Abastecimiento de Alimentos - SIPSA - A - 2018 -2025",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.banrep.gov.co/es/serie-publicaciones/informe-politica-monetaria",
+              "note": "Página del Banco de la República no accesible (bloqueo por actividad automatizada); la estimación sobre el salario mínimo se tomó de F2, que cita ese informe.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "economia",
+          "claim": "Según se señala, los sindicatos y centrales de obreros pedían subir el salario mínimo un 16 por ciento.",
+          "quote": "las centrales de obreros los sindicatos decían que le subieran 16 por 100 al salario mínimo",
+          "figures": [
+            "16%"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero engañoso",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "Las centrales obreras y los sindicatos presentaron oficialmente en la mesa tripartita de concertación laboral una propuesta de incremento del 16% para el salario mínimo 2026, tanto en salario como en auxilio de transporte. Múltiples medios lo confirman [F1][F2][F3][F4][F5].",
+          "context": "La negociación del salario mínimo 2026 inició el 1 de diciembre en la Comisión de Concertación, integrada por Gobierno, empresarios y centrales obreras. El 9 de diciembre las centrales obreras propusieron el 16% (lo que llevaría el mínimo a $1.651.260, o $1.883.260 con auxilio de transporte), mientras los gremios empresariales (ANDI, SAC, Asobancaria, Acopi) propusieron 7,21%, dejando una brecha de 8,79 puntos. El Gobierno había insinuado un entorno del 11%. Los plazos legales eran el 15 de diciembre y, en caso de no acuerdo, el 30 de diciembre; de no haber consenso, el Ejecutivo fijaba el aumento por decreto. La inflación a noviembre de 2025 fue del 5,30% [F2][F3][F4][F5]. Unos 12 millones de personas devengaban hasta un salario mínimo [F4].",
+          "progressivePerspective": "El dato de la propuesta del 16% es un hecho verificado, pero su uso en el video corresponde a una argumentación causal y no a un hecho en sí: se emplea para sostener que la inflación es responsabilidad del gobierno saliente y que el aumento del 23,8% ordenado por decreto explica el encarecimiento. Las fuentes muestran que el 16% fue solo la propuesta inicial de los sindicatos dentro de un proceso tripartito con derecho a discusión, no una decisión consumada; el monto final lo determina la concertación o, en su defecto, un decreto del Ejecutivo saliente [F2][F3][F4][F5]. La afirmación, por sí sola, no dice nada sobre quién es responsable de la inflación ni sobre política de precios de alimentos; esa atribución de causalidad no está respaldada por las fuentes entregadas. Desde la lógica de verdad y no repetición aplicable a la rendición de cuentas pública, presentar como hecho probado una atribución de responsabilidad macroeconómica que las fuentes no sostiene puede desviar la discusión de los datos verificables (ciclos de cultivo, inflación, propuestas salariales) hacia una asignación de culpas que no se deriva de ellas.",
+          "whatTheyOmit": "El video omite que el 16% fue una propuesta en disputa —frente al 7,21% empresarial y al ~11% insinuado por el Gobierno— dentro de un proceso tripartito, no una política ya aplicada [F2][F3]. Omite que el salario mínimo se fija por concertación o por decreto conforme a la ley y a la inflación, y que los empresarios advirtieron que un aumento alto puede trasladarse a precios [F1][F2]. Omite igualmente que el video no aporta dato alguno que vincule el aumento salarial con el encarecimiento específico de los alimentos, cuestión que las fuentes entregadas no prueban [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Las centrales obreras presentaron el 9 de diciembre de 2025 una propuesta oficial de aumento del 16% al salario mínimo 2026, para salario y auxilio de transporte [F2]",
+            "El 16% elevaría el salario mínimo a $1.651.260 y, con auxilio de transporte, a $1.883.260 [F2][F3]",
+            "Los gremios empresariales propusieron 7,21%, dejando una brecha de 8,79 puntos frente a los sindicatos [F2][F3]",
+            "El ministro de Trabajo Antonio Sanguino confirmó ambas cifras públicamente [F2][F4]",
+            "La inflación a noviembre de 2025 fue del 5,30% y la ley exige que el ajuste cubra al menos la inflación [F1][F5]",
+            "Si no había acuerdo antes del 30 de diciembre, el Ejecutivo fijaba el aumento por decreto [F1][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/voces-sobre-el-salario-minimo-el-empleado-el-informal-y-el-empleador/",
+              "note": "Confirma que los sindicatos proponían al menos un 16% y los empresarios 7,2%, en el marco de la mesa tripartita y la inflación proyectada de 5,2%.",
+              "host": "lasillavacia.com",
+              "title": "Voces sobre el salario mínimo: el empleado, el informal y el empleador",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/12/NOTA_MINIMO-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elcolombiano.com/negocios/salario-minimo-2026-colombia-sindicatos-proponen-alza-del-16-por-ciento-NF31618036",
+              "note": "Detalla la presentación oficial del 16% por las centrales obreras el 9 de diciembre y el 7,21% empresarial; aporta cifras exactas y contexto de la negociación.",
+              "host": "elcolombiano.com",
+              "title": "Sindicatos piden alza del 16% para el salario mÃnimo en 2026; mientras que empresarios proponen 7,21%",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x800/0c125/1200d675/none/11101/TPAX/whatsapp-image-2025-12-09-at-11-30_49457222_20251209143015.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://mascolombia.com/salario-minimo-2026-cifras/",
+              "note": "Contrasta el 16% sindical con el 7,21% empresarial y el ~11% insinuado por el Gobierno; aporta montos y la brecha de 8,79 puntos.",
+              "host": "mascolombia.com",
+              "title": "Salario mínimo 2026: sindicatos piden 16% y empresarios 7,21% en una mesa marcada por tensiones y ausencias",
+              "image": "https://mascolombia.com/wp-content/uploads/2025/12/1-2.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/crecimiento/salario-minimo-2026-centrales-obreras-y-empresarios-estan-muy-distantes-en-sus-propuestas-de-aumento-484412",
+              "note": "Reporta la confirmación del ministro Sanguino sobre ambas propuestas y la existencia de más de 12 millones de asalariados hasta el mínimo.",
+              "host": "portafolio.co",
+              "title": "Centrales obreras y empresarios destapan sus cartas sobre salario mínimo, con amplia distancia entre sus propuestas",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2025/12/09/693884e680ffa.r_d.603-633-19500.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2025/12/09/salario-minimo-2026-aumento-del-16-seria-la-propuesta-inicial-de-los-sindicatos-en-la-mesa-de-concertacion/",
+              "note": "Señala que el 16% era la 'propuesta inicial' de los sindicatos, aporta la inflación de noviembre (5,30%) y el procedimiento de fijación por decreto.",
+              "host": "infobae.com",
+              "title": "Salario mínimo 2026: propuesta inicial de los sindicatos en la mesa de concertación estaría muy por encima del 10%",
+              "image": "https://www.infobae.com/resizer/v2/QCFD4ANF3BASHFE4KW46RHQWXM.jpg?auth=9c990ca724d275de13a8ad12a3e46e03d2c68f3f8f585764f71f6cf047110d0a&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "economia",
+          "claim": "Se atribuye al expresidente saliente un aumento del salario mínimo del 23.8 por ciento.",
+          "quote": "el expresidente que acaba de salir ... 23.8%",
+          "figures": [
+            "23.8%"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El aumento decretado para 2026 fue del 23% (Decreto 1469 del 29 de diciembre de 2025), cifra que fuentes periodísticas y el propio decreto transitorio sitúan en 23% o 23,7%, no en 23,8%: la cifra del video está casi correcta pero ligeramente inflada. Es correcto que el incremento fue adoptado por el Ejecutivo saliente, aunque el Consejo de Estado lo suspendió provisionalmente y un decreto transitorio del nuevo gobierno ratificó el mismo valor mientras se decide el fondo [F1][F3][F4][F5].",
+          "context": "El Consejo de Estado (Sección Segunda, auto del 12 de febrero de 2026) suspendió provisionalmente el Decreto 1469 del 29 de diciembre de 2025 y ordenó expedir un decreto transitorio, lo que dio lugar al Decreto 0159 del 19 de febrero de 2026, que mantuvo el salario en $1.750.905 más auxilio de transporte (≈$2 millones con transporte), equivalente a un incremento del 23% (F4 lo precise en 23,7%), vigente hasta el fallo de fondo [F1][F3][F4][F5]. El propio decreto reconoce que aplicando solo los parámetros económicos de la Ley 278 de 1996 (inflación esperada, productividad total de factores 0,91%, crecimiento ≈2,9% y contribución de salarios al ingreso nacional 4,46 pp) el aumento habría sido del 13,6%; el resto (9,4 pp) provino del cierre parcial de una brecha calculada con la referencia de salario vital de la OIT. En la concertación de diciembre las centrales obreras propusieron ~16% y sectores empresariales ~11% [F4][F5]. El ajuste beneficiaría directamente a cerca de 2,4 millones de trabajadores e indirectamente a más de 6 millones [F5].",
+          "progressivePerspective": "Este video no trata del conflicto armado colombiano ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repeticion resulta aquí inaplicable; el criterio aplicable es el de verificación factual y transparencia en el uso de cifras públicas. La afirmación apoya en lo sustancial un dato verificable (un aumento del orden del 23% decretado por el gobierno saliente) y coincide además con lo que las fuentes registran sobre el petido sindical del 16% [F4][F5]. El matiz relevante para el esclarecimiento público es que la cifra exacta del video (23,8%) no coincide con la documentada (23%-23,7%) y que el aumento está además jurídicamente disputado: el Consejo de Estado lo suspendió y el decreto transitorio admite que el parámetro técnico de la Ley 278 arrojaba 13,6%, siendo el resto una decisión de política distributiva [F1][F3][F4][F5]. Presentar el dato sin ese contexto puede inducir a una lectura incompleta, tanto de quienes lo usan para atribuir responsabilidad macroeconómica al gobierno saliente como de quienes lo usarían para minimizar el debate sobre productividad y distribución del ingreso.",
+          "whatTheyOmit": "Omite (1) la cifra exacta: las fuentes registran 23% o 23,7%, no 23,8% [F4][F5]; (2) que el aumento quedó suspendido provisionalmente por el Consejo de Estado y que su vigencia actual depende de un decreto transitorio del gobierno entrante y de un fallo pendiente [F1][F3][F5]; (3) que el propio decreto admite que los parámetros técnicos de la Ley 278 justificaban 13,6% y que el resto se basó en una referencia de salario vital de la OIT, criterio discutido jurídicamente [F4][F5]; (4) que la atribución causal de la inflación al gobierno saliente es una inferencia que no aparece respaldada por las fuentes, las cuales solo documentan el procedimiento salarial.",
+          "keyFacts": [
+            "El aumento del salario mínimo para 2026 fue decretado al 23% mediante el Decreto 1469 del 29 de diciembre de 2025, adoptado por el Ejecutivo saliente, y fue suspendido provisionalmente por el Consejo de Estado [F1][F3][F5]",
+            "El Decreto 0159 del 19 de febrero de 2026 fijó transitoriamente el salario en $1.750.905 más auxilio de transporte, manteniendo el incremento ya aplicado desde el 1 de enero, reportado como 23,7% en una fuente y como 23% en otra, hasta que el Consejo de Estado decida el fondo [F3][F4][F5]",
+            "El propio decreto reconoce que, con los parámetros económicos de la Ley 278 de 1996, el aumento habría sido del 13,6%; el resto provino del cierre parcial (9,4 pp) de una brecha calculada frente a la estimación de salario vital de la OIT [F4][F5]",
+            "En la concertación salarial de diciembre las centrales obreras propusieron alrededor del 16% y algunos sectores empresariales cerca del 11% [F4][F5]",
+            "La cifra exacta citada en el video (23,8%) no coincide con las registradas en las fuentes (23% o 23,7%) [F4][F5]",
+            "El ajuste beneficia directamente a cerca de 2,4 millones de trabajadores y de manera indirecta a más de 6 millones cuyos ingresos están entre uno y dos salarios mínimos [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/productividad-quien-debate-ausente-aumento-del-salario-minimo/",
+              "note": "Confirma que el Consejo de Estado suspendió el decreto que aumentó en 23% el salario mínimo para 2026 por desconocer la Ley 278 de 1996, y aporta el debate de productividad vs. distribución del ingreso.",
+              "host": "razonpublica.com",
+              "title": "Productividad para quién: el debate ausente en el aumento del salario mínimo",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/02/El_dorado_diario.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-ha-propuesto-bajar-el-salario-minimo/",
+              "note": "Verificación sobre una desinformación distinta (supuesta propuesta de bajar el salario a $800.000); útil solo como contexto: la ley no permite bajar el mínimo y la fijación es anual vía concertación. No aporta datos sobre el 23,8%.",
+              "host": "lasillavacia.com",
+              "title": "Detector: De la Espriella no ha propuesto bajar el salario mínimo",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/07/Abelardo-De-La-Espriella.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/decreto_0159_2026.htm",
+              "note": "Texto oficial del Decreto 0159 de 2026: fija transitoriamente el salario mínimo por orden del Consejo de Estado (auto del 12 de febrero de 2026) en el proceso de nulidad del Decreto 1469 de 2025.",
+              "host": "cancilleria.gov.co",
+              "title": "Decreto 159 de 2026",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://ifmnoticias.com/analisis-ifm/analisis-salario-minimo-2026-el-decreto-transitorio-que-admite-que-el-aumento-debio-ser-del-136-pero-defiende-el-23/",
+              "note": "Analiza el Decreto 0159: incremento del 23,7%, parámetro técnico de 13,6%, cierre de brecha de 9,4 pp con referencia OIT, pido obrero del 16% y empresarial del 11%.",
+              "host": "ifmnoticias.com",
+              "title": "Salario mínimo 2026 en Colombia: cuánto es, decreto y por qué subió 23%",
+              "image": "https://storage.googleapis.com/ifmnoticias-media/articles/analisis-salario-minimo-2026-el-decreto-transitorio-que-admite-que-el-aumento-debio-ser-del-136-pero-defiende-el-23.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.portafolio.co/economia/empleo/nuevo-decreto-del-salario-minimo-reconoce-que-el-aumento-para-2026-debio-ser-del-13-6-bajo-los-parametros-tecnicos-488712",
+              "note": "Confirma el aumento del 23% mantenido transitoriamente en $1.750.905 (+ transporte), el reconocimiento del 13,6% técnico, las posiciones de 16% y 11% y el alcance poblacional del ajuste.",
+              "host": "portafolio.co",
+              "title": "Nuevo decreto del salario mínimo reconoce que el aumento para 2026 debió ser del 13,6% bajo los parámetros técnicos",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/02/16/69934dec49901.png"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "economia",
+          "claim": "Se estima que el nuevo presidente necesitará entre 12 y 18 meses para estabilizar la economía y la seguridad alimenticia.",
+          "quote": "entre 12 y 18 meses va a necesitar el nuevo Presidente para estabilizar la economía para estabilizar la seguridad alimenticia",
+          "figures": [
+            "12 y 18 meses"
+          ],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación corresponde a una predicción o estimación, no a un dato técnico verificable: ninguna de las fuentes disponibles (DANE, DNP, La Silla Vacía) contiene un pronóstico oficial de 12 a 18 meses para la estabilización económica o de seguridad alimentaria [F1][F2][F3][F5]. El único documento del Banco de la República entregado [F4] no pudo consultarse porque el sitio bloqueó el acceso, por lo que no se pudo contrastar con la proyección oficial de inflación del BanRep; esa ausencia limita el análisis y se declara explícitamente.",
+          "context": "El presidente Abelardo de la Espriella tomó posesión el 7 de agosto de 2026 y, según el análisis de La Silla Vacía, anunció una 'emergencia económica' para sus primeros días de gobierno y un 'plan de choque' en salud por 10 billones de pesos, sin detallar el origen de los recursos; su estrategia central es gobernar por decretos (un paquete de 90) ante un Congreso que le ha mostrado resistencia, con la Corte Constitucional como principal contrapeso y con el Congreso conservando el control político sobre los decretos de excepción [F1]. Ese marco de gobierno por decretos y de declaratoria de emergencia es el contexto en el que se inscribe la afirmación. Por su parte, el DANE mide la inflación a través del IPC (base 2018), registrando mensualmente 443 artículos de la canasta en 38 ciudades, incluida la división 'Alimentos y bebidas no alcohólicas'; las series oficiales existen pero el video no las cita ni las aporta [F2][F3]. La seguridad alimentaria, según la definición del CFS 2012 recogida por el DNP, requiere acceso físico, social y económico permanente a alimentos inocuos y suficientes [F5], lo que la hace dependiente de variables estructurales (producción agropecuaria, ingresos, precios) y no solo del ciclo de gobierno.",
+          "progressivePerspective": "Desde la lógica de verdad, responsabilidad y no repetición, esta afirmación opera como un mecanismo de adjudicación causal y de habilitación temporal: traslada íntegramente la responsabilidad por el encarecimiento de alimentos al gobierno saliente y otorga al entrante una franja de gracia de 12 a 18 meses [F1][F5]. Ninguna fuente aportada sustenta la cifra de 12 a 18 meses, ni existe en ellas un estudio técnico que vincule ciclos de cultivo de papa con plazos de estabilización macroeconómica; la atribución de causalidad y el plazo son juicios de opinión, no hallazgos de datos [F2][F3][F5]. Además, no puede consultarse el Informe de Política Monetaria del BanRep de julio de 2026 [F4], lo que impide contrastar la estimación con las proyecciones oficiales de inflación y crecimiento: la afirmación queda, entonces, sin sustento técnico demostrable. En sentido inverso, el mismo video atribuye a condiciones agroclimáticas, precios del año anterior y falta de crédito agrícola un rol causal relevante, lo que contradice la lectura exclusivamente política de la inflación alimentaria [F1][F5]. Un ejercicio informativo riguroso debería separar con claridad qué hechos son medibles (IPC, precios, producción) y qué componentes son atribución política o pronóstico, cosa que el video no hace de forma explícita.",
+          "whatTheyOmit": "Omite toda cifra oficial que respalde el plazo de 12 a 18 meses: no cita proyecciones del BanRep [F4], no cita series del IPC del DANE [F2][F3], no cita metas de inflación, ni estudios de entidades técnicas sobre seguridad alimentaria [F5]. También omite que la estabilización de precios depende de decisiones y restricciones compartidas (política monetaria del BanRep, precios internacionales, clima, fiscalidad) y no solo de la gestión presidencial, y no reconoce que el Congreso, la Corte Constitucional y los órganos de control limitan la capacidad unilateral del Ejecutivo para sostener el plan anunciado [F1]. Por último, no precisa de qué 'estimación' se trata — si es propia, de analistas, o de alguna entidad —, presentando como proyección algo que no tiene fuente identificable [F1][F5].",
+          "keyFacts": [
+            "La afirmación de '12 a 18 meses' es una estimación que no corresponde a ningún pronóstico oficial contenido en las fuentes (DANE, DNP, La Silla Vacía); clasificable como opinión/predicción, no como dato verificable [F1][F2][F3][F5].",
+            "El presidente De la Espriella anunció una emergencia económica para sus primeros días de gobierno y un plan de choque de 10 billones de pesos en salud, pero no fijó plazos de 12 a 18 meses para estabilizar la economía ni la seguridad alimentaria según la fuente consultada [F1].",
+            "El gobierno de La Espriella se apoya en un paquete de unos 90 decretos y en estados de excepción, ante un Congreso que le 'muestra los dientes' y una Corte Constitucional que ha endurecido el control de esas figuras, lo que afecta la capacidad real de ejecución del plan [F1].",
+            "El IPC del DANE (base 2018) es el instrumento oficial para medir la inflación, incluida la división de alimentos y bebidas no alcohólicas, con registro mensual de 443 artículos en 38 ciudades; el video no aporta estas series [F2][F3].",
+            "La seguridad alimentaria, según la definición del CFS 2012 recogida por el DNP, exige acceso permanente a alimentos suficientes e inocuos, condición que no depende exclusivamente del ciclo de un gobierno [F5].",
+            "El Informe de Política Monetaria del Banco de la República de julio de 2026 [F4] no pudo ser consultado por bloqueo del sitio, por lo que no fue posible contrastar la afirmación con las proyecciones macroeconómicas oficiales."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/lo-que-de-la-espriella-tiene-que-pasar-por-el-congreso-y-lo-que-no/",
+              "note": "Contexto del nuevo gobierno: emergencia económica anunciada, plan de choque de 10 billones, 90 decretos, límites institucionales (Congreso y Corte Constitucional). No contiene el estimado de 12 a 18 meses.",
+              "host": "lasillavacia.com",
+              "title": "Lo que De la Espriella tiene que pasar por el Congreso y lo que no",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/07/Adle_Historia-1-1-1.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc",
+              "note": "Metodología oficial del IPC (base 2018): 443 artículos, 38 ciudades, división de alimentos. Permite medir inflación alimentaria, pero el video no la cita.",
+              "host": "dane.gov.co",
+              "title": "Índice de precios al consumidor (IPC) Base 2018",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://sitios.dane.gov.co/ipc/visorIPC/",
+              "note": "Visor del IPC con histórico y calculadora de gastos; herramienta oficial para verificar tendencias de precios. El video no la usa ni aporta cifras.",
+              "host": "sitios.dane.gov.co",
+              "title": "Visor IPC",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.banrep.gov.co/es/print/pdf/node/66175",
+              "note": "Informe de Política Monetaria julio 2026: no pudo consultarse (bloqueo anti-bot del sitio). Limita el contraste con las proyecciones oficiales de inflación; se declara explícitamente esa ausencia.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://dnp.gov.co/LaEntidad_/subdireccion-general-prospectiva-desarrollo-nacional/direccion-desarrollo-social/Paginas/seguridad-alimentaria-y-nutricional.aspx",
+              "note": "Definición de seguridad alimentaria (CFS 2012) y papel del DNP: muestra que la seguridad alimentaria es multidimensional y no atribuible a un solo gobierno o plazo.",
+              "host": "dnp.gov.co",
+              "title": "Seguridad Alimentaria y Nutricional",
+              "image": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/La_Entidad/Directivos/Direccciones/Img_DNP.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "agricultura",
+          "claim": "Lo único que se cosecha antes de 60 días son lechuga, cilantro, brócoli, coliflor y rábanitos rojos.",
+          "quote": "lo único que sale antes de 60 días son lechuga cilantro eh brócolis coliflor eh rabanitos rojos",
+          "figures": [
+            "60 días"
+          ],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "media",
+          "summary": "La parte de la afirmación que asegura que 'lo único' que se cosecha antes de 60 días es lechuga, cilantro, brócoli, coliflor y rábanitos es incorrecta: las fuentes enumeran otras hortalizas de ciclo corto que también se cosechan en ese lapso (nabos 35-45 días, espinacas aprovechables desde la cuarta semana, guisantes precoces 50-60 días, pepinos 50-60 días, albahaca hidropónica 45-60 días y microgreens de 7 a 18 días) [F5][F3][F4]. Además, ninguna fuente entregada confirma que brócoli y coliflor entren en cosecha antes de 60 días, de modo que esa parte de la lista no es verificable con las fuentes disponibles.",
+          "context": "Las fuentes permiten establecer la magnitud real de los ciclos: rabanitos 3-5 semanas; lechugas precoces 45-50 días (o antes si se cortan hojas exteriores); espinacas 45-60 días, con corte de hojas pequeñas desde la semana 4; nabos 35-45 días; guisantes precoces 50-60 días; pepinos 50-60 días; zanahorias precoces tipo Chantenay unos 70 días (ya fuera del rango de 60) [F5]. En hidroponía: lechuga 35-50 días, albahaca 45-60 días y microgreens de mostaza, rábano y remolacha entre 7 y 18 días [F3]. Las calculadoras de calendario advierten además que los tiempos varían por clima, variedad, método (siembra directa vs. trasplante) y que los 'días hasta madurez' de los sobres de semillas suelen contarse desde el trasplante, no desde la semilla [F4]. El calendario de siembra colombiano en fuente [F2] no pudo consultarse (contenido bloqueado), por lo que no hay dato específico de ciclos en Colombia.",
+          "progressivePerspective": "Como no se trata de conflicto armado ni de la JEP, el marco aplicable es el de la verificación técnica-neutra. La afirmación funciona como argumento autoritativo ('desde el campo') para explicar por qué los precios no responden de inmediato a una política: si solo cinco hortalizas tuvieran ciclo menor a 60 días, sería cierto que casi nada responde rápido. El dato real es más matizado: existe un grupo amplio de hortalizas de ciclo corto (rábanos, nabos, espinacas, guisantes precoces, pepinos, lechugas, albahaca y microgreens) que sí se cosechan por debajo de 60 días, según las guías consultadas [F5][F3]. Eso no invalida el argumento central del video —que los ciclos largos (papa, maíz, ganado) tardan meses y por eso el efecto no es inmediato—, pero la formulación absoluta 'lo único que sale antes de 60 días' es incorrecta y presenta como lista exhaustiva un dato incompleto, lo que puede inducir a error sobre la velocidad con que ciertos sectores del abastecimiento reaccionan [F5][F3][F4].",
+          "whatTheyOmit": "Se omiten las numerosas hortalizas de ciclo corto por debajo de 60 días (nabos, espinacas, guisantes precoces, pepinos, albahaca, microgreens) que aparecen en las mismas fuentes, así como la advertencia de que los tiempos de cosecha varían según clima, variedad y método de siembra, y de que los 'días hasta la madurez' suelen contarse desde el trasplante y no desde la semilla [F5][F3][F4]. Tampoco se aporta fuente que sustente que brócoli y coliflor se cosechen antes de 60 días; las fuentes solo los mencionan como crucíferas recomendadas para trasplante, sin días de ciclo [F4].",
+          "keyFacts": [
+            "Los rabanitos se cosechan en 3 a 5 semanas desde la siembra directa [F5]",
+            "Las lechugas de ciclo corto se cosechan en unos 45-50 días, y cortando hojas exteriores puede hacerse antes [F5]",
+            "Las espinacas están en producción en 45-60 días, con corte de hojas pequeñas desde la cuarta semana [F5]",
+            "Los nabos se recogen en torno a 35-45 días desde la siembra directa [F5]",
+            "Los guisantes precoces pueden estar listos a los 50-60 días y los pepinos dan frutos en 50-60 días [F5]",
+            "En hidroponía, la albahaca tarda 45-60 días y los microgreens de rábano y mostaza entre 7 y 18 días [F3]",
+            "Las calculadoras de calendario advierten que los tiempos de cosecha varían por clima, variedad y método, y que los días de madurez suelen contarse desde el trasplante [F4]",
+            "La fuente [F2] (calendario de siembra colombiano) no pudo consultarse, por lo que no hay dato específico de ciclos en Colombia"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/etiquetado-frontal-productos-ultraprocesados/",
+              "note": "Etiquetado frontal de ultraprocesados; no aporta información sobre ciclos de cultivo, no resulta pertinente para esta afirmación",
+              "host": "razonpublica.com",
+              "title": "Etiquetado frontal en productos ultraprocesados: ¿cómo vamos?",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/09/productos-ultraprocesados-etiquetado-advertencia-Carolina-Pineros.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.scribd.com/document/1047714388/CALENDARIO-DE-SIEMBRA-COLOMBIA",
+              "note": "Calendario de siembra para Colombia (cilantro, lechuga); contenido bloqueado e inaccesible, no aporta datos verificables",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://rootlessfarm.com/es/tools/germination-calendar",
+              "note": "Tiempos de cosecha hidropónica: lechuga 35-50 días, albahaca 45-60, microgreens 7-18; contraste que desmiente la exclusividad de la lista del video",
+              "host": "rootlessfarm.com",
+              "title": "Calendario de Germinación Hidropónica — Planificador de Semilla a Cosecha",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://leaftide.com/es/calendario-cultivo/",
+              "note": "Calculadora de calendario de cultivos; advierte variabilidad por clima, variedad y método, y que los días de madurez se cuentan desde el trasplante; menciona brócoli/coliflor solo como crucíferas de trasplante, sin días de ciclo",
+              "host": "leaftide.com",
+              "title": "Calendario de Cultivos — Siembra a Cosecha | Leaftide",
+              "image": "https://leaftide.com/screenshot.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.jardineriaon.com/hortalizas-de-ciclo-corto-calendario-completo-para-sembrar-y-cosechar-rapido.html",
+              "note": "Hortalizas de ciclo corto con tiempos: rabanitos 3-5 semanas, lechugas 45-50 días, espinacas 45-60, nabos 35-45, guisantes 50-60, pepinos 50-60; principal contraste con la afirmación del video",
+              "host": "jardineriaon.com",
+              "title": "Hortalizas de ciclo corto: calendario para sembrar y cosechar",
+              "image": "https://www.jardineriaon.com/wp-content/uploads/2026/02/Hortalizas-de-ciclo-corto-Que-sembrar-hoy-para-cosechar-manana.jpg"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "topic": "agricultura",
+          "claim": "La carne está cara porque no hay ganado.",
+          "quote": "por qué está cara la carne porque no hay ganado",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "El alza del precio de la carne bovina en Colombia en 2026 está documentada y responde a factores de oferta (escasez relativa de ganado disponible para ceba), pero la frase \"no hay ganado\" es una simplificación: el Ministerio de Agricultura atribuye el incremento principalmente al precio del ganado en pie en subasta (+14,59% interanual a enero de 2026), al sacrificio de hembras reproductivas (40,9% del sacrificio en 2025) y a la exportación de machos de 1 a 2 años (39% de esos animales), no a una ausencia literal de ganado [F4]. Las pérdidas por mortalidad animal sí son reales, pero las fuentes disponibles documentan sequía y fenómeno del Niño en el Caribe, no inundaciones en esa región [F5].",
+          "context": "El DANE opera el SIPSA, que informa los precios mayoristas de productos agroalimentarios, el abastecimiento en ciudades y publica monitoreos trimestrales de precios de alimentos (Ley 2046 de 2020), incluido el III trimestre de 2026 [F3]. El Ministerio de Agricultura reportó que a enero de 2026 el ganado en pie en subasta tuvo una variación anual de 14,59%, componente que representa ~53% de los costos de producción; que las hembras llegaron al 40,9% del sacrificio nacional en 2025; que las exportaciones de bovinos en pie fueron 7,9% de la producción en 2025 y que la tasa de extracción de machos de 1-2 años (10,8% entre nov. 2024 y oct. 2025) superó la capacidad natural de reposición del hato, generando \"un desbalance estructural en la oferta\" [F4]. En materia de mortalidad, entre el 1 de junio y el 21 de septiembre de 2026 murieron 19.030 animales a nivel nacional, 511.604 fueron trasladados y 3.424.829 hectáreas se afectaron por verano, con 17.338 animales muertos en seis departamentos del Caribe; Fedegán estimó pérdidas directas de $95.065 millones [F5]. Adicionalmente, la ganadería colombiana solo tiene trazabilidad del 17% del ganado desde su nacimiento (2,4% en Amazonía), lo que dificulta atribuir responsabilidades en la cadena cárnica [F2].",
+          "progressivePerspective": "La afirmación contiene un núcleo verificable pero lo presenta como causa única y literal (\"no hay ganado\"), cuando las fuentes oficiales describen un cuadro más complejo: desbalance estructural del hato por sacrificio de hembras reproductivas, exportaciones de machos en edad de ceba y presión del precio en subasta [F4], sumado a pérdidas por el fenómeno del Niño [F5]. Desde la perspectiva de rendición de cuentas, esa simplificación corre el riesgo de cerrar la discusión sobre responsabilidades sectoriales (exportadores, intermediarios, falta de trazabilidad y de datos verificables declarados por los propios ganaderos [F2]) y de desplazar la mirada hacia el balance general de la política agropecuaria [F4]. El marco de no repetición aplicable aquí es simbólico: exige que las explicaciones sobre carencias alimentarias se apoyen en datos auditables (SIPSA, series del Minagricultura [F3][F4]) y no en causalidades declaradas, para que la ciudadanía pueda verificar y discutir [F3][F4]. La afirmación, tal como está enunciada, es una lectura parcial de evidencia real: no desconoce el problema, pero lo atribuye a una sola causa y a un evento (inundaciones en el Caribe) que las fuentes disponibles no respaldan para esa región [F5].",
+          "whatTheyOmit": "Se omite que el Ministerio de Agricultura identifica causas adicionales y medibles del alza: precio del ganado en pie en subasta (+14,59%), sacrificio de hembras en edad reproductiva (40,9% del sacrificio 2025), exportaciones de machos de 1-2 años (39% de ese segmento) y tasa de extracción por encima de la reposición [F4]. Se omite la existencia de la serie oficial SIPSA del DANE y de los monitoreos trimestrales de precios de alimentos, que permitirían cuantificar el alza en lugar de afirmar causalidad [F3]. Se omite el problema de trazabilidad de la cadena cárnica (17% del ganado trazable a nivel nacional), que limita verificar de dónde viene la carne y quién fija precios [F2]. Y la referencia a inundaciones en el Caribe a inicios de 2026 no encuentra respaldo en las fuentes entregadas: el reporte disponible sobre el Caribe describe sequía y efectos del fenómeno del Niño entre junio y septiembre de 2026, mientras que las inundaciones registradas corresponden a otros departamentos (Caquetá, Casanare, Arauca) [F5].",
+          "keyFacts": [
+            "El Ministerio de Agricultura identificó incrementos en el precio de la carne bovina durante 2026 en Colombia [F4]",
+            "El precio del ganado en pie en subasta registró una variación anual de 14,59% a enero de 2026 y representa ~53% de los costos de producción [F4]",
+            "Las hembras alcanzaron el 40,9% del sacrificio total nacional en 2025, comprometiendo la reposición del hato [F4]",
+            "La tasa de extracción de machos de 1 a 2 años (10,8% entre nov. 2024 y oct. 2025) superó la capacidad natural de reposición, generando desbalance estructural en la oferta [F4]",
+            "Las exportaciones de bovinos en pie fueron 7,9% de la producción nacional en 2025 y el 39% de los machos de 1-2 años se destina a exportación [F4]",
+            "Entre junio y septiembre de 2026 murieron 19.030 animales y se afectaron 3.424.829 hectáreas por verano en Colombia, con 17.338 animales muertos en seis departamentos del Caribe [F5]",
+            "Fedegán estimó pérdidas económicas directas de $95.065 millones por la emergencia climática en la ganadería [F5]",
+            "En Colombia solo el 17% del ganado cuenta con trazabilidad desde su nacimiento [F2]",
+            "El DANE, a través del SIPSA, publica boletines y monitoreos trimestrales de precios mayoristas de alimentos [F3]",
+            "Las fuentes entregadas documentan sequía en el Caribe en 2026 e inundaciones en Caquetá, Casanare y Arauca, no inundaciones en el Caribe [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/le-parc-cines/",
+              "note": "Columna sobre arte y cultura (reseña del ballet Le Parc). No contiene información sobre precios de la carne, ganadería ni abastecimiento; no aporta al contraste.",
+              "host": "razonpublica.com",
+              "title": "Le Parc en nuestros Cines",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/11/Ana-Maria-Cadena-New.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/opacidad-en-la-ganaderia-impulsa-deforestacion-en-la-amazonia/",
+              "note": "Aporta el dato de trazabilidad del ganado (17% nacional, 2,4% en Amazonía) y los puntos ciegos de la cadena cárnica, relevantes para explicar la opacidad en la formación de precios y en la verificación de responsabilidades [F2].",
+              "host": "lasillavacia.com",
+              "title": "Opacidad en la ganadería impulsa deforestación en la Amazonía",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/02/amazonia6.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/sistema-de-informacion-de-precios-sipsa",
+              "note": "Muestra que existe la fuente oficial (SIPSA-DANE) con boletines de precios mayoristas, abastecimiento e informes trimestrales de precios de alimentos, base para cuantificar el alza en lugar de afirmar causalidad.",
+              "host": "dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario (SIPSA)",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.agriculturayganaderia.com/?p=10045",
+              "note": "Fuente central: confirma el alza de la carne bovina en 2026 y detalla sus causas según el Minagricultura (precio del ganado en pie, sacrificio de hembras, exportaciones, desbalance del hato), matizando la idea de que \"no hay ganado\".",
+              "host": "agriculturayganaderia.com",
+              "title": "Gobierno evalúa aumento en el precio de la carne bovina",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2026/09/24/la-sequia-ha-dejado-17338-animales-muertos-y-176-millones-de-hectareas-afectadas-en-el-caribe-colombiano/",
+              "note": "Aporta la magnitud real de la mortalidad ganadera (19.030 muertos, 511.604 trasladados, pérdidas de $95.065 millones), pero la describe como efecto de sequía/verano en el Caribe, no inundaciones, y corresponde al periodo jun-sep 2026.",
+              "host": "infobae.com",
+              "title": "La sequía ha dejado 17.338 animales muertos y 1,76 millones de hectáreas afectadas en el Caribe colombiano",
+              "image": "https://www.infobae.com/resizer/v2/PGMCE2VIUBHUBBTVL4ZDXOIFC4.PNG?auth=273a907e91f998556af62469447cc0d093b26323ae59fec43139201ad7391820&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "topic": "clima",
+          "claim": "Se afirma que a inicios de 2026 en el Caribe se ahogó y murió de hambre mucho ganado por inundación de pasturas.",
+          "quote": "por allá en el Caribe a inicios del 2 026 mucho ganado se ahogó otros se murieron de hambre porque se inundaron muchas pasturas",
+          "figures": [
+            "2026"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes confirman el hecho general que sustenta la afirmación: lluvias atípicas y severas inundaciones en la región Caribe de Colombia entre enero y febrero de 2026, con afectaciones masivas en Córdoba, Sucre, Bolívar y La Guajira, y un estado de emergencia declarado el 11 de febrero de 2026 [F4][F5]. Sin embargo, ninguna de las fuentes entregadas documenta de forma específica la mortandad de ganado por ahogamiento o por hambre derivada de la inundación de pasturas. La parte verificable es el fenómeno climático y sus efectos territoriales; la cifra o magnitud de ganado fallecido queda sin respaldo documental en el corpus disponible.",
+          "context": "Según el informe de ACNUR del 13 de febrero de 2026, desde el 1 de enero de ese año al menos 251.760 personas (71.115 familias) en 22 departamentos y 148 municipios fueron afectadas por inundaciones, crecientes súbitas y deslizamientos asociados a lluvias intensas y atípicas, con los mayores impactos en Córdoba, La Guajira y Antioquia; Córdoba concentró 53.400 familias con el 80% de su territorio inundado [F5]. Reliefweb documenta que el 11 de febrero de 2026 el Gobierno declaró Estado de Emergencia Económica, Social y Ecológica con 252.333 personas afectadas a nivel nacional, con alertas rojas hidrológicas del IDEAM en Córdoba, Sucre, Bolívar, Antioquia, Chocó, Valle del Cauca, Cauca y Nariño [F4]. Los informes destacan daños en vivienda, infraestructura y \"grandes hectáreas de cultivos\", pero no reportan mortandad pecuaria específica [F5]. Adicionalmente, se estima que la recuperación por este frente frío de comienzos de 2026 rondaría los US$2.767 millones [F2].",
+          "progressivePerspective": "Este análisis no versa sobre el conflicto armado colombiano ni sobre la JEP, por lo que no aplica el marco de verdad, justicia, reparación y no repetición. En términos de verificación informativa, la afirmación usa un hecho climático real y bien documentado —las lluvias atípicas y la emergencia de comienzos de 2026 [F4][F5]— para sostener una consecuencia específica (mortandad de ganado por ahogamiento y hambre) que las fuentes consultadas no corroboran ni desmienten. Desde una perspectiva de rigor, corresponde distinguir entre el fenómeno verificado y la causalidad particular no documentada, así como reconocer que la magnitud declarada (\"mucho ganado\") es cuantitativamente imprecisa y no contrastable con la evidencia disponible. La literatura regional sobre desastres advierte que la acumulación de eventos extremos y la vulnerabilidad de medios de vida rurales son reales y crecientes [F2], lo que hace plausible el daño pecuario, aunque no lo confirma.",
+          "whatTheyOmit": "La afirmación no aporta cifras oficiales de mortalidad pecuaria (por ejemplo, reportes del ICA, del Instituto Colombiano Agropecuario o de la Unidad Nacional de Gestión del Riesgo) ni fuentes que cuantifiquen cuántos animales murieron ni en qué departamentos específicos del Caribe [F4][F5]. Tampoco matiza que la declaración de emergencia fue nacional y afectó también regiones andina y pacífica, no solo el Caribe [F4]. Se omite igualmente que los informes humanitarios reportan daños principalmente en personas, vivienda, infraestructura y cultivos, sin evidencia documental sobre ganado [F5].",
+          "keyFacts": [
+            "Entre enero y febrero de 2026 hubo lluvias inusuales en meses tradicionalmente secos que provocaron inundaciones, crecientes súbitas y deslizamientos en las regiones Caribe, Pacífica y Andina de Colombia [F4]",
+            "El 11 de febrero de 2026 el Gobierno colombiano declaró el Estado de Emergencia Económica, Social y Ecológica, con 252.333 personas afectadas a nivel nacional [F4]",
+            "Según ACNUR, al 13 de febrero de 2026 al menos 251.760 personas en 22 departamentos y 148 municipios fueron afectadas por las inundaciones [F5]",
+            "Córdoba registró 53.400 familias afectadas con el 80% de su territorio inundado (24 de 30 municipios) y decretó calamidad pública el 2 de febrero de 2026; Antioquia y La Guajira también tienen decretos de calamidad pública vigentes [F5]",
+            "Las afectaciones incluyen grandes hectáreas de cultivos, vivienda e infraestructura, pero las fuentes consultadas no documentan mortandad específica de ganado [F5]",
+            "Se estima que la recuperación por el frente frío de comienzos de 2026 en Colombia rondaría US$2.767 millones [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/de-la-guaira-a-la-guaira-el-chavismo-nacio-y-murio-en-una-tragedia/",
+              "note": "Artículo sobre Venezuela (deslave de La Guaida 1999 y terremotos 2026). No aporta información sobre la mortandad de ganado en el Caribe colombiano; no resulta pertinente para verificar esta afirmación.",
+              "host": "razonpublica.com",
+              "title": "De La Guaira a La Guaira: el chavismo nació y murió en una tragedia - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/07/2.1.-Wikimedia-Commons-1024x683.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/opinion/america-latina-y-el-caribe-atrapada-entre-desastres-y-bajo-crecimiento/",
+              "note": "Contexto regional: confirma el frente frío de comienzos de 2026 en Colombia con un plan de recuperación estimado en US$2.767 millones y el aumento de la frecuencia de desastres climáticos en la región. No documenta mortandad pecuaria.",
+              "host": "lasillavacia.com",
+              "title": "América Latina y el Caribe, atrapada entre desastres y bajo crecimiento",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/FotoJet-8.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/sistema-de-informacion-de-precios-sipsa",
+              "note": "Portal del SIPSA del DANE con boletines de precios mayoristas e informes de monitoreo de precios de alimentos 2025-2026. No contiene datos específicos sobre la mortandad de ganado por las inundaciones; útil como referencia metodológica para verificar precios posteriores.",
+              "host": "dane.gov.co",
+              "title": "Sistema de Información de Precios y Abastecimiento del Sector Agropecuario (SIPSA)",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://reliefweb.int/report/colombia/afectaciones-por-lluvias-e-inundaciones-colombia-enero-febrero-2026",
+              "note": "Confirma lluvias inusuales entre enero y febrero de 2026, la declaración de Estado de Emergencia el 11 de febrero, 252.333 personas afectadas y alertas rojas hidrológicas del IDEAM en departamentos del Caribe (Córdoba, Sucre, Bolívar). No menciona mortandad de ganado.",
+              "host": "reliefweb.int",
+              "title": "Afectaciones por lluvias e inundaciones Colombia, enero- febrero 2026 - Colombia",
+              "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/bf/12/bf123b63-fc8c-4a13-95d7-49de7c5b9e7d.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.unocha.org/publications/report/colombia/colombia-informe-de-situacion-impacto-por-inundaciones-y-doble-afectacion-en-varios-departamentos-febrero-13-de-2026",
+              "note": "Informe de situación de ACNUR/OCHA: confirma la magnitud de las inundaciones en el Caribe (Córdoba, La Guajira), decretos de calamidad pública y daños en cultivos, vivienda e infraestructura. Es la fuente más cercana en tiempo y territorio, pero no reporta mortandad pecuaria específica, por lo que la afirmación queda parcialmente verificable.",
+              "host": "unocha.org",
+              "title": "Colombia: Informe de situación - Impacto por inundaciones y doble afectación en varios departamentos (febrero 13 de 2026)",
+              "image": ""
             }
           ]
         }
