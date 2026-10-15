@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:36:27",
+  "generatedAt": "2026-10-14T20:52:40",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -4412,6 +4412,546 @@
               "host": "unocha.org",
               "title": "Colombia: Informe de situación - Impacto por inundaciones y doble afectación en varios departamentos (febrero 13 de 2026)",
               "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "marcharon-contra-un-gobierno-de-dos-meses-les-hago-la-lista-de-lo-qu",
+      "title": "Marcharon contra un gobierno de dos meses. Les hago la lista de lo qu...",
+      "uploader": "eduardoebenavidesb",
+      "url": "https://www.tiktok.com/@eduardoebenavidesb/video/7696587689566457109",
+      "duration": 62,
+      "thumbnail": "/media/marcharon-contra-un-gobierno-de-dos-meses-les-hago-la-lista-de-lo-qu/thumb.jpg",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Se afirma que la marcha se realizó contra un gobierno con apenas dos meses en el poder.",
+          "quote": "marcharon contra un gobierno que lleva dos meses",
+          "figures": [
+            "2 meses"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero engañoso",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación se sostiene: la marcha se realizó contra un gobierno con apenas dos meses en el poder. Abelardo de la Espriella asumió el 7 de agosto de 2026 [F3][F4] y la protesta, descrita como la primera jornada de manifestaciones contra su gobierno, tuvo lugar 'apenas dos meses después de haber asumido el poder' [F5].",
+          "context": "De la Espriella fue posesionado el 7 de agosto de 2026 en Cali, tras vencer en segunda vuelta al candidato del Pacto Histórico, Iván Cepeda, el 21 de junio de 2026, y gobierna hasta el 7 de agosto de 2030 [F3][F4]. La movilización, convocada por la oposición encabezada por el expresidente Petro junto con sindicatos, comunidades indígenas, estudiantes y feministas, fue 'la primera de dos meses de movilizaciones sociales' y se dio un día después de que el presidente firmara el decreto 1525 de 2026, que regula la protesta y flexibiliza el uso de la fuerza ante daños o bloqueos de vías, medida que el mandatario justificó como forma de 'atacar el terrorismo urbano disfrazado de protesta' [F5]. Cabe notar que, según el análisis de razonpública, las manifestaciones contra el gobierno Petro fueron constantes desde muy temprano en su mandato, protagonizadas por sectores empresariales, clases medias y bancadas de derecha, en un ejercicio descrito como democrático [F1].",
+          "progressivePerspective": "El dato es exacto, pero su sentido depende del uso que se le dé. La cuenta solo precisa que la marcha ocurrió a los dos meses, insinuando que es prematuro protestar tan pronto; ese juicio es opinión y no un hecho verificable. Las fuentes muestran que las razones de la convocatoria fueron concretas y documentadas: el decreto 1525 de 2026, la flexibilización del uso de la fuerza, el restablecimiento de relaciones con Israel, la regulación de la guardia indígena y preguntas sobre el manejo de fondos de la esposa del presidente tras el terremoto del 10 de agosto [F5]. Bajo las garantías democráticas, el derecho de petición y manifestación no requiere un periodo mínimo de gracia: de hecho, las movilizaciones contra el gobierno anterior empezaron 'desde muy temprano', lo que ubica a ambos fenómenos en una misma lógica de uso de la calle [F1]. En términos de no repeticción y verdad, la enumeración del video menciona hechos graves del conflicto —reclutamiento infantil, control territorial por grupos armados, minería en páramos— sin datos ni fuentes, lo que puede trivializarlos o usarlos como arma retórica en vez de contribuir a su esclarecimiento; la JEP busca precisamente que esos hechos se establezcan con evidencia, se reconozcan responsabilidades y se repare a las víctimas, no que sirvan de lista comparativa en un monólogo [F5][F1].",
+          "whatTheyOmit": "El video omite las razones de la marcha: el decreto 1525 de 2026 sobre protesta, la flexibilización del uso de la fuerza, el restablecimiento de relaciones con Israel, la regulación de la guardia indígena, las alusiones religiosas del presidente y la supuesta falta de transparencia en el manejo de fondos de su esposa tras el terremoto [F5]. También omite que durante el gobierno anterior hubo manifestaciones constantes desde temprano contra Petro, convocadas por sectores empresariales, de clase media y bancadas de derecha, así como marchas multitudinarias como la del 21 de abril [F1].",
+          "keyFacts": [
+            "Abelardo de la Espriella asumió la presidencia el 7 de agosto de 2026 tras derrotar en segunda vuelta a Iván Cepeda el 21 de junio de 2026 [F3][F4]",
+            "La protesta se realizó 'apenas dos meses después de haber asumido el poder' y fue descrita como la primera jornada de protestas contra su gobierno [F5]",
+            "La marcha fue convocada por la oposición liderada por Gustavo Petro, sindicatos, comunidades indígenas, estudiantes y feministas [F5]",
+            "La movilización ocurrió un día después de que De la Espriella firmara el decreto 1525 de 2026, que regula la protesta y flexibiliza el uso de la fuerza en casos de daños o bloqueos de vías [F5]",
+            "Las manifestaciones contra el gobierno Petro fueron constantes desde muy temprano, protagonizadas por el sector empresarial, las clases medias y las bases de bancadas de derecha [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/marchas-contramarchas-quien-domina-las-calles/",
+              "note": "Análisis de razonpública sobre marchas y contramarchas: documenta que las manifestaciones contra Petro fueron constantes desde muy temprano y enmarca la calle como espacio democrático; aporta el contraste de que protestar al inicio de un gobierno no es novedad.",
+              "host": "razonpublica.com",
+              "title": "Marchas y contramarchas: ¿quién domina las calles?",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/04/Plaza-Bolivar-marchas-contramarchas-Camilo-Cruz.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/todo-lo-que-se-sabe-del-magnicidio-de-miguel-uribe-un-ano-despues/",
+              "note": "Contexto sobre el magnicidio de Miguel Uribe (junio-agosto 2025) y la vinculación con la Segunda Marquetalia; no incide directamente en la verificación de la fecha de la marcha.",
+              "host": "lasillavacia.com",
+              "title": "Todo lo que se sabe del magnicidio de Miguel Uribe, un año después",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2025/06/miguel-uribe-en-rallie.jpg?fit=1200%2C900&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Investidura_presidencial_de_Abelardo_de_la_Espriella",
+              "note": "Fecha de la investidura: 7 de agosto de 2026 en Cali, y resultado electoral del 21 de junio de 2026; sirve para calcular los 'dos meses' de gobierno.",
+              "host": "es.wikipedia.org",
+              "title": "Investidura presidencial de Abelardo de la Espriella - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Universidad_Santiago_de_Cali_2023.jpg/1280px-Universidad_Santiago_de_Cali_2023.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://caracol.com.co/2026/06/21/fecha-de-la-posesion-de-abelardo-de-la-espriella-el-nuevo-presidente-de-colombia-2026-2030/",
+              "note": "Confirma que la posesión fue el 7 de agosto de 2026 y el fin del mandato de Petro el mismo día, cerrando el periodo 2022-2026.",
+              "host": "caracol.com.co",
+              "title": "Fecha de la POSESIÓN de Abelardo de la Espriella, el nuevo presidente de Colombia 2026-2030",
+              "image": "https://caracol.com.co/resizer/v2/OUSEG4F3WJDUBC5JSCHZMPGSZI.png?auth=642db06bf19188148d4732fc1d6cfa62999ca6038aaac5ab64e7ac764993a606&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.clarin.com/mundo/masiva-protesta-colombia-miles-personas-marchan-gobierno-abelardo-espriella_0_bWBYE3I85B.html",
+              "note": "Reportaje de Clarín/AFP: confirma que la protesta ocurrió 'apenas dos meses' tras la asunción y detalla el decreto 1525 de 2026 y los motivos de la convocatoria; aporta el contexto que el video omite.",
+              "host": "clarin.com",
+              "title": "Masiva protesta en Colombia: miles de personas marchan contra el gobierno de Abelardo de la Espriella",
+              "image": "https://www.clarin.com/img/2026/10/14/kRCC7vhrA_2000x1500__1.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "social",
+          "claim": "Se afirma que en 4 años anteriores nunca se marchó por la minería ilegal en el páramo de Santurbán.",
+          "quote": "en 4 años nunca marcharon por la minería ilegal que se estaba haciendo en el páramo de santurbán",
+          "figures": [
+            "4 años"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La existencia de minería ilegal en el páramo de Santurbán durante el periodo señalado sí está respaldada [F2][F4][F5], pero ninguna de las fuentes entregadas aborda si hubo o no marchas públicas por ese tema en los 4 años del gobierno anterior: la afirmación sobre que 'nunca marcharon' queda sin evidencia documental en las fuentes disponibles [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes confirman que la minería ilegal en Santurbán es un problema antiguo y no nuevo: el alcalde de California y el comité de defensa del páramo señalaban que la explotación existe desde años atrás, con contaminación por mercurio registrada desde 2022, cuando el acueducto de Bucaramanga elevó los niveles de mercurio de 100 a 163 microgramos por litro entre enero y julio de 2022 y la Defensoría del Pueblo alertó en agosto de 2022 [F5]. La controversia sobre Santurbán abarca varios gobiernos: el proceso inició con Uribe, continuó con Santos y Duque, y la Corte Constitucional ordenó una nueva delimitación mediante la sentencia T-361 hace nueve años [F1][F2]. El 5 de marzo de 2025 el Ministerio de Ambiente declaró una Zona de Reserva Temporal sobre 75.000 hectáreas de la provincia de Soto Norte que prohíbe por dos años la extracción de oro y plata, medida que fue prorrogada hasta el 4 de marzo de 2029 [F2][F3]. En julio de 2026 se presentó una nueva metodología de delimitación participativa (Resolución 863 de 2026) y proyectos normativos que delimitan 29.199 hectáreas del complejo Jurisdicciones–Santurbán–Berlín [F3]. La investigación periodística de 2026 documenta más de 200 entradas a minas en una montaña del municipio de California, con cerca de 300 hectáreas sin cobertura vegetal, y la UIAF estimó utilidades mensuales cercanas a 26.000 millones de pesos por la minería ilegal en Soto Norte [F2][F4].",
+          "progressivePerspective": "En términos de verdad y no repetición, la afirmación tiene una parte fáctica verificable y otra que no puede constatarse con las fuentes. Es cierto que hubo minería ilegal en Santurbán durante el periodo señalado [F2][F4], pero la premisa sobre la ausencia total de movilización social no encuentra respaldo: las fuentes muestran, por el contrario, que existe un tejido histórico de defensa del páramo que precede a ese gobierno —'los defensores de los páramos llevamos doce años oponiéndonos a la megaminería' y 'entre 2010 y 2011 la sociedad civil decidió defender el agua y los páramos' [F1]—, sin que esos mismos textos documenten marchas específicamente en el periodo de 4 años en cuestión [F1]. Desde la lógica de la no repetición, presentar como hecho incontestable que 'nadie marchó' convierte una ausencia no demostrada en argumento contra la movilización social presente, cuando las fuentes describen un problema estructural de ausencia estatal: nueve años de mesas de concertación sin presencia efectiva del Ministerio de Ambiente ni de la CDMB en la zona, con la Zona de Reserva Temporal sin vigilancia efectiva [F4]. Esa crítica institucional de fondo —sostenida a lo largo de varios gobiernos, incluido el anterior [F1][F4]— es más consistente con el deber de verdad que la reducción del asunto a un señalamiento sobre quién marchó y quién no. La responsabilidad por la protección del páramo, según las fuentes, es repartida entre administraciones sucesivas y entre la lentitud de los procesos judiciales y administrativos, no atribuible a un solo periodo [F1][F4].",
+          "whatTheyOmit": "Se omite que ninguna fuente entregada registra el comportamiento de marchas o protestas en los 4 años del gobierno anterior, de modo que la afirmación central ('nunca marcharon') no puede verificarse con estos documentos [F1][F2][F3][F4][F5]. También se omite el carácter transgubernamental del problema: el 'Teatro del Absurdo Santurbán' comenzó con Uribe y continuó con Santos y Duque [F1], y la T-361 ordenó una nueva delimitación hace nueve años sin que el proceso se completara [F2][F4]. Se omite que hubo acciones del gobierno anterior en el periodo, como la Zona de Reserva Temporal de 75.000 hectáreas del 5 de marzo de 2025 [F2][F3], y que existen denuncias previas de la Defensoría del Pueblo sobre mercurio en el acueducto de Bucaramanga desde agosto de 2022 [F5], lo que muestra que el tema sí estuvo en la agenda pública antes de la fotografía de 2026. Se omite también que parte de las críticas más duras provienen de actores locales —el alcalde de California y el comité de defensa de Santurbán— que reprochan la ausencia del Estado central [F5], y que la editorial de Vanguardia atribuye la inacción tanto a la falta de normas como a la falta de autoridad para cumplirlas, un diagnóstico histórico y no exclusivamente de un gobierno [F4].",
+          "keyFacts": [
+            "Se confirma la existencia de minería ilegal en el páramo de Santurbán a más de 3.000 metros de altura, con más de 200 entradas a minas en una montaña del municipio de California [F2][F4]",
+            "La UIAF estimó que la minería ilegal en Soto Norte podía generar utilidades mensuales cercanas a 26.000 millones de pesos [F2][F4]",
+            "Más de 2 millones de habitantes de Santander y Norte de Santander dependen del agua de Santurbán [F2][F4]",
+            "El Ministerio de Ambiente declaró el 5 de marzo de 2025 una Zona de Reserva Temporal sobre 75.000 hectáreas que prohíbe por dos años la minería de extracción de oro y plata [F2]",
+            "La Resolución 863 de 2026, presentada el 15 de julio de 2026, estableció una metodología nacional de delimitación participativa de páramos empezando por Santurbán [F3]",
+            "El proceso de delimitación ordenado por la Corte Constitucional en la T-361 lleva nueve años abierto, con nueve años de mesas de concertación [F2][F4]",
+            "La controversia minera en Santurbán se remonta a los gobiernos de Uribe, Santos y Duque, con 12 años de oposición de los defensores del páramo [F1]",
+            "En 2022 el acueducto de Bucaramanga registró niveles de mercurio que pasaron de 100 a 163 microgramos por litro entre enero y julio, y la Defensoría del Pueblo alertó en agosto de 2022 [F5]",
+            "Ninguna de las cinco fuentes entregadas documenta marchas ni su ausencia en los 4 años del gobierno anterior: esa parte de la afirmación no es verificable con estos documentos [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/petro-protegera-santurban-los-demas-paramos/",
+              "note": "Historia del conflicto minero en Santurbán bajo Uribe, Santos y Duque; documenta la oposición sostenida de los defensores del páramo y la movilización social de 2010-2011, sin registrar marchas en el periodo de 4 años evaluado.",
+              "host": "razonpublica.com",
+              "title": "Petro protegerá Santurbán y los demás páramos | Raón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2022/07/paramos-Santurban-medio-ambiente-Petro-Erwing-Rodriguez-Salah.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eluniversal.com.co/colombia/2026/07/12/fotografia-revela-avance-de-mineria-ilegal-en-el-paramo-de-santurban/",
+              "note": "Confirma la minería ilegal actual, las 200+ bocaminas, la reserva temporal de marzo de 2025 y los nueve años de proceso de delimitación; no menciona marchas.",
+              "host": "eluniversal.com.co",
+              "title": "Fotografía revela avance de minería ilegal en el páramo de Santurbán",
+              "image": "https://www.eluniversal.com.co/resizer/v2/WQZXZRJRTJAFZOR3A5CBCL6N7U.jpg?auth=99c45d2468383882fa978cac73548fec8c653ab8763fc76c6acbfbe0a96456ff&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/07/15/en-medio-de-la-polemica-por-mineria-ilegal-en-santurban-ministerio-de-ambiente-de-petro-presento-hoja-de-ruta-para-la-proteccion-de-los-paramos/",
+              "note": "Acciones normativas del Ministerio de Ambiente en julio de 2026 sobre Santurbán; aporta contexto de medidas estatales previas, sin abordar movilizaciones sociales.",
+              "host": "infobae.com",
+              "title": "En medio de la polémica por minería ilegal en Santurbán, Ministerio de Ambiente de Petro presentó hoja de ruta para la protección de los páramos",
+              "image": "https://www.infobae.com/resizer/v2/TFKFJ6YVR5C65DUKCP326GMFOU.jpg?auth=d19e00d0a1c000d600b424819612ce5a3a153f090b9b45d1548b9b3aa10ba462&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.vanguardia.com/opinion/editorial/2026/07/14/la-ilegalidad-devora-el-paramo-de-santurban/",
+              "note": "Editorial (opinión) que documenta la ausencia de control estatal, la ineficacia de la reserva temporal y la responsabilidad histórica repartida; no registra marchas.",
+              "host": "vanguardia.com",
+              "title": "La ilegalidad devora el páramo de Santurbán",
+              "image": "https://www.vanguardia.com/resizer/v2/Y77HSAMVDRGCBAKRMUB7GJBV6Y.jpg?auth=9fda64626f20c1611bc18d55707d029290a765be2ce035a22502a229ab61e783&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/nacion/bucaramanga/articulo/que-tan-grave-es-la-situacion-en-el-paramo-de-santurban-semana-revela-el-panorama-y-como-la-mineria-devora-esta-reserva-natural/202621/",
+              "note": "Reportaje con autoridades locales que confirma que el problema no es nuevo, la contaminación por mercurio desde 2022 y la ausencia del Gobierno central; no aborda marchas.",
+              "host": "semana.com",
+              "title": "¿Qué tan grave es la situación en el Páramo de Santurbán? SEMANA revela el panorama y cómo la minería devora esta reserva natural",
+              "image": "https://www.semana.com/resizer/v2/FTOTZVCL7VCPPFT2H33Y7YDYRM.jpg?auth=6f27dcedb7502be92042e90f66fb8f2363f4dca44614cb0a4cc4703a928f0862&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "salud",
+          "claim": "Se afirma que hubo largas filas en los hospitales y que no se entregaban medicamentos.",
+          "quote": "no marcharon por las largas filas en los hospitales y porque no entregaran los medicamentos",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Las fuentes confirman que desde mediados de 2024 en Colombia se documentaron largas filas de pacientes reclamando fórmulas y casos de no entrega de medicamentos; sin embargo, la afirmación de que 'no se entregaban los medicamentos' es absoluta: el desabastecimiento no fue generalizado y afectó de forma diferenciada, principalmente a medicamentos de alto costo, dentro de una crisis financiera y operativa con causas estructurales y responsabilidades repartidas entre gobierno, EPS, gestores farmacéuticos e industria [F1][F2][F3].",
+          "context": "Desde mediados de 2024 las filas de personas reclamando fórmulas se volvieron paisaje urbano en varias ciudades, con pacientes crónicos (insulina, anticoagulantes, oncológicos) que esperaban horas o se iban con las manos vacías [F2]. La Academia Nacional de Medicina advirtió en diciembre de 2024, en comunicado oficial, la gravedad del desabastecimiento incluso en patologías huérfanas y de alta complejidad, y reportó 'filas interminables' y protestas masivas de pacientes [F3]. Las quejas por fallas en la prestación de servicios aumentaron 75,7% entre 2022 y 2024 [F1]. Matiz clave: el decano Diego Restrepo señala que 'el desabastecimiento de medicamentos no es generalizado', que los medicamentos básicos siguen disponibles y que la escasez afecta principalmente a los de alto costo, con un déficit acumulado del sistema estimado entre 20 y 35 billones de pesos [F1]. Las causas son estructurales: deudas de Nueva EPS con facturas históricas desde 2008, patrimonio negativo de -11,9 billones y pasivos de 22,5 billones al cierre de 2024 [F4][F5], bloqueos administrativos entre EPS, gestores y laboratorios [F2], y una UPC que creció más lento que los costos reales desde la Ley 100 de 1993 [F2]. El propio experto consultado reconoce que el sistema 'tiene fallas' pero también que Petro 'recibió un sistema frágil' y que la cobertura es del 99% [F1].",
+          "progressivePerspective": "La afirmación contiene un núcleo de verdad verificable (hubo filas y fallas reales en la entrega de medicamentos, documentadas por la Academia Nacional de Medicina y por la prensa) [F2][F3], pero su uso como comparación asimétrica —'nadie marchó por esto antes, marchan ahora'— cumple una función retórica de minimizar la protesta social presente más que de esclarecer la verdad. Desde el marco de verdad, reparación y no repetición aplicable a la rendición de cuentas, el dato resulta incompleto porque presenta la crisis de salud como responsabilidad exclusiva de un gobierno, cuando las fuentes muestran que es un problema estructural con raíces en el modelo de la Ley 100 de 1993, en deudas acumuladas desde 2008, en el subfinanciamiento de la UPC y en fallas de gestión de EPS, gestores farmacéuticos y laboratorios, con responsabilidades distribuidas entre actores públicos y privados [F1][F2][F4][F5]. La afirmación no abona al reconocimiento de responsabilidades compartidas ni a la comprensión cabal de las causas, y desplaza la conversación hacia la legitimidad de las marchas; el propio especialista consultado advierte que 'no tiene sentido responsabilizar de esos problemas a los privados' ni desconocer los avances del sistema [F1]. Dicho esto, la constatación de que los pacientes fueron quienes sufrieron las consecuencias es un dato respaldado [F3], y señalar fallas del servicio de salud es legítimo en una democracia, sin que de ello se siga que las protestas carezcan de motivo.",
+          "whatTheyOmit": "Omite que el desabastecimiento no fue generalizado y que los medicamentos básicos permanecieron disponibles, afectando sobre todo a los de alto costo [F1]. Omite las causas estructurales: déficit acumulado de 20 a 35 billones de pesos, subfinanciamiento de la UPC, deudas de Nueva EPS con facturas desde 2008, bloqueos administrativos entre EPS y gestores, y acumulamiento de inventarios por parte de algunos distribuidores [F1][F2][F4]. Omite que expertos atribuyen el problema a fallas de gestión y distribución más que a carencia absoluta de inventarios [F2] y que el sistema fue recibido 'frágil' por el gobierno, con fallas que arrancan antes de 2022 [F1]. Omite, en el plano verificable de su premisa, que la afirmación de que 'nadie marchó' por estos hechos no es respaldada por las fuentes entregadas, que tratan la crisis de salud pero no la existencia o inexistencia de protestas previas: sobre ese punto las fuentes no alcanzan para concluir [F1][F2][F3].",
+          "keyFacts": [
+            "Desde mediados de 2024 las imágenes de personas haciendo largas filas para reclamar sus fórmulas médicas se volvieron parte del paisaje urbano en varias ciudades de Colombia, con pacientes crónicos que esperaban horas o se iban con las manos vacías [F2]",
+            "En diciembre de 2024 la Academia Nacional de Medicina advirtió sobre la gravedad del desabastecimiento de medicamentos y reportó 'filas interminables' y protestas masivas de pacientes [F3]",
+            "Las quejas por fallas en la prestación de servicios de salud aumentaron un 75,7% entre 2022 y 2024 [F1]",
+            "El desabastecimiento no fue generalizado: los medicamentos básicos siguen disponibles y la escasez afecta principalmente a los de alto costo [F1]",
+            "La crisis de medicamentos es estructural, con un déficit acumulado del sistema estimado entre 20 y 35 billones de pesos y causas en financiación, logística y descoordinación entre gobierno, EPS, gestores farmacéuticos e industria [F1][F2]",
+            "Nueva EPS reportó pérdidas de $4,8 billones solo en 2024, pasivos de $22,5 billones y patrimonio negativo de -$11,9 billones, con cerca de 10 millones de facturas históricas pendientes desde 2008 [F4]",
+            "La cobertura del sistema de salud en Colombia llegó al 99% y el porcentaje de personas que acceden a medicamentos subió del 44% al 76%, según el especialista consultado [F1]",
+            "Las fuentes entregadas documentan la crisis de salud pero no acreditan la afirmación de que 'nadie marchó' antes por estos hechos: sobre ese punto no hay evidencia en los materiales disponibles [F1][F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-academica/en-salud-el-gobierno-no-tiene-la-intencion-de-resolver-el-problema/",
+              "note": "Confirma el desabastecimiento y las largas filas y el aumento del 75,7% en quejas entre 2022 y 2024, pero matiza que el desabastecimiento no es generalizado y que las causas son financieras y estructurales; aporta el contraste de que el sistema fue recibido frágil y tiene cobertura del 99%.",
+              "host": "lasillavacia.com",
+              "title": "“Parece que el gobierno busca colapsar la salud para justificar la reforma”",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/03/Portada_Academica1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.javeriana.edu.co/pesquisa/porque-de-la-crisis-de-medicamentos/",
+              "note": "Documenta las filas desde mediados de 2024 y explica las causas (logística, financiación, UPC, bloqueos administrativos), atribuyendo la crisis a fallas de gestión y distribución con raíces estructurales, no a un solo gobierno.",
+              "host": "javeriana.edu.co",
+              "title": "los porqués de la crisis de medicamentos en Colombia",
+              "image": "https://www.javeriana.edu.co/pesquisa/wp-content/uploads/2025/04/iStock-2153845856-1024x683.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://anmdecolombia.org.co/desabastecimiento-en-medicamentos",
+              "note": "Comunicado de la Academia Nacional de Medicina de diciembre de 2024 que confirma la gravedad del desabastecimiento, las 'filas interminables' y las protestas de pacientes, y muestra que gobierno y distribuidores se señalan mutuamente.",
+              "host": "anmdecolombia.org.co",
+              "title": "Desabastecimiento en medicamentos",
+              "image": "https://cms.anmdecolombia.org.co/wp-content/uploads/2024/11/farmacia_entrega_de_medicamentos.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/gobierno/el-gobierno-petro-entrega-la-nueva-eps-con-perdidas-cercanas-a-los-5-billones-solo-durante-el-497845",
+              "note": "Aporta la magnitud financiera de Nueva EPS (pérdidas de $4,8 billones en 2024, pasivos de $22,5 billones, patrimonio de -$11,9 billones) y el dato de 10 millones de facturas históricas desde 2008, que evidencia la antigüedad de la crisis.",
+              "host": "portafolio.co",
+              "title": "El Gobierno Petro entrega la Nueva EPS con deudas cercanas a los $22 billones y millonarias pérdidas",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/04/13/69dcfb52db977.r_d.820-163-12486.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.opinioncaribe.com/2026/07/09/nueva-eps-reporto-perdidas-por-61-billones-y-deudas-por-mas-de-22-billones-petro-responsabiliza-a-administraciones-anteriores/",
+              "note": "Reporta pérdidas acumuladas de $6,1 billones y deudas de más de $22 billones en Nueva EPS, y documenta que la atribución de responsabilidades es disputada: Petro señala a administraciones anteriores, mientras otras fuentes señalan al gobierno en ejercicio.",
+              "host": "opinioncaribe.com",
+              "title": "Nueva EPS reportó pérdidas por $6,1 billones y deudas por más de $22 billones; Petro responsabiliza a administraciones anteriores - Opinion Caribe",
+              "image": "https://www.opinioncaribe.com/wp-content/uploads/2026/07/IMAGEN-WEB-2026-07-09T090710.633.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Se afirma que hubo casos de corrupción y clientelismo en el gobierno anterior.",
+          "quote": "no marcharon por los casos de corrupción y de clientelismo en el gobierno",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Que durante el gobierno anterior hubo casos de corrupción documentados está ampliamente respaldado: el escándalo de la UNGRD (carrotanques de La Guajira), la captura de Nicolás Petro, el caso de la niñera Marelbys y los hallazgos del 'Libro de la verdad' del gobierno actual son hechos verificados por fuentes periodísticas y de control [F3][F4][F5]. Sin embargo, la afirmación usa la categoría ambigua de 'casos de corrupción', que mezcla investigaciones en curso, sanciones administrativas y escándalos mediáticos, muchos de los cuales aún no son condenas penales; por eso es mayormente verdadero y no plenamente verificable en su totalidad [F4][F5].",
+          "context": "Entre los casos documentados: (1) el saqueo de la UNGRD por la compra a dedo de 40 carrotanques por $46.800 millones para La Guajira, con sobrecostos superiores a $20.000 millones hallados por la Contraloría, coimas presuntamente pagadas a los presidentes del Senado y la Cámara, y capturas de exdirectivos de la UNGRD, exministros y la consejera presidencial [F3]; (2) la captura de Nicolás Petro por enriquecimiento ilícito y lavado de activos [F3]; (3) el caso de la niñera Marelbys Meza, con policías imputados por interceptación ilícita y falsedad [F3]; (4) 23 casos reunidos en el 'Libro de la verdad' del gobierno de De la Espriella, que el propio gobierno aclaró son presuntas irregularidades, no hechos judicialmente probados, incluyendo la compra de 537 predios por $979.003 millones, una planta desalinizadora por $786.000 millones y contratos de ciberseguridad por ~$300.000 millones, varios de los cuales fueron suspendidos preventivamente [F5]. Como contraste histórico, el caso 'Las Marionetas' muestra que la corrupción vinculada al clientelismo legislativo no es exclusiva del gobierno anterior: durante el gobierno de Iván Duque, la chequera de Prosperidad Social se habría usado para comprar gobernabilidad, con un senador detenido y cinco más mencionados [F1].",
+          "progressivePerspective": "En términos del marco de verdad, justicia, reparación y no repetición aplicable a Colombia, la afirmación apunta a un interés legítimo: la rendición de cuentas sobre el uso de los recursos públicos es un componente esencial de la no repetición institucional. Documentar escándalos como el de la UNGRD, con sanciones de la Procuraduría y procesos penales en curso, abona al esclarecimiento de la verdad [F3][F4]. El riesgo ético-político es doble: (a) presentar como hechos probados procesos que aún son investigaciones, lo cual, como el propio gobierno actual advirtió sobre su 'Libro de la verdad', no reemplaza a la justicia ni anticipa responsabilidades [F5]; y (b) usar la existencia de corrupción para deslegitimar el derecho a marchar y a reclamar, lo que distorsiona el debate democrático: la existencia de corrupción en un gobierno no invalida las demandas ciudadanas sobre otro, tal como la corrupción documentada en el gobierno de Duque —caso 'Las Marionetas'— tampoco deslegitimó las protestas de entonces [F1][F4].",
+          "whatTheyOmit": "Se omite que la corrupción y el clientelismo legislativo también se documentaron en gobiernos anteriores al inmediatamente previo: el caso 'Las Marionetas' muestra cómo la chequera del DPS del gobierno de Iván Duque se habría usado para sostener la gobernabilidad, con un senador detenido y otros cinco investigados [F1]. También se omite la distinción entre escándalo denunciado, investigación, sanción administrativa y condena: fuentes como Corrupción al Día y El País enfatizan explícitamente que muchos casos son presuntos y aún no están judicialmente probados [F4][F5]. Finalmente, el video no reconoce que los órganos de control (Contraloría, Procuraduría, Fiscalía, Consejo de Estado) actuaron en varios de estos casos, suspendiendo o investigando procesos [F3][F5].",
+          "keyFacts": [
+            "El escándalo de los 40 carrotanques de la UNGRD para La Guajira, por $46.800 millones, con sobrecostos de más de $20.000 millones hallados por la Contraloría, es el caso de corrupción más grande del gobierno anterior; exdirectivos fueron capturados y destituidos, y docenas de congresistas investigados [F3][F4]",
+            "Nicolás Petro, hijo del exmandatario, fue capturado por enriquecimiento ilícito y lavado de activos, con pruebas basadas en chats y denuncias de su exesposa [F3]",
+            "El gobierno actual entregó un 'Libro de la verdad' con 23 casos de presunta corrupción, pero el propio presidente aclaró que son presuntas irregularidades, no hechos judicialmente probados [F5]",
+            "Entre los casos del 'Libro de la verdad' están la compra de 537 predios por $979.003 millones y una planta desalinizadora por $786.000 millones; varios procesos fueron suspendidos preventivamente por la Procuraduría y el Consejo de Estado [F5]",
+            "La corrupción vinculada al clientelismo legislativo no es exclusiva del gobierno anterior: el caso 'Las Marionetas' documenta el uso de la chequera de Prosperidad Social del gobierno de Iván Duque para comprar gobernabilidad, con un senador detenido [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/caso-marionetas-muestra-como-se-aceito-la-gobernabilidad-de-duque/",
+              "note": "Contraste: documenta corrupción y clientelismo legislativo durante el gobierno de Iván Duque (caso 'Las Marionetas', chequera del DPS), lo que contextualiza que el fenómeno no es exclusivo del gobierno anterior.",
+              "host": "lasillavacia.com",
+              "title": "Caso “Marionetas” muestra cómo se aceitó la gobernabilidad de Duque",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2024/02/Pierre-Garcia-DPS.jpg?fit=1200%2C900&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.fiscalia.gov.co/elecciones-2026/",
+              "note": "Página institucional sobre delitos electorales; no aporta datos sobre los casos específicos mencionados.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalía General de la Nación",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/gustavo-petro-los-90-escandalos-gobierno-NL37699224",
+              "note": "Compilación periodística de 90 escándalos documentados durante el gobierno Petro, incluyendo el saqueo de la UNGRD, la captura de Nicolás Petro y el caso de la niñera Marelbys.",
+              "host": "elcolombiano.com",
+              "title": "Estos son los 90 escÃ¡ndalos de Gustavo Petro durante su Gobierno",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/1200d630/none/11101/UAJN/petro-presidencia_50876142_20260613224204.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://corrupcionaldia.com/corrupcion-gobierno-petro/",
+              "note": "Especial investigativo que distingue entre escándalo, investigación, sanción y condena; permite matizar que muchos casos no son fallos judiciales definitivos.",
+              "host": "corrupcionaldia.com",
+              "title": "Error establishing a database connection",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elpais.com.co/colombia/los-cinco-casos-mas-graves-de-presunta-corrupcion-denunciados-por-de-la-espriella-en-el-libro-de-la-verdad-1835.html",
+              "note": "Detalla el 'Libro de la verdad' del gobierno de De la Espriella (23 casos) y la advertencia del propio gobierno de que son presuntas irregularidades, no hechos probados.",
+              "host": "elpais.com.co",
+              "title": "Estos son los cinco casos más graves de presunta corrupción del gobierno Petro denunciados por De la Espriella",
+              "image": "https://www.elpais.com.co/resizer/v2/IUENO54ZYFHUJKGEXIRPRNGWXA.jpg?auth=84aa7a3124cec0d3db7e8447d2d513dd00301de9509139b0c14e2bd2c0525c83&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "seguridad",
+          "claim": "Se afirma que existió un incremento del reclutamiento infantil.",
+          "quote": "no marcharon por el incremento del reclutamiento infantil",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El incremento del reclutamiento de niños, niñas y adolescentes por grupos armados en Colombia está ampliamente documentado: según casos verificados por Naciones Unidas aumentó 300% en cinco años, con un niño reclutado en promedio cada 20 horas en 2024 [F4][F5]; Razón Pública documentó 130 casos verificados en 2022 frente a 88 dos años antes y 147 casos identificados en el primer semestre de 2023 [F1]; e Indepaz registra que el reclutamiento 'crece' en territorios bajo control armado durante el periodo 2022-2026 [F2]. El dato es por lo tanto respaldado, pero la atribución exclusiva al gobierno anterior resulta parcial: la serie de cinco años cubre también administraciones previas y las fuentes señalan causas estructurales (pobreza, falta de educación, debilidad estatal, economías ilícitas) y un subregistro reconocido por la Procuraduría [F1][F4][F5].",
+          "context": "Magnitud real: 130 casos de reclutamiento verificados por la ONU en 2022 (frente a 88 en 2020) y 220 niños desvinculados atendidos por el ICBF ese año; 147 casos identificados por la Defensoría del Pueblo en el primer semestre de 2023 y 54 desvinculados reportados por el Ministerio de Defensa en el primer trimestre de ese año [F1]. El informe del Secretario General de la ONU sobre niños y conflictos armados correspondiente a 2024 arroja un aumento del 300% en cinco años, es decir un niño reclutado cada 20 horas [F4][F5]. El estudio UNICEF-ICBF sobre niñez desvinculada 2013-2022 concluye que el delito es 'persistente, continuo y en aumento' [F1]. La Fiscalía adelanta 615 investigaciones contra cabecillas del ELN por reclutamiento ilícito [F3]. La Procuraduría advierte subregistro por temor de las comunidades a denunciar [F1]. Las fuentes ubican los focos territoriales en Cauca, Nariño, Putumayo, el corredor oriental y el eje Antioquia-Chocó [F1], y Indepaz documenta dinámicas específicas en Cauca y Nariño [F2].",
+          "progressivePerspective": "En el marco de los fines de la JEP —verdad, justicia, reparación y no repetición—, el reclutamiento forzado de niñez es una de las graves violaciones del Derecho Internacional Humanitario cuya esclarecimiento es precisamente parte de la verdad que el sistema transicional busca establecer: los autores son los grupos armados ilegales que cometieron el delito, en muchos casos vinculados a crímenes ya sometidos a la jurisdicción especial o a la justicia ordinaria, y las víctimas son los menores reclutados, no los actores políticos que convocan marchas [F1][F4][F5]. Reconocer el aumento del reclutamiento abona a la verdad y a la no repetición en la medida en que visibiliza un delito persistente y subregistrado [F1]; sin embargo, el uso que se hace del dato en el video es de naturaleza argumentativa: se emplea como comparación retórica para desacreditar la protesta social, sin referir a las víctimas, a los procesos de desvinculación, a la responsabilidad de los autores ni a las obligaciones estatales de protección que las fuentes describen [F1][F4]. Ese encuadre desplaza el foco del perpetrador y de las víctimas hacia la legitimidad de quien se manifiesta, lo que puede contribuir a desdibujar el nexo entre verdad, responsabilidad y reparación que el marco transicional busca preservar [F1][F4].",
+          "whatTheyOmit": "Se omite que la serie del 300% cubre cinco años, por lo que abarca administraciones anteriores a las cuatro años mencionadas, no solo el periodo señalado [F4][F5]. Se omiten las causas estructurales que las fuentes identifican: intensificación de la violencia, pobreza generalizada, falta de acceso a educación, ausencia de servicios sociales y control territorial de economías ilícitos [F4][F5], así como el uso creciente de las redes sociales para el reclutamiento [F4]. Se omite el subregistro documentado por la Procuraduría, que dificulta precisar la magnitud real [F1]. Se omite que el reclutamiento es un delito de larga data en Colombia, anterior al periodo citado [F1]. Finalmente, la afirmación de que nadie marchó por este asunto es una proposición no verificable con las fuentes entregadas: ninguna de ellas registra la existencia o inexistencia de movilizaciones sobre el tema [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Los casos de reclutamiento y uso de niños y niñas verificados por Naciones Unidas en Colombia aumentaron 300% en cinco años, con un niño reclutado en promedio cada 20 horas en 2024 [F4][F5]",
+            "En 2022 la ONU verificó 130 casos de reclutamiento perpetrados por disidencias de las FARC-EP, ELN, Autodefensas Gaitanistas y Caparrapos, frente a 88 reportados dos años antes; el ICBF atendió 220 niños desvinculados [F1]",
+            "En el primer semestre de 2023 la Defensoría del Pueblo identificó 147 casos de reclutamiento y el Ministerio de Defensa reportó 54 niños desvinculados en el primer trimestre [F1]",
+            "El estudio UNICEF-ICBF sobre niñez desvinculada entre 2013 y 2022 concluye que el reclutamiento es un delito 'persistente, continuo y en aumento' [F1]",
+            "Indepaz titula uno de sus informes 'Mientras el reclutamiento crece, la infancia se reduce' y documenta que el reclutamiento forzado de NNA en Cauca y Nariño 'no ha cesado, sino que se ha transformado' durante el periodo 2022-2026 [F2]",
+            "La Fiscalía avanza en 615 investigaciones contra cabecillas del ELN por reclutamiento ilícito y halló presuntos centros de adoctrinamiento de menores [F3]",
+            "La Procuraduría advierte subregistro de los delitos de reclutamiento por temor de las comunidades y familias a denunciar [F1]",
+            "La afirmación de que nadie marchó por este hecho no es verificable con las fuentes entregadas [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/aumenta-reclutamiento-ninos-ninas-la-guerra/",
+              "note": "Análisis de Razón Pública con cifras de la ONU, ICBF, Defensoría y Ministerio de Defensa (2022-2023), subregistro, causas estructurales y focos territoriales; aporta la magnitud y el carácter histórico del delito.",
+              "host": "razonpublica.com",
+              "title": "Aumenta el reclutamiento de niños y niñas para la guerra",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/11/ninos-Narino-reclutamiento-infantil-Rocio-Rubio.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://indepaz.org.co/category/informes/",
+              "note": "Listado de informes de Indepaz: balance 2022-2026, reclutamiento creciente en Cauca y Nariño y expansión del Clan del Golfo/EGC; aporta la lectura del periodo del gobierno anterior y del control armado territorial.",
+              "host": "indepaz.org.co",
+              "title": "Informes - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2026/04/indepaz-banner-redes.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.fiscalia.gov.co/crimen-organizado/nuevas-evidencias-sobre-el-reclutamiento-ilicito-de-ninos-y-adolescentes-por-parte-del-eln/",
+              "note": "Evidencia de la Fiscalía sobre reclutamiento ilícito del ELN (615 investigaciones); corresponde a diligencias de 2018, útil como antecedente del delito más que como dato del periodo señalado.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalía General de la Nación",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.unicef.org/es/comunicados-prensa/reclutamiento-de-ninos-y-ninas-por-grupos-armados-en-Colombia-se-cuadruplica-en-cinco-anos",
+              "note": "Comunicado de UNICEF (12 feb 2026) con el aumento del 300% en cinco años y un reclutamiento cada 20 horas en 2024; aporta la cifra central y las causas estructurales, y muestra que la serie excede los cuatro años citados.",
+              "host": "unicef.org",
+              "title": "El reclutamiento y el uso de niños y niñas por grupos armados en Colombia se cuadruplica en un periodo de cinco años",
+              "image": "https://www.unicef.org/sites/default/files/styles/open_graph_image/public/UNI898812.webp.jpeg?itok=N6i2HL-d"
+            },
+            {
+              "ref": "F5",
+              "url": "https://news.un.org/es/story/2026/02/1541134",
+              "note": "Noticia de Naciones Unidas que confirma el aumento del 300% en cinco años, las causas (violencia, pobreza, falta de educación) y el rol de las redes sociales; corrobora F4 desde la ONU.",
+              "host": "news.un.org",
+              "title": "Colombia: El reclutamiento de niños por grupos armados se cuadruplicó en cinco años",
+              "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/31-07-25-%20COLOMBIA-UNICEF%203.jpg/image770x420cropped.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "seguridad",
+          "claim": "Se afirma que los grupos armados controlan más territorio en la actualidad.",
+          "quote": "mucho menos porque ahora controlan más territorio los grupos armados",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La afirmación de que los grupos armados 'ahora controlan más territorio' coincide con los datos de expansión territorial e injerencia municipal documentados por observatorios independientes para 2025 y 2026: la mayoría de los grupos incrementó el número de municipios donde ejerce influencia y el crecimiento se mantiene en el nuevo periodo. El matiz es que la expansión es una tendencia plurianual que arranca antes de 2022 y se prolonga después, no un cambio de signo reciente [F1][F2][F5].",
+          "context": "La Fundación Conflict Responses (CORE) registró que la mayoría de los grupos armados continuaron expandiéndose en cantidad de territorio donde operan, con crecimiento de injerencia municipal entre 2024 y 2025: el EGC pasó de 278 a 290 municipios (+4,3%), el EMC de 126 a 133 (+5,5%), el EMBF de 106 a 113 (+4,7%), la Segunda Marquetalia de 23 a 26 (+8,6%) y el ELN de 232 a 237 (+2%); además, los grupos aumentaron 23,5% sus integrantes frente al año anterior y las disputas y la violencia se agravaron durante 2025 [F1]. El mismo informe ubica la expansión regional en Catatumbo, Guaviare, Cauca y la costa atlántica [F1]. La serie histórica del EMBF ('Calarcá') muestra injerencia en 30 municipios en 2018, 61 en 2022 y 113 en 2025, con crecimiento de tropas de cerca de 1.000 integrantes en 2018 a casi 3.000 en 2025, lo que evidencia que el fortalecimiento es anterior y continúa [F2]. En 2026, Indepaz reportó 33 masacres al 23 de marzo frente a 15 en el mismo periodo de 2025 y advirtió que grupos como el Clan del Golfo, Los Costeños, Los Pepes y los Nuevos Rastrojos buscan consolidar control territorial mediante regulación ilegal, ahora también en zonas urbanas como Barranquilla y su área metropolitana [F5].",
+          "progressivePerspective": "El hecho de la expansión armada está respaldado y su reconocimiento abona a la verdad y a la no repetición: nombrar el crecimiento del control territorial es indispensable para diseñar políticas de protección efectivas [F1][F5]. Lo que se discute es el uso de ese dato. Presentarlo exclusivamente como carga del gobierno anterior, en un monólogo destinado a desacreditar una marcha, instrumentaliza un fenómeno estructural: las mismas fuentes indican que el fortalecimiento es un proceso desde 2018, que expertos atribuyen a múltiples factores (ceses al fuego sin líneas rojas de la paz total, pero también cortocircuitos institucionales y vacíos estatales de décadas), y que Indepaz califica el aumento de masacres de 2026 como producto de factores estructulares no atribuibles a una administración específica [F2][F5]. Reconstruir la verdad del conflicto exige asumir la responsabilidad de cada periodo según su rol —también de los gobiernos que negocian con quienes cometen crímenes— y no convertir la víctima de la expansión armada (población civil desplazada, confinada, reclutada) en argumento retórico de una disputa partidista [F1][F3][F5].",
+          "whatTheyOmit": "Se omite que la expansión territorial es una tendencia que arranca antes del periodo que el video señala como 'sin marchas': las organizaciones civiles advierten crecimiento sostenido desde 2018 [F1], y el EMBF pasó de 30 a 61 municipios entre 2018 y 2022 [F2]. También se omiten los factores estructurales que Indepaz identifica como causas (disputas por economías ilegales, vacíos institucionales, conflictos territoriales no resueltos) y su advertencia de que el fenómeno no es atribuible a una sola administración [F5]. Se omite asimismo que, según expertos consultados, la responsabilidad se reparte entre la paz total y el 'cortocircuito' entre conducción política de paz y seguridad, así como decisiones previas [F2]. Finalmente se omiten los impactos humanitarios concretos: desplazamientos, confinamientos, homicidios, secuestros y reclutamiento creciente de NNA en territorios bajo control armado [F1][F3].",
+          "keyFacts": [
+            "La mayoría de los grupos armados aumentó su injerencia municipal entre 2024 y 2025: EGC de 278 a 290 municipios, EMC de 126 a 133, EMBF de 106 a 113, Segunda Marquetalia de 23 a 26 y ELN de 232 a 237 [F1]",
+            "Los grupos armados aumentaron 23,5% sus integrantes frente al año anterior y CORE confirmó expansión en la mayoría de ellos [F1]",
+            "Hubo expansión territorial en Catatumbo, Guaviare, Cauca y la costa atlántica, con nuevos desplazamientos, confinamientos, homicidios y secuestros [F1]",
+            "El EMBF ('Calarcá') pasó de injerencia en 30 municipios en 2018 a 61 en 2022 y 113 en 2025, con tropa que creció de ~1.000 a casi 3.000 integrantes [F2]",
+            "En 2026 se registran 33 masacres al 23 de marzo frente a 15 en el mismo periodo de 2025, con grupos que buscan consolidar control territorial incluso en zonas urbanas [F5]",
+            "Indepaz señala que el aumento de masacres responde a factores estructurales (economías ilegales, vacíos institucionales, conflictos territoriales) y no a una administración específica [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/seguridad-fragmentada-2025-expansion-armada-persistencia-la-violencia/",
+              "note": "Documenta con datos de CORE y cifras oficiales la expansión territorial y en integrantes de los grupos armados en 2025, el agravamiento de la violencia y el crecimiento sostenido desde 2018.",
+              "host": "razonpublica.com",
+              "title": "Seguridad fragmentada en 2025: expansión armada y persistencia de la violencia",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/03/Armada.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/asi-influyo-la-paz-total-en-fortalecimiento-de-grupos-armados-en-colombia/",
+              "note": "Analiza el fortalecimiento de los grupos en los últimos cuatro años con series históricas (EMBF 2018-2025) y discute la responsabilidad repartida de la paz total y factores previos; aporta el contraste sobre cuándo empezó la tendencia.",
+              "host": "lasillavacia.com",
+              "title": "Así influyó la paz total en fortalecimiento de grupos armados en Colombia",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/05/Grupos_armados_2.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://indepaz.org.co/category/informes/",
+              "note": "Reúne informes sobre expansión territorial del Clan del Golfo/EGC, reclutamiento de NNA en territorios bajo control armado y balance de protección de la población civil 2022-2026.",
+              "host": "indepaz.org.co",
+              "title": "Informes - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2026/04/indepaz-banner-redes.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.cerac.org.co/es/",
+              "note": "Fuente especializada en análisis de conflictos; el contenido recuperado no aporta datos directos sobre expansión territorial reciente, por lo que no sustenta la afirmación.",
+              "host": "cerac.org.co",
+              "title": "CERAC :: Centro de Recursos para el Análisis de Conflictos",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.agenciapi.co/noticia/regiones/masacres-en-colombia-se-duplican-en-2026-indepaz-reporta-33-casos-en-lo-corrido-del-ano",
+              "note": "Reporta el duplicamiento de masacres en 2026, la consolidación de 'gobernanza armada' en zonas urbanas y el carácter estructural (no atribuible a una sola administración) del fenómeno.",
+              "host": "agenciapi.co",
+              "title": "Masacres en Colombia se duplican en 2026: Indepaz reporta 33 casos en lo corrido del año",
+              "image": "https://www.agenciapi.co/sites/default/files/2026-03/director%20del%20Instituto%20de%20Estudios%20para%20el%20Desarrollo%20y%20la%20Paz%20%28Indepaz%29%2C%20Leonardo%20Gonz%C3%A1lez.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Se afirma que algunos llegaron al poder con títulos falsos.",
+          "quote": "no marcharon por los títulos falsos con los que llegaron algunos al poder",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Existen investigaciones formales de la Fiscalía y del Ministerio de Educación sobre títulos obtenidos irregularmente por funcionarios y contratistas del gobierno anterior, con al menos 24 casos vinculados a 16 entidades públicas; sin embargo, la formulación 'con los que llegaron al poder' es imprecisa: en el caso más emblemático (Juliana Guerrero) el nombramiento como viceministra se frustró y los hechos siguen en investigación, sin condena firme general [F3][F4][F5].",
+          "context": "El caso se originó en la anulación del diploma de Juliana Guerrero por la Fundación Universitaria San José, por incumplimiento de requisitos como la presentación previa de la prueba Saber Pro; la Fiscalía la imputó por falsedad ideológica en documento público y fraude procesal, y un directivo de la entidad aceptó responsabilidad [F3]. La representante Catherine Juvinao identificó 24 casos de presuntas irregularidades en títulos de la San José vinculados a 16 entidades del Gobierno nacional entre 2023 y 2025, con irregularidades como títulos expedidos antes de presentar los exámenes obligatorios o múltiples diplomas en lapsos muy cortos [F3]. El Ministerio de Educación mantiene una investigación administrativa desde noviembre de 2025: 18 de los 24 contratistas habrían presentado el Saber Pro después de graduarse y otros seis no registran presentación del examen, incluyendo casos de tres o cuatro títulos en una misma fecha [F4]. El Gobierno de la época rechazó que se tratara de un esquema sistemático y lo atribuyó a ataques políticos en contexto preelectoral [F3], y el entonces presidente lo calificó como campaña de desprestigio [F5]. Se precisa que la información conocida no implica por sí sola declaración de responsabilidad penal o administrativa contra cada persona mencionada [F4].",
+          "progressivePerspective": "La afirmación apunta a hechos con respaldo documental en fuentes de prensa de distinto perfil: investigaciones de la Fiscalía, del Ministerio de Educación y denuncias legislativas sobre títulos irregulares de funcionarios y contratistas [F3][F4][F5]. En términos de estándares de verificación, el dato es sustancialmente cierto en su núcleo (irregularidades en expedición de títulos en la San José), pero la redacción 'llegaron al poder con títulos falsos' adelanta una conclusión que las fuentes no establecen de forma generalizada: el nombramiento más visible se frustró, los expedientes siguen abiertos y opera el principio de presunción de inocencia [F3][F4]. El contraste metodológico relevante es que hechos verificables (imputaciones, anulación de diploma, investigación administrativa) se presentan en el video bajo una retórica de comparación selectiva ('no marcharon por...'), lo que, según la literatura sobre desorden informativo recogida en las fuentes, corresponde a la zona gris del uso político de la información: un dato real usado como arma de encuadre más que como llamado al esclarecimiento [F1][F2]. En materia de no repetición, el abono al escrutinio público sobre la idoneidad de funcionarios es legítimo, siempre que se distinga entre hechos probados y señalamientos en investigación [F4].",
+          "whatTheyOmit": "El video omite que se trata de investigaciones en curso, no de sentencias firmmes, y que el caso más resonante no llegó a materializarse en un nombramiento: la designación de Juliana Guerrero como viceministra de Juventud se frustró tras el escándalo [F3]. También omite que el propio Gobierno de la época rechazó que hubiera un esquema sistemático y atribuyó las denuncias a un contexto preelectoral, así como que la información conocida no implica responsabilidad declarada contra cada persona mencionada [F3][F4]. El video no precisa que la mayoría de los 24 casos corresponden a contratistas y funcionarios de distintos niveles, no necesariamente a quienes 'llegaron al poder' [F3][F4][F5].",
+          "keyFacts": [
+            "La Fundación Universitaria San José es investigada por títulos expedidos sin el requisito legal de presentar la prueba Saber Pro, y el diploma de Juliana Guerrero fue anulado por la universidad [F3][F4]",
+            "La Fiscalía imputó a Juliana Guerrero por falsedad ideológica en documento público y fraude procesal, y solicitó prisión domiciliaria; un directivo de la entidad aceptó su responsabilidad [F3]",
+            "Se identificaron 24 casos de presuntas irregularidades en títulos de funcionarios o contratistas vinculados a 16 entidades del Gobierno nacional entre 2023 y 2025 [F3][F4]",
+            "18 de los 24 contratistas señalados habrían presentado el Saber Pro después de graduarse y otros seis no registran presentación del examen en las bases del Icfes [F4]",
+            "Entre los mencionados figuran Nelfy Melo Morales, exsecretaria del despacho de la Presidencia, con tres títulos expedidos en un solo día, y Héctor Julio García Orduz, con cuatro títulos en un solo día [F5]",
+            "La investigación del Ministerio de Educación se inició formalmente en noviembre de 2025 y debe determinar si hubo incumplimientos en la expedición de los títulos [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/detector-humo-desorden-informativo-19-pseudoperiodismo-paraperiodismo-falsos-profetas-hoy/",
+              "note": "Marco sobre pseudoperiodismo, paraperiodismo y uso político de la información; aporta el criterio para distinguir dato verificable de encuadre interesado",
+              "host": "razonpublica.com",
+              "title": "Detector de humo: Contra el desorden informativo (19)",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/03/Alvaro-Duque-3.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-medios-gringos-apagan-el-microfono-al-poder-frente-a-las-noticias-falsas/",
+              "note": "Reflexión sobre verificación periodística, narrativas oficiales y desinformación; contraste sobre el rol de quien verifica frente al poder",
+              "host": "lasillavacia.com",
+              "title": "Los medios gringos “apagan el micrófono” al poder frente a las noticias falsas",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/07/German_ortiz_Leiva.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://elpais.com/america-colombia/2026-02-12/los-casos-de-titulos-falsos-en-el-gobierno-de-petro-juliana-guerrero-y-otros-investigados.html",
+              "note": "Documenta el caso emblemático, la imputación de la Fiscalía, la investigación de 24 casos y la respuesta del Gobierno",
+              "host": "elpais.com",
+              "title": "Los casos de títulos falsos en el Gobierno de Petro: Juliana Guerrero y otros investigados",
+              "image": "https://imagenes.elpais.com/resizer/v2/IHKGPW2BVNHVZMCXCYMFOVJILI.jpg?auth=76dac09bd62edd85f47bba45a070be58526f6cafe97e985ff7d8ae85ca9ae2db&width=1200"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/09/12/otros-24-contratistas-del-gobierno-petro-bajo-la-lupa-de-la-fiscalia-por-obtener-diplomas-falsos-en-la-fundacion-san-jose/",
+              "note": "Detalle de la investigación administrativa del Ministerio de Educación, con cifras y advertencia sobre la ausencia de responsabilidad declarada",
+              "host": "infobae.com",
+              "title": "Otros 24 contratistas del gobierno Petro bajo la lupa de la Fiscalía por obtener diplomas falsos en la Fundación San José",
+              "image": "https://www.infobae.com/resizer/v2/GQEIYWLK3RDITJXSP5EB6SBIBU.png?auth=df5e3025b51436170a0904e11595f976ccdd8475a17a10db62abb7e4266cd114&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://colombia.as.com/actualidad/de-juliana-guerrero-a-hector-julio-garcia-los-funcionarios-del-gobierno-de-petro-en-el-punto-de-mira-por-sus-titulos-academicos-f202601-n/",
+              "note": "Lista de funcionarios señalados, incluidos de alta jerarquía, y postura del gobierno de la época sobre las denuncias",
+              "host": "colombia.as.com",
+              "title": "De Juliana Guerrero a Héctor Julio García: los funcionarios del Gobierno de Petro en el punto de mira por sus títulos académicos",
+              "image": "https://img.asmedia.epimg.net/resizer/v2/4QBMM2IWCJCCJHZZACJOZWQY5Y.jpeg?auth=f37fa3e54fbe95f2520fa04e018a3eb3660be26abcd9aae35b712d0dc5ffc77b&width=1472&height=828&smart=true"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "politica",
+          "claim": "Se afirma que la primera dama realizó gastos excesivos.",
+          "quote": "ni por los gastos excesivos de la primera dama",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Existen investigaciones y denuncias documentadas sobre gastos asociados a la primera dama Verónica Alcocer: pagos por concepto de séquito e imagen que superan los mil millones de pesos, una indagación de la Procuraduría sobre sus viajes y una denuncia penal en la Fiscalía. Sin embargo, 'gastos excesivos' es una valoración y hasta la fecha no hay una decisión judicial que declare probada la irregularidad; se trata de denuncias e indagaciones en curso [F2][F4][F5].",
+          "context": "La Silla Vacía documentó que la Presidencia pagó más de mil millones de pesos en sueldos a funcionarios cercanos a la primera dama (fotógrafo, maquillador, vestuarista, asistente con sueldo de ministro y una colaboradora cercana), contratados desde distintas entidades y con más viajes con ella que con el presidente; la respuesta oficial de Casa de Nariño presentó vacíos y contradicciones, pues el Dapre y la Consejería de Reconciliación habían informado que no existía ninguna asignación de presupuesto o personal para la primera dama, y los contratos del fotógrafo y del maquillador no incluían funciones para fotografiar o asesorar a la primera dama [F2]. Sobre esa base se radicó una denuncia penal por presuntos pagos superiores a los mil millones de pesos en cuidado de imagen y asesorías personales, que la Fiscalía debe admitir o no [F5]; en paralelo, la Procuraduría abrió indagación previa sobre los viajes de Alcocer entre 2023 y 2026 [F4]. Conviene precisar el marco jurídico: la Corte Constitucional, en la sentencia C-089 de 1994, estableció que la primera dama 'no ostenta el carácter de servidor público' y solo puede ejercer atribuciones que la ley le confiera, lo que hace especialmente sensible el uso de recursos públicos en su favor [F1]. Además, históricamente otras primeras damas colombianas estuvieron en la mira pública por diversas razones, lo que permite contextualizar que el escrutinio sobre esta figura es recurrente y no exclusivo de un periodo [F1]. No se encontró en las fuentes entregadas una cifra oficial única y consolidada del gasto total ni una sentencia o fallo que cuantifique el monto irregular [F2][F5].",
+          "progressivePerspective": "Desde el estándar de rendición de cuentas, el punto relevante no es si la figura de la primera dama es o no legítima, sino si el uso de recursos públicos quedó debidamente documentado y justificado: las fuentes muestran que las respuestas oficiales presentaron vacíos y contradicciones frente a derechos de petición, es decir, que hubo un déficit de transparencia que alimenta la sospecha, no una condena judicial [F2]. Al mismo tiempo, la valoración de 'gasto excesivo' debe distinguirse de la responsabilidad penal: hay indagaciones y una denuncia, no un fallo, por lo que aplicar el principio de presunción de inocencia es parte de la garantía de no revictimización por juicios anticipados y, simétricamente, también de la garantía de que las denuncias sean investigadas sin impunidad [F4][F5]. El análisis del video se circunscribe a un hecho concreto y verificable parcialmente (gastos denunciados e investigados), no a las generalizaciones políticas con las que se enmarca el monólogo, que constituyen opinión y no dato [F1][F2].",
+          "whatTheyOmit": "El video omite que los gastos descritos son objeto de denuncias e indagaciones en curso y no de condenas, omite la contradicción documentada entre lo que informó oficialmente la Presidencia y las respuestas a derechos de petición (que es el núcleo real de la controversia), y omite el marco jurídico de la sentencia C-089 de 1994 según el cual la primera dama no es servidor público [F2][F4][F5][F1]. También omite que el escrutinio público a primeras damas es un fenómeno histórico que ha afectado a múltiples gobiernos anteriores, lo que incide en la lectura comparativa que hace el video [F1].",
+          "keyFacts": [
+            "La Presidencia pagó más de mil millones de pesos en sueldos a funcionarios cercanos a la primera dama, contratados desde distintas entidades y que viajan más con ella que con el presidente [F2]",
+            "Las respuestas oficiales presentaron vacíos y contradicciones: el Dapre y la Consejería para la Reconciliación afirmaron que no existía asignación de presupuesto o personal para la primera dama [F2]",
+            "Se radicó una denuncia penal en la Fiscalía por presuntos pagos superiores a los mil millones de pesos en cuidado de imagen y asesorías personales; la Fiscalía debe decidir si abre indagación formal [F5]",
+            "La Procuraduría abrió indagación previa sobre los viajes de Verónica Alcocer realizados entre 2023 y 2026 en su calidad de primera dama [F4]",
+            "La Corte Constitucional, en la sentencia C-089 de 1994, estableció que la primera dama no ostenta el carácter de servidor público y solo puede ejercer atribuciones que la ley le confiera [F1]",
+            "Otras primeras damas colombianas (Ana Milena Muñoz, Nohra Puyana, Lina Moreno, María Clemencia Rodríguez, María Juliana Ruiz, entre otras) estuvieron en su momento en la mira pública por diversas razones [F1]",
+            "No se encuentra en las fuentes una sentencia o fallo que declare probada la irregularidad de los gastos: se trata de denuncias e indagaciones en curso [F2][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-primera-dama-la-polemica-anacronismo/",
+              "note": "Aporta el marco jurídico y el contexto histórico: sentencia C-089 de 1994 (la primera dama no es servidor público), el escrutinio recurrente a primeras damas en distintos gobiernos y la polémica sobre Verónica Alcocer; sirve de contraste para evaluar la comparación que hace el video.",
+              "host": "razonpublica.com",
+              "title": "La primera dama: la polémica sobre un anacronismo",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/04/Veronica-Alcocer-primera-dama-Angelica-Bernal.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/vacios-en-la-respuesta-de-presidencia-a-los-gastos-del-sequito-de-alcocer/",
+              "note": "Fuente primaria de la denuncia: detalla los más de mil millones de pesos en sueldos del séquito, los vacíos y contradicciones en la respuesta de la Presidencia y los contratos que no incluían funciones para la primera dama; confirma el dato de gastos denunciados y revela el déficit de transparencia.",
+              "host": "lasillavacia.com",
+              "title": "Vacíos en la respuesta de Presidencia a los gastos del séquito de Alcocer",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/01/Veronica_Alcocer.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://bibliotecadigital.dnp.gov.co/",
+              "note": "Repositorio de la DNP; la página requiere JavaScript y no aporta información verificable para esta afirmación.",
+              "host": "bibliotecadigital.dnp.gov.co",
+              "title": "Biblioteca Digital",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.noticiasrcn.com/colombia/indagacion-por-los-viajes-de-veronica-alcocer-cuando-fue-primera-dama-1071064",
+              "note": "Aporta la indagación de la Procuraduría sobre los viajes de Alcocer entre 2023 y 2026; útil para mostrar que el tema está en investigación, no resuelto, y para el contexto de las denuncias de Eva Ferrer.",
+              "host": "noticiasrcn.com",
+              "title": "Procuraduría abre indagación por los viajes de Verónica Alcocer cuando fue primera dama | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/cms/2026/08/06155449/veronica-alcocer.webp?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/veronica-alcocer-denuncia-gastos-imagen-asesorias-millonarias-HF30422498",
+              "note": "Aporta la denuncia penal por presuntos pagos superiores a mil millones de pesos en imagen y asesorías, con la aclaración de que la Fiscalía aún debe decidir si abre indagación formal; permite distinguir entre denuncia y condena.",
+              "host": "elcolombiano.com",
+              "title": "Denuncian a VerÃ³nica Alcocer por pagos que superarÃan los mil millones de pesos en asesorÃas e imagen personal",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x800/1c0/1200d675/none/11101/KTBI/diseno-sin-titulo-2025-10-29t14270_49123548_20251029142715.jpg"
             }
           ]
         }
