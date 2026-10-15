@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ClaimCard from "@/components/ClaimCard";
+import VideoConclusion from "@/components/VideoConclusion";
 import VideoHeader from "@/components/VideoHeader";
 import data from "@/data/videos.json";
 import type { SiteData } from "@/lib/types";
@@ -50,6 +51,8 @@ export default async function VideoPage({
         {video.claims.map((claim) => (
           <ClaimCard key={claim.id} claim={claim} />
         ))}
+
+        {video.conclusion ? <VideoConclusion text={video.conclusion} /> : null}
       </div>
 
       <footer className="mt-10 border-t border-zinc-200 pt-4 text-[11px] leading-relaxed text-zinc-400">

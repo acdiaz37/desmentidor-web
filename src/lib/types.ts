@@ -34,6 +34,7 @@ export interface Video {
   url: string;
   duration: number | null;
   thumbnail: string;
+  conclusion?: string;
   claims: Claim[];
 }
 
