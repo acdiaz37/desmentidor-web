@@ -52,7 +52,13 @@ export default async function VideoPage({
           <ClaimCard key={claim.id} claim={claim} />
         ))}
 
-        {video.conclusion ? <VideoConclusion text={video.conclusion} /> : null}
+        {video.conclusion ? (
+          <VideoConclusion
+            text={video.conclusion}
+            label={video.conclusionLabel}
+            color={video.conclusionColor}
+          />
+        ) : null}
       </div>
 
       <footer className="mt-10 border-t border-zinc-200 pt-4 text-[11px] leading-relaxed text-zinc-400">

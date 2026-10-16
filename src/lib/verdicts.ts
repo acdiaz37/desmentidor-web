@@ -66,6 +66,12 @@ export function colorStyle(color: VerdictColor): ColorStyle {
  * mas critico (rojo > naranja > lima > verde).
  */
 export function videoVerdictColor(video: Video): VerdictColor {
+  if (
+    video.conclusionColor &&
+    ["green", "lime", "orange", "red"].includes(video.conclusionColor)
+  ) {
+    return video.conclusionColor;
+  }
   if ((video.verdict || "").toLowerCase() === "verdadero") return "green";
   const counts: Record<VerdictColor, number> = { green: 0, lime: 0, orange: 0, red: 0 };
   for (const c of video.claims) {

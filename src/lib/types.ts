@@ -35,6 +35,8 @@ export interface Video {
   duration: number | null;
   thumbnail: string;
   conclusion?: string;
+  conclusionLabel?: string;
+  conclusionColor?: VerdictColor;
   verdict?: string;
   claims: Claim[];
 }
