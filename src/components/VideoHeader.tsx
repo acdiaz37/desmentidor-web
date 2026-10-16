@@ -1,8 +1,10 @@
 import type { Video } from "@/lib/types";
+import VerdictBadge from "./VerdictBadge";
 
 export default function VideoHeader({ video }: { video: Video }) {
   const counts = { green: 0, lime: 0, orange: 0, red: 0 } as Record<string, number>;
   for (const c of video.claims) counts[c.color] += 1;
+  const verified = video.verdict === "verdadero";
 
   return (
     <div className="flex flex-col gap-4 rounded-2xl border border-zinc-200 bg-white p-4 sm:flex-row">
@@ -20,8 +22,11 @@ export default function VideoHeader({ video }: { video: Video }) {
       </div>
 
       <div className="flex min-w-0 flex-1 flex-col">
-        <div className="mb-1 text-[10px] font-semibold uppercase tracking-widest text-zinc-400">
-          Cuenta desmentida
+        <div className="mb-1 flex items-center gap-2">
+          <span className="text-[10px] font-semibold uppercase tracking-widest text-zinc-400">
+            {verified ? "Cuenta verificada" : "Cuenta desmentida"}
+          </span>
+          <VerdictBadge verdict={video.verdict} />
         </div>
         <h2 className="text-base font-bold leading-snug text-zinc-900">{video.title}</h2>
         <p className="mt-0.5 text-xs text-zinc-500">

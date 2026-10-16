@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:15:31",
+  "generatedAt": "2026-10-15T19:36:27",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -4959,6 +4959,909 @@
               "host": "elcolombiano.com",
               "title": "Denuncian a VerÃ³nica Alcocer por pagos que superarÃan los mil millones de pesos en asesorÃas e imagen personal",
               "image": "https://estaticos.elcolombiano.com/binrepository/1200x800/1c0/1200d675/none/11101/KTBI/diseno-sin-titulo-2025-10-29t14270_49123548_20251029142715.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tiktok-video-7686472498287856903",
+      "title": "TikTok video #7686472498287856903",
+      "uploader": "brahayansbarrerac",
+      "url": "https://www.tiktok.com/@brahayansbarrerac/video/7686472498287856903",
+      "duration": 211,
+      "thumbnail": "/media/tiktok-video-7686472498287856903/thumb.jpg",
+      "conclusion": "## Verificación del video: un análisis con respaldo documental\n\nEl video presenta una serie de afirmaciones sobre la gestión fiscal, de salud, infraestructura y política pública del gobierno colombiano, mezclando datos presupuestales con evaluaciones de carácter interpretativo. Tras contrastar el conjunto de verificaciones con sus fuentes respectivas, el resultado confirma que la mayoría de los datos centrales del video están respaldados documentalmente, aunque algunos contienen imprecisiones o generalizaciones que conviene señalar con honestidad.\n\nEntre lo plenamente verificado destaca la cifra del presupuesto general de 634 billones de pesos, coincidente con el proyecto radicado por el Ministerio de Hacienda en agosto de 2026. También queda confirmada la advertencia del Comité Autónomo de la Regla Fiscal sobre el crecimiento del 54,7% en el servicio de la deuda, así como la proporción de inversión respecto al gasto total. En materia de salud, la ministra Ana María Vesga efectivamente anunció que antes de finalizar 2026 se definirá qué EPS se recuperan y cuáles avanzan a liquidación, y la cifra de 10 billones destinados a la emergencia del sistema de salud se ajusta a lo anunciado oficialmente. En territorio, las cuatro sedes de la Universidad de Caldas en Caldas y el hospital de alta complejidad del Eje Cafetero encuentran respaldo en las fuentes consultadas.\n\nLos datos sobre las inasistencias de ministros al Congreso durante el debate presupuestal quedan verificados, así como la suspensión de entregas de tierras anunciada por el ministro Dangond y el recorte acumulado en el presupuesto del deporte.\n\nNo obstante, existen matices relevantes. La afirmación de que se pagó \"hasta el último peso\" de las deudas heredadas resulta engañosa: solo se confirma el pago de la línea con el FMI, mientras que la deuda interna fue refinanciada mediante canjes que encarecen el pago futuro. La cifra agregada de \"casi 100 billones\" por tres conceptos combinados no tiene respaldo documental en las fuentes disponibles. El presupuesto alterno de 596 billones tampoco aparece registrado. Y en la proporción de inversión, la expresión \"el resto a pagar deuda\" simplifica la realidad: el mayor componente del presupuesto es el gasto de funcionamiento, no la deuda.\n\nEn conjunto, el video ofrece una representación mayoritariamente fiel a los hechos verificados en sus datos duros, con imprecisiones en algunas generalizaciones y atribuciones de intenciones que las fuentes no sustentan.",
+      "verdict": "verdadero",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "El gobierno de Gustavo Petro pagó casi 100 billones de pesos solo de los empréstitos tomados del Fondo Monetario Internacional, del subsidio de la gasolina y de la transferencia hecha durante la época del COVID.",
+          "quote": "el gobierno del señor Gustavo Petro pagó casi 100 billones de pesos solo de los empréstitos que se tomaron del Fondo Monetario Internacional y del subsidio de la gasolina y de la transferencia que en la época del COVID",
+          "figures": [
+            "100 billones de pesos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La parte central y verificable de la afirmación se confirma: el gobierno Petro canceló la totalidad de la deuda con el FMI generada durante el gobierno Duque, en un plazo corto, tal como lo anunciaron el propio presidente y el Ministerio de Hacienda [F5]. El dato de monto agregado —'casi 100 billones' por la suma de empréstitos del FMI, subsidio a la gasolina y transferencias COVID— no puede confirmarse con las fuentes entregadas, pues ninguna de ellas publica esa cifra combinada ni el desglose de los otros dos componentes [F5][F2][F3][F4]. Por tanto, el hecho sustantivo (pago total de la deuda con el FMI) queda respaldado, pero la magnitud exacta de los 'casi 100 billones' queda parcialmente verificable.",
+          "context": "El Ministerio de Hacienda y el presidente Petro anunciaron que Colombia amortizó su línea de crédito flexible con el FMI, devolviendo el dinero prestado y quedando liberada de las condiciones que el organismo impone a países endeudados; el ministro Germán Ávila señaló que las futuras conversaciones con el FMI serán 'en otros términos y otros lenguajes' y que no hay expectativa de crear nuevas deudas con ese organismo [F5]. En materia de manejo de deuda durante el periodo, las operaciones de canje de Títulos de Tesorería (TES) movieron 103 billones de pesos durante todo el periodo Petro, y las operaciones anunciadas desde abril de 2025 sumaron 187 billones en menos de un año [F2]. Las fuentes [F3] (Ministerio de Hacienda) y [F4] (Banco de la República) no fueron accesibles para esta verificación, por lo que la serie oficial de deuda pública no pudo consultarse directamente.",
+          "progressivePerspective": "En el marco de los principios de verdad y no repetición, la afirmación cumple una función de esclarecimiento: permite ubicar en la agenda pública el hecho verificable de que un gobierno honró compromisos de deuda externa y salió de las condiciones onerosas del FMI, lo que favorece la rendición de cuentas y la discusión informada sobre política económica [F5]. Al mismo tiempo, una lectura completa de la verdad fiscal exige incluir la contraparte documentada: el mismo periodo incluyó operaciones de canje cuyo costo estimado asciende a 84 billones de pesos (52 billones por deuda más cara a pagar después y 32 billones de primas transferidas a bancos), así como la ruptura de la regla fiscal por ampliación del déficit ante la no aprobación de la reforma tributaria [F2]. Combinar ambos hechos —pago de la deuda con el FMI y costo de los canjes— es lo que produce una imagen sin omisiones y útil para la no repetición de prácticas opacas de endeudamiento.",
+          "whatTheyOmit": "El video no aporta la fuente ni el desglose que permita sustentar la cifra agregada de 'casi 100 billones' por esos tres conceptos; ninguna de las fuentes entregadas publica ese monto conjunto ni el valor específico del subsidio a la gasolina ni de las transferencias COVID [F5][F2]. Tampoco se menciona en la afirmación el costo de las operaciones de canje de deuda del propio periodo, estimado en 84 billones de pesos, ni el diferimiento de pagos hacia el siguiente gobierno [F2].",
+          "keyFacts": [
+            "El gobierno Petro anunció que se pagó la totalidad de la deuda con el FMI generada en el gobierno Duque, en muy corto plazo [F5]",
+            "El pago total de esa deuda implica que Colombia amortizó su línea de crédito flexible con el organismo y deja de estar sujeta a sus condiciones [F5]",
+            "El ministro de Hacienda Germán Ávila indicó que las conversaciones futuras con delegados del FMI serán 'en otros términos y otros lenguajes' y que no hay expectativa de crear deudas con el organismo [F5]",
+            "Durante todo el periodo Petro se movieron 103 billones de pesos en operaciones de canje de Títulos de Tesorería, y desde abril de 2025 las operaciones sumaron 187 billones en menos de un año [F2]",
+            "Las fuentes entregadas no contienen la cifra de 'casi 100 billones' ni el desglose por subsidio a la gasolina y transferencias COVID; [F3] y [F4] no fueron accesibles"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/tierra-prometida-reforma-pendiente-balance-de-los-programas-de-tierras-del-gobierno-petro/",
+              "note": "Balance de programas de tierras del gobierno Petro (presupuesto de 4,4 billones para adquisición de tierras, metas de la Reforma Rural Integral). No contiene datos sobre deuda con el FMI, subsidio a la gasolina ni transferencias COVID; aporta contexto de gestión del periodo.",
+              "host": "razonpublica.com",
+              "title": "Tierra prometida, reforma pendiente: balance de los programas de tierras del gobierno Petro - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/1.1.-UNGR.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-costo-oculto-del-canje-de-deuda-de-petro-84-billones-para-los-bancos/",
+              "note": "Contraste: análisis de las operaciones de canje de TES, con 103 billones movidos en todo el periodo Petro y un costo estimado de 84 billones (52 + 32), además de la ruptura de la regla fiscal por ampliación del déficit. Aporta la otra cara del manejo de deuda que la afirmación no menciona.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.minhacienda.gov.co/w/el-gobierno-honra-sus-compromisos-de-deuda-y-no-rompe-la-regla-fiscal",
+              "note": "Fuente oficial del Ministerio de Hacienda sobre honra de compromisos de deuda; no fue accesible para esta verificación (bloqueo del sitio).",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.banrep.gov.co/es/estadisticas/deuda-publica",
+              "note": "Estadísticas oficiales de deuda pública del Banco de la República; no fue accesible para esta verificación (bloqueo del sitio).",
+              "host": "banrep.gov.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.rtvcnoticias.com/economia/se-ha-pagado-la-deuda-con-el-fmi-del-gobierno-duque-presidente-petro",
+              "note": "Confirma directamente el hecho central: pago total de la deuda con el FMI generada en el gobierno Duque, anunciado por Petro y por el ministro Germán Ávila; no publica la cifra de 100 billones ni los otros dos componentes de la afirmación.",
+              "host": "rtvcnoticias.com",
+              "title": "\"Se ha pagado la totalidad de la deuda con el FMI, generada en el gobierno Duque\": presidente Gustavo Petro",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2026-04/deuda-fmi-petro-minhacienda.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se pagó hasta el último peso de las deudas externas e internas dejadas por la política del gobierno anterior.",
+          "quote": "se pagó hasta el último peso de esas deudas externas e internas dejadas por esa desastrosa política",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El pago total de la deuda con el FMI (USD 5.300 millones, contratada en la pandemia) sí quedó confirmado oficialmente por Hacienda y por el propio presidente [F4][F5]. Sin embargo, la afirmación general de que se pagó 'hasta el último peso' de las deudas externas E internas heredadas no se sostiene con las fuentes: la deuda interna heredada de la pandemia no fue cancelada, sino refinanciada mediante canjes que aplazan el pago y lo encarecen, y el servicio de deuda por esa herencia sigue creciendo en 2024 y 2025 [F1][F2].",
+          "context": "La línea de crédito flexible con el FMI por USD 5.300 millones, contratada durante la pandemia, fue cancelada en su totalidad, lo que confirmó el ministro de Hacienda Germán Ávila: 'No tenemos deuda con el FMI' [F4][F5]. Ese es el dato que sí quedó verificado. En contraste, el pago de deuda del Presupuesto General de la Nación —que incluye la herencia de la crisis covid-19— ascendió a $92 billones en 2024 y se proyecta en $111,5 billones para 2025, o sea que esa deuda heredada seguía siendo pagada, no saldada 'al último peso' [F1]. Además, entre abril de 2025 y 2026 el gobierno realizó operaciones de canje de Títulos de Tesorería por $187 billones (de los cuales $103 billones se movieron durante todo el periodo Petro), mecanismo que según el análisis citado suma unos $52 billones de costo adicional para el siguiente gobierno y unos $32 billones de transferencia a bancos, totalizando $84 billones [F2]. El mismo análisis indica que el déficit se amplió y que se rompió la regla fiscal por falta de recaudo y por no reducir el gasto [F2], y que Duque calificó la situación como 'el déficit fiscal más alto del siglo' con un costo de la deuda 'el doble de lo que costaba en 2022', a lo que Hacienda respondió que los nuevos compromisos de deuda en mercados privados se toman con tasas que duplican el costo del crédito multilateral cancelado [F5].",
+          "progressivePerspective": "A la luz de los propósitos de verdad, justicia, reparación y no repetición, la afirmación ilustra cómo la discusión fiscal se convierte en terreno de disputa de relatos más que de esclarecimiento. Por un lado, el dato verificable —la cancelación total de la deuda con el FMI— es un hecho que el gobierno en ejercicio comunicó con respaldo de Hacienda [F4][F5]. Por otro, presentarlo como pago 'hasta el último peso' de toda la deuda externa e interna heredada omite que gran parte de esa herencia fue aplazada mediante canjes, con costos que recaerán sobre gobiernos futuros y sobre los contribuyentes [F2], y que el servicio de deuda heredada de la pandemia seguía creciendo [F1]. En términos de transparencia fiscal —que es condición de cualquier política de no repetición de crisis—, exagerar el alcance del pago dificulta el escrutinio ciudadano sobre quién asume realmente la carga de la deuda. El propio análisis consultado concluye que el manejo fiscal del periodo fue más ortodoxo de lo esperado, con baja ejecución de inversión pese a necesidades sociales [F1], lo que sugiere que la discusión sobre el 'hueco fiscal' exige distinguir entre deuda efectivamente saldada, deuda refinanciada y deuda proyectada, en lugar de resumirla en una fórmula única [F1][F2].",
+          "whatTheyOmit": "Se omite que la deuda con el FMI cancelada (USD 5.300 millones) era una línea de crédito flexible que, según el exviceministro de Hacienda Andrés Pardo, no imponía condicionalidades a la política económica del país y fue usada por más de 80 países durante la pandemia, no solo por Colombia [F5]. También se omite que Petro afirmó que Colombia fue 'el único país que tomó un crédito con el FMI en todo el planeta', afirmación que fue contrastada con datos del FMI [F5]. Y se omite que la deuda interna heredada no se pagó, sino que se aplazó mediante canjes que encarecen el pago futuro ($52 billones adicionales) y transfirieron $32 billones a bancos, por un total de $84 billones [F2], así como que el pago de deuda del PGN seguía creciendo de $92 billones (2024) a $111,5 billones (2025) [F1].",
+          "keyFacts": [
+            "La cancelación total de la línea de crédito flexible con el FMI por USD 5.300 millones fue confirmada oficialmente por el ministro de Hacienda Germán Ávila y respaldada por el presidente Petro [F4][F5]",
+            "La deuda con el FMI fue contratada durante el gobierno de Iván Duque como respaldo financiero para la pandemia de covid-19, con plazo de tres años para su devolución [F4]",
+            "El pago de deuda del Presupuesto General de la Nación ascendió a $92 billones en 2024 y se proyectó en $111,5 billones para 2025, como costo de la alta deuda contraída durante la pandemia [F1]",
+            "Entre abril de 2025 y 2026 se movieron $187 billones en canjes de Títulos de Tesorería, operaciones que según el análisis citado suman $52 billones de costo adicional para el siguiente gobierno y $32 billones transferidos a bancos [F2]",
+            "Los nuevos compromisos de deuda en mercados de capitales privados se adquieren con tasas de interés que duplican el costo del crédito multilateral con el FMI ya cancelado [F5]",
+            "El exviceministro de Hacienda Andrés Pardo señaló que más de 80 países recibieron financiamiento de emergencia del FMI durante la pandemia, y que la línea flexible colombiana no imponía condicionalidades [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/dos-anos-despues-balance-del-gobierno-la-luz-del-presupuesto-publico/",
+              "note": "Balance presupuestal: pago de deuda heredada de la pandemia de $92 billones (2024) y $111,5 billones proyectados (2025); recortes de sectores como Deporte (-65%); manejo fiscal 'más ortodoxo que gobiernos de derecha'; baja ejecución de inversión.",
+              "host": "razonpublica.com",
+              "title": "Dos años después: un balance del gobierno a la luz del presupuesto público",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/08/Ministerio-de-hacienda-diego-cortes.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-costo-oculto-del-canje-de-deuda-de-petro-84-billones-para-los-bancos/",
+              "note": "Contraste clave: la deuda interna heredada no se pagó sino que se aplazó mediante canjes por $187 billones, con $84 billones de costo adicional ($52 bn para el siguiente gobierno y $32 bn transferidos a bancos), y con quiebre de la regla fiscal.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.minhacienda.gov.co/documents/20119/2072803/DEUDA+PUBLICA+2023+2.pdf/bc5037d1-02b1-c64b-b571-ba1d03e7a529?t=1734981974674",
+              "note": "Documento de Deuda Pública del MinHacienda; la fuente no es accesible (bloqueo por bot), por lo que no aporta datos verificables en esta verificación.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/04/22/petro-confirmo-que-pago-la-totalidad-de-la-deuda-con-el-fmi-heredada-del-gobierno-duque-colombia-deja-de-estar-sujeta-a-condiciones-onerosas/",
+              "note": "Confirma el hecho central: cancelación total de la deuda con el FMI (USD 5.300 millones) heredada del gobierno Duque; declaraciones de Ávila y de Petro.",
+              "host": "infobae.com",
+              "title": "Petro aseguró que pagó la totalidad de la deuda con el FMI heredada del Gobierno Duque: “Colombia deja de estar sujeta a condiciones onerosas”",
+              "image": "https://www.infobae.com/resizer/v2/7ED5GUQL2NFDJIFHLRIDEMVMWM.jpg?auth=2c86447af0019dc4dc013c5f1bead4f12c05deeb1100e9f7dcc81dab1d933b16&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.portafolio.co/economia/gobierno/deuda-con-el-fmi-desata-cruces-entre-petro-y-duque-pagaron-un-credito-adquirido-en-las-mejores-condiciones-492596",
+              "note": "Contraste entre las versiones de Petro y Duque: confirma el pago al FMI, pero aporta que más de 80 países usaron el crédito pandémico, que la línea flexible no tenía condicionalidades y que la nueva deuda privada cuesta el doble que la cancelada.",
+              "host": "portafolio.co",
+              "title": "Deuda con el FMI desata cruces entre Petro y Duque: 'Pagaron un crédito adquirido en las mejores condiciones'",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2024/05/11/663fc0dda15f8.png"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Desde el año 1991 se habla de hueco fiscal y de inflexibilidad fiscal.",
+          "quote": "desde el año 1 991 que se está hablando de hueco fiscal y de los gastos precisamente inflexibilidad fiscal",
+          "figures": [
+            "1991"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "",
+          "summary": "",
+          "context": "",
+          "progressivePerspective": "",
+          "whatTheyOmit": "",
+          "keyFacts": [],
+          "sources": []
+        },
+        {
+          "id": 4,
+          "topic": "social",
+          "claim": "El departamento de Caldas recibió 4 sedes de universidades completamente nuevas durante el gobierno de Petro.",
+          "quote": "nos dejan 4 sedes de universidades completamente nuevas",
+          "figures": [
+            "4"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La Universidad de Caldas, con financiación del Ministerio de Educación Nacional, efectivamente pasó a tener cuatro instalaciones en el departamento (Manizales, La Dorada/Guarinocito, Aguadas y Anserma), lo que respalda el núcleo de la afirmación; sin embargo, calificar las cuatro como 'sedes completamente nuevas' es impreciso: Manizales es la sede central histórica, Aguadas opera en instalaciones de un colegio cedidas en comodato y Anserma estaba aún en construcción al momento de las fuentes consultadas [F3][F4][F5].",
+          "context": "El Plan Nacional de Desarrollo del gobierno Petro planteó la creación de universidades, sedes regionales, multicampus y 7 sedes del SENA en al menos 23 departamentos, con una meta de cobertura del 62% en 2026; el enfoque se cambió de crear entes autónomos nuevos a sedes y multicampus bajo universidades ya existentes [F2][F4]. En Caldas, el Consejo Superior de la Universidad de Caldas aprobó la Sede Norte en Aguadas, que opera en el Colegio Roberto Peláez en comodato y beneficia a jóvenes de La Merced, Salamina, Pácora, Aguadas y zonas limítrofes con Antioquia, completando cuatro instalaciones departamentales: Manizales, La Dorada, Aguadas y Anserma, esta última 'próxima a construir con el Gobierno Nacional' [F3]. La Sede Agroindustrial de Anserma es financiada por el Ministerio de Educación Nacional mediante convenio con la Gobernación de Caldas, la Universidad y el municipio, con ejecución de obra iniciada el 5 de junio tras dos meses de preconstrucción [F5]. En La Dorada, el Ministerio invirtió 19.520 millones de pesos en residencias universitarias y edificio administrativo de la sede Guarinocito [F4]. A nivel nacional, de 47 proyectos por entregar antes del 7 de agosto, la inversión total suma 625 mil millones de pesos, y la mayoría corresponde a ampliaciones de IES públicas existentes, no a universidades nuevas como tales [F4].",
+          "progressivePerspective": "En el marco de la valoración de la gestión anterior, la afirmación abona al reconocimiento de un avance concreto en territorialización de la educación superior: la descentralización de la Universidad de Caldas hacia Aguadas, Anserma y La Dorada responde precisamente al principio de pertinencia regional que el propio programa de gobierno planteó [F1][F2][F3]. Reconocer ese dato es legítimo y contribuye a un balance verificable. Ahora bien, la honestidad del balance exige matizar el adjetivo 'completamente nuevas': una sede que funciona en un colegio en comodato y otra aún en construcción no equivalen a infraestructura nueva entregada y operando plenamente [F3][F5]. El contexto general es que la educación superior registró continuidades importantes con el gobierno anterior en gratuidad y en el bajo aumento anual de la financiación, y que la concreción de las sedes resultó menor a los anuncios iniciales (se habló de 100 universidades y el resultado fueron ampliaciones, multicampus y aulas modulares) [F1][F4]. Un balance que solo destaca las entregas sin esas precisiones puede inducir a una sobrevaloración; uno que las ignore por completo desconoce un avance real y documentado. La transparencia en la magnitud exacta es lo que mejor sirve a la discusión informada.",
+          "whatTheyOmit": "Se omite que Manizales es la sede central histórica de la Universidad de Caldas, no una sede nueva del periodo [F3]; se omite que la sede de Aguadas opera en instalaciones del Colegio Roberto Peláez cedidas en comodato, no en infraestructura construida desde cero [F3]; se omite que la sede de Anserma estaba aún en construcción y que su ejecución de obra apenas inició el 5 de junio, es decir, no había sido entregada ni estaba operando [F5]; y se omite que a nivel nacional la concreción fue inferior a lo anunciado inicialmente, con la mayoría de obras correspondientes a ampliaciones de IES públicas existentes y no a universidades nuevas [F4].",
+          "keyFacts": [
+            "El Consejo Superior de la Universidad de Caldas aprobó la creación de la Sede Norte en Aguadas, operando en las instalaciones del Colegio Roberto Peláez cedidas inicialmente en comodato [F3]",
+            "Con la Sede Norte de Aguadas, la Universidad de Caldas completaría cuatro instalaciones en el departamento: Manizales, La Dorada, Aguadas y Anserma, esta última 'próxima a construir con el Gobierno Nacional' [F3]",
+            "La sede de Aguadas beneficia a jóvenes de La Merced, Salamina, Pácora, Aguadas y zonas limítrofes con Antioquia [F3]",
+            "El Ministerio de Educación Nacional financió en La Dorada 19.520 millones de pesos en residencias universitarias y edificio administrativo de la sede Guarinocito de la Universidad de Caldas [F4]",
+            "La nueva Sede Agroindustrial de la Universidad de Caldas en Anserma es financiada por el Ministerio de Educación Nacional mediante convenio interinstitucional con la Gobernación de Caldas, la Universidad y el municipio; la ejecución de obra inició el 5 de junio tras dos meses de preconstrucción y al momento del reporte avanzaba su construcción [F5]",
+            "El Plan Nacional de Desarrollo fijó la meta de pasar de 54% a 62% de cobertura en educación superior en 2026, con un listado de 7 universidades, 20 sedes nuevas, multicampus y 7 sedes del SENA en al menos 23 departamentos [F2]",
+            "A nivel nacional, el gobierno proyectó entregar 47 proyectos de infraestructura universitaria con una inversión de 625 mil millones de pesos, y la mayoría corresponde a ampliaciones de IES públicas existentes, con solo la Universidad del Catamoto identificada como nueva institución en el listado [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/expectativas-realidades-la-educacion-superior-gobierno-petro/",
+              "note": "Balance de la educación superior bajo Petro: continuidades con el gobierno Duque en gratuidad y financiación, y promesa de creación de nuevas universidades, sedes y programas con pertinencia regional.",
+              "host": "razonpublica.com",
+              "title": "Expectativas y realidades: la educación superior bajo el gobierno Petro",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/03/9.1.-jovenes-Petro-educacion-superior-Ronald-Vargas.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/lo-que-falta-para-aterrizar-la-promesa-de-educacion-superior-de-petro/",
+              "note": "Meta de cobertura del 62% en 2026 y listado de universidades, sedes, multicampus y sedes del SENA proyectadas; describe el proceso técnico y normativo necesario para crear sedes.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://delarealidad.com/universidad-de-caldas-inaugura-nueva-sede/",
+              "note": "Apertura de la Sede Norte de la Universidad de Caldas en Aguadas en comodato del Colegio Roberto Peláez; confirma que la universidad completaría cuatro instalaciones en Caldas (Manizales, La Dorada, Aguadas y Anserma).",
+              "host": "delarealidad.com",
+              "title": "Universidad de Caldas inaugura nueva sede",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.universidad.edu.co/las-nuevas-sedes-universitarias-que-el-gobierno-petro-se-compromete-a-entregar-antes-del-7-de-agosto/",
+              "note": "Inventario nacional de sedes a entregar: la concreción fue menor a lo anunciado, con ampliaciones de IES existentes; incluye la inversión de 19.520 millones en la sede Guarinocito de La Dorada, Caldas.",
+              "host": "universidad.edu.co",
+              "title": "Las nuevas sedes universitarias que el Gobierno Petro se compromete a entregar antes del 7 de agosto",
+              "image": "https://www.universidad.edu.co/wp-content/uploads/2026/04/bloqueunalartes-e1776189401435.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://caldas.gov.co/noticias-gobernacion/15558-avanza-la-construccion-de-la-nueva-sede-agroindustrial-de-la-universidad-de-caldas-en-anserma-planeacion-departamental-acompana-la-ejecucion",
+              "note": "Estado de la obra de la Sede Agroindustrial de Anserma, financiada por el Ministerio de Educación: en construcción, no entregada al momento del reporte.",
+              "host": "caldas.gov.co",
+              "title": "Avanza la construcción de la nueva Sede Agroindustrial de la Universidad de Caldas en Anserma: Planeación Departamental acompaña la ejecución",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "salud",
+          "claim": "Se construyó en Caldas un hospital de tercera categoría, descrito como el mejor que va a tener el eje cafetero.",
+          "quote": "un hospital de eh tercera categoría el mejor que va a tener el eje cafetero",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Existe efectivamente un hospital de alta complejidad del Eje Cafetero en construcción, con financiamiento asegurado y vocación de ser el principal centro de referencia de la región, y Caldas figura entre los departamentos beneficiados [F3][F4][F5]. Sin embargo, la obra no está terminada (la fase 2 se proyecta para fin de 2025-enero de 2026) y las fuentes entregadas se contradicen sobre su ubicación exacta: una la sitúa en Manizales, Caldas [F3] y dos en Pereira, Risaralda [F4][F5]. Además, las fuentes lo describen como 'alta complejidad' o 'cuarto nivel', no como 'tercera categoría' [F3][F5].",
+          "context": "El Hospital Regional de Alta Complejidad del Eje Cafetero tiene una inversión total estimada entre 300 mil millones de pesos en las fases ya contratadas [F3] y un costo total proyectado de cerca de 780-800 mil millones de pesos, de los cuales más de 600 millones corresponden a la Nación y el resto a la Gobernación de Risaralda y la Universidad Tecnológica de Pereira [F5]. La fase 1 quedó finalizada y en operación desde 2022; la fase 2 se inició en agosto de 2023, con un avance físico del 40% y finalización prevista entre diciembre de 2025 y enero de 2026 [F3]. El Ministerio de Salud incorporó cerca de 50 mil millones de pesos en el presupuesto de 2027 para continuar las obras, y el proyecto está diseñado para atender a Caldas, Quindío, Risaralda y Chocó [F4]. El ministro de Salud declaró que el proyecto 'queda totalmente financiado' con compromisos de la Nación por 600 mil millones y vigencias futuras del departamento [F5]. Queda pendiente definir el modelo de administración del hospital una vez inaugurado [F4].",
+          "progressivePerspective": "Este segmento no corresponde al conflicto armado colombiano ni a la jurisdicción de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no resulta aplicable de manera directa. En términos de rendición de cuentas, la afirmación sí abona a un debate sobre inversión pública regional y continuidad de obras: las fuentes respaldan que la infraestructura existe, está en ejecución y beneficiará a más de 1,5 millones [F3] o incluso a más de 3 millones de personas [F5], y que la Nación aporta la mayor parte del financiamiento [F5]. El matiz que conviene preservar para una discusión veraz es que la obra está a medio camino —40% de avance en la fase 2 [F3]— y que su modelo de operación y gasto corriente siguen sin definirse [F4], de modo que presentarla como obra terminada 'deja de lado' tanto el estado real de la construcción como el reto de sostenibilidad futura [F3][F4].",
+          "whatTheyOmit": "Se omite que la obra no está concluida: la fase 2 solo se proyecta finalizar entre diciembre de 2025 y enero de 2026, con un avance físico del 40% al momento del reporte [F3]. Se omite también señalar en qué administración se inició cada fase —la fase 1 operando desde 2022 y la fase 2 iniciada en agosto de 2023 [F3]—, así como que la ubicación es objeto de discrepancia entre las fuentes entregadas: una la ubica en Manizales, Caldas [F3] y dos en Pereira, Risaralda [F4][F5]. Finalmente, la caracterización como 'tercera categoría' no coincide con la terminología de las fuentes, que hablan de 'alta complejidad' [F3][F4] y de 'centro de atención de cuarto nivel' [F5], y se omite que el modelo de administración y el financiamiento del gasto corriente del hospital siguen en debate [F4].",
+          "keyFacts": [
+            "El Hospital Regional de Alta Complejidad del Eje Cafetero es una de las obras más ambiciosas de la región, con inversión que supera los 300 mil millones de pesos en las fases contratadas [F3]",
+            "La fase 1 del hospital está finalizada y en operación desde 2022; la fase 2 se inició en agosto de 2023 con avance físico del 40% y finalización prevista entre diciembre de 2025 y enero de 2026 [F3]",
+            "El proyecto atenderá a habitantes de Caldas, Quindío, Risaralda y Chocó, y su capacidad está diseñada para descongestionar la red de salud de cuatro departamentos [F4]",
+            "El costo total de la obra se estima en cerca de 780 mil millones de pesos, con más de 600 millones aportados por la Nación [F5]",
+            "El ministro de Salud declaró que el proyecto del hospital queda totalmente financiado, incorporando vigencias futuras [F5]",
+            "Una de las fuentes ubica la obra en Manizales, Caldas [F3], mientras que dos la ubican en Pereira, Risaralda [F4][F5]",
+            "Las fuentes describen el hospital como de 'alta complejidad' y como 'centro de atención de cuarto nivel', y una cita al gobernador afirmando que 'marcará un hito' y se convertirá en 'un centro de referencia nacional' [F3][F5]",
+            "El mecanismo de administración del hospital y el financiamiento de su gasto corriente siguen sin definirse antes de la inauguración [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/politica-vivienda-unas-ciudades-les-va-mejor-otras/",
+              "note": "Análisis del programa de vivienda Mi Casa Ya y sus resultados regionales; no aporta información sobre el hospital del Eje Cafetero, por lo que no sirve para verificar esta afirmación específica.",
+              "host": "razonpublica.com",
+              "title": "Política de vivienda: a unas ciudades les va mejor que a otras",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/06/vivienda-vis-politica-habitacional-Baquero-Walter.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-datos/contratos-remodelacion-de-hospitales-en-colombia-2025/",
+              "note": "Base de datos sobre contratos de remodelación hospitalaria en Colombia en 2025, con enfoque en contratación pública; aporta contexto general de infraestructura hospitalaria pero no datos del hospital del Eje Cafetero.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.en-obra.com/noticias/avances-cruciales-en-el-hospital-de-alta-complejidad-del-eje-cafetero-2026",
+              "note": "Fuente central: describe el hospital, su inversión (>300 mil millones), fase 1 finalizada en 2022, fase 2 iniciada en 2023 con 40% de avance, y lo ubica en Manizales, Caldas; incluye la cita del gobernador sobre su valor como centro de referencia.",
+              "host": "en-obra.com",
+              "title": "Avances Cruciales en el Hospital de Alta Complejidad del Eje Cafetero 2026 | Noticias - En Obra",
+              "image": "https://www.en-obra.com/uploads/news-pictures/pphoto-4021.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://ciudadregion.com/regiones/risaralda/pereira/recursos-hospital-alta-complejidad-eje-cafetero-2027",
+              "note": "Confirma la partida de ~50 mil millones en el presupuesto 2027, los cuatro departamentos beneficiados (Caldas, Quindío, Risaralda, Chocó) y que el modelo de operación sigue por definir; ubica la obra en Pereira, Risaralda, en contraste con F3.",
+              "host": "ciudadregion.com",
+              "title": "Hospital de Alta Complejidad del Eje Cafetero asegura recursos para el año 2027",
+              "image": "https://ciudadregion.com/uploads/2026/10/obras-en-hospital-de-alta-complejidad-de-risaralda.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://caracol.com.co/2026/04/21/proyecto-del-hospital-de-alta-complejidad-del-eje-cafetero-queda-totalmente-financiado-minsalud/",
+              "note": "Declaración del ministro de Salud sobre financiamiento asegurado: costo total ~780 mil millones, más de 600 millones de la Nación; describe el hospital como 'centro de atención de cuarto nivel' y lo ubica en Pereira, con más de 3 millones de beneficiarios.",
+              "host": "caracol.com.co",
+              "title": "Proyecto del Hospital de Alta Complejidad del Eje Cafetero queda totalmente financiado: MinSalud",
+              "image": "https://caracol.com.co/resizer/v2/L5ASPTZCMZGTFFQAWF3LXAETTY.jpeg?auth=6653cd46863d5de85740aaea281feebc987bafa29cbd1f2df5897553eebccfd7&quality=70&width=1200&height=675&smart=true"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "Abelardo de la Espriella no le gusta la inversión y por eso hace un recorte sustancial en materia de deporte.",
+          "quote": "al señor Abelardo de la estrella no le gusta nada de esta inversión por eso hace un recorte sustancial en materia de deporte",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "El recorte sustancial al deporte es un hecho documentado: la asignación al Ministerio del Deporte cayó de $1,3 billones en 2024 a $464.000 millones en 2025 y a un proyectado $310-312 mil millones para 2026, una reducción superior al 75% en dos años [F3][F5]. Respecto a la atribución al presidente De la Espriella, su primer presupuesto (2027, $635 billones) fue calificado por la propia prensa como uno que \"eleva los gastos de funcionamiento, de deuda, y corta la inversión\", si bien las cifras de deporte citadas corresponden en su mayoría a los presupuestos 2025 y 2026, ejecutados durante el gobierno anterior [F2][F3][F5]. La afirmación de que al presidente \"no le gusta la inversión\" es una interpretación de intenciones, no un dato verificable.",
+          "context": "El recorte presupuestal al deporte es uno de los más severos del período reciente: en 2022 el presupuesto del Ministerio del Deporte fue de $813.000 millones; en 2023 subió a $877.000 millones; en 2024 se aprobaron $1,3 billones pero solo se ejecutaron $468.000 millones; en 2025 se asignaron $464.000 millones; y la proyección para 2026 es de $310.000 millones [F3]. El recorte acumulado asciende a $3 billones en tres años según cifras entregadas por la propia ministra de Deporte a un senador [F3]. El artículo 52 de la Constitución define el deporte como gasto público social y exige un aumento progresivo de los recursos, lo que contrasta con la tendencia observada [F3]. La reducción de 2025 se explica oficialmente por el ajuste tras el hundimiento de la Ley de Financiamiento, con una reducción general de $12 billones del gasto, en la que el sector deportivo fue uno de los más afectados junto con Trabajo, Defensa, Salud e Infraestructura [F5]. En el caso del presupuesto 2027 del gobierno de De la Espriella, el ministro de Hacienda radicó $635 billones (10% más que el proyecto de $575 billones devuelto por el Congreso), con un déficit fiscal proyectado de 9,4% del PIB, el más alto desde 1982, elevando el pago de deuda a $155 billones y la inversión como prioridad cuestionada [F2].",
+          "progressivePerspective": "Desde el marco de garantías de derechos (verdad, reparación y no repetición aplicables a política pública y memoria), la afirmación combina un hecho verificable —el recorte presupuestal al deporte, que afecta escuelas de talento, preparación olímpica, deporte social y escenarios deportivos [F3][F5]— con una atribución causal e intencional que las fuentes no respaldan directamente. Los datos muestran que la caída histórica del presupuesto deportivo 2025-2026 se ejecutó durante el período anterior al de De la Espriella y se vinculó a la crisis fiscal derivada del hundimiento de la Ley de Financiamiento [F5], mientras que el presupuesto 2027 del actual gobierno sí se describe como uno que eleva gastos de funcionamiento y deuda y recorta inversión [F2], lo que sí permite afirmar una orientación de política fiscal con menor inversión, pero sin desagregación específica del deporte en las fuentes disponibles. Lo que sí es verificable y relevante para la agenda de no repetición es la vulneración del mandato constitucional del artículo 52, que exige aumento progresivo del gasto deportivo [F3], y el impacto sobre derechos de niñez, juventud y deportistas, como los 1.300 niños de escuelas de talento sin atención garantizada [F3]. En este sentido, el debate presupuestario aporta a la verdad pública y al control político, pero la atribución de motivos subjetivos al presidente debilita la precisión del cuestionamiento y desvía la discusión hacia lo personal en lugar de lo documentable [F1][F2].",
+          "whatTheyOmit": "La afirmación omite que la mayoría de las cifras de recorte deportivo citadas en el debate público corresponden a los presupuestos 2025 y 2026, ejecutados durante el gobierno anterior: la ministra de Deporte que confirmó las cifras y el foro en Indeportes Antioquia datan de septiembre de 2025 [F3], y el recorte de 2025 se atribuyó oficialmente al ajuste tras el hundimiento de la Ley de Financiamiento [F5]. También omiten que la baja ejecución presupuestal del deporte era estructural: en 2024 solo se ejecutó el 18% de los recursos asignados ($468.000 millones de $1,3 billones aprobados) [F3][F5], dato que complica la lectura exclusiva de la asignación presupuestal como indicador de prioridad política. Finalmente, la afirmación no presenta desagregación del presupuesto de deporte para el presupuesto 2027 del gobierno actual; las fuentes disponibles solo confirman que su presupuesto general eleva funcionamiento y deuda y recorta inversión de manera agregada [F2].",
+          "keyFacts": [
+            "El presupuesto del Ministerio del Deporte cayó de $813.000 millones en 2022 a $464.000 millones en 2025, con proyección de $310.000 millones para 2026 [F3]",
+            "En 2024 se aprobaron $1,3 billones para el deporte pero solo se ejecutaron $468.000 millones, un 18% del total [F3]",
+            "El recorte acumulado en tres años asciende a $3 billones según cifras de la propia ministra de Deporte [F3]",
+            "La reducción del presupuesto deportivo de 2025 fue parte de un ajuste general de $12 billones tras el hundimiento de la Ley de Financiamiento, con el deporte entre los sectores más afectados [F5]",
+            "El presupuesto 2027 del gobierno de De la Espriella ($635 billones) eleva gastos de funcionamiento y deuda y recorta inversión según análisis presupuestal [F2]",
+            "1.300 niños en escuelas de talento no tienen garantizada atención y los incentivos por medallería presentan un déficit de $27.000 millones para 2026 [F3]",
+            "El artículo 52 de la Constitución exige un aumento progresivo del gasto deportivo como gasto público social [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/abelardo-de-la-espriella-populismo-religion-y-autoritarismo/",
+              "note": "Perfil analítico del gobierno de De la Espriella (populismo punitivo, fundamentalismo religioso, liberalismo autoritario). Aporta contexto sobre el estilo de gobierno, pero no contiene cifras presupuestales de deporte.",
+              "host": "razonpublica.com",
+              "title": "Abelardo de la Espriella: populismo, religión y autoritarismo - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/10/9.1-ADEL-defensores-de-la-Patria.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-primer-presupuesto-de-abelardo-llega-a-sincerar-cuentas-sin-recortes/",
+              "note": "Analiza el presupuesto 2027 de De la Espriella: $635 billones, eleva funcionamiento y deuda y 'corta la inversión'; déficit fiscal de 9,4% del PIB, el más alto desde 1982. Confirma la orientación general de menor inversión del presupuesto actual, sin desagregar deporte.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/deportes/2025/09/30/el-presupuesto-del-deporte-colombiano-cae-a-minimos-historicos-para-2026/",
+              "note": "Documenta el histórico de caída presupuestal del deporte 2022-2026 y su impacto en atletas, escuelas de talento y escenarios. Fuente principal que confirma la magnitud del recorte, aunque las cifras corresponden a presupuestos ejecutados en su mayoría durante el período anterior.",
+              "host": "infobae.com",
+              "title": "El presupuesto del deporte colombiano cae a mínimos históricos para 2026",
+              "image": "https://www.infobae.com/resizer/v2/KRQSM4RDPRCDHBT2MT5GOIUMDI.png?auth=c1dfb0ed3308a920b087cd24ad2fac1945ea8373a4dc1405af22c3fd6c16fe28&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.mindeporte.gov.co/control-y-rendicion-de-cuentas/informacion-contable-y-financiera/presupuesto/presupuesto-inicial",
+              "note": "Página oficial del Ministerio del Deporte sobre presupuesto inicial; el acceso fue denegado, por lo que no aportó datos verificables en esta verificación.",
+              "host": "mindeporte.gov.co",
+              "title": "Presupuesto Inicial",
+              "image": "https://www.mindeporte.gov.co/images/mindeporte/LogoEntidad.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/deportes/recorte-ministerio-deporte-golpea-alto-rendimiento-voces-cifras-alertas-DP28417488",
+              "note": "Confirma la caída del presupuesto deportivo ($1,3 billones en 2024 a $312 mil millones proyectados en 2026, más del 75%) y la atribución oficial del recorte de 2025 al ajuste tras el hundimiento de la Ley de Financiamiento durante el gobierno anterior, además de la baja ejecución histórica del 18% en 2024.",
+              "host": "elcolombiano.com",
+              "title": "Recorte al Ministerio del Deporte golpea al alto rendimiento: voces, cifras y alertas",
+              "image": "https://estaticos.elcolombiano.com/binrepository/640x427/0c0/0d0/none/11101/USCO/colp-222654-82d55_48454928_20250731180013.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Indalecio Dangond ha señalado que no le gusta la entrega de tierras y que suspende la entrega y la compra.",
+          "quote": "el señor Indalecio dangon ha señalado que no le gusta la entrega de tierras y que suspende la entrega y la compra",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La parte operativa de la afirmación se confirma: el ministro de Agricultura Indalecio Dangond anunció la suspensión de la entrega y titulación de tierras (90 días) y el freno a la compra de nuevos predios, sin presupuesto para ello en 2027 [F4][F3][F5]. No se confirma en cambio la atribución de motivo personal ('no le gusta la entrega de tierras'): las fuentes registran que Dangond justificó las medidas por presuntas irregularidades, sobreprecios y pagos pendientes, y por una auditoría forense, no por una negativa de principio a entregar tierras [F4][F5][F3].",
+          "context": "Dangond anunció la suspensión por 90 días de los procesos de entrega y titulación en la Agencia Nacional de Tierras (ANT) y en la Unidad de Restitución de Tierras (URT), tras decir haber 'encontrado cosas muy graves', e indicó que se haría una 'auditoría forense' al 100% de lo firmado y contratado en esas entidades, remitiendo hallazgos confirmados a Contraloría, Procuraduría y Fiscalía [F4]. En materia de compra de tierras, de una meta de 3 millones de hectáreas se adquirieron cerca de 350.000 por $3,9 billones, con $1,4 billones pendientes de pago que no serán girados hasta verificar que 'ahí no hay torcidos', y no habrá recursos para adquirir más predios en 2027, entre otras razones porque existiría un fondo con un millón de hectáreas disponibles [F3][F5]. Al mismo tiempo anunció la no renovación de 10.000 contratos de prestación de servicios por $540.000 millones y una caída del 32% del presupuesto del sector agropecuario para 2027 [F3][F5].",
+          "progressivePerspective": "La afirmación es utilizable como constatación de hechos administrativos (hubo suspensión de entrega y de compra), pero su redacción ('no le gusta la entrega de tierras') desplaza el eje de las causas alegadas por el propio funcionario —irregularidades contractuales, sobreprecios y auditoría forense— hacia una motivación ideológica personal que las fuentes no respaldan [F4][F5]. En términos de los fines de verdad, justicia, reparación y no repetición, la precisión importa: atribuir el freno a una disposición personal y no a la causa declarada (irregularidades y revisión de títulos) dificulta el esclarecimiento verificable de qué ocurrió realmente en los procesos de compra, entrega y titulación, y deja sin respuesta documental si las medidas afectan también a restituciones de predios ligados a víctimas, dado que la suspensión alcanza expresamente a la Unidad de Restitución de Tierras [F4]. Del mismo modo, el reporte que omite que las medidas se justifican en hallazgos de sobreprecios y pagos incumplidos priva al debate de los elementos que permitirían exigir rendición de cuentas y, en su caso, reparación [F3][F5].",
+          "whatTheyOmit": "Se omite que Dangond no presentó la suspensión como una preferencia contra entregar tierras, sino como una pausa de 90 días para auditoría forense ante presuntas 'cosas muy graves' y dobles faltas (predios no pagados y entregados 'desnudos', sin títulos válidos) [F4]. También se omiten los números que enmarcan la decisión: 350.000 hectáreas compradas sobre una meta de 3 millones, $3,9 billones ejecutados y $1,4 billones pendientes de giro, y la existencia de un fondo con un millón de hectáreas disponibles [F3][F5]. Igualmente queda fuera el detalle de que la revisión se extendería hasta diciembre con participación de Contraloría, Procuraduría y Fiscalía [F3] y de que el mismo anuncio incluyó la suspensión de 10.000 contratos de prestación de servicios [F3][F5].",
+          "keyFacts": [
+            "Indalecio Dangond anunció suspender por 90 días los procesos de entrega y titulación de tierras en la Agencia Nacional de Tierras y en la Unidad de Restitución de Tierras [F4]",
+            "Dangond justificó la suspensión por hallazgos que calificó de 'muy graves' y anunció una auditoría forense al 100% de lo firmado y contratado en la ANT y la URT [F4]",
+            "El ministro anunció que la cartera no tendrá recursos en 2027 para adquirir nuevas tierras, por lo que la suspensión de nuevas compras tendrá continuidad el próximo año [F3]",
+            "De una meta de 3 millones de hectáreas, se adquirieron cerca de 350.000 por $3,9 billones, con $1,4 billones pendientes de pago que no serán girados hasta verificar posibles sobreprecios [F3][F5]",
+            "Dangond anunció también la no renovación de 10.000 contratos de prestación de servicios, por $540.000 millones, y una caída del 32% del presupuesto del sector agropecuario para 2027 [F3][F5]",
+            "Las fuentes registran que las medidas se justifican en presuntas irregularidades contractuales, sobreprecios y una auditoría, no en una declaración de disgusto personal por la entrega de tierras [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/tag/indalecio-dangond/",
+              "note": "Archivo de notas sobre Indalecio Dangond como ministro de Agricultura del gobierno de Abelardo; incluye el anuncio de una reforma a la restitución de tierras y un 'Código Único Agrario'. No contiene la declaración sobre suspender la entrega de tierras.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://elecciones-2026.lasillavacia.com/honorio-miguel-henriquez-pinedo",
+              "note": "Perfil de un senador distinto; no aporta información sobre la afirmación verificada. Se conserva como referencia no pertinente al hecho.",
+              "host": "elecciones-2026.lasillavacia.com",
+              "title": "Honorio Miguel Henríquez Pinedo",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/09/09/ministerio-de-agricultura-frena-la-compra-de-tierras-y-prepara-recorte-de-10000-contratos-para-2027/",
+              "note": "Confirma el freno a la compra de tierras y la falta de presupuesto para 2027, con cifras de hectáreas adquiridas, saldo pendiente de $1,4 billones, auditoría y recorte de 10.000 contratos.",
+              "host": "infobae.com",
+              "title": "Ministerio de Agricultura frena la compra de tierras y prepara recorte de 10.000 contratos para 2027",
+              "image": "https://www.infobae.com/resizer/v2/6VZAANZMNVAODIXD55UDM6LT2Q.jpg?auth=01644eded79c4c94061335cadaec1fb5e0e5e7ae4a17b8efbecda0a2e8f17e7a&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lafm.com.co/politica/minagricultura-suspendera-entrega-y-titulacion-de-tierras-407342",
+              "note": "Fuente central para la entrega: confirma la suspensión de 90 días de la entrega y titulación de tierras en ANT y URT y las razones declaradas (auditoría forense por presuntas irregularidades).",
+              "host": "lafm.com.co",
+              "title": "MinAgricultura suspenderá entrega y titulación de tierras",
+              "image": "https://files.lafm.com.co/media/news-images/2026/08/10/123404/indalecio-dangon-restitucion-de-tierras-1200x675.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.lanacion.com.co/minagricultura-freno-contratos-de-prestacion-de-servicios-y-compra-de-tierras/",
+              "note": "Confirma la suspensión de la compra de tierras, la auditoría forense sobre sobreprecios, el congelamiento de $1,4 billones y la no renovación de 10.000 contratos, con la versión del ministro ante el Congreso.",
+              "host": "lanacion.com.co",
+              "title": "MinAgricultura frenó contratos de prestación de servicios y compra de tierras - lanacion",
+              "image": "https://www.lanacion.com.co/wp-content/uploads/2026/09/FOTO-PRINCIPAL-ACTUALIDAD-5.jpg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "salud",
+          "claim": "10 billones de lo recaudado en materia de salud se destinarán a poner las EPS en cero, similar a la política de Duque con la ley de punto final.",
+          "quote": "a este dato que le voy a dar 10 billones de ese recaudo se van a ir para poner las EPS en ceros como lo hizo la política irresponsable de Duque de la ley de punto final",
+          "figures": [
+            "10 billones"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La cifra de $10 billones y la existencia del plan de rescate del sistema de salud anunciado por el equipo del presidente electo están confirmados por las fuentes [F2]. Sin embargo, el destino específico que se le atribuye en el video —'poner las EPS en cero'— es una caracterización del hablante: la distribución oficial de los 10 billones es más amplia (nóminas y deudas con hospitales, medicamentos, pacientes catastróficos e Invima) y no se presenta como un mecanismo equivalente al 'Acuerdo de Punto Final' [F2][F5]. La analogía con la política de Duque es una interpretación del entrevistado, no un dato establecido [F5].",
+          "context": "El equipo de Abelardo de la Espriella anunció en el Congreso Nacional de Hospitales y Clínicas un plan de 90 días que moviliza hasta 10 billones de pesos, con distribución inicial de 4 billones para nóminas atrasadas y deudas críticas con hospitales y clínicas públicas y privadas, 3 billones para medicamentos y tratamientos interrumpidos, 2 billones para pacientes con enfermedades catastróficas y crónicas y 1 billón para fortalecer entidades como el Invima; el vocero enfatizó que 'no será un cheque en blanco' sino una inyección 'condicionada, priorizada, auditada y trazable' [F2]. La ministra de Salud designada, Ana María Vesga, definirá antes de finalizar 2026 el destino de las 7 EPS intervenidas (22,4 millones de afiliados, pasivos citados por la Contraloría en $52 billones y patrimonios negativos superiores a $24 billones), descartando una solución uniforme: algunas podrían recuperarse y otras avanzarían a liquidación por decisión de la Supersalud [F3]. Por su parte, el 'Acuerdo de Punto Final' del gobierno de Duque es un saneamiento definitivo previsto en el artículo 237 de la Ley 1955 de 2019 y el Decreto 521 de 2020, a cargo de la ADRES, para revisar, reconocer y girar cuentas por servicios no financiados con la UPC [F5], es decir, un mecanismo distinto en diseño y objeto del plan de rescate aquí anunciado [F2][F5].",
+          "progressivePerspective": "En términos de claridad informativa, el dato núcleo se sostiene: el monto de 10 billones y la creación de un plan de emergencia para el sistema de salud están documentados [F2]. Lo que excede la evidencia es la lectura causal y moral que se le superpone: presentar esos 10 billones como dinero destinado a 'poner las EPS en cero' y como réplica de la 'ley de punto final' de Duque introduce una equivalencia que las fuentes no respaldan, porque el Punto Final fue un mecanismo de saneamiento de cuentas por recobros administrado por la ADRES [F5], mientras que el plan de 90 días destina 4 de los 10 billones a nóminas y deudas con la red asistencial, 3 a medicamentos, 2 a pacientes catastróficos y 1 al Invima [F2]. El adjetivo 'irresponsable' aplicado a la política de Duque es opinión, no hecho verificable. Conviene notar que el propio diagnóstico de la ministra confirma la magnitud del problema heredado y actual a la vez: 7 EPS intervenidas con $52 billones en pasivos y $24 billones en patrimonios negativos, decisiones que se tomarán caso por caso antes de fin de 2026 [F3], y que la liquidación de EPS quebradas fue también la salida adoptada por el gobierno saliente tras el fracaso de la reforma en el Congreso y en la vía administrativa [F1]. Desde una perspectiva de responsabilidad pública, el reconocimiento de la crisis y la rendición de cuentas sobre el destino de cada peso —cronograma público, auditoría y trazabilidad anunciados por el vocero— contribuyen más a la comprensión ciudadana que la politización de la cifra [F2].",
+          "whatTheyOmit": "El video omite la distribución detallada de los 10 billones (4 billones para nóminas y deudas con hospitales y clínicas, 3 para medicamentos, 2 para pacientes catastróficos y crónicos, 1 para el Invima) y la advertencia del vocero de que es una inyección condicionada y auditada, no un cheque en blanco [F2]. También omite que el 'Acuerdo de Punto Final' era un mecanismo de revisión y giro de cuentas por servicios no financiados con la UPC a cargo de la ADRES [F5], por lo que la analogía con el plan de rescate no es equivalente [F2][F5]. Finalmente, no menciona la escala real del pasivo de las EPS intervenidas ($52 billones, patrimonios negativos de $24 billones) ni que la decisión sobre qué EPS se liquidan corresponde a la Superintendencia de Salud y se definirá caso por caso antes de fin de 2026 [F3].",
+          "keyFacts": [
+            "El equipo del presidente electo Abelardo de la Espriella anunció un plan de rescate que moviliza hasta 10 billones de pesos durante los primeros 90 días de gobierno para la emergencia humanitaria del sistema de salud [F2]",
+            "La distribución inicial prevé 4 billones para nóminas atrasadas y deudas con hospitales y clínicas, 3 billones para medicamentos y tratamientos interrumpidos, 2 billones para pacientes con enfermedades catastróficas y crónicas y 1 billón para entidades como el Invima [F2]",
+            "El vocero del equipo de salud, Iván Sánchez, calificó el desembolso como 'no un cheque en blanco' sino una inyección 'condicionada, priorizada, auditada y trazable' [F2]",
+            "Ana María Vesga fue designada ministra de Salud del nuevo gobierno [F2]",
+            "El futuro de las 7 EPS intervenidas (22,4 millones de afiliados, pasivos de $52 billones según la Contraloría) se definirá antes de finalizar 2026, caso por caso, con posibilidad de recuperación o liquidación por decisión de la Supersalud [F3]",
+            "El 'Acuerdo de Punto Final' es el saneamiento definitivo previsto en el artículo 237 de la Ley 1955 de 2019 y el Decreto 521 de 2020, a cargo de la ADRES, para revisar, reconocer y girar cuentas por servicios no financiados con la UPC del régimen contributivo [F5]",
+            "El gobierno saliente propuso liquidar las EPS quebradas como salida tras el fracaso de la reforma en el Congreso y en la vía administrativa (decretos 858 de 2025 y 182 de 2026) [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/hacia-la-liquidacion-las-eps-quebradas/",
+              "note": "Contexto del gobierno saliente: fracaso de la reforma en el Congreso y por decretos, intervención de 8 EPS y propuesta de liquidar las EPS quebradas; aporta el antecedente de la crisis heredada.",
+              "host": "razonpublica.com",
+              "title": "Hacía la liquidación de las EPS quebradas",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/03/Alcaldia_de_medellin.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/salud/gobierno-de-abelardo-de-la-espriella-anuncia-plan-de-rescate-por-10-billones-para-el-sistema-de-salud-en-que-consiste-3575178",
+              "note": "Confirma la cifra central de $10 billones y detalla su distribución (4/3/2/1 billones), designación de Ana María Vesga como ministra y la naturaleza condicionada y auditable del plan; contrasta con la afirmación de que todo va a 'poner las EPS en cero'.",
+              "host": "eltiempo.com",
+              "title": "Gobierno de Abelardo De la Espriella anuncia plan de rescate por $10 billones para el sistema de salud: ¿en qué consiste?",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/31/6a6c7d4fb2b1f.r_d.180-186-0.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.portafolio.co/economia/gobierno/alta-cirugia-para-las-eps-intervenidas-el-gobierno-decidira-cuales-pueden-salvarse-y-cuales-iran-a-liquidacion-502228",
+              "note": "Aporta magnitud real: 7 EPS intervenidas, 22,4 millones de afiliados, pasivos de $52 billones, patrimonios negativos de $24 billones, y calendario de decisiones antes de fin de 2026; matiza el 'ministro evalúa en diciembre'.",
+              "host": "portafolio.co",
+              "title": "‘Alta cirugía’ para las EPS intervenidas: el Gobierno decidirá cuáles pueden salvarse y cuáles irán a liquidación",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/09/10/6aa2e8e349e17.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/07/22/el-gobierno-petro-y-la-bancada-del-pacto-historico-radicaron-nueva-reforma-a-la-salud-en-el-congreso-en-que-consiste/",
+              "note": "Describe la reforma radicada por el gobierno saliente (Fondo Único Público, Adres, nuevas reglas para las EPS), contexto del cierre de la gestión en salud.",
+              "host": "infobae.com",
+              "title": "Estos son los principales puntos de la nueva reforma a la salud que presentó el Gobierno Petro en el Congreso: qué pasaría con las EPS",
+              "image": "https://www.infobae.com/resizer/v2/P4WZUWCHVNGLHHHCNNNWBDWPLY.jpg?auth=4d451c4c38edc8409ed055472a391fe3be28a85a093127105f1c69e64d6c86a1&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.adres.gov.co/acuerdo-de-punto-final",
+              "note": "Fuente oficial: define el Acuerdo de Punto Final de Duque (Ley 1955 de 2019, art. 237; Decreto 521 de 2020) como saneamiento de cuentas por recobros a cargo de la ADRES, permitiendo contrastar la analogía planteada en el video.",
+              "host": "adres.gov.co",
+              "title": "Acuerdo de Punto Final",
+              "image": "https://www.adres.gov.co/opengraph-image"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "salud",
+          "claim": "La ministra de Salud ha dicho que en diciembre evaluará y se sabrá cuáles EPS se liquidan y cuáles siguen adelante.",
+          "quote": "la ministra belga ha dicho que en diciembre evaluará y se sabrá cuáles EPS son liquidan y cuáles siguen adelante",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La ministra de Salud, Ana María Vesga (transcrita en el video como \"Belga\"), anunció efectivamente que antes de finalizar 2026 se definirá qué EPS intervenidas pueden recuperarse y cuáles avanzarán a liquidación, mediante evaluación individual de cada entidad [F2][F3][F4][F5]. El contenido sustancial de la afirmación se confirma; la imprecisión está en la atribución exacta de la decisión (el decreto de liquidación corresponde a la Superintendencia Nacional de Salud) y en la fecha puntual (los medios reportan \"antes de finalizar 2026\" y \"antes del 31 de diciembre de 2026\", no una evaluación específicamente \"en diciembre\") [F2][F5].",
+          "context": "Son siete EPS intervenidas con 22,4 millones de afiliados y pasivos citados por la ministra en $52 billones (dato de la Contraloría), con patrimonios negativos superiores a $24 billones [F2]. El anuncio se hizo en el evento \"Visión y Prioridades del Sistema de Salud Colombiano\", organizado por Así Vamos en Salud, la Universidad de los Andes y la Fundación Santa Fe, durante la presentación del balance de los primeros 30 días de gestión [F2][F5]. Las EPS mencionadas como intervenidas incluyen Nueva EPS, Coosalud, Famisanar, Emssanar, Asmet Salud, Savia Salud, SOS EPS, Capresoca, Cajacopi y Dusakawi [F3]. Antes de esta ruta, el gobierno de la administración anterior intentó la reforma en el Congreso y dos decretos administrativos (858 de 2025 y 182 de 2026) que fueron bloqueados por tribunales [F1]. La ministra descartó una solución uniforme: liquidar todas afectaría a millones de afiliados y nacionalizarlas implicaría asumir pasivos que el Estado no podría absorber [F2].",
+          "progressivePerspective": "La afirmación reporta un anuncio institucional verificable y atribuible a la titular de la cartera, no una valoración partidista: la existencia de un cronograma público con fecha límite y evaluación caso por caso introduce un elemento de rendición de cuentas sobre un problema estructural del sistema de seguridad social en salud [F2][F5]. Desde el marco de derechos, la fuente que detalla el proceso recuerda que la legislación colombiana ampara el derecho fundamental a la salud y prevé mecanismos de trasbordo de usuarios hacia EPS receptoras, de modo que la transición no deje desprotegidos a los afiliados, en particular a pacientes con enfermedades crónicas o de alto costo [F4]. En ese sentido, anunciar con anticipación qué entidades continúan y cuáles se liquidan puede contribuir a la previsibilidad y a la protección de las personas afectadas, siempre que la comunicación se acompañe de garantías efectivas de continuidad de la atención. Conviene señalar, según la misma fuente, que la decisión de liquidación corresponde a la Superintendencia Nacional de Salud y no a la ministra en lo individual [F2], así como que la evaluación debe ser individual y no una decisión general para las siete entidades [F2][F5].",
+          "whatTheyOmit": "El video omite que el decreto de liquidación de una EPS corresponde a la Superintendencia Nacional de Salud, no a la ministra [F2]. También omite la cifra de alcance del problema: siete EPS con 22,4 millones de afiliados, pasivos de $52 billones y patrimonios negativos superiores a $24 billones [F2], y omite que la ministra descartó una solución uniforme, descartando tanto liquidar todas como nacionalizarlas [F2]. No se menciona tampoco que la liquidación de las EPS quebradas fue propuesta por la administración anterior tras fracasar en el Congreso y en vía administrativa [F1], ni que la fecha reportada por los medios es \"antes de finalizar 2026\" / \"antes del 31 de diciembre de 2026\", formulación ligeramente distinta a \"en diciembre evaluará\" [F2][F5].",
+          "keyFacts": [
+            "La ministra de Salud se llama Ana María Vesga; la transcripción \"belga\" del video es un error de reconocimiento de voz/nombre [F2][F3][F5]",
+            "Vesga anunció que antes de finalizar 2026 se conocerá qué EPS intervenidas tienen posibilidades de recuperación y cuáles avanzarán hacia la liquidación [F2][F3][F5]",
+            "La evaluación será individual para cada EPS, sin una decisión general para todas [F2][F5]",
+            "Son siete EPS intervenidas con 22,4 millones de afiliados, pasivos citados en $52 billones y patrimonios negativos superiores a $24 billones [F2]",
+            "El anuncio se hizo en el evento \"Visión y Prioridades del Sistema de Salud Colombiano\", en el balance de los primeros 30 días de gestión ministerial [F2][F5]",
+            "El anuncio se hizo durante el gobierno de Abelardo de la Espriella, como parte de su administración [F3]",
+            "La decisión de liquidación corresponde a la Superintendencia Nacional de Salud [F2]",
+            "Antes de esta ruta, el gobierno anterior buscó la reforma en el Congreso y dos decretos administrativos (858 de 2025 y 182 de 2026) que encontraron barreras en los tribunales [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/hacia-la-liquidacion-las-eps-quebradas/",
+              "note": "Contexto previo: fracaso de la reforma en el Congreso y de los decretos 858 de 2025 y 182 de 2026; propuesta de liquidar EPS quebradas como salida alterna. Aporta el antecedente que lleva a la evaluación actual.",
+              "host": "razonpublica.com",
+              "title": "Hacía la liquidación de las EPS quebradas",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/03/Alcaldia_de_medellin.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/gobierno/alta-cirugia-para-las-eps-intervenidas-el-gobierno-decidira-cuales-pueden-salvarse-y-cuales-iran-a-liquidacion-502228",
+              "note": "Fuente central: identifica a la ministra Ana María Vesga, fija el plazo \"antes de finalizar 2026\", aporta cifras de afiliados y pasivos, y aclara que la liquidación corresponde a la Superintendencia Nacional de Salud. Es la que contrasta con la atribución exacta de la decisión.",
+              "host": "portafolio.co",
+              "title": "‘Alta cirugía’ para las EPS intervenidas: el Gobierno decidirá cuáles pueden salvarse y cuáles irán a liquidación",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/09/10/6aa2e8e349e17.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elnuevodia.com.co/colombia/se-van-las-eps-gobierno-tomo-decision-que-las-pone-en-jaque-539553",
+              "note": "Confirma el plazo antes de finalizar 2026 bajo la administración de Abelardo de la Espriella y enumera las EPS intervenidas.",
+              "host": "elnuevodia.com.co",
+              "title": "¿Se van las EPS? Gobierno tomó decisión que las pone en jaque",
+              "image": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/09/%C2%A1Le%20respondieron%21%20Encapuchados%20desaf%C3%ADan%20a%20De%20la%20Espriella%20%2810%29.jpg.webp?itok=uwDTOACz"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.noticias24colombia.com/noticia/el-gobierno-de-colombia-evaluara-el-futuro-y-la-viabilidad-de-las-eps-intervenid",
+              "note": "Detalla los criterios de la evaluación (sinceramiento de deudas, red de servicios, viabilidad) y las garantías de continuidad de la atención y trasbordo de usuarios.",
+              "host": "noticias24colombia.com",
+              "title": "El Gobierno de Colombia evaluará el futuro y la viabilidad de las EPS intervenidas antes de 2026",
+              "image": "https://noticias24colombia.com/uploads/el-gobierno-de-colombia-evaluara-el-futuro-y-la-vi-tl61fk590d-social.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://diariolalibertad.com/2026/09/14/eps-intervenidas-tienen-los-dias-contados-gobierno-decidira-antes-de-terminar-2026-cuales-siguen-y-cuales-se-liquidan/",
+              "note": "Cita textual \"Ese es el plazo que nos hemos puesto\" de Vesga y fija como fecha límite el 31 de diciembre de 2026; confirma la evaluación individual por EPS.",
+              "host": "diariolalibertad.com",
+              "title": "EPS intervenidas tienen los días contados: Gobierno decidirá antes de terminar 2026 cuáles siguen y cuáles se liquidan - Diario La Libertad.",
+              "image": "https://diariolalibertad.com/wp-content/uploads/2026/09/376516af-571e-4819-b042-086c51c48f90.webp"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "economia",
+          "claim": "El gobierno Nacional presenta un presupuesto de 634 billones de pesos.",
+          "quote": "ellos están haciendo un planteamiento de 634",
+          "figures": [
+            "634 billones"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero incompleto",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La cifra de $634 billones coincide con el proyecto de Presupuesto General de la Nación radicado por el Ministerio de Hacienda: las fuentes registran $634,9 billones en la radicación del 27 de agosto de 2026 y $634,95 billones en el análisis de la evolución del proyecto [F4][F1]. El dato es correcto, con el matiz de que se trata de una propuesta en trámite legislativo, no de un presupuesto ya aprobado [F4][F1].",
+          "context": "El proyecto pasó de $575,70 billones en julio a $634,95 billones en agosto, un aumento de $59,25 billones, del cual $37,39 billones (63,1%) corresponden a mayor servicio de la deuda y $23,3 billones a obligaciones calificadas como omitidas o insuficientemente financiadas (FEPC $9,6 billones; pensiones $6,5 billones; salarios $4,5 billones; salud $2 billones; universidades públicas $0,7 billones) [F1]. La propuesta anterior de $575,6 billones, presentada por la administración saliente, fue devuelta por las Comisiones Económicas por un descalce de $30,2 billones entre ingresos ($545,4 billones) y gastos [F4]. El CARF encontró $20,7 billones de gasto primario por encima del Marco Fiscal de Mediano Plazo y cuestionó la conciliación de ingresos condicionados y del balance [F1]. Para referencia comparativa, el PGN aprobado para 2026 fue de $546,9 billones [F5], y su presupuesto de inversión fue de $88,4 billones [F3].",
+          "progressivePerspective": "La afirmación se confirma como dato verificable: la cifra de $634,9 billones está documentada tanto en la noticia de la radicación como en el análisis técnico del proyecto [F4][F1]. El análisis de fondo, en términos de rendición de cuentas, es que el monto aprobado (lo que efectivamente se discute y vota) es el resultado de un proceso legislativo con hallazgos técnicos del CARF y una devolución previa del Congreso, no una cifra definitiva por el solo hecho de ser presentada [F1][F4]. En clave de transparencia fiscal —principio aplicable en cualquier evaluación de gestión pública, incluida la exigencia de verdad en las cifras y de responsabilidad sobre el destino de los recursos—, la cifra es verdadera pero incompleta sin su desglose: la mayor parte del incremento corresponde al servicio de deuda y a obligaciones acumuladas, mientras el gasto de funcionamiento aumenta $24,86 billones y la inversión disminuye $3 billones entre julio y agosto [F1]. Esa composición es el dato relevante para la discusión pública sobre prioridades presupuestales [F1].",
+          "whatTheyOmit": "El video no precisa que los $634 billones corresponden a una propuesta radicada el 27 de agosto de 2026 que aún atraviesa el trámite en el Congreso y cuyo monto definitivo lo define el legislativo [F4][F1]. Tampoco se menciona en la cita el monto exacto de $634,9 billones ni que la cifra anterior devuelta fue de $575,6/575,7 billones (la ficha del video cita un 'alterno de $596 billones', cifra que no aparece en las fuentes entregadas, por lo que esa comparación específica no es verificable con ellas) [F4][F1]. Se omite igualmente que el CARF encontró $20,7 billones de gasto por encima del Marco Fiscal y un descalce de $30,2 billones en la versión inicial [F1][F4], así como que la inversión disminuye $3 billones y el funcionamiento aumenta $24,86 billones en la versión revisada [F1].",
+          "keyFacts": [
+            "El Ministro de Hacienda Miguel Gómez radicó el 27 de agosto de 2026 el proyecto de PGN por $634,9 billones [F4]",
+            "El proyecto pasó de $575,70 billones en julio a $634,95 billones en agosto, un aumento de $59,25 billones [F1]",
+            "$37,39 billones del aumento (63,1%) corresponden a mayor servicio de la deuda [F1]",
+            "El Congreso devolvió la propuesta inicial de $575,6 billones por un descalce de $30,2 billones entre ingresos ($545,4 billones) y gastos [F4]",
+            "El CARF encontró $20,7 billones de gasto primario por encima del Marco Fiscal de Mediano Plazo en el proyecto de julio [F1]",
+            "Entre julio y agosto el gasto de funcionamiento aumenta $24,86 billones y la inversión disminuye $3 billones [F1]",
+            "El PGN aprobado para 2026 fue de $546,9 billones, con un presupuesto de inversión de $88,4 billones [F5][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/presupuesto-de-2027-reconocer-el-desequilibrio-exige-claridad-en-las-cifras-y-plantear-la-salida/",
+              "note": "Confirma la cifra de $634,95 billones y detalla la descomposición del aumento, los hallazgos del CARF, la devolución del Congreso y la variación entre funcionamiento e inversión; aporta el contraste técnico sobre la claridad de las cifras.",
+              "host": "razonpublica.com",
+              "title": "Presupuesto de 2027: reconocer el desequilibrio exige claridad en las cifras y plantear la salida",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/09/6.1.-Presupuesto-camara-de-representantes-1024x683.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minhacienda.gov.co/w/presupeusto-general-de-la-nación-2026",
+              "note": "Página del Minhacienda bloqueada (verificación anti-bot); no aporta información utilizable para esta verificación.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://dnp.gov.co/Prensa_/Noticias/Paginas/aprobado-presupuesto-general-de-la-nacion-2026.aspx",
+              "note": "Aporta la cifra del presupuesto de inversión 2026 ($88,4 billones) como referencia de magnitud y prioridades sectoriales.",
+              "host": "dnp.gov.co",
+              "title": "Aprobado el Presupuesto General de la Nación 2026: recursos para las regiones, la gente y el cambio social",
+              "image": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/Noticias/2025/Octubre/presupuesto-general-2026.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://abceconomia.co/2026/08/27/presupuesto-general-de-la-nacion-2027-colombia-minhacienda/",
+              "note": "Confirma directamente la radicación del nuevo PG por $634,9 billones, el monto anterior devuelto ($575,6 billones), el descalce de $30,2 billones y el cronograma legislativo.",
+              "host": "abceconomia.co",
+              "title": "Ministerio de Hacienda radica nuevo PG por $634,9 billones- ABC Economía",
+              "image": "https://abceconomia.co/wp-content/uploads/2026/08/mauricio-gomez-ministro-hacienda.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.senado.gov.co/index.php/el-senado/noticias/6891-senado-aprobo-presupuesto-general-de-la-nacion-del-2026-por-546-9-billones",
+              "note": "Aporta el monto aprobado del PGN 2026 ($546,9 billones) como precedente comparativo.",
+              "host": "senado.gov.co",
+              "title": "Senado aprobó Presupuesto General de la Nación del 2026 por $ 546,9 billones",
+              "image": "https://www.senado.gov.co/images/e7ef72fb-fce6-40d0-bd8d-71cca09af732.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "economia",
+          "claim": "Se radicará un presupuesto alterno de 596 billones de pesos, es decir, 38 billones de pesos menos.",
+          "quote": "nosotros hoy vamos a radicar un monto eh alterno por 596 billones de pesos 38 billones de pesos menos",
+          "figures": [
+            "596 billones",
+            "38 billones"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El punto de partida de la cifra sí está confirmado: el PGN 2027 radicado por el gobierno de Abelardo de la Espriella alcanzó $634,95 billones en agosto (frente a $575,70 billones en julio), y de ahí aritméticamente un recorte de $38 billones daría cerca de $596 billones [F1][F2]. Sin embargo, ninguna de las fuentes entregadas documenta la existencia de un 'presupuesto alterno de 596 billones' radicado; por el contrario, la única mención a una ponencia congresional indica que ésta 'ratificó el mismo monto' de $634,9 billones con cambios pequeños dentro de los rubros [F2]. El dato es, por tanto, verificable solo en su base ($634,9 billones) pero no en su cifra alterna ($596 billones / $38 billones menos), que queda sin respaldo documental en estas fuentes.",
+          "context": "El proyecto de PGN 2027 pasó de $575,70 billones en julio a $634,95 billones en agosto, un aumento de $59,25 billones, del cual $37,39 billones (63,1%) corresponde a mayor servicio de la deuda y $23,3 billones a obligaciones calificadas como omitidas o insuficientemente financiadas (FEPC, pensiones, salarios, salud y universidades) [F1]. El CARF encontró $20,7 billones de gasto primario por encima del Marco Fiscal de Mediano Plazo en el proyecto de julio, además de excesos en ingresos condicionados ($30,2 billones estimados frente a $21,9 billones de la reforma tributaria presentada), hallazgos que motivaron la devolución del proyecto por las comisiones económicas el 11 de agosto y su re-radicación el 27 [F1]. Como precedente, el PGN 2026 se aprobó por $546,9 billones tras un recorte de $10 billones sobre la propuesta inicial de $556,9 billones, con un gap de financiación que exigía una reforma tributaria de unos $16 billones [F4][F5]. En el debate presupuestal también se documenta que los recortes de inversión recaen en subsidios: los 10 subsidios pasan de $22 a $13 billones, una caída de 40% nominal, mientras otros rubros de inversión suben 6% [F2].",
+          "progressivePerspective": "En términos del marco de verdad, justicia, reparación y no repetición aplicable a la rendición de cuentas pública, el valor de esta afirmación está en que sitúa el debate fiscal en cifras verificables y en la decisión explícita sobre qué se paga primero (deuda) y qué se recorta (inversión y subsidios). Las fuentes confirman que el aumento presupuestal de 2027 se explica mayormente por servicio de la deuda ($37,39 billones de $59,25) y que la reducción de inversión se concentra en la inversión corriente y en subsidios a población pobre, no en compromisos ya amarrados con vigencias futuras [F1][F2]. Ese esclarecimiento abona a la verdad fiscal y a la no repetición de decisiones presupuestales opacas, porque permite identificar quién asume el costo del ajuste. Ahora bien, si la cifra de '596 billones' no está documentada, sostenerla como dato radicado introduce un margen de imprecisión que, lejos de fortalecer el esclarecimiento, puede debilitar la verificación pública del debate; la afirmación debe presentarse como pendiente de respaldo documental en las fuentes disponibles [F2].",
+          "whatTheyOmit": "El video no precisa de dónde proviene la cifra de $596 billones ni quién radicaría ese monto alterno (Gobierno, Congreso, un congresista en particular), y las fuentes disponibles no la registran; la única ponencia congresional documentada 'ratificó el mismo monto' de $634,9 billones con cambios menores dentro de los rubros [F2]. Tampoco se menciona en la afirmación que el proyecto de julio fue devuelto por las comisiones económicas por hallazgos técnicos del CARF ($20,7 billones de gasto primario por encima del MFMP y excesos de ingresos condicionados), contexto que explica la re-radicación del 27 de agosto [F1]. Finalmente se omite que la diferencia presupuestal se explica en gran parte por vigencias futuras heredadas: se aprobaron 107 billones en vigencias futuras en el último año del gobierno anterior, de los cuales $46 billones caen al gobierno de De la Espriella, lo que restringe el margen real de recorte a la inversión corriente [F2].",
+          "keyFacts": [
+            "El PGN 2027 radicado por el gobierno de Abelardo de la Espriella ascendió a $634,95 billones en agosto, frente a $575,70 billones en julio [F1]",
+            "El aumento de $59,25 billones se explica en un 63,1% ($37,39 billones) por mayor servicio de la deuda y $23,3 billones por obligaciones antes omitidas o insuficientemente financiadas [F1]",
+            "La cifra de $634,9 billones para 2027, $89 billones más que la de 2026, es confirmada por otra fuente independiente [F2]",
+            "El CARF advirtió en el proyecto de julio $20,7 billones de gasto primario por encima del Marco Fiscal de Mediano Plazo, lo que motivó la devolución del proyecto el 11 de agosto y su re-radicación el 27 [F1]",
+            "La ponencia presentada al Congreso ratificó el mismo monto de $634,9 billones con pequeños cambios dentro de los rubros [F2]",
+            "No existe en las fuentes entregadas registro de un presupuesto alterno de $596 billones ni de un recorte de $38 billones [F1][F2]",
+            "Los 10 subsidios del presupuesto pasan de $22 a $13 billones en 2027, una caída del 40% nominal (37% en pesos constantes), mientras otros rubros de inversión suben 6% [F2]",
+            "Como precedente, el PGN 2026 se aprobó por $546,9 billones tras recortar $10 billones a la propuesta original de $556,9 billones [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/presupuesto-de-2027-reconocer-el-desequilibrio-exige-claridad-en-las-cifras-y-plantear-la-salida/",
+              "note": "Confirma el monto radicado de $634,95 billones, la variación de $59,25 billones, el hallazgo del CARF de $20,7 billones por encima del MFMP, la devolución del Congreso y la re-radicación; no menciona ningún presupuesto alterno de $596 billones.",
+              "host": "razonpublica.com",
+              "title": "Presupuesto de 2027: reconocer el desequilibrio exige claridad en las cifras y plantear la salida",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/09/6.1.-Presupuesto-camara-de-representantes-1024x683.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/presupuesto-de-abelardo-pide-cortar-subsidios-a-los-pobres-en-40/",
+              "note": "Confirma $634,9 billones para 2027, documenta el recorte de subsidios del 40% y las vigencias futuras heredadas; indica que la ponencia al Congreso ratificó el mismo monto, lo que contrasta con la cifra alterna de $596 billones.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.minhacienda.gov.co/w/comisiones-económicas-conjuntas-dan-luz-verde-al-presupuesto-2026-por-546-9-billones-de-pesos",
+              "note": "Fuente bloqueada por restricción de acceso; no aporta información verificable sobre el presupuesto alterno de 2027.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.camara.gov.co/546-9-billones-de-pesos-fueron-aprobados-para-el-presupuesto-de-2026-en-la-camara-de-representantes/",
+              "note": "Aporta el precedente del PGN 2026 aprobado por $546,9 billones con recorte de $10 billones y la distribución funcionamiento/inversión/deuda.",
+              "host": "camara.gov.co",
+              "title": "546.9 billones de pesos fueron aprobados para el presupuesto de 2026 en la Cámara de Representantes - Cámara de representantes",
+              "image": "https://www.camara.gov.co/wp-content/uploads/2025/10/Presupuesto.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://quenotemetancuento.com/2025/10/18/congreso-aprueba-presupuesto-2026-por-5469-billones-tras-recorte-de-10-billones/",
+              "note": "Confirma el proceso de recorte del presupuesto 2026 (de $556,9 a $546,9 billones) y el gap de financiación, útil como referencia de magnitud para comparar recortes.",
+              "host": "quenotemetancuento.com",
+              "title": "Congreso aprueba presupuesto 2026 por $546,9 billones tras recorte de $10 billones",
+              "image": "https://quenotemetancuento.com/wp-content/uploads/2025/10/5d337e9e39603.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "politica",
+          "claim": "Los ministros ni siquiera van a las discusiones al Congreso.",
+          "quote": "los ministros ni siquiera van a las discusiones al congreso",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Fuentes independientes confirman que hubo inasistencia de ministros a las Comisiones Económicas del Congreso durante el debate del Presupuesto 2027, lo que incluso provocó el levantamiento de la sesión. La afirmación es correcta en su núcleo fáctico, aunque la expresión 'los ministros' generaliza: las fuentes hablan de 'algunos ministros' y de envío de delegados en lugar de titulares [F4][F5].",
+          "context": "El episodio se inscribe en el trámite del Presupuesto General de la Nación de 2027 por 634,9 billones de pesos, que debe tener el monto total aprobado antes del 15 de septiembre y el articulado en primer debate antes del 25 de septiembre. La inasistencia de algunos ministros a las Comisiones Económicas llevó al levantamiento de la sesión prevista. El presidente de la Comisión Tercera de la Cámara, Alfredo Ape Cuello, advirtió que 'entenderemos que aquellos que no asistan al Congreso no necesitan inversión del presupuesto nacional' y que el Congreso discutirá el presupuesto con quienes asistan, reubicando partidas si es necesario. El ponente Jorge Tovar respaldó esa advertencia. El presidente del Congreso, Honorio Henríquez, afirmó que según la Ley 5ª los ministros deben asistir personalmente y no pueden delegar su presencia, y aseguró que no permitirá ausencias en las sesiones plenarias [F4][F5]. La situación refleja una relación deteriorada Ejecutivo-Legislativo en la recta final del periodo, donde las reformas clave del gobierno anterior enfrentaron múltiples tropiezos y archivos [F1].",
+          "progressivePerspective": "En términos del marco de verdad, justicia, reparación y no repetición aplicable al análisis de rendición de cuentas, la afirmación apunta a un hecho verificable de funcionamiento institucional: el incumplimiento de una obligación legal de asistencia a los debates presupuestales, reconocida incluso por el presidente del Congreso como exigencia de la Ley 5ª. Verificar este dato abona a la verdad sobre el ejercicio del control presupuestal y la separación de poderes, pues permite constatar que el Legislativo ejerció su facultad constitucional de elaborar el presupuesto y exigió al Ejecutivo cumplir con su deber de rendir cuentas ante el Congreso. El hecho de que funcionarios no asistan a rendir cuentas presupuestales puede leerse como un déficit de rendición de cuentas que la ciudadanía está en derecho de conocer; sin embargo, conviene no confundir esa crítica con una invalidación general del proceso legislativo, ya que las fuentes muestran que el trámite continuó conforme a la Constitución [F4][F5][F1].",
+          "whatTheyOmit": "La afirmación omite tres matices presentes en las fuentes: (1) no fueron 'los ministros' en general sino 'algunos ministros' los que faltaron, y otros enviaron delegados, no se ausentaron del todo [F4][F5]; (2) se omite que el Congreso reaccionó de inmediato con sanciones y advertencias concretas (riesgo de partidas, reubicación de recursos), lo que muestra que el control legislativo funcionó y la inasistencia no quedó sin consecuencias [F4][F5]; (3) se omite que el presidente del Congreso recordó la obligación legal de asistir personalmente según la Ley 5ª y se comprometió a no permitir ausencias en plenarias, es decir, que hubo un mecanismo de no repetición institucional en marcha [F4][F5]. Tampoco se precisa que la discusión en cuestión corresponde al debate del presupuesto de 2027, no a todas las sesiones del Congreso [F4][F5].",
+          "keyFacts": [
+            "Algunos ministros no asistieron a las Comisiones Económicas del Congreso para la discusión del Presupuesto General de la Nación 2027, lo que provocó el levantamiento de la sesión prevista [F4][F5]",
+            "El presidente de la Comisión Tercera de la Cámara, Alfredo Ape Cuello, advirtió que 'entenderemos que aquellos que no asistan al Congreso no necesitan inversión del presupuesto nacional' [F4][F5]",
+            "El ponente del presupuesto, Jorge Tovar, afirmó que reubicarán las partidas presupuestales de los ministros que no asistan a la citación [F4][F5]",
+            "El presidente del Congreso, Honorio Henríquez, sostuvo que la Ley 5ª obliga a los ministros a asistir personalmente a los debates y que no aceptará delegaciones en las plenarias [F4][F5]",
+            "Hubo molestia en las comisiones porque algunos despachos enviaron delegados en lugar de sus titulares a la discusión del presupuesto [F4][F5]",
+            "El monto total del Presupuesto 2027 es de 634,9 billones de pesos, con plazo de aprobación del monto antes del 15 de septiembre y del articulado en primer debate antes del 25 de septiembre [F4][F5]",
+            "El presupuesto de 2026 fue aprobado mediante decreto por el gobierno anterior, tensando las relaciones entre Ejecutivo y Legislativo; el de 2026 sí fue aprobado en el Congreso [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/gobierno-congreso-2025-final-tension/",
+              "note": "Contexto de la relación Ejecutivo-Congreso en la última legislatura: deterioro, estrategias duales del Ejecutivo y múltiples reformas archivadas o estancadas. Aporta el marco de tensión política en el que se inscribe la inasistencia de ministros.",
+              "host": "razonpublica.com",
+              "title": "El gobierno y el Congreso en 2025: un final en tensión",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/12/INSTALACION_CONGRESO_20_de_julio.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://elecciones-2026.lasillavacia.com/",
+              "note": "Portal de candidatos al Congreso 2026; no aporta datos directos sobre la asistencia de ministros a debates.",
+              "host": "elecciones-2026.lasillavacia.com",
+              "title": "Estos son los candidatos al Senado y a la Cámara 2026",
+              "image": "https://elecciones-2026.lasillavacia.com/Portada_Tarjeton_general_100x600(1).jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.minhacienda.gov.co/w/presupeusto-general-de-la-nación-2026",
+              "note": "Fuente oficial del PGN 2026 bloqueada por protección anti-bot; no fue posible extraer datos de ella.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/09/04/ministro-que-no-asista-a-debates-del-presupuesto-podria-quedarse-sin-plata-advirtio-el-congreso-al-gobierno-de-abelardo-de-la-espriella-entendemos-que-no-necesitan-inversion/",
+              "note": "Confirma directamente la inasistencia de algunos ministros a las Comisiones Económicas, el levantamiento de la sesión y las advertencias de Cuello, Tovar y Henríquez. Matices: se habla de 'algunos ministros' y de delegados, no de todos.",
+              "host": "infobae.com",
+              "title": "Ministro que no asista a debates del presupuesto podría quedarse sin plata, advirtió el Congreso al gobierno de Abelardo de la Espriella: “Entendemos que no necesitan inversión”",
+              "image": "https://www.infobae.com/resizer/v2/TBVIPNR7BRGOLCDM3I3642ICHY.jpg?auth=bf6d2f40d107431517e68468f3a4b60981aa3626a5dc27e38059988e4c3ec81e&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.lafm.com.co/politica/congreso-advertencia-gobierno-ministro-que-no-asista-debate-pone-en-riesgo-presupuesto-409908",
+              "note": "Fuente original de la cobertura (citada por Infobae): confirma la molestia en las comisiones, el levantamiento de la sesión, la obligación legal de asistencia según la Ley 5ª y los plazos del presupuesto 2027.",
+              "host": "lafm.com.co",
+              "title": "Congreso lanza dura advertencia al Gobierno: ministro que no asista al debate, pone en riesgo su presupuesto",
+              "image": "https://files.lafm.com.co/assets/public/C%C3%A1mara-de-Representantes-Colprensa-Juan-P%C3%A1ez.jpg?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "economia",
+          "claim": "El Comité Autónomo de la Regla Fiscal emitió una comunicación advirtiendo al gobierno Nacional que la deuda tiene un crecimiento por encima de 54.7%.",
+          "quote": "lo dice el comité autónomo de la regla fiscal que acaba de emitir una comunicación advirtiéndole al gobierno Nacional que la deuda tiene un crecimiento por encima de 54.7%",
+          "figures": [
+            "54.7%"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El Comité Autónomo de la Regla Fiscal (CARF) efectivamente advirtió, en su informe al Congreso sobre el Presupuesto 2027, que el servicio de la deuda crece 54,7% frente a la apropiación vigente de 2026: el dato numérico y el emisor institucional son correctos. La imprecisión está en el objeto: el 54,7% corresponde al crecimiento del SERVICIO de la deuda (intereses y amortizaciones) presupuestado para 2027, no al crecimiento del stock total de deuda [F3][F4][F5].",
+          "context": "Para 2027 se presupuestaron $155,4 billones para atender la deuda, un incremento de 54,7% frente a la apropiación vigente de 2026; de ese monto, $94,4 billones corresponden a intereses y $58,3 billones a amortizaciones, mientras la inversión quedó en cerca de $87 billones con una reducción nominal de 2,8% frente a 2026 [F3]. El CARF calcula que la deuda neta del Gobierno Nacional Central llegaría a 67,3%-67,4% del PIB en 2027, cerca del límite de 71% de la regla fiscal, y que el déficit total bordearía el 9,5%-10% del PIB [F3][F4]. El incremento del presupuesto de $635 billones (29,9% del PIB) frente a la propuesta inicial de $575,7 billones se explica principalmente por el mayor servicio de la deuda y por el reconocimiento de gastos en salud, pensiones, subsidios, universidades, nómina y FEPC [F4][F5]. El organismo advirtió además que 90,7% del gasto del Gobierno Nacional Central será inflexible en 2027, frente a 86,6% en 2026, y que 2027 es el último año de aplicación de la cláusula de escape de la regla fiscal [F3][F4].",
+          "progressivePerspective": "El dato del CARF es verificable y constituye una alerta técnica legítima: el crecimiento de 54,7% del servicio de la deuda y el acercamiento de la deuda neta a 67,3% del PIB confirman un desequilibrio fiscal estructural que el propio CARF atribuye a la necesidad de 'medidas de ajuste estructurales, convincentes y permanentes' y no a aplazamientos transitorios [F4][F5]. En términos de análisis, la afirmación aporta información cierta sobre la sostenibilidad de las finanzas públicas, pero su uso en el debate depende de la atribución de responsabilidad: las fuentes muestran que el CARF reconoce que el mayor presupuesto 2027 se debe en parte al reconocimiento de gastos que no estaban plenamente identificados en la propuesta inicial y a un mayor uso del crédito, así como a presiones acumuladas en salud, pensiones, subsidios y FEPC [F3][F4][F5]. Ninguna fuente concluye que la responsabilidad del crecimiento de la deuda sea exclusiva de un solo gobierno; por el contrario, el CARF describe un problema estructural heredado y acumulado, con una senda de retorno a la regla fiscal modificada repetidamente, lo que hace que la discusión sobre quién 'causó' el hueco fiscal no pueda resolverse con esta cifra aislada [F4][F5].",
+          "whatTheyOmit": "Se omite que el 54,7% es el crecimiento del SERVICIO de la deuda (intereses y amortizaciones) en el presupuesto 2027, no el crecimiento del endeudamiento total ni del stock de deuda, que el CARF proyecta en 67,3%-67,4% del PIB [F3][F4][F5]. También se omite que el CARF atribuye el salto presupuestario tanto al reconocimiento de gastos previamente subestimados (salud, pensiones, subsidios, nómina) como al reemplazo de ingresos contingentes por mayor uso del crédito, y que el organismo advierte sobre un déficit total cercano al 10% del PIB y sobre la necesidad de un ajuste estructural permanente [F4][F5]. Finalmente, no se menciona que 2027 es el último año de la cláusula de escape de la regla fiscal y que el deterioro amplía el ajuste necesario para 2028 [F4].",
+          "keyFacts": [
+            "El CARF informó que para 2027 se presupuestaron $155,4 billones para el servicio de la deuda, un incremento de 54,7% frente a la apropiación vigente de 2026 [F3]",
+            "De ese monto, $94,4 billones corresponden a intereses y $58,3 billones a amortizaciones, mientras la inversión cae 2,8% nominal frente a 2026 [F3]",
+            "El CARF señala que la deuda neta del Gobierno Nacional Central llegaría a 67,3%-67,4% del PIB en 2027, cerca del límite de 71% de la regla fiscal [F3][F4]",
+            "El crecimiento del servicio de la deuda en 54,7% es la causa principal del aumento del PGN de $635 billones frente a la propuesta inicial de $575,7 billones [F4][F5]",
+            "El CARF advierte que 90,7% del gasto del Gobierno Nacional Central será inflexible en 2027, frente a 86,6% en 2026 [F3]",
+            "El organismo proyecta un déficit total cercano al 10% del PIB para 2027 y pide un ajuste fiscal estructural y permanente [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/tag/comite-autonomo-de-la-regla-fiscal/",
+              "note": "Archivo temático sobre el CARF; la página solo muestra un aviso de cookies, por lo que no aporta contenido verificable para esta afirmación.",
+              "host": "razonpublica.com",
+              "title": "Comité Autónomo de la Regla Fiscal archivos - Razón Pública",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minhacienda.gov.co/crédito-público",
+              "note": "Cifras históricas del crédito público del Minhacienda; la fuente bloqueó el acceso por detección de bot y no aporta datos utilizables.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.bluradio.com/economia/carf-destaca-medidas-fiscales-para-2027-pero-advierte-que-no-son-suficientes-ante-deficit-rg10",
+              "note": "Confirma el dato: $155,4 billones para deuda en 2027, +54,7% vs. 2026; detalla intereses/amortizaciones, inflexibilidad del gasto (90,7%) y proyección de deuda de 67,4% del PIB.",
+              "host": "bluradio.com",
+              "title": "CARF destaca medidas fiscales para 2027 pero advierte que no son suficientes ante déficit",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/516edd3/2147483647/strip/true/crop/1280x720+0+2/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbc%2Ffb%2F2dbf192b49ef85a8fa1a47ea1623%2Fdinero-colombia.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/gobierno/tras-sincerada-de-cuentas-el-carf-advierte-que-deficit-fiscal-bordeara-el-10-del-pib-y-deja-un-margen-reducido-502274",
+              "note": "Confirma que el servicio de la deuda crece 54,7% en 2027 y que ese aumento explica el alza del PGN; aporta el contexto de déficit cercano al 10% del PIB y deuda de 67,3%.",
+              "host": "portafolio.co",
+              "title": "Tras 'sincerada' de cuentas, el Carf advierte que déficit fiscal bordeará el 10% del PIB y deja un margen reducido",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/06/13/684c6d136c767.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.valoraanalitik.com/carf-deficit-y-deuda-podrian-dispararse-en-colombia-en-2027-con-cifras-heredadas-de-petro/",
+              "note": "Confirma el crecimiento de 54,7% en el servicio de la deuda y detalla que el mayor presupuesto responde al reconocimiento de gastos no identificados y al reemplazo de ingresos contingentes por crédito.",
+              "host": "valoraanalitik.com",
+              "title": "CARF: déficit y deuda podrían dispararse en Colombia en 2027 con cifras heredadas de Petro",
+              "image": "https://www.valoraanalitik.com/wp-content/uploads/2026/09/Juan-Carlos-Ramirez-presidente-del-Comite-Autonomo-de-la-Regla-Fiscal-CARF.jpg"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "topic": "economia",
+          "claim": "Por cada 100.000 pesos que tiene el gobierno Nacional, 16.500 se van a inversión y el resto a pagar deuda.",
+          "quote": "por cada 100 000 pesos eh que tiene el gobierno Nacional €16 500 se van a inversión y el resto a pagar deuda",
+          "figures": [
+            "100.000 pesos",
+            "16.500 pesos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La proporción aproximada de inversión pública se confirma: con el Proyecto de Presupuesto 2026 ($556,9 billones), la inversión asciende a $88,5 billones, es decir cerca del 15,9% del gasto total, equivalente a unos $15.900 de cada $100.000 —muy próximo a los $16.500 citados [F5]. El DNP confirma un presupuesto de inversión 2026 de $88,4 billones [F3]. Sin embargo, la segunda parte de la afirmación —\"el resto a pagar deuda\"— no se ajusta a las cifras: el servicio de la deuda proyectado es de $102,5 billones, es decir ~18,4% del presupuesto (unos $18.400 de cada $100.000); el grueso del presupuesto, $365,8 billones (~65,7%), corresponde a gasto de funcionamiento, no a deuda [F5].",
+          "context": "El Proyecto de Presupuesto General de la Nación 2026 asciende a $556,9 billones, con gasto primario de $454,5 billones, del cual $365,8 billones se destinan a funcionamiento y $88,5 billones a inversión; el servicio de la deuda es de $102,5 billones [F5]. El DNP reporta un presupuesto de inversión de 2026 de $88,4 billones, aprobado tras el diálogo con el Congreso [F3]. El mismo marco fiscal reconoce que la deuda pública se mantiene \"en niveles muy elevados\" desde la crisis sanitaria de 2020 y que el Marco Fiscal de Mediano Plazo contempla déficits más elevados y mayores niveles de deuda entre 2025 y 2027 por la cláusula de escape de la regla fiscal [F5]. Las fuentes disponibles no permiten confirmar el monto total de $634 billones citado en el video ni el presupuesto alterno de $596 billones; tampoco fue posible acceder al detalle oficial de Minhacienda ni a la serie histórica del Banco de la República [F2][F4].",
+          "progressivePerspective": "La afirmación abona al debate sobre la sostenibilidad fiscal y la priorización del gasto público, un tema central para el derecho a la inversión social y la reparación efectiva de las víctimas del conflicto. La crítica estructural sobre la baja proporción del presupuesto destinada a inversión es consistente con los datos: la inversión es apenas ~16% del gasto total, mientras el servicio de la deuda (~18,4%) lo supera [F5]. Esto respalda el planteamiento del entrevistado de que la inflexibilidad fiscal y la estructura de gasto limitan la capacidad de inversión del Estado, un problema que el propio gobierno reconoce al señalar la necesidad de \"reducir el gasto inflexible\" y adoptar un pacto fiscal [F5]. Sin embargo, presentar que \"el resto\" del presupuesto se va a pagar deuda distorsiona la composición real: el mayor volumen es gasto de funcionamiento (nómina y operación del Estado), dato necesario para no atribuir a la deuda una carga fiscal que excede la magnitud real [F5]. El análisis favorece una discusión informada sobre prioridades presupuestales, condición previa para la garantía de no repetición desde el punto de vista fiscal-institucional, pero requiere precisión en la desagregación del gasto.",
+          "whatTheyOmit": "Se omite que el presupuesto tiene tres grandes bloques y no dos: inversión (~16%), servicio de deuda (~18,4%) y funcionamiento (~65,7%); la afirmación de que \"el resto\" es deuda es incorrecta porque el mayor componente es funcionamiento del Estado [F5]. También se omite que la deuda se mantiene en niveles elevados desde la crisis de 2020 y que la cláusula de escape de la regla fiscal implica déficits y deuda crecientes entre 2025 y 2027 por decisión del propio marco fiscal vigente [F5]. Las cifras de inversión corresponden al proyecto/presupuesto base, y el monto total aprobado podría ser superior al citado, lo que reduciría aún más la proporción destinada a inversión respecto de los $16.500 por cada $100.000; las fuentes revisadas no permiten confirmar el total de $634 billones ni el alterno de $596 billones [F2][F3][F5].",
+          "keyFacts": [
+            "El Proyecto de Presupuesto 2026 asciende a $556,9 billones, con $88,5 billones de inversión y $102,5 billones para servicio de la deuda [F5]",
+            "La inversión equivale a ~15,9% del gasto total (cerca de $15.900 por cada $100.000), cifra muy próxima a los $16.500 mencionados [F5]",
+            "El DNP confirma un presupuesto de inversión de $88,4 billones para 2026 [F3]",
+            "El gasto de funcionamiento es de $365,8 billones, es decir ~65,7% del presupuesto: es el componente mayor, no la deuda [F5]",
+            "El servicio de la deuda (~18,4%) supera a la inversión (~16%) en el presupuesto 2026 [F5]",
+            "La deuda pública se mantiene en niveles muy elevados desde la crisis sanitaria de 2020 y la cláusula de escape implica déficits y deuda crecientes entre 2025 y 2027 [F5]",
+            "La fuente [F1] trata sobre viviendas del gobierno Santos y no aporta datos sobre el reparto presupuestal 2026 [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/las-casas-gratis-del-gobierno-no-son-como-las-pintan-i/",
+              "note": "Artículo sobre el programa de 100.000 viviendas del gobierno Santos; no contiene información sobre el reparto presupuestal ni el servicio de deuda 2026. No aporta a la verificación.",
+              "host": "razonpublica.com",
+              "title": "Las casas “gratis” del gobierno no son como las pintan (I) - Razón Pública",
+              "image": "https://razonpublica.com/images/2014/articulos/Fabio_giraldo_vivienda_social_presidente_visita%201.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minhacienda.gov.co/w/presupeusto-general-de-la-nación-2026",
+              "note": "Página oficial del PGN 2026 no accesible (bloqueo anti-bot); no fue posible usarla como respaldo directo.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://dnp.gov.co/Prensa_/Noticias/Paginas/aprobado-presupuesto-general-de-la-nacion-2026.aspx",
+              "note": "Confirma presupuesto de inversión 2026 de $88,4 billones y su reparto por sectores; respalda la magnitud de inversión citada.",
+              "host": "dnp.gov.co",
+              "title": "Aprobado el Presupuesto General de la Nación 2026: recursos para las regiones, la gente y el cambio social",
+              "image": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/Noticias/2025/Octubre/presupuesto-general-2026.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.banrep.gov.co/es/estadisticas/deuda-publica",
+              "note": "Página del Banco de la República no accesible (bloqueo anti-bot); no se pudo verificar la serie histórica de deuda pública.",
+              "host": "banrep.gov.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://radio.unal.edu.co/detalle/presupuesto-2026",
+              "note": "Detalle del Proyecto PGN 2026: total $556,9 billones, inversión $88,5 billones, funcionamiento $365,8 billones, servicio de deuda $102,5 billones; fuente clave que permite calcular las proporciones y contrastar el componente de \"funcionamiento\" que el video omite.",
+              "host": "radio.unal.edu.co",
+              "title": "Presupuesto 2026",
+              "image": "https://radio.unal.edu.co/fileadmin/_processed_/3/6/csm_08_21_2025_TEMATICO_f0f83d3b48.jpg"
             }
           ]
         }
