@@ -1,64 +1,79 @@
-import type { Video } from "@/lib/types";
-import { colorStyle, videoVerdictColor } from "@/lib/verdicts";
-import VerdictBadge from "./VerdictBadge";
+import type { VerdictColor, Video } from "@/lib/types";
+import { revStyle, videoOverall } from "@/lib/verdicts";
+
+function conclusionTitle(text?: string): string {
+  if (!text) return "Análisis del video";
+  const first = text.split(/\n\s*\n/)[0]?.trim() || "";
+  const clean = first.replace(/^#+\s*/, "").replace(/\*\*/g, "");
+  return clean || "Análisis del video";
+}
 
 export default function VideoHeader({ video }: { video: Video }) {
-  const counts = { green: 0, lime: 0, orange: 0, red: 0 } as Record<string, number>;
+  const counts: Record<VerdictColor, number> = { green: 0, lime: 0, orange: 0, red: 0 };
   for (const c of video.claims) counts[c.color] += 1;
-  const verified = video.verdict === "verdadero";
-  const vc = colorStyle(videoVerdictColor(video));
+  const overall = videoOverall(video);
+
+  const cells: { label: string; value: number; color: VerdictColor }[] = [
+    { label: "Mayormente", value: counts.green, color: "green" },
+    { label: "A medias", value: counts.lime, color: "lime" },
+    { label: "Con matices", value: counts.orange, color: "orange" },
+    { label: "Falsos", value: counts.red, color: "red" },
+  ];
 
   return (
-    <div className="flex flex-col gap-4 rounded-2xl border border-zinc-200 bg-white p-4 sm:flex-row">
-      <div className="mx-auto w-full max-w-[200px] shrink-0 sm:mx-0">
-        <div className="aspect-square w-full overflow-hidden rounded-xl bg-zinc-100">
-          {video.thumbnail ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={video.thumbnail} alt={video.title} className="h-full w-full object-cover" />
-          ) : (
-            <div className="flex h-full w-full items-center justify-center text-xs text-zinc-400">
-              sin miniatura
-            </div>
-          )}
-        </div>
+    <section className="grid overflow-hidden rounded-2xl border border-[#ded8cd] bg-[#fffefa] md:grid-cols-[220px_1fr]">
+      <div className="relative min-h-[200px] bg-[#eee8dc] md:min-h-full">
+        {video.thumbnail ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={video.thumbnail}
+            alt={video.title}
+            className="absolute inset-0 h-full w-full object-cover"
+          />
+        ) : null}
       </div>
 
-      <div className="flex min-w-0 flex-1 flex-col">
-        <div className="mb-1 flex items-center gap-2">
-          <span className="text-[10px] font-semibold uppercase tracking-widest text-zinc-400">
-            {verified ? "Cuenta verificada" : "Cuenta desmentida"}
-          </span>
-          <VerdictBadge verdict={video.verdict} />
-        </div>
-        <h2 className={`text-base font-bold leading-snug ${vc.text}`}>{video.title}</h2>
-        <p className="mt-0.5 text-xs text-zinc-500">
-          @{video.uploader}
+      <div className="flex flex-col justify-center p-5 sm:p-7">
+        <p className="text-[10px] font-bold uppercase tracking-[.16em] text-[#b23125]">
+          Conclusión general · @{video.uploader}
           {video.duration ? ` · ${Math.round(video.duration)}s` : ""}
         </p>
+        <div className="mt-2 flex flex-wrap items-center gap-2">
+          <span
+            className={`rounded-[3px] px-2 py-1 text-[11px] font-bold ${revStyle(overall.color).tag}`}
+          >
+            {overall.label}
+          </span>
+        </div>
+        <h1 className="mt-3 font-serif text-3xl font-normal leading-tight tracking-tight text-[#1b1b1b] sm:text-4xl">
+          {conclusionTitle(video.conclusion)}
+        </h1>
+        <p className="mt-3 text-sm font-semibold leading-snug text-[#6e6a63]">{video.title}</p>
         <a
           href={video.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="mt-1 truncate text-[11px] text-blue-600 hover:underline"
+          className="mt-3 w-fit max-w-full truncate text-xs font-medium text-[#6e6a63] underline decoration-[#ded8cd] underline-offset-4 hover:text-[#1b1b1b]"
         >
-          {video.url}
+          Ver video original ↗
         </a>
 
-        <div className="mt-auto flex flex-wrap gap-2 pt-3 text-[11px]">
-          <span className="rounded-full bg-emerald-500/15 px-2 py-0.5 font-medium text-emerald-700">
-            {counts.green} mayormente verdaderos
-          </span>
-          <span className="rounded-full bg-lime-500/15 px-2 py-0.5 font-medium text-lime-700">
-            {counts.lime} a medias
-          </span>
-          <span className="rounded-full bg-amber-500/15 px-2 py-0.5 font-medium text-amber-700">
-            {counts.orange} con matices
-          </span>
-          <span className="rounded-full bg-rose-500/15 px-2 py-0.5 font-medium text-rose-700">
-            {counts.red} falsos
-          </span>
+        <div className="mt-6 grid grid-cols-2 gap-2 sm:grid-cols-4">
+          {cells.map((cell) => {
+            const rev = revStyle(cell.color);
+            return (
+              <div key={cell.label} className={`border-t-2 bg-[#f5f1e9] px-3 py-2 ${rev.quote}`}>
+                <strong className={`block font-serif text-2xl font-normal ${rev.cellNum}`}>
+                  {cell.value}
+                </strong>
+                <span className="text-[9px] font-bold uppercase tracking-wide text-[#6e6a63]">
+                  {cell.label}
+                </span>
+              </div>
+            );
+          })}
         </div>
       </div>
-    </div>
+    </section>
   );
 }

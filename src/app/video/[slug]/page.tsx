@@ -22,49 +22,51 @@ export default async function VideoPage({
   if (!video) notFound();
 
   return (
-    <div className="mx-auto w-full max-w-4xl px-4 pb-16 pt-8 sm:px-6">
-      <header className="mb-6">
-        <Link href="/" className="mb-3 inline-flex items-center gap-2">
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-zinc-900 text-sm font-black text-white">
-            D
-          </span>
-          <span className="text-sm font-bold uppercase tracking-widest text-zinc-900">Desmentidor</span>
-        </Link>
+    <div className="mx-auto w-full max-w-[1120px] px-4 pb-16 pt-6 sm:px-8 sm:pt-9">
+      <header className="mb-5 flex items-center justify-between border-b border-[#d8d1c5] pb-4">
         <Link
           href="/"
-          className="block text-[11px] font-medium text-zinc-500 transition hover:text-zinc-900"
+          className="flex items-center gap-2.5 text-[12px] font-extrabold uppercase tracking-[.16em] text-[#b23125]"
         >
-          ← Volver a todos los videos
+          <span className="grid h-8 w-8 place-items-center bg-[#b23125] text-sm font-black text-white">
+            D
+          </span>
+          Desmentidor
+        </Link>
+        <Link href="/" className="text-xs font-semibold text-[#6e6a63] hover:text-[#1b1b1b]">
+          ← Todos los videos
         </Link>
       </header>
 
-      <div className="space-y-3">
-        <VideoHeader video={video} />
+      <VideoHeader video={video} />
 
-        <div className="flex items-center justify-between px-1 pt-1">
-          <h3 className="text-xs font-semibold uppercase tracking-wide text-zinc-400">
-            Datos detectados ({video.claims.length})
-          </h3>
-          <span className="text-[11px] text-zinc-400">Toca un dato para ver el desmentido</span>
-        </div>
+      <div className="mb-3 mt-8 flex items-end justify-between border-b-2 border-[#1b1b1b] pb-2">
+        <h2 className="text-xs font-bold uppercase tracking-[.14em] text-[#1b1b1b]">
+          Datos detectados ({video.claims.length})
+        </h2>
+        <span className="hidden text-[11px] text-[#6e6a63] sm:block">
+          Abre un dato para ver el análisis completo
+        </span>
+      </div>
 
+      <section className="space-y-5">
         {video.claims.map((claim) => (
           <ClaimCard key={claim.id} claim={claim} />
         ))}
+      </section>
 
-        {video.conclusion ? (
-          <VideoConclusion
-            text={video.conclusion}
-            label={video.conclusionLabel}
-            color={video.conclusionColor}
-          />
-        ) : null}
-      </div>
+      {video.conclusion ? (
+        <VideoConclusion
+          text={video.conclusion}
+          label={video.conclusionLabel}
+          color={video.conclusionColor}
+        />
+      ) : null}
 
-      <footer className="mt-10 border-t border-zinc-200 pt-4 text-[11px] leading-relaxed text-zinc-400">
+      <footer className="mt-10 border-t border-[#ded8cd] pt-4 text-[11px] leading-relaxed text-[#6e6a63]">
         <p>
           La clasificación{" "}
-          <span className="font-medium text-amber-600">con matices</span> indica que un dato puede
+          <span className="font-medium text-[#aa6910]">con matices</span> indica que un dato puede
           ser cierto pero estar exagerado o fuera de contexto. No negamos hechos: los ponemos en
           su justa medida.
         </p>

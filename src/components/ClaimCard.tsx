@@ -1,107 +1,120 @@
-"use client";
-
-import { useState } from "react";
-import SourcePreview from "./SourcePreview";
 import type { Claim } from "@/lib/types";
-import { colorStyle, verdictLabel } from "@/lib/verdicts";
+import { revStyle, verdictLabel } from "@/lib/verdicts";
+import SourceCard from "./SourceCard";
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
-    <div>
-      <h4 className="mb-1 text-[11px] font-semibold uppercase tracking-wide text-zinc-400">{title}</h4>
-      <p className="text-[13px] leading-relaxed text-zinc-600">{children}</p>
-    </div>
+    <section className="border-t border-[#e6e0d5] pt-4">
+      <h4 className="mb-2 text-[11px] font-bold uppercase tracking-[.14em] text-[#9a938a]">
+        {title}
+      </h4>
+      <div className="text-[14px] leading-7 text-[#4a463f]">{children}</div>
+    </section>
   );
 }
 
 export default function ClaimCard({ claim }: { claim: Claim }) {
-  const [open, setOpen] = useState(false);
-  const c = colorStyle(claim.color);
-
-  const isPlainTrue = (claim.verdict || "").toLowerCase() === "verdadero";
-  const verdictText = isPlainTrue
+  const rev = revStyle(claim.color);
+  const plainTrue = (claim.verdict || "").toLowerCase() === "verdadero";
+  const verdictText = plainTrue
     ? claim.headline || "Verdadero, pero con matices"
     : verdictLabel(claim.verdict);
 
   return (
-    <article className={`overflow-hidden rounded-xl border bg-white transition-shadow hover:shadow-sm ${open ? c.border : "border-zinc-200"}`}>
-      <button
-        type="button"
-        onClick={() => setOpen((v) => !v)}
-        className="flex w-full items-start gap-3 p-3 text-left"
-      >
-        <span className={`mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg text-sm font-bold text-white ${c.dot}`}>
+    <details className="group overflow-hidden rounded-xl border border-[#ded8cd] bg-[#fffefa] open:border-[#b9b09f]">
+      <summary className="flex cursor-pointer list-none items-start gap-3 p-4 sm:gap-4 sm:p-5">
+        <span
+          className={`grid h-9 w-9 shrink-0 place-items-center rounded-full font-serif text-lg text-white ${rev.solid}`}
+        >
           {claim.id}
         </span>
-
-        <div className="min-w-0 flex-1">
-          <div className="mb-1 flex flex-wrap items-center gap-1.5">
-            <span className={`rounded-md px-2 py-0.5 text-[11px] font-semibold leading-snug ring-1 ring-inset ${c.pill}`}>
+        <span className="min-w-0 flex-1">
+          <span className="mb-2 flex flex-wrap items-center gap-2">
+            <span className={`rounded px-2.5 py-1 text-[11px] font-bold ${rev.tag}`}>
               {verdictText}
             </span>
-            <span className="rounded-full bg-zinc-100 px-2 py-0.5 text-[10px] font-medium text-zinc-500">
-              {claim.topic}
-            </span>
-            {claim.confidence && (
-              <span className="text-[10px] text-zinc-400">confianza {claim.confidence}</span>
+            {claim.topic && (
+              <span className="text-[10px] font-semibold uppercase tracking-wider text-[#9a938a]">
+                {claim.topic}
+              </span>
             )}
-          </div>
-          <h3 className="text-sm font-semibold leading-snug text-zinc-800">{claim.claim}</h3>
-          {!open && claim.summary && (
-            <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-zinc-500">{claim.summary}</p>
+            {claim.confidence && (
+              <span className="text-[10px] text-[#9a938a]">Confianza {claim.confidence}</span>
+            )}
+          </span>
+          <span className="block text-[15px] font-semibold leading-snug text-[#26241f] sm:text-base">
+            {claim.claim}
+          </span>
+          {claim.summary && (
+            <span className="mt-2 line-clamp-2 block text-xs leading-relaxed text-[#6e6a63]">
+              {claim.summary}
+            </span>
           )}
-        </div>
-
-        <span className={`mt-0.5 shrink-0 text-xs font-medium ${c.text}`}>
-          {open ? "−" : "＋"}
         </span>
-      </button>
+        <span className="mt-2 text-xl leading-none text-[#9a938a] transition-transform group-open:rotate-180">
+          ⌄
+        </span>
+      </summary>
 
-      {open && (
-        <div className="space-y-3 border-t border-zinc-100 px-3 pb-3 pt-3">
-          {claim.quote && (
-            <blockquote className={`rounded-lg border-l-2 ${c.border} ${c.soft} px-3 py-2 text-[12px] italic leading-snug text-zinc-600`}>
-              “{claim.quote}”
-            </blockquote>
+      <div className="space-y-5 border-t border-[#efe9df] p-4 sm:p-5">
+        {claim.quote && (
+          <blockquote
+            className={`border-l-[3px] bg-[#faf7f1] px-4 py-3 font-serif text-[17px] italic leading-relaxed text-[#4a463f] ${rev.quote}`}
+          >
+            “{claim.quote}”
+          </blockquote>
+        )}
+
+        {claim.summary && (
+          <section className={`rounded-lg border-l-4 bg-[#f8f5ef] p-4 sm:p-5 ${rev.quote}`}>
+            <h4 className="mb-2 text-[11px] font-bold uppercase tracking-[.14em] text-[#9a938a]">
+              Desmentido
+            </h4>
+            <p className="text-[14px] leading-7 text-[#26241f]">{claim.summary}</p>
+          </section>
+        )}
+
+        <div className="grid gap-5 lg:grid-cols-2">
+          {claim.context && (
+            <Section title="Contexto y magnitud real">
+              <p>{claim.context}</p>
+            </Section>
           )}
-
-          {claim.summary && <Section title="Desmentido">{claim.summary}</Section>}
-          {claim.context && <Section title="Contexto y magnitud real">{claim.context}</Section>}
           {claim.progressivePerspective && (
-            <Section title="Análisis">{claim.progressivePerspective}</Section>
+            <Section title="Análisis">
+              <p>{claim.progressivePerspective}</p>
+            </Section>
           )}
-          {claim.whatTheyOmit && <Section title="Qué omite el video">{claim.whatTheyOmit}</Section>}
-
-          {claim.keyFacts.length > 0 && (
-            <div>
-              <h4 className="mb-1 text-[11px] font-semibold uppercase tracking-wide text-zinc-400">
-                Hechos clave
-              </h4>
-              <ul className="space-y-1">
-                {claim.keyFacts.map((fact, i) => (
-                  <li key={i} className="flex gap-2 text-[12px] leading-snug text-zinc-600">
-                    <span className={`mt-1.5 h-1 w-1 shrink-0 rounded-full ${c.dot}`} />
-                    <span>{fact}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
-
-          {claim.sources.length > 0 && (
-            <div>
-              <h4 className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-zinc-400">
-                Fuentes
-              </h4>
-              <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
-                {claim.sources.map((source, i) => (
-                  <SourcePreview key={i} source={source} />
-                ))}
-              </div>
-            </div>
+          {claim.whatTheyOmit && (
+            <Section title="Qué omite el video">
+              <p>{claim.whatTheyOmit}</p>
+            </Section>
           )}
         </div>
-      )}
-    </article>
+
+        {claim.keyFacts.length > 0 && (
+          <Section title="Hechos clave">
+            <ul className="grid gap-2 sm:grid-cols-2">
+              {claim.keyFacts.map((fact, i) => (
+                <li key={i} className="flex gap-2 rounded-lg bg-[#f8f5ef] p-3 text-[12px] leading-relaxed">
+                  <span className={`mt-1 h-2 w-2 shrink-0 rounded-full ${rev.solid}`} />
+                  {fact}
+                </li>
+              ))}
+            </ul>
+          </Section>
+        )}
+
+        {claim.sources.length > 0 && (
+          <Section title="Fuentes">
+            <div className="grid gap-2 sm:grid-cols-2">
+              {claim.sources.map((source, i) => (
+                <SourceCard key={i} source={source} />
+              ))}
+            </div>
+          </Section>
+        )}
+      </div>
+    </details>
   );
 }

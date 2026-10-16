@@ -88,3 +88,66 @@ export function videoVerdictColor(video: Video): VerdictColor {
   }
   return best;
 }
+
+const INFER_LABEL: Record<VerdictColor, string> = {
+  green: "Mayormente verdadero",
+  lime: "A medias",
+  orange: "Con matices",
+  red: "Falso",
+};
+
+/** Etiqueta + color del veredicto general del video (explicito si existe). */
+export function videoOverall(video: Video): { label: string; color: VerdictColor } {
+  const color = videoVerdictColor(video);
+  if (video.conclusionLabel) return { label: video.conclusionLabel, color };
+  if ((video.verdict || "").toLowerCase() === "verdadero") {
+    return { label: "Verdadero", color: "green" };
+  }
+  return { label: INFER_LABEL[color], color };
+}
+
+/**
+ * Paleta del rediseno "Revista": clases Tailwind para el color de cada veredicto.
+ * (tag = etiqueta de veredicto; cell = celda de la matriz numerica; solid = marca/dot/numero).
+ */
+export const REV: Record<
+  VerdictColor,
+  { solid: string; tag: string; cellBox: string; cellNum: string; quote: string; soft: string }
+> = {
+  green: {
+    solid: "bg-[#17875f]",
+    tag: "bg-[#e4f0e9] text-[#176746]",
+    cellBox: "bg-[#f2f7f3] border-l-[3px] border-l-[#17875f]",
+    cellNum: "text-[#17875f]",
+    quote: "border-[#17875f]",
+    soft: "bg-[#f2f7f3]",
+  },
+  lime: {
+    solid: "bg-[#83a72c]",
+    tag: "bg-[#eef2dd] text-[#61751d]",
+    cellBox: "bg-[#f5f7ec] border-l-[3px] border-l-[#83a72c]",
+    cellNum: "text-[#6e8d20]",
+    quote: "border-[#83a72c]",
+    soft: "bg-[#f5f7ec]",
+  },
+  orange: {
+    solid: "bg-[#d5891e]",
+    tag: "bg-[#f6ead5] text-[#965b12]",
+    cellBox: "bg-[#fcf6ed] border-l-[3px] border-l-[#d5891e]",
+    cellNum: "text-[#aa6910]",
+    quote: "border-[#d5891e]",
+    soft: "bg-[#fcf6ed]",
+  },
+  red: {
+    solid: "bg-[#c43e55]",
+    tag: "bg-[#f5e1e3] text-[#a33143]",
+    cellBox: "bg-[#fcf2f2] border-l-[3px] border-l-[#c43e55]",
+    cellNum: "text-[#b9384f]",
+    quote: "border-[#c43e55]",
+    soft: "bg-[#fcf2f2]",
+  },
+};
+
+export function revStyle(color: VerdictColor) {
+  return REV[color] ?? REV.orange;
+}
