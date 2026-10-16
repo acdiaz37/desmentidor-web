@@ -1,19 +1,26 @@
 import Link from "next/link";
-import type { Video } from "@/lib/types";
-import { colorStyle, videoVerdictColor } from "@/lib/verdicts";
+import type { VerdictColor, Video } from "@/lib/types";
+import { colorStyle, videoOverall, videoVerdictColor } from "@/lib/verdicts";
 import VerdictBadge from "./VerdictBadge";
+
+const BORDER: Record<VerdictColor, string> = {
+  green: "border-emerald-300 hover:border-emerald-400",
+  lime: "border-lime-300 hover:border-lime-400",
+  orange: "border-amber-300 hover:border-amber-400",
+  red: "border-rose-300 hover:border-rose-400",
+};
 
 export default function VideoCard({ video }: { video: Video }) {
   const counts = { green: 0, lime: 0, orange: 0, red: 0 } as Record<string, number>;
   for (const c of video.claims) counts[c.color] += 1;
-  const verified = video.verdict === "verdadero";
   const vc = colorStyle(videoVerdictColor(video));
+  const overall = videoOverall(video);
 
   return (
     <Link
       href={`/video/${video.slug}`}
       className={`group flex flex-col overflow-hidden rounded-2xl border bg-white transition hover:-translate-y-0.5 hover:shadow-md ${
-        verified ? "border-emerald-400 hover:border-emerald-500" : "border-zinc-200 hover:border-zinc-300"
+        BORDER[overall.color] ?? "border-zinc-200 hover:border-zinc-300"
       }`}
     >
       <div className="relative aspect-square w-full overflow-hidden bg-zinc-100">
@@ -37,11 +44,9 @@ export default function VideoCard({ video }: { video: Video }) {
         <div className="absolute bottom-2 right-2 rounded-full bg-black/55 px-2 py-0.5 text-[10px] font-semibold text-white backdrop-blur">
           {video.claims.length} datos
         </div>
-        {verified && (
-          <div className="absolute right-2 top-2">
-            <VerdictBadge verdict={video.verdict} />
-          </div>
-        )}
+        <div className="absolute right-2 top-2">
+          <VerdictBadge label={overall.label} color={overall.color} />
+        </div>
       </div>
 
       <div className="flex flex-1 flex-col p-3">

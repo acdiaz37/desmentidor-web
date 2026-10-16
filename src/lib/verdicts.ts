@@ -88,3 +88,20 @@ export function videoVerdictColor(video: Video): VerdictColor {
   }
   return best;
 }
+
+const INFER_LABEL: Record<VerdictColor, string> = {
+  green: "Mayormente verdadero",
+  lime: "A medias",
+  orange: "Con matices",
+  red: "Falso",
+};
+
+/** Etiqueta + color del veredicto general del video (explicito si existe). */
+export function videoOverall(video: Video): { label: string; color: VerdictColor } {
+  const color = videoVerdictColor(video);
+  if (video.conclusionLabel) return { label: video.conclusionLabel, color };
+  if ((video.verdict || "").toLowerCase() === "verdadero") {
+    return { label: "Verdadero", color: "green" };
+  }
+  return { label: INFER_LABEL[color], color };
+}
