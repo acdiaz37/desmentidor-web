@@ -1,5 +1,5 @@
 import type { VerdictColor } from "@/lib/types";
-import { revStyle } from "@/lib/verdicts";
+import { colorStyle } from "@/lib/verdicts";
 
 function splitParagraphs(text: string): string[] {
   const normalized = text.replace(/\r\n/g, "\n").trim();
@@ -13,7 +13,7 @@ function splitParagraphs(text: string): string[] {
       .map((b) => b.trim())
       .filter(Boolean);
   }
-  return blocks;
+  return blocks.map((b) => b.replace(/\n+/g, " "));
 }
 
 function stripInlineMd(s: string): string {
@@ -32,6 +32,8 @@ export default function VideoConclusion({
   const paragraphs = splitParagraphs(text);
   if (paragraphs.length === 0) return null;
 
+  const vc = colorStyle((color as VerdictColor) || "orange");
+
   let title = "La narrativa del video, en conjunto";
   let body = paragraphs;
   const first = paragraphs[0];
@@ -44,28 +46,26 @@ export default function VideoConclusion({
   }
 
   return (
-    <section className="mt-9 overflow-hidden rounded-xl border border-[#ded8cd] bg-[#f0ebe1]">
-      <div className="border-b border-[#ded8cd] px-5 py-4 sm:px-7">
+    <section className={`mt-6 overflow-hidden rounded-2xl border-2 ${vc.border} ${vc.soft}`}>
+      <div className="p-5 sm:p-6">
         <div className="flex flex-wrap items-center gap-2">
-          <p className="text-[10px] font-bold uppercase tracking-[.16em] text-[#b23125]">Conclusión</p>
+          <span className={`text-[11px] font-semibold uppercase tracking-widest ${vc.text}`}>
+            Conclusión
+          </span>
           {label ? (
             <span
-              className={`rounded-[3px] px-2 py-0.5 text-[10px] font-bold ${revStyle((color as VerdictColor) || "orange").tag}`}
+              className={`rounded-full px-2.5 py-0.5 text-[11px] font-bold text-white ${vc.dot}`}
             >
               {label}
             </span>
           ) : null}
         </div>
-        <h2 className="mt-2 max-w-3xl font-serif text-2xl font-normal leading-tight text-[#1b1b1b] sm:text-3xl">
-          {title}
-        </h2>
-      </div>
-      <div className="grid gap-x-8 gap-y-4 px-5 py-5 text-[13px] leading-7 text-[#4a463f] sm:px-7 lg:grid-cols-2">
-        {(body.length ? body : [text]).map((p, i) => (
-          <p key={i} className="border-l-2 border-[#b23125]/35 pl-4">
-            {stripInlineMd(p)}
-          </p>
-        ))}
+        <h2 className={`mt-2 text-lg font-bold leading-snug ${vc.text}`}>{title}</h2>
+        <div className="mt-3 space-y-3 text-[13.5px] leading-relaxed text-zinc-700">
+          {(body.length ? body : [text]).map((p, i) => (
+            <p key={i}>{stripInlineMd(p)}</p>
+          ))}
+        </div>
       </div>
     </section>
   );

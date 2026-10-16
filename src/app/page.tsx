@@ -5,36 +5,32 @@ import type { SiteData } from "@/lib/types";
 
 export default function Home() {
   const site = data as SiteData;
-  // Más nuevos primero (aproximación: el orden del JSON es de incorporación).
-  const videos = [...site.videos].reverse();
 
   return (
-    <div className="mx-auto w-full max-w-[1220px] px-4 pb-14 pt-7 sm:px-8">
+    <div className="mx-auto w-full max-w-5xl px-4 pb-16 pt-8 sm:px-6">
       <SiteHeader data={site} />
 
-      <div className="mb-3.5 flex items-baseline justify-between border-t-[3px] border-b border-t-[#1b1b1b] border-b-[#ded8cd] py-2.5">
-        <h2 className="text-[12px] font-bold uppercase tracking-[.12em] text-[#1b1b1b]">
+      <div className="mb-3 flex items-center justify-between px-1">
+        <h2 className="text-xs font-semibold uppercase tracking-wide text-zinc-400">
           Videos desmentidos ({site.videos.length})
         </h2>
-        <span className="hidden text-[12px] text-[#6e6a63] sm:block">
-          Elige un video para ver los datos
-        </span>
+        <span className="text-[11px] text-zinc-400">Elige un video para ver los datos</span>
       </div>
 
-      <section className="grid grid-cols-1 gap-3.5 md:grid-cols-2">
-        {videos.map((video) => (
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {site.videos.map((video) => (
           <VideoCard key={video.slug} video={video} />
         ))}
-      </section>
+      </div>
 
-      <footer className="mt-8 max-w-[820px] border-t border-[#ded8cd] pt-4 text-[12px] leading-relaxed text-[#6e6a63]">
+      <footer className="mt-10 border-t border-zinc-200 pt-4 text-[11px] leading-relaxed text-zinc-400">
         <p>
           Cada dato se contrasta con fuentes verificables y se clasifica en{" "}
-          <b className="font-semibold text-[#17875f]">mayormente verdadero</b>,{" "}
-          <b className="font-semibold text-[#6e8d20]">verdadero, pero le falta contexto</b>,{" "}
-          <b className="font-semibold text-[#aa6910]">con matices / exagerado</b> o{" "}
-          <b className="font-semibold text-[#b9384f]">falso</b>. Un dato puede ser cierto y aun así
-          estar fuera de contexto: lo ponemos en su justa medida.
+          <span className="font-medium text-emerald-600">mayormente verdadero</span>,{" "}
+          <span className="font-medium text-lime-600">verdadero, pero le falta contexto</span>,{" "}
+          <span className="font-medium text-amber-600">con matices / exagerado</span> o{" "}
+          <span className="font-medium text-rose-600">falso</span>. Un dato puede ser cierto y aun
+          así estar fuera de contexto: lo ponemos en su justa medida.
         </p>
       </footer>
     </div>
