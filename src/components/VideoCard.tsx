@@ -1,12 +1,13 @@
 import Link from "next/link";
 import type { Video } from "@/lib/types";
-import { colorStyle } from "@/lib/verdicts";
+import { colorStyle, videoVerdictColor } from "@/lib/verdicts";
 import VerdictBadge from "./VerdictBadge";
 
 export default function VideoCard({ video }: { video: Video }) {
-  const counts = { green: 0, orange: 0, red: 0 } as Record<string, number>;
+  const counts = { green: 0, lime: 0, orange: 0, red: 0 } as Record<string, number>;
   for (const c of video.claims) counts[c.color] += 1;
   const verified = video.verdict === "verdadero";
+  const vc = colorStyle(videoVerdictColor(video));
 
   return (
     <Link
@@ -44,7 +45,7 @@ export default function VideoCard({ video }: { video: Video }) {
       </div>
 
       <div className="flex flex-1 flex-col p-3">
-        <h3 className="line-clamp-2 text-sm font-semibold leading-snug text-zinc-800 group-hover:text-zinc-950">
+        <h3 className={`line-clamp-2 text-sm font-semibold leading-snug ${vc.text}`}>
           {video.title}
         </h3>
         <p className="mt-0.5 text-[11px] text-zinc-500">
@@ -54,10 +55,13 @@ export default function VideoCard({ video }: { video: Video }) {
 
         <div className="mt-3 flex flex-wrap gap-1.5 text-[10px] font-medium">
           <span className="rounded-full bg-emerald-500/15 px-2 py-0.5 text-emerald-700">
-            {counts.green} verdad.
+            {counts.green} mayormente
+          </span>
+          <span className="rounded-full bg-lime-500/15 px-2 py-0.5 text-lime-700">
+            {counts.lime} a medias
           </span>
           <span className="rounded-full bg-amber-500/15 px-2 py-0.5 text-amber-700">
-            {counts.orange} matices
+            {counts.orange} con matices
           </span>
           <span className="rounded-full bg-rose-500/15 px-2 py-0.5 text-rose-700">
             {counts.red} falsos

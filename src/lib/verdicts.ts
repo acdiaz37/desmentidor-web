@@ -1,4 +1,4 @@
-import type { VerdictColor } from "./types";
+import type { VerdictColor, Video } from "./types";
 
 export const VERDICT_LABEL: Record<string, string> = {
   verdadero: "Verdadero",
@@ -58,4 +58,27 @@ export const COLOR_STYLE: Record<VerdictColor, ColorStyle> = {
 
 export function colorStyle(color: VerdictColor): ColorStyle {
   return COLOR_STYLE[color] ?? COLOR_STYLE.orange;
+}
+
+/**
+ * Color global del video (para pintar el titulo): verde si es un video verificado,
+ * si no, la categoria dominante entre sus datos. Empates se resuelven hacia el lado
+ * mas critico (rojo > naranja > lima > verde).
+ */
+export function videoVerdictColor(video: Video): VerdictColor {
+  if ((video.verdict || "").toLowerCase() === "verdadero") return "green";
+  const counts: Record<VerdictColor, number> = { green: 0, lime: 0, orange: 0, red: 0 };
+  for (const c of video.claims) {
+    if (c.color in counts) counts[c.color] += 1;
+  }
+  const priority: VerdictColor[] = ["red", "orange", "lime", "green"];
+  let best: VerdictColor = "orange";
+  let bestN = -1;
+  for (const color of priority) {
+    if (counts[color] > bestN) {
+      bestN = counts[color];
+      best = color;
+    }
+  }
+  return best;
 }
