@@ -5,6 +5,8 @@ import type { SiteData } from "@/lib/types";
 
 export default function Home() {
   const site = data as SiteData;
+  // Orden invertido: los videos más nuevos (últimos incorporados) aparecen primero.
+  const videos = [...site.videos].reverse();
 
   return (
     <div className="mx-auto w-full max-w-5xl px-4 pb-16 pt-8 sm:px-6">
@@ -18,7 +20,7 @@ export default function Home() {
       </div>
 
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {site.videos.map((video) => (
+        {videos.map((video) => (
           <VideoCard key={video.slug} video={video} />
         ))}
       </div>
