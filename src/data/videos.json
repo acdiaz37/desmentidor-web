@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T09:26:23",
+  "generatedAt": "2026-11-13T10:32:57",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -6629,6 +6629,564 @@
               "host": "elcolombiano.com",
               "title": "Una casa clandestina y hasta GPS en vehÃculos de expresidentes: asÃ habrÃa sido el plan de la DNI en la era Petro para intervenir en elecciones",
               "image": "https://estaticos.elcolombiano.com/binrepository/1106x738/-87c9/1280d720/none/11101/LUJJ/gustavo-petro-dni_52086627_20261109070050.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "petro-alimentos-impuesto-saludable-inflacion",
+      "title": "Petro, la inflación de alimentos y el impuesto saludable",
+      "uploader": "Juan Manuel Lozano",
+      "url": "https://m.facebook.com/watch/?v=1612512656593865&_rdr",
+      "duration": 111.733,
+      "thumbnail": "/media/petro-alimentos-impuesto-saludable-inflacion/thumb.jpg",
+      "conclusion": "## Verdades desordenadas para sostener una acusación\n\nEl video construye una narrativa de deterioro deliberado: la idea de que, mientras los colombianos pagan más por todo —alimentos, salud, servicios—, el gobierno desvió recursos y minimizó el problema. La impresión que produce es de un país empobrecido por decisiones políticas concretas, con un presidente indiferente frente al sufrimiento cotidiano. Esa narrativa se sostiene sobre varios hechos que sí son ciertos y conviene reconocerlos: la inflación de alimentos es real (6,10% anual en agosto de 2026), el impuesto saludable alcanzó el 20% en 2025, el sistema de salud arrastra un déficit patrimonial de 18,7 billones y una deuda de 58 billones con hospitales, las tutelas por salud alcanzaron un récord histórico de 291.143 en 2025, la nómina estatal creció 22,7 billones con cerca de 130.000 nuevas vinculaciones, y Germán Ávila efectivamente proyectó una inflación cercana al 6% ante el Congreso.\n\nEl problema aparece en cómo se articulan esos datos. La frase \"no lastimaba a nadie\", atribuida a Ávila, no tiene fuente; es una invención que sirve como caricatura. El dato del chocolate (61,58%) se desplaza de 2024 a 2023 para atribuirlo al arranque del gobierno. Las cifras de quejas por EPS se corrompen: Asmet Salud redujo reclamos, Famisanar subió 60% y no 63%, y Nueva EPS se duplica con cifras contradictorias. El cálculo del sándwich \"40% más caro\" suma impuestos de productos exentos (pan, salchichón) con una gaseosa que paga tarifa por volumen, no 20%. Y la generalización de que todo sube omite que tomate, arroz y carne de cerdo bajaron de precio.\n\nEl punto de quiebre se produce cuando el video pasa de \"el impuesto saludable existe y subió a 20%\" a \"todos los colombianos pagan más por absolutamente todo\". Esa transición es ilegítima: solo 21 de 443 artículos de alimentos del IPC están gravados; frutas, verduras, leche, carne, huevos y pan están exentos. El contexto que falta —la canasta real del IPC, los productos exentos, la gradualidad de la tarifa, las causas estructurales de la crisis sanitaria y el peso internacional del cacao— transforma por completo la lectura. También falta contexto en la acusación sobre la Casa de Nariño: existe una indagación en curso, sin condena ni decisión judicial.\n\nUna interpretación más completa sería: Colombia enfrenta inflación concentrada en alimentos y vivienda, un impuesto a ultraprocesados real pero más estrecho de lo que el video sugiere, y una crisis de salud con causas estructurales que ninguna intervención ha revertido. Hay cuestionamientos legítimos al manejo público, pero el video los exagera, los mezcla con datos mal atribuidos o inventados, y concluye una realidad más grave de la que sus propios datos permiten sostener.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se afirma que Germán Ávila dijo ante el Congreso que la inflación terminaría entre 6% y 7%.",
+          "quote": "Germán Ávila separó delante del Congreso a decir que la inflación iba a terminar entre el 6 y el 7%",
+          "figures": [
+            "6%",
+            "7%"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "Mayormente verdadero, pero el dato exacto era 6,0%",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Germán Ávila presentó el Marco Fiscal de Mediano Plazo ante las comisiones económicas del Congreso el 12 de junio de 2026 y proyectó una inflación de 6,0% para el cierre de 2026, no un rango de 6% a 7% [F1][F2][F3]. El dato central es cierto; el rango es una aproximación imprecisa.",
+          "context": "El Ministerio de Hacienda elevó su proyección de inflación para 2026 de 5,8% a 6,0%, tras el 5,1% de 2025, y explicó el repunte por presiones de oferta, indexación y el efecto del salario mínimo [F1][F2]. El escenario fue presentado ante las comisiones económicas del Congreso, como lo registra la Presidencia [F3].",
+          "progressivePerspective": "El dato resiste la verificación en lo esencial, pero el video lo presenta como una cita textual con un rango que no coincide con la proyección oficial. Esa diferencia no es grave por sí sola; se vuelve relevante porque el video encadena inmediatamente una frase despectiva que Ávila no dijo. La precisión importa: la inflación proyectada era 6,0%, y el propio documento reconocía presiones reales sobre los precios [F1][F2][F3].",
+          "whatTheyOmit": "Omite que la proyección oficial era 6,0% y que provenía del Marco Fiscal de Mediano Plazo presentado ante las comisiones económicas, no de una frase improvisada [F1][F2][F3].",
+          "keyFacts": [
+            "Ávila presentó el MFMP 2026 ante las comisiones económicas del Congreso el 12 de junio de 2026 [F3]",
+            "La proyección oficial de inflación para 2026 era 6,0%, no un rango de 6% a 7% [F1][F2]",
+            "La proyección subió desde 5,8% y se explicó por presiones de oferta e indexación [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.portafolio.co/economia/marco-fiscal-de-media-plazo-gobierno-mantiene-proyeccion-de-crecimiento-pero-aumenta-la-de-inflacion-para-el-496084",
+              "note": "Registra la proyección de inflación de 6,0% para 2026 y su explicación técnica.",
+              "host": "portafolio.co",
+              "title": "Marco Fiscal de Mediano Plazo: Gobierno mantiene previsión de crecimiento, pero sube la de inflación para el 2026",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/06/12/6a2c617789f2a.r_d.823-964-0.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/economia/sectores/el-gobierno-hace-cuentas-con-un-pib-de-2-6-una-inflacion-que-subiria-a-6-0-y-un-precio-del-petroleo-a-85-5-dolares-3563998",
+              "note": "Confirma la proyección de 6,0% y el contexto del MFMP.",
+              "host": "eltiempo.com",
+              "title": "El Gobierno hace cuentas con un PIB de 2,6 %, una inflación que subiría a 6,0 % y un precio del petróleo a 85,5 dólares",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/12/20/69470e84eb8c4.r_d.1561-794-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-radico-en-el-Congreso-el-Marco-Fiscal-de-Mediano-Plazo-con-proyeccion-de-2-6-porciento-de-crecimiento-260613.aspx",
+              "note": "Confirma que el MFMP se radicó ante el Congreso.",
+              "host": "presidencia.gov.co",
+              "title": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se atribuye a Germán Ávila la afirmación de que esa inflación \"no lastimaba a nadie\".",
+          "quote": "pero que eso no lastimaba a nadie",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "No hay registro de que Germán Ávila haya dicho que la inflación 'no lastimaba a nadie'. Las fuentes recogen su explicación técnica sobre el repunte de precios y su impacto en los hogares; la frase es una atribución inventada [F1][F2][F3].",
+          "context": "En la presentación del MFMP, Ávila reconoció que la inflación subiría a 6,0% por presiones de oferta e indexación y que el país enfrentaba un problema fiscal significativo [F1][F2]. El Gobierno proyectaba una reducción a 4,4% en 2027 y a 3% en el mediano plazo, pero no dijo que la inflación no afectara a nadie [F1][F2].",
+          "progressivePerspective": "Atribuir a un funcionario una frase despectiva que no dijo es una forma eficaz de desinformación: no requiere probar el dato, porque el insulto hace el trabajo. El video sustituye el debate sobre la inflación y la política fiscal por una caricatura del ministro, y así evita discutir las causas reales del repunte de precios [F1][F2][F3].",
+          "whatTheyOmit": "Omite que Ávila reconoció el impacto de la inflación y que el propio Gobierno proyectaba una reducción gradual; no existe fuente para la frase 'no lastimaba a nadie' [F1][F2][F3].",
+          "keyFacts": [
+            "No hay fuente que registre la frase 'eso no lastimaba a nadie' atribuida a Ávila [F1][F2][F3]",
+            "Ávila reconoció que la inflación subiría a 6,0% por presiones de oferta e indexación [F1][F2]",
+            "El Gobierno proyectaba que la inflación bajara a 4,4% en 2027 [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.portafolio.co/economia/marco-fiscal-de-media-plazo-gobierno-mantiene-proyeccion-de-crecimiento-pero-aumenta-la-de-inflacion-para-el-496084",
+              "note": "Recoge las explicaciones de Ávila; no contiene la frase atribuida.",
+              "host": "portafolio.co",
+              "title": "Marco Fiscal de Mediano Plazo: Gobierno mantiene previsión de crecimiento, pero sube la de inflación para el 2026",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/06/12/6a2c617789f2a.r_d.823-964-0.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/economia/sectores/el-gobierno-hace-cuentas-con-un-pib-de-2-6-una-inflacion-que-subiria-a-6-0-y-un-precio-del-petroleo-a-85-5-dolares-3563998",
+              "note": "Confirma el reconocimiento de las presiones inflacionarias por parte del ministro.",
+              "host": "eltiempo.com",
+              "title": "El Gobierno hace cuentas con un PIB de 2,6 %, una inflación que subiría a 6,0 % y un precio del petróleo a 85,5 dólares",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/12/20/69470e84eb8c4.r_d.1561-794-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-radico-en-el-Congreso-el-Marco-Fiscal-de-Mediano-Plazo-con-proyeccion-de-2-6-porciento-de-crecimiento-260613.aspx",
+              "note": "Documento oficial de la presentación; no incluye la cita.",
+              "host": "presidencia.gov.co",
+              "title": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Se afirma que el impuesto saludable tiene hoy una tarifa del 20% sobre más de 70 artículos, incluidos muchos de la canasta familiar.",
+          "quote": "un impuesto saludable que hoy nos tiene pagando el 20% por más de 70 artículos, incluidos muchos de la canasta familiar",
+          "figures": [
+            "20%",
+            "70 artículos"
+          ],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La tarifa del 20% desde 2025 es correcta y la ANDI habla de más de 70 productos ultraprocesados. Pero 'incluidos muchos de la canasta familiar' es engañoso: solo 21 artículos de la canasta del IPC están gravados y alimentos básicos como frutas, verduras, leche, carne, huevos y pan están exentos [F1][F2][F3].",
+          "context": "El impuesto saludable de la Ley 2277 de 2022 empezó con 10% en 2023, subió a 15% en 2024 y llegó a 20% en 2025. Grava bebidas azucaradas y productos ultraprocesados que superan umbrales de azúcar, sodio o grasas saturadas, no a los alimentos frescos [F1][F2]. La ANDI habla de más de 70 tipos de alimentos; el Gobierno y ANIF coinciden en que solo 21 artículos de la canasta del IPC están afectados [F3][F4].",
+          "progressivePerspective": "El video usa una cifra real —más de 70 productos ultraprocesados— para sugerir que el impuesto golpea la comida básica de los hogares. La diferencia es decisiva: el gravamen se concentra en ultraprocesados y bebidas azucaradas, mientras la mayoría de los alimentos frescos no paga. Presentar el alcance así infla la percepción de carga tributaria sobre los pobres y desvía el debate sobre el diseño del impuesto y su efecto real en los precios [F1][F2][F3][F4].",
+          "whatTheyOmit": "Omite que solo 21 de 443 artículos del grupo de alimentos del IPC están gravados y que frutas, verduras, leche, carne, huevos y pan están exentos. También omite que la tarifa subió de forma gradual (10%, 15%, 20%) [F1][F2][F3].",
+          "keyFacts": [
+            "El impuesto saludable tiene tarifa de 20% desde 2025, tras 10% en 2023 y 15% en 2024 [F1]",
+            "Grava bebidas azucaradas y ultraprocesados con altos contenidos de azúcar, sodio o grasas saturadas [F1][F2]",
+            "La ANDI habla de más de 70 productos, pero solo 21 artículos de la canasta del IPC están gravados [F3][F4]",
+            "Frutas, verduras, leche, carne, huevos y pan están exentos [F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.portafolio.co/economia/impuestos/en-cuanto-quedo-la-tarifa-del-impuesto-a-alimentos-ultraprocesados-en-2025-620991",
+              "note": "Confirma la tarifa de 20% y que solo 21 de 443 artículos del IPC están gravados.",
+              "host": "portafolio.co",
+              "title": "Tarifa del impuesto a ultraprocesados quedó en 20%: ¿a qué alimentos aplica?",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2024/02/12/65cab4cccfd35.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dian.gov.co/aduanas/Paginas/Impuestos-Saludables.aspx",
+              "note": "Página oficial de la DIAN sobre el alcance del IBUA e ICUI.",
+              "host": "dian.gov.co",
+              "title": "Acordeón",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://caracol.com.co/2025/01/17/productos-de-la-canasta-familiar-que-tendran-el-incremento-del-20-por-impuesto-saludable",
+              "note": "Recoge la cifra de la ANDI: cerca de 70 alimentos ultraprocesados.",
+              "host": "caracol.com.co",
+              "title": "Productos de la canasta familiar que tendrán el incremento del 20% por impuesto saludable",
+              "image": "https://caracol.com.co/resizer/v2/SBICIDYQHNE35AE3GIZSU4GFXU.jpg?auth=5582073b87b2804bf8ef42653d7486981446ad05d678d5bbaebb883638733178&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/impuestos/que-tanto-afectaran-los-impuestos-saludables-a-la-inflacion-en-colombia-621512",
+              "note": "Explica que solo 21 artículos de la canasta básica están gravados y que alimentos esenciales quedan fuera.",
+              "host": "portafolio.co",
+              "title": "Impuestos saludables: los primeros ajustes que golpearán el bolsillo en 2025",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2021/06/17/60cbd0ef03041.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "economia",
+          "claim": "Se afirma que el chocolate de mesa tuvo una inflación del 60% en 2023.",
+          "quote": "el chocolate de mesa en el 2023 por ejemplo, una inflación del 60%",
+          "figures": [
+            "60%",
+            "2023"
+          ],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "El 60% no corresponde a 2023: el DANE registró un aumento de 23,56% en chocolate y productos de chocolate en 2023; el 61,58% se alcanzó en 2024. El video cambia el año para atribuirle a Petro un dato que se consolidó después [F1][F2][F3].",
+          "context": "El precio del cacao se disparó por factores climáticos y de oferta global. En 2023, la subclase 'chocolate y productos a base de chocolate' cerró con 23,56% anual; en 2024, el mismo grupo llegó a 61,58%, según DANE y la ANDI [F1][F2][F3]. El impuesto saludable también incidió, pero no fue el único factor.",
+          "progressivePerspective": "El error de año no es un detalle: permite presentar como parte del gobierno Petro un fenómeno que se consolidó en 2024 y que responde a precios internacionales del cacao, además del impuesto. La cifra de 60% es real, pero pertenece a otro año; usarla mal convierte un dato cierto en una atribución falsa [F1][F2][F3].",
+          "whatTheyOmit": "Omite que la cifra de 61,58% es de 2024 y que en 2023 el aumento fue de 23,56%. También omite el peso de los precios internacionales del cacao en ese incremento [F1][F2][F3].",
+          "keyFacts": [
+            "En 2023, chocolate y productos de chocolate subieron 23,56% [F2]",
+            "En 2024, la misma subclase subió 61,58% [F1][F3]",
+            "El video atribuye a 2023 una cifra que corresponde a 2024 [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elcolombiano.com/negocios/cara-agria-negocio-cacao-incremento-de-precios-CE26447849",
+              "note": "Registra que el chocolate y productos a base de chocolate cerraron 2024 con 61,58%.",
+              "host": "elcolombiano.com",
+              "title": "La cara agria del negocio mÃ¡s dulce: precio del chocolate se disparÃ³ mÃ¡s del 60% en Colombia",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x914/0c97/1280d720/none/11101/TJJK/1-14984832_47027747_20250125164300.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/Planeacion-y-desarrollo/2024/enero/pdf/informe-ipc-diciembre-2023.pdf",
+              "note": "Datos DANE del IPC de diciembre de 2023: chocolate y productos a base de chocolate, 23,56%.",
+              "host": "colaboracion.dnp.gov.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.andi.com.co/Uploads/ANDI_Infograf%C3%ADa-Landing%20%282%29_638845776652656729.pdf",
+              "note": "Infografía de la ANDI con la variación de 61,58% en chocolate de mesa.",
+              "host": "andi.com.co",
+              "title": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "Se afirma que comer un sándwich o un salchichón cuesta un 40% más porque el pan de supermercado, el jamón, el salchichón y la gaseosa tienen un impuesto del 20% cada uno.",
+          "quote": "tengo que pagar un 40% más porque el pan de supermercado, el jamón, el salchichón y la gaseosa tienen un impuesto del 20% cada uno",
+          "figures": [
+            "40%",
+            "20%"
+          ],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "La afirmación mezcla productos exentos y gravados y suma impuestos de forma inválida. El pan y el salchichón están exentos; el jamón sí paga 20%; la gaseosa paga un impuesto por volumen en pesos por cada 100 ml, no un 20%; y de ahí no se sigue un '40% más' [F1][F2][F3].",
+          "context": "El impuesto a ultraprocesados (ICUI) grava 21 de 443 artículos del IPC, entre ellos jamón, salchichas y galletas; el pan, el salchichón, la mortadela, las frutas, verduras, leche, carne y huevos están exentos [F1][F2]. Las bebidas azucaradas tienen otro impuesto (IBUA), que se cobra en pesos por 100 ml según el contenido de azúcar, no como porcentaje del precio [F3].",
+          "progressivePerspective": "El video convierte una anécdota de compra en un dato tributario: suma dos impuestos distintos, incluye productos exentos y presenta el resultado como si fuera una inflación medida. Ese '40%' no existe en ninguna fuente y no refleja cómo se traslada el impuesto al consumidor. La crítica al costo de vida puede ser legítima, pero se vuelve desinformación cuando se inventa la aritmética [F1][F2][F3].",
+          "whatTheyOmit": "Omite que el pan y el salchichón están exentos, que la gaseosa no paga 20% sino una tarifa por volumen y que el impuesto a ultraprocesados solo cubre 21 de 443 artículos [F1][F2][F3].",
+          "keyFacts": [
+            "El pan y el salchichón están exentos del impuesto a ultraprocesados [F1][F2]",
+            "El jamón sí está gravado al 20% [F1][F2]",
+            "La gaseosa paga el IBUA por volumen (pesos por 100 ml), no un 20% [F3]",
+            "No hay fuente para un aumento de 40% en el sándwich o el salchichón [F1][F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.portafolio.co/economia/impuestos/en-cuanto-quedo-la-tarifa-del-impuesto-a-alimentos-ultraprocesados-en-2025-620991",
+              "note": "Confirma los 21 artículos gravados y la lista de exentos, incluido el pan.",
+              "host": "portafolio.co",
+              "title": "Tarifa del impuesto a ultraprocesados quedó en 20%: ¿a qué alimentos aplica?",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2024/02/12/65cab4cccfd35.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dian.gov.co/aduanas/Paginas/Impuestos-Saludables.aspx",
+              "note": "Detalla el ICUI y las exenciones.",
+              "host": "dian.gov.co",
+              "title": "Acordeón",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.portafolio.co/economia/impuestos/que-tanto-afectaran-los-impuestos-saludables-a-la-inflacion-en-colombia-621512",
+              "note": "Explica que el IBUA se cobra por volumen y que solo 21 artículos de la canasta están gravados.",
+              "host": "portafolio.co",
+              "title": "Impuestos saludables: los primeros ajustes que golpearán el bolsillo en 2025",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2021/06/17/60cbd0ef03041.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "salud",
+          "claim": "Se afirma que el sistema de salud tenía un déficit de más de 18 billones.",
+          "quote": "un sistema de salud con un déficit de más de 18 billones",
+          "figures": [
+            "18 billones"
+          ],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El sistema sí arrastra un déficit enorme: el patrimonial de las EPS fue de -18,7 billones en el primer semestre de 2026 y la deuda con hospitales y proveedores llegó a 58 billones. La cifra es plausible, pero el video la usa para concluir que el gobierno 'destruyó' la salud, una atribución que mezcla causas estructurales y decisiones de intervención [F1][F2][F3].",
+          "context": "Las EPS acumularon un déficit patrimonial de 18,7 billones y las intervenidas de 12,78 billones; la deuda con hospitales y proveedores llegó a 58 billones, según la Contraloría [F1][F2]. Acemi calculaba necesidades adicionales de 22,3 billones anuales para estabilizar el sistema [F3]. La crisis viene de la Ley 100, el desfinanciamiento de la UPC y decisiones acumuladas, no de un solo gobierno [F1][F3].",
+          "progressivePerspective": "El dato es real, pero su uso es engañoso: una cifra de déficit patrimonial no prueba que el gobierno haya 'destruido' el sistema. Las EPS intervenidas ya venían deterioradas, la deuda es estructural y las intervenciones no lograron revertirla. Presentar el déficit como una sentencia política oculta las causas y las responsabilidades compartidas [F1][F2][F3].",
+          "whatTheyOmit": "Omite que el déficit es patrimonial/de deuda, que las EPS intervenidas ya estaban deterioradas y que la crisis tiene causas estructurales; no distingue entre déficit, deuda y faltante presupuestal [F1][F2][F3].",
+          "keyFacts": [
+            "El déficit patrimonial de las EPS fue de 18,7 billones en el primer semestre de 2026 [F1]",
+            "La deuda con hospitales y proveedores llegó a 58 billones [F2]",
+            "Acemi estimaba necesidades adicionales de 22,3 billones anuales [F3]",
+            "La crisis tiene causas estructurales y las intervenciones no revirtieron el deterioro [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://cambiocolombia.com/pais/articulo/2026/9/las-eps-deben-4035-billones-y-solo-tienen-la-mitad-de-esa-plata-en-activos-para-responder-solo-ocho-no-estan-en-numeros-rojos",
+              "note": "Documenta el déficit patrimonial de 18,7 billones y el de las EPS intervenidas.",
+              "host": "cambiocolombia.com",
+              "title": "Just a moment...",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.infobae.com/colombia/2026/09/02/contraloria-prende-las-alarmas-sobre-las-eps-deuda-con-hospitales-y-proveedores-llego-a-58-billones",
+              "note": "Contraloría: deuda con hospitales y proveedores de 58 billones.",
+              "host": "infobae.com",
+              "title": "Contraloría prende las alarmas sobre las EPS: deuda con hospitales y proveedores llegó a $58 billones",
+              "image": "https://www.infobae.com/resizer/v2/STPF7IO7Z5FB5EHJU4M6GKTHT4.jpeg?auth=65f1f87ae188200926fc9f426fa17e0ba5d7c555bb3b2f991a4ca6c893b42c96&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.portafolio.co/amp/economia/gobierno/acemi-propone-salvar-el-sistema-de-salud-con-22-billones-y-reforma-gradual-a-las-eps-494720",
+              "note": "Acemi: necesidades adicionales de 22,3 billones para estabilizar el sistema.",
+              "host": "portafolio.co",
+              "title": "Acemi propone salvar el sistema de salud con $22 billones y reforma gradual a las EPS",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/05/25/6a1489bc1c8ee.png"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "salud",
+          "claim": "Se afirma que las quejas en la Nueva EPS aumentaron 74%, en Famisanar 63%, en Asmet Salud 54% y de nuevo en la Nueva EPS 46%.",
+          "quote": "ese OES aumentó un 74% las quejas, famizanar un 63% azmed saludó un 54% y nueva EPS un 46%",
+          "figures": [
+            "74%",
+            "63%",
+            "54%",
+            "46%"
+          ],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "Solo el 74% de la Nueva EPS está documentado. Famisanar aumentó 60%, no 63%; las quejas de Asmet Salud disminuyeron entre 2023 y 2025, no subieron 54%; y el video repite Nueva EPS con 46%, una cifra que contradice el 74% [F1][F2][F3].",
+          "context": "La cifra de 74% corresponde a la Nueva EPS entre 2023 y el primer trimestre de 2025, según La República [F1]. La Defensoría reportó un aumento de 60% en las quejas contra Famisanar en 2025 [F2]. En Asmet Salud, los reclamos disminuyeron entre 2023 y 2025, según El Tiempo [F3]. El agregado de PQRS en EPS intervenidas subió 51,4%, pero eso no valida las cifras individuales del video [F3].",
+          "progressivePerspective": "El video acumula porcentajes para producir una apariencia de precisión, pero las cifras no corresponden a las entidades ni a los periodos que menciona. La crítica a la crisis de las EPS es legítima y está documentada; el problema es que se refuerza con datos mal atribuidos, lo que permite desacreditar el conjunto del reclamo [F1][F2][F3].",
+          "whatTheyOmit": "Omite que el 74% es de Nueva EPS, que Famisanar subió 60% y que Asmet Salud redujo sus reclamos; también omite que las cifras corresponden a periodos distintos [F1][F2][F3].",
+          "keyFacts": [
+            "Nueva EPS: +74% en quejas entre 2023 y el primer trimestre de 2025 [F1]",
+            "Famisanar: +60% en 2025, no 63% [F2]",
+            "Asmet Salud: los reclamos disminuyeron entre 2023 y 2025 [F3]",
+            "El video repite Nueva EPS con 74% y 46%, lo que contradice su propia cifra [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.larepublica.co/empresas/las-quejas-de-la-nueva-eps-que-esta-intervenida-subieron-74-entre-2023-y-2025-4257464",
+              "note": "Confirma el 74% de Nueva EPS entre 2023 y 2025.",
+              "host": "larepublica.co",
+              "title": "Las quejas de la Nueva EPS, que está intervenida, subieron 74% entre 2023 y 2025",
+              "image": "https://img.lalr.co/cms/2025/10/27182510/emp_nuevaepS_WEB.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.bluradio.com/salud/en-2025-las-quejas-en-contra-de-la-eps-famisanar-aumentaron-en-un-60-defensoria-del-pueblo-rg10",
+              "note": "Defensoría: Famisanar aumentó 60%, no 63%.",
+              "host": "bluradio.com",
+              "title": "En 2025, las quejas en contra de la EPS Famisanar aumentaron en un 60 %: Defensoría del Pueblo",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/e709395/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F61%2Ffa%2F8eba14e241f09dab0d456632cca1%2Fdefensoria.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/salud/exclusivo-a-los-pacientes-no-les-gusta-como-atienden-las-eps-intervenidas-por-el-gobierno-cae-la-satisfaccion-en-seis-de-ocho-aseguradoras-3537046",
+              "note": "Señala que Asmet Salud redujo sus reclamos entre 2023 y 2025.",
+              "host": "eltiempo.com",
+              "title": "Exclusivo: A los pacientes no les gusta cómo atienden las EPS intervenidas por el Gobierno: cae la satisfacción en seis de ocho aseguradoras",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/03/03/69a765be0eda6.r_d.1500-823-0.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "salud",
+          "claim": "Se afirma que en 2025 las tutelas por el derecho a la salud alcanzaron un récord histórico de 291.143.",
+          "quote": "el 2025 las tutelas por el derecho a la salud rompieron record históricos con 291.143 tutelas",
+          "figures": [
+            "2025",
+            "291.143 tutelas"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero es la cifra depurada",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El dato es real como cifra depurada: el Ministerio de Salud identificó 291.143 tutelas por salud en 2025 tras depurar 312.567 registros de la Corte Constitucional. El total bruto fue 312.567, también récord histórico [F1][F2][F3].",
+          "context": "La Corte Constitucional reportó 312.567 tutelas por salud en 2025, frente a 265.173 en 2024, un aumento de 17,9%; es el máximo histórico [F2][F3]. El Ministerio de Salud depuró esa base y adoptó 291.143 como universo de análisis, excluyendo registros que no correspondían al SGSSS [F1]. Ambas cifras son compatibles: una es el total bruto y la otra el universo depurado.",
+          "progressivePerspective": "El video acierta en el récord y en una cifra que tiene respaldo oficial, aunque no aclara que se trata de la base depurada y no del total bruto. La precisión importa porque el dato es serio: la crisis de acceso a la salud se refleja en la judicialización masiva, y usar la cifra correcta fortalece la crítica [F1][F2][F3].",
+          "whatTheyOmit": "Omite que 291.143 es la cifra depurada y que el total bruto reportado por la Corte es 312.567; ambas confirman el récord [F1][F2][F3].",
+          "keyFacts": [
+            "En 2025 se reportaron 312.567 tutelas por salud, récord histórico [F2][F3]",
+            "El Ministerio de Salud depuró la base y adoptó 291.143 tutelas del SGSSS [F1]",
+            "Las tutelas por salud pasaron de 265.173 en 2024 a 312.567 en 2025 (+17,9%) [F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/CA/informe-tutelas-vulneracion-derecho-salud-2025.pdf",
+              "note": "Informe oficial: 291.143 tutelas depuradas del SGSSS en 2025.",
+              "host": "minsalud.gov.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://m.elcolombiano.com/inicio/35-tutelas-por-hora-crisis-de-la-salud-en-colombia-OD34628420",
+              "note": "Corte Constitucional: 312.567 tutelas por salud en 2025 y 265.173 en 2024.",
+              "host": "m.elcolombiano.com",
+              "title": "AsÃ viviÃ³ Colombia en 2025 la crisis de salud: hubo 35 tutelas por hora pidiendo atenciÃ³n",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x826/0c0/1200d675/none/11101/LNIH/surgencias-medicas_50147721_20260313230915.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.lafm.com.co/sociedad/colombia-tutelas-record-crisis-salud-404902",
+              "note": "Confirma el récord histórico y la cifra de 312.567.",
+              "host": "lafm.com.co",
+              "title": "Colombia rompe récord de tutelas en salud: pacientes siguen reclamando medicamentos y tratamientos",
+              "image": "https://files.lafm.com.co/media/news-images/2026/01/07/180824/crisis-de-medicamentos-pacientes-en-la-nueva-eps-en-bogota-1200x675.jpg?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "politica",
+          "claim": "Se afirma que Petro aumentó el recaudo para contratar 22 billones más en nómina.",
+          "quote": "aumentar el recaudo para contratar 22 billones más en nómina",
+          "figures": [
+            "22 billones"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "Mayormente verdadero, pero impreciso en la causa",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El aumento de la nómina estatal fue de 22,7 billones entre 2022 y 2025, al pasar de 168,1 a 190,8 billones, con cerca de 130.000 nuevas vinculaciones. La cifra es cercana, pero el video la presenta como si todo ese dinero se hubiera 'contratado' con nuevo recaudo, lo que es impreciso [F1][F2][F3].",
+          "context": "El Observatorio Fiscal de la Javeriana documentó el crecimiento del gasto de personal: 22,7 billones más entre 2022 y 2025, impulsado por salarios, prestaciones, contratación y nuevas vinculaciones [F1][F2]. No es lo mismo que 'contratar 22 billones': parte del aumento corresponde a costos salariales y prestacionales, no solo a nuevos puestos [F1][F3].",
+          "progressivePerspective": "El dato de fondo es real y merece escrutinio: la nómina estatal creció de forma acelerada en un contexto fiscal difícil. Pero el video confunde costo total de la nómina con nuevas contrataciones y sugiere que todo se pagó con 'más recaudo', una relación que las fuentes no establecen. La crítica es válida; la causal es imprecisa [F1][F2][F3].",
+          "whatTheyOmit": "Omite que se trata del costo total de la nómina (salarios, prestaciones y contribuciones), no solo de nuevas contrataciones, y que el aumento no se financió necesariamente con un recaudo específico [F1][F2][F3].",
+          "keyFacts": [
+            "La nómina estatal pasó de 168,1 a 190,8 billones entre 2022 y 2025, un aumento de 22,7 billones [F1][F2]",
+            "Se registraron cerca de 130.000 nuevas vinculaciones en el sector público [F1][F2]",
+            "El aumento incluye salarios, prestaciones y contribuciones, no solo nuevos contratos [F1][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elcolombiano.com/negocios/datos-economicos-gobierno-petro-endeudamiento-balance-fiscal-OA37738710",
+              "note": "Documenta el aumento de 22,7 billones en la nómina estatal entre 2022 y 2025.",
+              "host": "elcolombiano.com",
+              "title": "Gobierno Petro deja nÃ³mina estatal $22 billones mÃ¡s cara y alza de 17,9% en tutelas de salud",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/1200d630/none/11101/OJUA/petro-economia_50886672_20260616064012.webp"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.larepublica.co/economia/gobierno-petro-deja-nomina-estatal-30-billones-mas-cara-y-alza-de-17-9-en-tutelas-de-salud-4414390",
+              "note": "Confirma la cifra y el número de nuevas vinculaciones.",
+              "host": "larepublica.co",
+              "title": "Gobierno Petro deja nómina estatal $22 billones más cara y alza de 17,9% en tutelas de salud",
+              "image": "https://img.lalr.co/cms/2026/06/13143945/web_eco_13062026_Gobierno_petro.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://m.elcolombiano.com/negocios/mayor-gasto-de-personal-gobierno-petro-EO36830765",
+              "note": "Observatorio Fiscal: el gasto de personal creció por salarios, prestaciones y contratación.",
+              "host": "m.elcolombiano.com",
+              "title": "Gobierno Petro registra el mayor alza en gasto de personal de los Ãºltimos 14 aÃ±os",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/1200d630/none/11101/SQQD/presupuesto-2026-gobierno-petro-50671719-20260520151009_50687302_20260522102822.webp"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "politica",
+          "claim": "Se acusa a Petro de usar fondos para pagar \"las prostitutas de la Casa de Nariño\".",
+          "quote": "y poderse pagar las prostitutas de la casa de narinio",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "No hay fuente que respalde que Petro usó fondos públicos para pagar 'prostitutas de la Casa de Nariño'. Lo que existe son denuncias de presuntos 'sexocontratos' e investigaciones en curso; Petro niega los hechos y no hay condena [F1][F2][F3].",
+          "context": "La denuncia pública proviene de Deicy Jiménez, quien alega haber recibido contratos a cambio de sexo; la Fiscalía abrió una indagación y citó a exdirectoras del Dapre, y el caso también llegó a la Corte Suprema [F1][F2]. No hay decisión judicial que confirme los hechos, y las fuentes advierten que son acusaciones por verificar [F1][F3]. Petro niega los señalamientos y habla de una operación política [F3].",
+          "progressivePerspective": "La acusación convierte una denuncia en sentencia y usa un insulto misógino para referirse a las presuntas víctimas. Eso no solo carece de prueba: revictimiza y desvía la atención de lo que sí debería investigarse, que es el uso de contratación pública para favores sexuales. El estándar de verdad exige distinguir denuncia, investigación y condena [F1][F2][F3].",
+          "whatTheyOmit": "Omite que es una denuncia en investigación, que Petro niega los hechos y que no existe decisión judicial; también omite que el lenguaje del video revictimiza a las denunciantes [F1][F2][F3].",
+          "keyFacts": [
+            "La Fiscalía abrió una indagación por presuntos 'sexocontratos' y citó a exdirectoras del Dapre [F1][F2]",
+            "No hay condena ni decisión judicial que confirme los hechos [F1][F3]",
+            "Petro niega los señalamientos y los atribuye a una operación política [F3]",
+            "No hay fuente que pruebe el uso de fondos públicos para pagar 'prostitutas' [F1][F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://elpais.com/america-colombia/2026-10-26/la-fiscalia-y-la-procuraduria-indagan-dos-denuncias-que-senalan-a-gustavo-petro-de-intercambiar-contratos-por-relaciones-sexuales.html",
+              "note": "Relata las denuncias y la indagación; no confirma los hechos.",
+              "host": "elpais.com",
+              "title": "La Fiscalía y la Procuraduría indagan dos denuncias que señalan a Gustavo Petro de intercambiar contratos por relaciones sexuales",
+              "image": "https://imagenes.elpais.com/resizer/v2/DIAPZZO5B5HIBMY7UTI4VKHHFE.jpg?auth=cfd4daaed57640ecd675ccadd7ea692857ff1749fce7c4e416aa04131f329af6&width=1200"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elnuevodia.com.co/politica/la-fiscalia-tomo-una-decision-clave-por-el-caso-de-los-sexo-contratos-540753",
+              "note": "Detalla las citaciones y la etapa procesal.",
+              "host": "elnuevodia.com.co",
+              "title": "La decisión de la Fiscalía por los “sexo contratos” de Petro",
+              "image": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/10/terremoto-de-agosto-estaria-detras-de-los-sismos-en-chaparral-2026-10-26t100142.287.webp?itok=H3p0xOL2"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elnacional.com/2026/11/gustavo-petro-es-investigado-en-colombia-por-escandalo-sexual/",
+              "note": "Recoge la investigación y la negativa de Petro.",
+              "host": "elnacional.com",
+              "title": "Gustavo Petro es investigado en Colombia por escándalo sexual",
+              "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/04215032/gustavo-petro-2.jpg"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "economia",
+          "claim": "Se afirma que todos los colombianos están comiendo más caro y pagando más por absolutamente todos los servicios.",
+          "quote": "a todos nos tiene comiendo más caro y pagando más por absolutamente todos los servicios",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "La inflación es real, pero 'absolutamente todos los servicios' es falso: en 2026 hubo caídas en tomate (-17,21%), carne de cerdo (-6,23%) y arroz (-5,60%), y divisiones con aumentos menores al promedio, como prendas de vestir (3,38%) e información y comunicación (4,97%) [F1][F2][F3].",
+          "context": "El IPC anual de octubre de 2026 fue 6,30%, con alimentos entre las divisiones de mayor presión y alzas fuertes en papas [F1]. Pero no todos los precios subieron: el tomate cayó 17,21%, la carne de cerdo 5,92% y el arroz 5,60%; en el mes de octubre, la división de muebles incluso bajó 0,03% [F1][F2]. La inflación golpea más a los hogares pobres, pero no es universal [F1][F3].",
+          "progressivePerspective": "La generalización totalizante es refutable con un solo dato contrario y debilita la crítica legítima al costo de vida. El video podría denunciar con precisión el peso de alimentos, vivienda y restaurantes en el bolsillo de los hogares; en cambio, afirma que todo subió, lo que permite desviar la discusión hacia la exageración en lugar de las causas reales [F1][F2][F3].",
+          "whatTheyOmit": "Omite que varios alimentos y divisiones bajaron de precio y que la inflación se concentra en alimentos, vivienda y restaurantes, no en 'absolutamente todos' los servicios [F1][F2][F3].",
+          "keyFacts": [
+            "El IPC anual de octubre de 2026 fue 6,30% [F1]",
+            "En agosto de 2026 los alimentos y bebidas no alcohólicas variaron 6,10% anual [F3]",
+            "Tomate (-17,21%), carne de cerdo (-5,92%) y arroz (-5,60%) bajaron de precio [F1][F2]",
+            "Información y comunicación (4,97%) y prendas de vestir (3,38%) tuvieron variaciones menores al promedio [F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elcolombiano.com/negocios/inflacion-colombia-octubre-2026-precio-papa-alimentos-ID43379155",
+              "note": "IPC de octubre de 2026 y productos con variaciones negativas.",
+              "host": "elcolombiano.com",
+              "title": "La papa va disparada y llevÃ³ la inflaciÃ³n a 6,30%",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x792/0c0/1280d720/none/11101/HXHF/plaza-mayorista-p-4_52094673_20261109201644.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://m.elcolombiano.com/negocios/inflacion-colombia-julio-2026-ipc-precios-costo-de-vida-PC39800924",
+              "note": "IPC de julio de 2026: caídas en tomate, carne de cerdo, arroz y divisiones con menor variación.",
+              "host": "m.elcolombiano.com",
+              "title": "InflaciÃ³n llegÃ³ a 6,03% en julio en Colombia, Â¿quÃ© productos se encarecieron mÃ¡s?",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/1c0/1280d720/none/11101/WOTI/cvfrutas-39_51337722_20260810181958.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/files/operaciones/IPC/sep2026/bol-IPC-sep2026.pdf",
+              "note": "Boletín del DANE con las variaciones anuales por divisiones.",
+              "host": "dane.gov.co",
+              "title": "",
+              "image": ""
             }
           ]
         }
