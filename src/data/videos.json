@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:18:19",
+  "generatedAt": "2026-11-13T09:26:23",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -5885,6 +5885,750 @@
               "host": "radio.unal.edu.co",
               "title": "Presupuesto 2026",
               "image": "https://radio.unal.edu.co/fileadmin/_processed_/3/6/csm_08_21_2025_TEMATICO_f0f83d3b48.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "dni-hacker-espionaje-elecciones-petro",
+      "title": "El 'hacker' de la DNI y el supuesto plan para alterar las elecciones",
+      "uploader": "Fabio Builes Gonzalez",
+      "url": "https://m.facebook.com/watch/?v=1775692400320547&_rdr",
+      "duration": 178.733,
+      "thumbnail": "/media/dni-hacker-espionaje-elecciones-petro/thumb.jpg",
+      "conclusion": "## Datos reales, relato ampliado: el camino de 'ocurrió esto' a 'la realidad es esta'\n\nEl video construye la narrativa de una captura institucional de la DNI por parte del gobierno saliente, donde un hacker con orden de captura vigente habría liderado un plan de espionaje y alteración electoral con apoyo extranjero, mientras el presidente Petro habría impulsado esa operación desde la insistencia en obtener el código fuente de la Registraduría. La percepción que genera es de una conspiración ejecutada, con responsabilidades directas y probadas de funcionarios y del propio presidente.\n\nVarios elementos de esa narrativa tienen base real. Carlos Andrés Oyola Tovar sí tenía orden de captura desde mayo de 2026, permaneció vinculado a la DNI durante meses y fue capturado en noviembre de 2026, y el informe de Noticias Caracol sobre el 'informe de empalme' de 26 páginas sí existe y sí menciona planes de espionaje a expresidentes y un plan atribuido de ataque a la Registraduría. Los contratos cuestionados por la Contraloría (helicóptero no tripulado por $9.000 millones, tres sistemas antidrones por $8.340 millones, computadores) son cifras reales. Petro insistió en la entrega del código fuente, y la secuencia de su mensaje contra Caracol seguida de la alerta de bomba ocurrió.\n\nEl problema de interpretación comienza cuando el video presenta los señalamientos de un documento interno, que los propios medios califican como pendientes de verificación por las autoridades, como hechos consumados. También cuando sugiere una relación causal entre el mensaje de Petro y la amenaza de bomba (atribuida por las autoridades al ELN), cuando atribuye la intención de 'robarse las elecciones' a Petro sin evidencia alguna de esa motivación, cuando presenta un equipo cubano y venezolano del que ninguna fuente da cuenta, o cuando vincula presupuestalmente los gastos de la DNI con muertes por espera médica sin dato ni relación documentada.\n\nEl punto de quiebre ocurre cuando el video deja de enunciar 'este informe interno señala esto' para afirmar 'esta es la realidad': la transición de denuncia documental a hecho probado. En ese salto se pierde lo crucial: no existe constancia de que el fraude se ejecutara, no hay fallo judicial que haya declarado probado el plan, los señalamientos provienen de un documento interno de la propia DNI y no de una decisión judicial, y no se conoce una respuesta pública de los exdirectores señalados; los contratos bajo revisión de la Contraloría no constituyen irregularidades declaradas.\n\nLo que falta —el contexto de que todo proviene de documentos internos no verificados judicialmente, que Oyola ingresó a la DNI antes de tener orden de captura (no siendo reclutado siendo prófugo), que la fiscal general niega categóricamente las reuniones y sus bitácoras no registran encuentros, que la crisis de salud tiene causas estructurales desde la Ley 100 de 1993— modifica la interpretación inicial. Una lectura más completa apunta a situaciones serias que merecen investigación institucional en marcha, pero que aún no permiten afirmar que un plan de alteración electoral se ejecutara ni que existan responsabilidades probadas de funcionarios.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "seguridad",
+          "claim": "Se presenta como secuencia que Gustavo Petro publicó un mensaje contra Noticias Caracol y que un día después hubo una amenaza de bomba contra las instalaciones del canal.",
+          "quote": "Mirar este trino de [Gustavo Petro] contra Noticias Caracol. Un día después, amenaza de bomba contra las instalaciones de Noticias Caracol.",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La secuencia temporal es real: el 6 de noviembre de 2026 Petro anunció demandas contra Caracol TV por un informe sobre Angie Rodríguez [F4][F5] y la noche del 7 de noviembre Caracol evacuó su sede por una alerta de bomba [F2]. Pero la afirmación sugiere una relación causal que las fuentes no sostienen: las autoridades atribuyeron la amenaza a un posible atentado del ELN, no a Petro, y no hay evidencia de que el mensaje del expresidente la haya originado [F1][F3].",
+          "context": "Petro cuestionó la cobertura de Caracol sobre un examen toxicológico de Angie Rodríguez y anunció acciones civiles y penales [F4][F5]. Al día siguiente, Caracol Televisión informó que las autoridades le alertaron sobre la intención de grupos ilegales de atentar contra el canal; la Policía no halló explosivos [F2]. La alerta también cobijó a Caracol Radio, RCN y Semana, y el Gobierno atribuyó el riesgo al ELN [F1][F3]. La coincidencia temporal no equivale a causalidad.",
+          "progressivePerspective": "Presentar dos hechos consecutivos como una cadena de causa y efecto es una de las formas más eficaces de desinformación: no se inventa ningún dato, pero se sugiere una responsabilidad que no está probada. La verificación exige separar el conflicto público entre Petro y Caracol [F4][F5] de la amenaza atribuida al ELN [F1][F3]. Sin esa distinción, el espectador puede concluir que el mensaje del expresidente desencadenó el atentado, una afirmación que ninguna fuente respalda.",
+          "whatTheyOmit": "Omite que la amenaza fue atribuida por las autoridades al ELN [F1][F3] y que la Policía no encontró explosivos [F2]. También omite que el mensaje de Petro se refería a un informe sobre Angie Rodríguez y anunciaba demandas, no a una incitación contra el canal [F4][F5].",
+          "keyFacts": [
+            "El 6 de noviembre de 2026 Petro anunció demandas civiles y penales contra Caracol TV por un informe sobre Angie Rodríguez [F4][F5]",
+            "La noche del 7 de noviembre de 2026 Caracol Televisión evacuó su sede por una alerta de bomba; la Policía no halló explosivos [F2]",
+            "Las autoridades atribuyeron la amenaza a un posible atentado del ELN contra Caracol, Caracol Radio, RCN y Semana [F1][F3]",
+            "No hay evidencia en las fuentes de que el mensaje de Petro haya originado la amenaza [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://cpj.org/2026/11/guerrilla-group-threatens-3-colombian-media-outlets-with-bomb-threats/",
+              "note": "Informa que las autoridades atribuyeron la amenaza de atentado contra Caracol, Caracol Radio y RCN al ELN; no la vinculan con Petro.",
+              "host": "cpj.org",
+              "title": "Guerrilla group threatens 3 Colombian media outlets with bomb plot - Committee to Protect Journalists",
+              "image": "https://cpj.org/wp-content/uploads/2026/11/caracol-television.png?resize=1200,642&strip=all&quality=80"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/bogota/atencion-evacuan-instalaciones-de-caracol-television-por-amenaza-de-bomba-esto-se-sabe-3599325",
+              "note": "Registra la evacuación de Caracol TV la noche del 7 de noviembre de 2026 por una alerta de bomba; la Policía no halló explosivos.",
+              "host": "eltiempo.com",
+              "title": "Evacuaron instalaciones de Caracol Televisión por alerta de posible bomba: Policía dice que no hay evidencia de explosivos",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aefe364648eb.r_d.657-272-0.webp"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/de-la-espriella-ordeno-reforzar-seguridad-caracol-tv-caracol-radio-rcn-semana-amenazas-atentado-OF43319456",
+              "note": "Da cuenta de las alertas de inteligencia sobre posibles atentados del ELN y de las medidas ordenadas por el presidente.",
+              "host": "elcolombiano.com",
+              "title": "De la Espriella ordenÃ³ reforzar la seguridad de Caracol TV, Caracol Radio, RCN y Semana tras amenazas de atentado",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c23/1280d720/none/11101/BTGN/ella-ordeno-reforzar-la-seguridad-de_52082415_20261108091633.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.publimetro.co/noticias/2026/11/06/atacarme-e-insinuar-gustavo-petro-estallo-contra-caracol-tv-por-angie-rodriguez-y-anuncio-contundente-demanda/",
+              "note": "Documenta el mensaje de Petro del 6 de noviembre de 2026 contra Caracol TV y su anuncio de demanda.",
+              "host": "publimetro.co",
+              "title": "“Atacarme e insinuar”: Gustavo Petro estalló contra Caracol TV por Angie Rodríguez y anunció contundente demanda",
+              "image": "https://www.publimetro.co/resizer/v2/PQXA2FZAERBOFM6RNYJP76Q3ZA.png?smart=true&auth=cce9236471971b8befcbe1554c814c12f912475693a27bc6a5a7d7e27f87eafe&width=1200&height=630"
+            },
+            {
+              "ref": "F5",
+              "url": "https://diariolalibertad.com/2026/11/07/petro-anuncia-demandas-civiles-y-penales-contra-caracol-television-por-informe-sobre-angie-rodriguez/",
+              "note": "Confirma el anuncio de acciones judiciales de Petro contra Caracol por el informe sobre Angie Rodríguez.",
+              "host": "diariolalibertad.com",
+              "title": "Petro anuncia demandas civiles y penales contra Caracol Televisión por informe sobre Angie Rodríguez - Diario La Libertad.",
+              "image": "https://diariolalibertad.com/wp-content/uploads/2026/10/petro.webp"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "seguridad",
+          "claim": "Carlos Andrés Oyola Tovar tenía una orden de captura desde mayo de 2026 por presuntamente hackear la UNAD para falsificar títulos académicos.",
+          "quote": "que tenía orden de captura desde mayo de 2026 por haber hackeado la UNAD para falsificar títulos académicos",
+          "figures": [
+            "mayo de 2026"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero la captura es por el caso UNAD",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación es verdadera en lo esencial: un juez emitió orden de captura contra Carlos Andrés Oyola Tovar el 7 de mayo de 2026 y la captura se produjo el 6 de noviembre de 2026 por el caso del hackeo a la UNAD, donde se alteraron notas y se obtuvieron títulos de especialista y magíster [F1][F2][F3].",
+          "context": "La UNAD denunció desde 2021 la manipulación de su sistema; la Fiscalía identificó 22 estudiantes afectados y más de 40 modificaciones de registros académicos [F1][F3]. La orden de captura quedó firmada el 7 de mayo de 2026 y Oyola, que seguía vinculado a la DNI, fue detenido seis meses después en Neiva [F2][F4]. El proceso penal por la UNAD es el que motivó la captura; los señalamientos por espionaje y fraude electoral son materia de otra investigación y no han sido imputados [F1][F3].",
+          "progressivePerspective": "El dato resiste la verificación y es el punto de partida sólido del escándalo: una persona con orden de captura vigente permaneció dentro de la agencia de inteligencia. La afirmación, sin embargo, debe separarse de los señalamientos posteriores sobre fraude electoral, que no forman parte de la imputación por la UNAD [F1][F3].",
+          "whatTheyOmit": "Omite que la captura se produjo por el caso UNAD y que los delitos imputados son concierto para delinquir, acceso abusivo a sistema informático, falsedad en documento público y fraude procesal; los señalamientos electorales no tienen imputación conocida [F1][F3].",
+          "keyFacts": [
+            "Carlos Andrés Oyola Tovar tenía orden de captura desde el 7 de mayo de 2026 [F1][F2]",
+            "Fue capturado el 6 de noviembre de 2026 en Neiva por el presunto hackeo a la UNAD [F1][F2][F3]",
+            "La UNAD denunció la manipulación de notas y registros desde 2021; se identificaron 22 estudiantes afectados [F1][F3]",
+            "La captura se produjo por el caso UNAD; los señalamientos de espionaje y fraude electoral no forman parte de esa imputación [F1][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://cambiocolombia.com/pais/articulo/2026/11/unad-habla-del-caso-del-hacker-de-la-dni-y-afirma-que-denuncio-el-fraude-de-notas-en-2021",
+              "note": "Explica el fraude académico en la UNAD, la orden de captura del 7 de mayo de 2026 y los delitos imputados.",
+              "host": "cambiocolombia.com",
+              "title": "Just a moment...",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/11/09/funcionario-del-dni-detenido-seria-un-hacker-investigado-por-intentar-manipular-elecciones/",
+              "note": "Confirma que Oyola tenía orden de captura desde mayo y permaneció seis meses prófugo mientras seguía vinculado a la DNI.",
+              "host": "caracol.com.co",
+              "title": "Funcionario de la DNI detenido sería un ‘hacker’ investigado por intentar manipular elecciones",
+              "image": "https://caracol.com.co/resizer/v2/ADLRZIFEBJEXTLG2PRWQTMC75Q.jpg?auth=0aafa2ee5dfbeded7da3fb16d909f090204f98c236983e4014fedb0b276fcada&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://minuto60.com/investigacion/carlos-oyola-red-detras-proceso-contra-hacker-gobierno-petro-unad/18643",
+              "note": "Detalla la red de títulos falsos de la UNAD y el papel de Oyola en ella.",
+              "host": "minuto60.com",
+              "title": "Esta es la red detrás del ‘hacker’ del gobierno Petro: Fiscalía los llamó a juicio",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/llamados-a-juicio-20261109-155722_20261109_155722_twitter.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/11/08/cayo-funcionario-activo-del-dni-acusado-de-hackear-abusivamente-sistema-de-inteligencia-del-estado",
+              "note": "Registra la captura en Neiva y los señalamientos por acceso abusivo a información estratégica.",
+              "host": "infobae.com",
+              "title": "Cayó funcionario activo del DNI acusado de ‘hackear’ “abusivamente” sistema de inteligencia del Estado",
+              "image": "https://www.infobae.com/resizer/v2/TDIJRC4I5VCYHCCYZ6T3MTFH4Q.png?auth=e60506f901ade819f4222f7792c5a0a3357c3e8240568c04edf7058e14f58a08&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "seguridad",
+          "claim": "Se afirma que, estando prófugo, el hacker fue vinculado a la DNI por decisión de un alto funcionario.",
+          "quote": "Siendo prófugo, [un alto funcionario] lo metió a la DNI, según el reporte de Caracol",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Es cierto que Carlos Oyola Tovar mantuvo su vínculo con la DNI y fue protegido por la entidad mientras tenía una orden de captura vigente desde el 7 de mayo de 2026, y que un exdirector general, Jorge Lemus, lo reubicó en el grupo de tecnología. Sin embargo, la afirmación de que un alto funcionario 'lo metió a la DNI' siendo prófugo invierte la línea temporal: Oyola ingresó a la DNI en febrero de 2024, casi dos años antes de que se emitiera la orden de captura [F2][F3].",
+          "context": "Según los documentos internos de la DNI obtenidos por Noticias Caracol y recogidos por medios como Infobae y La Silla Vacía, Oyola ingresó a la entidad en febrero de 2024 y fue ubicado en el grupo de tecnología a disposición del área de contrainteligencia. Un documento señala que 'El exdirector de contrainteligencia lo puso a disposición del exdirector general Jorge Lemus, quien lo reubicó en el grupo de tecnología' [F2]. El 7 de mayo de 2026 un juez expidió una orden de captura por el hackeo a la UNAD; pese a eso, continuó vinculado a la agencia y, según Radio Guatapuri, 'contó con protección de la propia DNI, lo que le permitió evadir a la Fiscalía durante seis meses, incluyendo todo el periodo electoral' [F3]. Fue capturado el 6 de noviembre de 2026 en Neiva aún como funcionario activo [F2][F4]. La Contraloría ordenó revisar cinco contratos de la DNI por $20.783 millones tras la denuncia periodística [F1][F4].",
+          "progressivePerspective": "Desde el marco de verdad y no repetición, el hecho documentado —que una agencia de inteligencia mantuvo y protegió a un funcionario con orden de captura vigente durante el proceso electoral— es relevante para el esclarecimiento de la verdad institucional sobre el uso político de los servicios de inteligencia [F2][F3]. El video presenta la secuencia como prueba de una decisión deliberada de un alto funcionario de 'meterlo' a la DNI siendo prófugo, lo que exagera la cronología: el ingreso fue anterior a la orden de captura. Aun así, la documentación respalda que hubo reubicaciones y protección interna mientras estaba requerido, lo cual sí merece investigación [F2][F3]. La afirmación contribuye a exigir rendición de cuentas, pero al reformular la línea temporal de forma imprecisa puede distorsionar los hechos verificables y alimentar una narrativa de culpabilidad sin debido proceso para los funcionarios mencionados [F1][F2].",
+          "whatTheyOmit": "Omite la fecha de ingreso de Oyola a la DNI (febrero de 2024), que es previa a la orden de captura (7 de mayo de 2026), lo cual cambia la naturaleza de la acusación: no fue reclutado siendo prófugo sino que permaneció y fue reubicado dentro de la entidad mientras estaba requerido [F2]. También omite que el señalamiento proviene de informes internos de la DNI citados periodísticamente, no de una decisión judicial, y que hasta la fecha no hay fallo que haya declarado probado un 'fraude electoral ejecutado' [F1][F2][F3].",
+          "keyFacts": [
+            "Carlos Andrés Oyola Tovar ingresó a la DNI en febrero de 2024, antes de que se expidiera la orden de captura del 7 de mayo de 2026 [F2][F3]",
+            "Tenía una orden de captura vigente desde el 7 de mayo de 2026 y permaneció vinculado a la DNI durante al menos seis meses, incluyendo el periodo electoral [F2][F3][F4]",
+            "Un documento interno de la DNI indica que 'El exdirector de contrainteligencia lo puso a disposición del exdirector general Jorge Lemus, quien lo reubicó en el grupo de tecnología' [F2]",
+            "Según Radio Guatapuri, 'contó con protección de la propia DNI, lo que le permitió evadir a la Fiscalía durante seis meses' [F3]",
+            "Fue capturado el 6 de noviembre de 2026 en Neiva, Huila, aún figurando como funcionario activo de la DNI [F2][F4]",
+            "Los documentos internos le atribuyen liderar una red que buscaba cambiar resultados de la votación del 21 de junio de 2026 mediante ataques a la Registraduría, pero esto es un señalamiento en informes, no una sentencia [F1][F2]",
+            "La Contraloría ordenó revisar cinco contratos de la DNI por $20.783 millones tras la denuncia de Noticias Caracol [F1][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/en-vivo/contratos-cuestionados-espionaje-y-reencauches-la-dni-en-la-era-petro/",
+              "note": "Resumen del informe de empalme de 26 páginas de la DNI; compras cuestionadas, hacker dentro del equipo y planes de espionaje",
+              "host": "lasillavacia.com",
+              "title": "Contratos cuestionados, espionaje y reencauches: la DNI en la era Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Gustavo-Petro-Consejo-de-Ministros-Julio-9-2026-.jpg.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.infobae.com/colombia/2026/11/09/el-papel-de-carlos-oyola-en-la-dni-habria-coordinado-hackers-y-participado-en-un-presunto-plan-para-atacar-la-registraduria/",
+              "note": "Detalla la cronología de Oyola en la DNI, su orden de captura, la reubicación por Lemus y los señalamientos en documentos internos",
+              "host": "infobae.com",
+              "title": "El papel de Carlos Oyola en la DNI: habría coordinado hackers y participado en un presunto plan para atacar la Registraduría",
+              "image": "https://www.infobae.com/resizer/v2/OK3O5NYS4NHTVIRUNCVZV33RHU.jpg?auth=3cb2e678734454e5aa053ee09cc3ddd706fcf599b53267c0e63ee5dc24294aa5&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F3",
+              "url": "https://radioguatapuri.com/noticias/hacker-dni-carlos-oyola-orden-captura",
+              "note": "Confirma que Oyola tuvo protección de la DNI con orden de captura vigente y su captura el 6 de noviembre de 2026",
+              "host": "radioguatapuri.com",
+              "title": "El hacker de la DNI que operó con orden de captura vigente y lideró ataques contra la Registraduría",
+              "image": "https://journal.api.radioguatapuri.com/uploads/b9ab46e93f3e04d1.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://larazon.co/escandalo-en-la-dni-presunto-hacker-trabajo-con-orden-de-captura-vigente-desde-mayo/",
+              "note": "Reporta la orden de captura del 7 de mayo de 2026, la investigación y la revisión de contratos por la Contraloría",
+              "host": "larazon.co",
+              "title": "Escándalo en la DNI: presunto hacker trabajó con orden de captura vigente desde mayo",
+              "image": "https://larazon.co/wp-content/uploads/2026/11/Bandera-blanca-de-inteligencia-colombiana-1024x683.png"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Según el reporte de Noticias Caracol, el hacker habría liderado labores de espionaje a expresidentes y líderes de la oposición y un plan para alterar los resultados electorales que llevaría a la presidencia al candidato oficialista.",
+          "quote": "para realizar espionaje, infiltrar exmandatarios y líderes de la oposición y para efectuar el fraude electoral que llevaría a [el candidato oficialista] derechito a la presidencia",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El reporte de Noticias Caracol sí existe y sí atribuye al interior de la DNI, durante el gobierno anterior, tanto supuestos planes de espionaje a expresidentes como la designación de Carlos Oyola para liderar una red que atacaría los sistemas de la Registraduría con el fin de alterar los resultados de la segunda vuelta del 21 de junio de 2026 [F1][F2][F3][F4]. Sin embargo, la afirmación presenta como hecho consumado lo que las fuentes califican como señalamientos de un 'informe de empalme' interno que 'deberán ser esclarecidos por las autoridades' [F4], no existe evidencia en las fuentes de que el fraude se ejecutara exitosamente, y las fuentes mencionan expresidentes y exvicepresidentes como objeto del espionaje, no expresamente 'líderes de la oposición' [F3][F4].",
+          "context": "Las revelaciones provienen de un 'informe de empalme' de 26 páginas, elaborado en julio de 2026 por funcionarios de la propia DNI para el director entrante Jorge Andrés Zuluaga, basado en información de funcionarios de la administración anterior [F1][F3][F4]. Entre los hallazgos documentados: el Decreto 0563 del 3 de junio de 2026, dos semanas antes de la segunda vuelta, asignó a la DNI una función en la distribución de vehículos de protección a expresidentes —competencia de la UNP— lo que el informe interpreta como posible base para instalar micrófonos y GPS en dichos vehículos; una fuente humana habría advertido ese plan [F3][F4]. Respecto a Oyola: ingresó a la DNI en febrero de 2024, tenía orden de captura desde el 7 de mayo de 2026 (tres semanas antes de la primera vuelta), escapó de un allanamiento en el apartamento 'fachada' de la DNI y fue detenido el 6 de noviembre de 2026 en Neiva; estaba procesado por hackeo a la UNAD para alterar sus propias notas y obtener títulos de posgrado [F2][F4]. El informe le habría encomendado 'liderar la red que realizaría el trabajo para cambiar resultados de la votación del 21 de junio' [F1][F2]. La Contraloría ordenó revisar cinco contratos de la DNI por $20.783 millones, incluidos un dron de $9.000 millones y tres sistemas antidrones de $8.340 millones [F1]. El vicepresidente José Manuel Restrepo pidió investigar de fondo los hechos y actuar contra los responsables [F4]. Ninguno de los expresidentes consultados quiso pronunciarse y los exdirectores de la DNI no respondieron [F4].",
+          "progressivePerspective": "Este asunto no corresponde a la jurisdicción de la JEP, que juzga crímenes graves del conflicto armado colombiano a los máximos responsables, con fines de verdad, justicia, reparación y no repetición; se trata de presuntos delitos informáticos, interferencia electoral y posibles abusos de una agencia de inteligencia, cuya investigación corresponde a la Fiscalía, la Contraloría y las autoridades ordinarias [F2][F4]. Aun así, el marco de valoración resulta pertinente: exige distinguir con rigor entre lo denunciado y lo probado, cosa que la afirmación no hace al presentar el plan electoral como un fraude ya ocurrido ('llevaría al candidato a la presidencia'). Las fuentes describen una intención atribuida en un documento interno, no un fraude ejecutado ni verificado [F1][F2][F4]. Un esfuerzo genuino de verdad exige, por un lado, que se investiguen estos señalamientos —como pidió el propio vicepresidente— porque la posible utilización de una agencia de inteligencia para vigilar a expresidentes y para interferir en los resultados electorales atentaría contra la democracia y contra la no repetición de prácticas de espionaje político [F3][F4]; y por otro lado, que no se conviertan en afirmaciones categóricas antes de que exista una decisión judicial, respetando el derecho a la presunción de inocencia de los señalados, incluida la fiscal general y los exdirectores de la DNI, cuyas versiones aún no se conocen [F2][F4]. La verificación rigurosa es en sí misma un aporte a la verdad: informar con precisión lo que el documento dice y lo que no dice evita tanto la impunidad por omisión como la revictimización o la instrumentalización de acusaciones sin probar.",
+          "whatTheyOmit": "Omite que todos los elementos centrales provienen de un documento interno ('informe de empalme') elaborado por funcionarios de la administración entrante y que, según las propias fuentes, los señalamientos 'deberán ser esclarecidos por las autoridades' [F4]. No aclara que no hay constancia de que el ataque a la Registraduría se ejecutara ni de que los resultados electorales fueran alterados: el informe habla de una red planificada para ello [F1][F2][F4]. Omite que las fuentes mencionan como objeto del espionaje a expresidentes y exvicepresidentes, no a 'líderes de la oposición' en términos generales [F3][F4]. Tampoco indica que los exdirectores de la DNI y los expresidentes consultados no se han pronunciado y que la versión de los señalados es inexistente hasta ahora [F4], ni que el mismo gobierno en funciones ha pedido investigar de fondo los hechos [F4].",
+          "keyFacts": [
+            "Noticias Caracol difundió un 'informe de empalme' de 26 páginas, elaborado en julio de 2026 por funcionarios de la DNI para su director entrante, que menciona planes para espiar a expresidentes y a un hacker dentro del equipo [F1][F3][F4]",
+            "El informe atribuye a Carlos Oyola la misión de 'liderar la red que realizaría el trabajo para cambiar resultados de la votación del 21 de junio' y ejecutar ataques contra la Registraduría [F1][F2]",
+            "El Decreto 0563 del 3 de junio de 2026, dos semanas antes de la segunda vuelta, incluyó a la DNI en la asignación de vehículos de protección a expresidentes, lo que el informe interpreta como posible control e inteligencia sobre ellos; una fuente humana advirtió sobre micrófonos y GPS en esos vehículos [F3][F4]",
+            "Oyola tenía orden de captura desde el 7 de mayo de 2026 por el hackeo a la UNAD para alterar sus notas y obtener títulos de posgrado; escapó de un allanamiento en el apartamento fachada de la DNI y fue detenido el 6 de noviembre de 2026 en Neiva, siguiendo como funcionario de la entidad [F2][F4]",
+            "La Contraloría ordenó revisar cinco contratos de la DNI por $20.783 millones, incluidos un dron no tripulado por $9.000 millones y tres sistemas antidrones por $8.340 millones [F1]",
+            "El vicepresidente José Manuel Restrepo calificó los hechos como un posible 'ataque a la democracia misma' y pidió investigarlos y sancionar a los responsables [F4]",
+            "Los expresidentes mencionados, los exdirectores de la DNI Rafael Guarín y Jorge Lemus y la fiscal no respondieron a las consultas del medio; las fuentes no registran decisiones judiciales que confirmen el fraude electoral ni el espionaje como hechos probados [F2][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/en-vivo/contratos-cuestionados-espionaje-y-reencauches-la-dni-en-la-era-petro/",
+              "note": "Resume las claves del informe de empalme: planes para espiar a expresidentes vía el Decreto 0563 de 2026, casa clandestina cerca de la Embajada de EE. UU., dron de $9.000 millones, orden de captura de Oyola desde el 7 de mayo de 2026 y su función de 'liderar la red que realizaría el trabajo para cambiar resultados de la votación del 21 de junio'; también los cinco contratos revisados por la Contraloría.",
+              "host": "lasillavacia.com",
+              "title": "Contratos cuestionados, espionaje y reencauches: la DNI en la era Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Gustavo-Petro-Consejo-de-Ministros-Julio-9-2026-.jpg.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/11/09/funcionario-del-dni-detenido-seria-un-hacker-investigado-por-intentar-manipular-elecciones/",
+              "note": "Reporte original de Noticias Caracol: confirma que Oyola habría liderado la red para atacar la Registraduría, su ingreso a la DNI en febrero de 2024, la orden de captura del 7 de mayo de 2026, el hackeo a la UNAD, las supuestas reuniones con la fiscal Camargo y el presunto espionaje a expresidentes. Todo en forma de presunta/habría.",
+              "host": "caracol.com.co",
+              "title": "Funcionario de la DNI detenido sería un ‘hacker’ investigado por intentar manipular elecciones",
+              "image": "https://caracol.com.co/resizer/v2/ADLRZIFEBJEXTLG2PRWQTMC75Q.jpg?auth=0aafa2ee5dfbeded7da3fb16d909f090204f98c236983e4014fedb0b276fcada&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/09/documentos-secretos-de-la-dni-revelarian-plan-para-espiar-a-expresidentes-e-interferir-en-elecciones-durante-el-gobierno-petro/",
+              "note": "Detalle del plan de micrófonos y GPS en vehículos de expresidentes y exvicepresidentes según fuente humana del informe; cita al exconsejero de Seguridad Nacional Juan Carlos Restrepo sobre actuación fuera del marco de competencias de la DNI; incluye casa clandestina, malware ruso y dron con fallas técnicas.",
+              "host": "infobae.com",
+              "title": "Documentos secretos de la DNI revelarían plan para espiar a expresidentes e interferir en elecciones durante el Gobierno Petro",
+              "image": "https://www.infobae.com/resizer/v2/KEHUVWO34JE37G7CMFDXEVIPZM.jpg?auth=fa05084267f99b7c65ac013182816f688b7a98058d3d6da2b29d86cee2e796b1&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.eluniversal.com.co/colombia/2026/11/09/escandalo-en-la-dni-por-presunto-plan-para-espiar-expresidentes-y-elecciones/",
+              "note": "Reconstruye los señalamientos del informe, la captura de Oyola y los antecedentes del hackeo a la UNAD y la Fiscalía; registra la reacción del vicepresidente pidiendo investigación y que los señalamientos 'deberán ser esclarecidos por las autoridades', además de la ausencia de pronunciamiento de los exdirectores de la DNI y de los expresidentes consultados.",
+              "host": "eluniversal.com.co",
+              "title": "Escándalo en la DNI por presunto plan para espiar expresidentes y elecciones",
+              "image": "https://www.eluniversal.com.co/resizer/v2/AXR3GWJ22FFPPN7KIDUOAINPPU.jpg?auth=db2611cd0ed0630fa74048baff55d7754138dce6069aa8b92c15a33615c8ce61&smart=true&width=1200&height=630&quality=70"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "seguridad",
+          "claim": "Se afirma que las labores descritas contaron con el apoyo de un equipo cubano, ruso y venezolano.",
+          "quote": "Y todo esto con el apoyo de un equipo cubano, ruso y venezolano",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Lo único que tiene algún respaldo documental es el entrenamiento de funcionarios de la DNI en Moscú y la sospecha de que equipos entregados por Rusia pudieran contener software espía; no hay evidencia en las fuentes de que Rusia, Cuba o Venezuela hayan apoyado la operación del hacker [F1][F2][F3].",
+          "context": "El apoyo ruso sí está documentado: una misión de la DNI viajó a Moscú en junio de 2025 para recibir entrenamiento en inteligencia, gestionado a través del FSB, con cursos que duraron según la administración anterior 'no más de un mes', aunque testimonios posteriores reportaron contenido sobre técnicas de seguimiento a disidentes [F1]. El informe de empalme de julio de 2026 también alerta sobre computadores y celulares presuntamente entregados por Rusia —según el informe, por el SVR— durante ese viaje, con sospecha de malware [F2][F3]. En cuanto a Cuba y Venezuela, ninguna de las fuentes aporta datos sobre su participación en las labores descritas.",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, distinguir entre lo documentado y lo atribuido es precisamente el mecanismo que evita tanto la impunidad como la instrumentalización política de los hechos. Las fuentes documentan elementos graves que merecen esclarecimiento —entrenamiento con el FSB, indicios de dispositivos con malware y un informe reservado con señalamientos internos [F1][F2][F3]—, y su investigación al servicio de la verdad beneficia a la ciudadanía. Sin embargo, sumar 'cubano' y 'venezolano' a un dato que solo aparece respaldado para Rusia amplifica la narrativa más allá de lo probado y puede alimentar una lectura que, al no sustentarse en evidencia, debilita la credibilidad de los hallazgos sí documentados y no abona al esclarecimiento riguroso de la verdad [F1][F2][F3].",
+          "whatTheyOmit": "El video no distingue entre lo que los documentos de la DNI señalan como sospecha o presunta irregularidad y lo que esté judicialmente probado: el informe de empalme es un documento interno de 26 páginas basado en información de funcionarios, no una sentencia ni una imputación [F2][F3]. Tampoco menciona que la participación rusa descrita en las fuentes fue entrenamiento pagado por los anfitriones y que las autoridades de la DNI de entonces afirmaron que no se entregaron equipos ni programas informáticos, versión que el informe posterior contradice —ambas versiones están en disputa [F1][F2]. Finalmente, no aporta fuente alguna para los componentes cubano y venezolano de su afirmación [F1][F2][F3].",
+          "keyFacts": [
+            "Funcionarios de la DNI viajaron a Moscú en junio de 2025 para recibir entrenamiento en inteligencia, gestionado según fuentes de la entidad a través del Servicio Federal de Seguridad (FSB) ruso [F1].",
+            "El informe de empalme de julio de 2026 alerta que computadores y celulares habrían sido entregados durante ese viaje a Rusia, con sospecha de que contuvieran malware para espiar a la entidad [F2][F3].",
+            "Según la administración del entonces director de la DNI, los cursos no duraron más de un mes y no incluyeron equipos tecnológicos ni programas informáticos, versión que el informe de empalme contradice [F1][F2].",
+            "Ninguna de las fuentes entregadas aporta evidencia de participación cubana o venezolana en las labores descritas [F1][F2][F1]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/escandalo-en-la-dni-saca-a-la-luz-nuevos-detalles-del-viaje-de-que-habrian-hecho-funcionarios-a-rusia-para-recibir-entrenamiento-en-inteligencia-3599981",
+              "note": "Aporta la única pieza probada de la tríada: entrenamiento de funcionarios de la DNI en Moscú con el FSB ruso, y las versiones enfrentadas sobre su alcance.",
+              "host": "eltiempo.com",
+              "title": "Escándalo en la DNI saca a la luz nuevos detalles del viaje que habrían hecho funcionarios a Rusia para recibir entrenamiento en inteligencia",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/09/6af1c9e15aa90.r_d.2302-736-0.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.bluradio.com/nacion/dni-bajo-la-lupa-revelan-presuntas-irregularidades-en-espionaje-elecciones-y-millonarios-contratos-so35",
+              "note": "Resume el informe de empalme: presuntas irregularidades, dispositivos rusos con posible malware y compras cuestionadas; confirma indicios de apoyo ruso, no de Cuba ni Venezuela.",
+              "host": "bluradio.com",
+              "title": "DNI bajo la lupa: revelan presuntas irregularidades en espionaje, elecciones y millonarios contratos",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/6fcc096/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa3%2F2a%2F9dca97d34df9a697e7848b65fae3%2Fgustavo-petro.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.noticiascaracol.com/informes-especiales/los-documentos-secretos-de-la-dni-que-revelarian-planes-de-espionaje-a-expresidentes-rg10",
+              "note": "Fuente original de Noticias Caracol sobre el informe reservado; documenta el hallazgo sobre equipos rusos y el entrenamiento en Moscú, sin mencionar apoyo cubano o venezolano.",
+              "host": "noticiascaracol.com",
+              "title": "Los documentos secretos de la DNI que revelarían planes de espionaje a expresidentes",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/a3f713b/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff6%2F0a%2Fd05fb0204b58856859bda5ce6521%2Ffotos-discover-2026-11-08t190715-205.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "Se afirma que la insistencia de Petro para que la Registraduría entregara el código fuente respondía a la necesidad de robarse las elecciones.",
+          "quote": "la mariquedera del cósmico [Petro] por el código fuente, que no que se lo tenían que entregar... necesitaban robarse las elecciones",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Es cierto que el presidente Petro insistió reiteradamente en que la Registraduría entregara (no solo expusiera) el código fuente del software de escrutinio [F1][F2][F3]. Pero la afirmación de que esa insistencia respondía a la necesidad de 'robarse las elecciones' es una atribución de intención que ninguna de las fuentes respalda: las fuentes documentan la razón pública esgrimida por Petro (auditoría técnica por expertos, no mera exposición) y las razones de la Registraduría y de observadores internacionales para negarse, sin aportar evidencia de un propósito de fraude [F1][F2][F3][F4]. El Detector de La Silla Vacía calificó la narrativa de fraude de Petro como 'en su mayoría engañosas', pero eso no equivale a probar que su petición del código fuente tuviera por fin perpetrar un fraude [F1].",
+          "context": "La disputa sobre el código fuente fue pública y sostenida: Petro publicó al menos 10 mensajes pidiendo la entrega del código completo de Thomas Greg a expertos de los partidos para una auditoría independiente, distinguiendo entre 'mostrar' y 'entregar' el código [F1]. La Registraduría sostuvo que expuso el código en 28 jornadas de auditorías y en dos semanas de salas de auditoría para partidos y observadores, y que el software fue revisado línea por línea por el CAPel [F3][F4]. El registrador Hernán Penagos argumentó que entregar el código 'es permitir que se altere, que se vulnere, que se suplante' [F3][F4], y la Misión de Observación Electoral de la Unión Europea señaló que entregar el software resulta inviable porque propicia vulnerabilidades técnicas; su jefe adjunto afirmó que 'el software de cualquier proceso... no se entrega a nadie porque se fragilizaría y abriría la posibilidad a manipulaciones' [F2]. El sistema electoral colombiano es 'eminentemente manual': los resultados oficiales dependen de los formularios E-14 físicos firmados por jurados, no del software [F4][F2]. El Detector de La Silla Vacía encontró que las afirmaciones de Petro sobre fraude son 'en su mayoría engañosas: verdades a medias mezcladas con exageraciones y afirmaciones falsas sin respaldo', y que es cierto que la Registraduría no entregará el código fuente 'así está regulado desde 2019', con revisión supervisada más dotada que en elecciones anteriores [F1].",
+          "progressivePerspective": "Con los elementos disponibles, la verificación se sostiene en el principio de distinguir hechos de atribuciones de intención. Hecho verificado: la insistencia en la entrega del código fuente existió y fue masiva [F1][F2][F3]. Atribución no verificada: que el fin fuera 'robarse las elecciones'. Ninguna fuente aporta prueba de esa intención; por el contrario, las fuentes documentan la justificación pública dada por Petro (auditoría técnica y no mera exposición) [F2][F3] y la negativa basada en argumentos de seguridad de la Registraduría y de observadores internacionales [F2][F3][F4]. Al mismo tiempo, el análisis periodístico independiente concluyó que la narrativa de fraude de Petro es en su mayoría insostenible [F1], lo que permite afirmar que la petición no estaba respaldada por evidencia de fraude, sin que eso constituya prueba de un propósito delictivo. En términos de garantías democráticas, tanto afirmar sin pruebas que hubo intención de robar las elecciones como sostener sin pruebas que no existe ningún riesgo en el proceso debilitan el escrutinio público: lo que fortalece la no repetición de sospechas infundadas o de vulneraciones es la transparencia verificable (auditorías, actas públicas, observación), que fue precisamente lo que las fuentes documentan que ocurrió en distinta medida [F1][F2][F4].",
+          "whatTheyOmit": "El video omite que la petición de Petro era de entrega a expertos de partidos para auditoría y no la apropiación del código por el ejecutivo [F1][F2]; omite que el sistema electoral colombiano es eminentemente manual y que los resultados oficiales emanan de los formularios E-14 físicos [F4][F2]; omite que la Misión de Observación Electoral de la Unión Europea validó las garantías del sistema colombiano y calificó la entrega del software como inviable por vulnerabilidades [F2]; omite que el CAPel audito el software línea por línea y que hubo salas de auditoría para partidos y observadores [F4]; omite que esa exigencia de entrega del código fuente está regulada desde 2019 con revisión supervisada [F1]; y omite que el mismo medio (Noticias Caracol) y su informe no aportan evidencia de un fraude electoral ejecutado, siendo el carácter de la afirmación una suposición sobre intenciones [F1].",
+          "keyFacts": [
+            "Petro insistió de forma reiterada (al menos 10 mensajes) en que la Registraduría entregara el código fuente completo del software de Thomas Greg a expertos de los partidos para una auditoría independiente, distinguiendo entre 'mostrar' y 'entregar' [F1]",
+            "La afirmación de que la finalidad era 'robarse las elecciones' no tiene respaldo en ninguna de las fuentes entregadas: no existe evidencia documental ni judicial de esa intención [F1][F2][F3][F4]",
+            "La razón pública esgrimida por Petro fue que 'exponer no es auditar' y que debe someterse el código a auditoría técnica por participantes y ciudadanía [F2][F3]",
+            "La Registraduría sostuvo que expuso el código fuente en 28 jornadas de auditoría y en dos semanas de salas de auditoría para partidos y observadores, y que el CAPel hizo una revisión línea por línea concluyendo que es fiable [F3][F4]",
+            "El registrador Hernán Penagos argumentó que entregar el código 'es permitir que se altere, que se vulnere, que se suplante' y permitiría a hackers modificar la información [F3]",
+            "La Misión de Observación Electoral de la Unión Europea afirmó que el sistema colombiano cuenta con garantías de seguridad y que la solicitud de entregar el software es inviable por vulnerabilidades técnicas [F2]",
+            "El sistema electoral colombiano es 'eminentemente manual': los resultados oficiales dependen de los formularios E-14 físicos firmados por jurados, no del software de escrutinio [F4]",
+            "El Detector de La Silla Vacía concluyó que la narrativa de fraude de Petro es 'en su mayoría engañosas: verdades a medias mezcladas con exageraciones y afirmaciones falsas sin respaldo' [F1]",
+            "Es cierto que la Registraduría no entregará el código fuente como lo pedía Petro, así está regulado desde 2019, y habrá revisión supervisada con más herramientas de auditoría que en elecciones anteriores [F1]",
+            "Las afirmaciones de Petro de que Thomas Greg controla los datos de los colombianos o puede hacerlos votar sin consentimiento son falsas: el voto y el conteo son manuales y nunca se probó que eso sea posible [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/detector-petro-insiste-en-narrativa-de-fraude-electoral-sin-sustento/",
+              "note": "Verificación central: documenta que Petro sí insistió en la entrega del código fuente (más de 10 mensajes), detalla su argumento (auditoría por expertos), concluye que su narrativa de fraude es 'en su mayoría engañosas', aclara que la no entrega está regulada desde 2019 con revisión supervisada, y refuta afirmaciones falsas de Petro sobre Thomas Greg. Contraste clave: no aporta prueba de intención de robar elecciones.",
+              "host": "lasillavacia.com",
+              "title": "Detector: Petro insiste en narrativa de fraude electoral sin sustento",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/02/Petro-23-de-febrero-alocucion.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://laopinion.co/elecciones-2026/petro-registraduria-codigo-fuente-no-es-para-exponer-sino-para-auditar",
+              "note": "Documenta la posición de Petro ('exponer no es auditar', auditoría técnica) y la de la Misión de Observación Electoral de la UE, que validó las garantías del sistema y calificó la entrega del software como inviable por vulnerabilidades.",
+              "host": "laopinion.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/05/24/petro-arrecio-contra-la-registraduria-por-no-entregar-el-codigo-fuente-a-una-semana-de-las-elecciones-presidenciales-exponer-no-es-auditar/",
+              "note": "Muestra la insistencia de Petro y las 28 jornadas de auditoría de la Registraduría, además de la argumentación del registrador Penagos sobre los riesgos de entregar el código fuente.",
+              "host": "infobae.com",
+              "title": "Petro arreció contra la Registraduría por no entregar el código fuente, a una semana de las elecciones presidenciales: “Exponer no es auditar”",
+              "image": "https://www.infobae.com/resizer/v2/STGWTCZSDRCSJHFNSCNZBUEGVM.png?auth=1f5c3dee9175f95e55e258bbd4d943c7b7ffb7f76cf988144bbe9f6cb62638c8&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/especiales/elecciones-2026/registrador-responde-petro-codigo-fuente-software-electoral-FD36717031",
+              "note": "Detalla la negativa del registrador, la auditoría línea por línea del CAPel, la exposición del software en salas de auditoría y el carácter eminentemente manual del sistema (actas E-14), lo que reduce el peso real del software en los resultados.",
+              "host": "elcolombiano.com",
+              "title": "Registrador no cede ante Petro por entrega de cÃ³digo fuente de software electoral: âSerÃa dar la oportunidad al hackerâ",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x800/0c27/1200d630/none/11101/XDEA/hernan-penagos-gustavo-petro-eleccio_50665206_20260519204001.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Se afirma que un informe periodístico menciona supuestos encuentros entre la fiscal general Luz Adriana Camargo y el hacker.",
+          "quote": "Según el informe periodístico, también se habla de supuestos encuentros o reuniones entre la fiscal Luz Adriana [Camargo] y el hacker",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación es correcta en su formulación precisa: el informe de la Unidad Investigativa de Noticias Caracol, basado en un documento reservado de la DNI, sí incluye la anotación 'Sostuvo reuniones con la fiscal Luz Adriana Camargo', y medios la recogieron como un señalamiento supuesto, no probado [F1][F2]. La fiscal niega categóricamente cualquier reunión y los registros de visitas de su despacho y del vicefiscal no muestran encuentro alguno [F1][F3].",
+          "context": "El dato proviene de un informe reservado de la DNI de 26 páginas elaborado en julio de 2026, publicado por la Unidad Investigativa de Noticias Caracol, con una anotación que atribuye al hacker Carlos Andrés Oyola Tovar reuniones con la fiscal general [F2][F3]. La fiscal general Luz Adriana Camargo respondió que ni ella ni el vicefiscal Gilberto Guerrero figuran en bitácoras de visitas como reunientes con Oyola; la única constancia de presencia de Oyola en el Búnker de la Fiscalía es del 22 de agosto de 2023, siete meses antes de que Camargo asumiera el cargo, y no se ha determinado a qué funcionario visitó ni por qué [F1][F3]. Oyola fue capturado el 7 de noviembre de 2026 con orden de captura del 7 de mayo de 2026 y le fueron imputados cuatro delitos (acceso abusivo a sistema informático, falsedad en documento público, fraude procesal y concierto para delinquir), cargos que no aceptó; él mismo no se ha pronunciado sobre las supuestas reuniones [F1].",
+          "progressivePerspective": "A la luz del marco de verdad, justicia, reparación y no repetición, la afirmación debe leerse con precisión: lo que está documentado es que un informe interno de inteligencia CONTIENE esa anotación, no que la reunión haya ocurrido. La nota es una atribución de fuente única (un documento reservado de la propia DNI, entidad cuya gestión está bajo escrutinio), sin corroboración judicial ni declaración del propio Oyola sobre el punto [F2][F1]. Presentar el dato como si fuera un hecho consumado —y sobre todo como prueba de que 'la justicia está secuestrada'— adelanta una conclusión que ninguna fuente respalda y convierte una investigación abierta en un veredicto, lo que distorsiona la verdad y dificulta el esclarecimiento riguroso [F2][F3]. El esclarecimiento exige distinguir tres niveles: (i) hecho probado: la anotación existe en el informe; (ii) hecho parcialmente verificado: Oyola estuvo en el Búnker de la Fiscalía el 22 de agosto de 2023, sin determinar destinatario ni motivo; (iii) no probado: que la fiscal se reuniera con él y que ello implique irregularidad [F1][F3]. Reconocer el señalamiento sin convertirlo en condena prematura es lo que abona a la verdad; exagerarlo revictimiza institucionalmente y alimenta la desconfianza generalizada que termina por dificultar tanto la justicia como la no repetición del uso político de la información [F2].",
+          "whatTheyOmit": "El video omite la negativa categórica de la fiscal, sustentada en la revisión de las bitácoras de visitas de su despacho y del del vicefiscal, que no registran ningún encuentro [F1][F3]. También omite que la única visita presencial de Oyola al Búnker es del 22 de agosto de 2023, siete meses antes de que Camargo asumiera el cargo, y que no se ha determinado a qué funcionario fue ni por qué [F1][F3]. Omite igualmente que se trata de una anotación contenida en un informe reservado de la DNI, no de una prueba judicial, y que frente a la supuesta reunión el ente investigativo no se ha pronunciado [F2]. Finalmente, omite que Oyola negó los cargos formulados contra él y que la Fiscalía no ha imputado delito alguno a la fiscal general por este hecho [F1].",
+          "keyFacts": [
+            "El informe de la Unidad Investigativa de Noticias Caracol, basado en un documento reservado de la DNI de 26 páginas (julio de 2026), incluye la anotación 'Sostuvo reuniones con la fiscal Luz Adriana Camargo' [F2][F1]",
+            "La afirmación del video está correctamente acotada como 'supuestos encuentros': el señalamiento aparece en un informe interno y no está judicialmente probado [F2][F1]",
+            "La fiscal general Luz Adriana Camargo negó haberse reunido con Carlos Andrés Oyola Tovar, y las bitácoras de su despacho y las del vicefiscal Gilberto Guerrero no registran encuentro alguno [F1][F3]",
+            "Los registros del Búnker de la Fiscalía sí muestran una visita de Carlos Andrés Oyola Tovar el 22 de agosto de 2023, siete meses antes de que Camargo asumiera el cargo, sin determinarse a qué funcionario visitó ni el motivo [F1][F3]",
+            "Oyola fue capturado el 7 de noviembre de 2026 con orden de captura del 7 de mayo de 2026 y se le imputaron cuatro delitos que no aceptó [F1]",
+            "Frente a la supuesta reunión entre Oyola y la fiscal, el ente investigativo no se había pronunciado al momento de las publicaciones [F2]",
+            "Sobre la fiscal Camargo circuló previamente desinformación fabricada (una imagen montada con una declaración inexistente), verificada como falsa [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.noticiascaracol.com/colombia/fiscal-general-reacciona-a-informe-sobre-hacker-de-la-dni-quien-no-acepto-cargos-rg10",
+              "note": "Aporta la anotación exacta del informe, la negativa de la fiscal con verificación de bitácoras, la visita de Oyola al Búnker del 22/08/2023 y los cargos imputados al hacker.",
+              "host": "noticiascaracol.com",
+              "title": "Fiscal general reacciona a informe sobre hacker de la DNI, quien no aceptó cargos",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/2726c39/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fae%2F95%2Fa42a82e44e5095de86daac3c8366%2Ffiscal-hacker.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.semana.com/confidenciales/articulo/hacker-del-gobierno-petro-se-habria-reunido-con-la-fiscal-luz-adriana-camargo-segun-informe-reservado/202636/",
+              "note": "Confirma que el informe reservado de la DNI publicado por Noticias Caracol contiene la atribución de reuniones entre Oyola y la fiscal, y que el ente investigativo no se había pronunciado.",
+              "host": "semana.com",
+              "title": "‘Hacker’ del gobierno Petro se habría reunido con la fiscal Luz Adriana Camargo, según informe reservado",
+              "image": "https://www.semana.com/resizer/v2/T3EKLXEQLVHOFCGXUWK3LMGXIU.png?auth=e5d72cab8cb09f5578962404bcbdb4e6deda2487800b691503412085647b8ef5&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.bluradio.com/judicial/fiscal-luz-adriana-camargo-pronunciamiento-carlos-oyola-bunker-noticias-caracol-rs15",
+              "note": "Detalla la negativa de la fiscal, la revisión de registros de su despacho y del vicefiscal, y la visita de Oyola al Búnker del 22/08/2023 sin destinatario determinado.",
+              "host": "bluradio.com",
+              "title": "Fiscal Camargo responde a escándalo del DNI y desmiente reuniones con Carlos Oyola",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/32be39e/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F67%2F3f%2F1fc308e64cf8b54a6516a4449aad%2Ffiscal-luz-adriana-camargo.jpg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "economia",
+          "claim": "Se afirma que la DNI compró un helicóptero no tripulado por 9.000 millones de pesos que nunca se usó.",
+          "quote": "Se supuestamente compraron un helicóptero no tripulado que costó 9 mil millones de pesos, que nunca se usó",
+          "figures": [
+            "9.000 millones de pesos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La compra de un helicóptero no tripulado por aproximadamente $9.000 millones por la DNI está ampliamente documentada y es uno de los cinco contratos que la Contraloría ordenó revisar el 9 de noviembre de 2026 [F1][F2][F3][F4]. Sin embargo, la segunda parte de la afirmación —que el equipo \"nunca se usó\"— no está respaldada por las fuentes: las mismas notas mencionan fallas de funcionamiento reportadas y un siniestro ocurrido en marzo de 2026, lo que indica al menos operación previa, y la irregularidad misma sigue en investigación, no está probada [F2][F3][F4].",
+          "context": "El contrato del helicóptero no tripulado por cerca de $9.000 millones es el de mayor valor entre los cinco contratos de la DNI que suman $20.783 millones y que el contralor general Jorge Laverde Vargas ordenó revisar de forma prioritaria el 9 de noviembre de 2026, tras las denuncias de Noticias Caracol. La revisión busca verificar condiciones de compra, cumplimiento de especificaciones técnicas, fallas de funcionamiento, garantías contractuales y las circunstancias del siniestro de marzo de 2026; los otros contratos incluyen tres sistemas antidrones por $8.340 millones, 595 computadores por $1.314 millones, un sistema biométrico por $580 millones y mobiliario para una sede en Funza por $1.549 millones [F1][F2][F3][F4]. Se trata de una actuación de control fiscal en curso: aún no hay decisión definitiva sobre si hubo detrimento patrimonial, y los hechos con posible relevancia penal o disciplinaria serían trasladados a la Fiscalía o la Procuraduría [F2].",
+          "progressivePerspective": "En el marco de la rendición de cuentas y el control fiscal, las fuentes coinciden en que la reserva de inteligencia no exime a la DNI del deber de proteger los recursos públicos: el contralor señaló que \"la seguridad nacional no puede convertirse en una excepción\" y que cada peso debe responder a una necesidad legítima y producir resultados verificables [F2][F4]. Desde una lectura ética de transparencia, el hecho de que exista una revisión formal de contratos millonarios con presuntos sobrecostos y fallas técnicas abona a la verdad y a la no repetición de usos discrecionales del gasto público, independientemente de la orientación política del gobierno de turno. Lo que exige prudencia es pasar de \"compra cuestionada y en investigación\" a \"prueba de una banda criminal\": las fuentes muestran indicios y actuaciones preliminares, no sentencias ni hallazgos definitivos de detrimento patrimonial, y presentar la investigación como veredicto consumado puede distorsionar tanto la verdad como el derecho a un proceso [F2][F4].",
+          "whatTheyOmit": "El video omite que la irregularidad del contrato aún está bajo revisión de la Contraloría y no ha sido declarada judicial o administrativamente; las fuentes hablan de \"presuntas fallas\", \"presuntos sobrecostos\" y de verificaciones pendientes [F2][F3][F4]. También omite o contradice su propia aseveración de que el equipo \"nunca se usó\": las fuentes registran fallas de funcionamiento y un siniestro en marzo de 2026, lo que apunta a que hubo operación [F2][F3][F4]. Adicionalmente, el video no precisa que el mismo informe periodístico cuestiona también la compra de tres sistemas antidrones por $8.340 millones y una casa no registrada cerca de la Embajada de Estados Unidos, contextos que las fuentes sí incluyen [F1].",
+          "keyFacts": [
+            "La DNI adquirió un helicóptero no tripulado por cerca de $9.000 millones, el contrato de mayor valor entre los cinco que suman $20.783 millones que la Contraloría revisará [F2][F3][F4]",
+            "La Contraloría General ordenó el 9 de noviembre de 2026 la revisión prioritaria de esos contratos tras las denuncias de Noticias Caracol sobre posibles fallas técnicas, incumplimientos y presuntos sobrecostos [F2][F3][F4]",
+            "En el caso del helicóptero se verificarán condiciones de compra, especificaciones técnicas, fallas de funcionamiento, garantías y un siniestro ocurrido en marzo de 2026 [F2][F3][F4]",
+            "El informe de empalme de la DNI cuestiona la compra de un dron no tripulado por cerca de $9.000 millones por precio sobrevalorado y posible incumplimiento de especificaciones técnicas [F1]",
+            "La afirmación de que el equipo \"nunca se usó\" no aparece respaldada en las fuentes, que registran fallas de funcionamiento y un siniestro que sugieren operación previa [F2][F3][F4]",
+            "La revisión de la Contraloría es una actuación de control fiscal en curso: aún no hay hallazgo definitivo de detrimento patrimonial [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/en-vivo/contratos-cuestionados-espionaje-y-reencauches-la-dni-en-la-era-petro/",
+              "note": "Resume el informe de empalme de la DNI: menciona la compra de un dron no tripulado por cerca de $9.000 millones, precio sobrevalorado y posible incumplimiento de especificaciones, y detalla los cinco contratos revisados por la Contraloría; aporta también el contexto de contratos cuestionados y denuncias.",
+              "host": "lasillavacia.com",
+              "title": "Contratos cuestionados, espionaje y reencauches: la DNI en la era Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Gustavo-Petro-Consejo-de-Ministros-Julio-9-2026-.jpg.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.bluradio.com/nacion/contraloria-revisara-contratos-de-la-dni-por-20-783-millones-helicoptero-y-antidrones-en-la-mira-pr30",
+              "note": "Detalla la orden del contralor Jorge Laverde: helicóptero no tripulado por $9.000 millones, con verificación de fallas de funcionamiento y siniestro de marzo de 2026; aporta la magnitud total ($20.783 millones) y el carácter preliminar de la revisión.",
+              "host": "bluradio.com",
+              "title": "Contraloría revisará contratos de la DNI por $20.783 millones: helicóptero y antidrones, en la mira",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/94134d1/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6a%2Ffa%2F203e2c52498ab161e6102b5e3762%2Fcontraloria-dni-petro.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.colombia.com/actualidad/nacionales/escandalo-en-el-dni-contraloria-investiga-contratos-millonarios-del-gobierno-petro-611826",
+              "note": "Confirma el contrato del helicóptero no tripulado por cerca de $9.000 millones, las fallas de funcionamiento reportadas y el siniestro de marzo de 2026; aporta además el caso penal de Carlos Andrés Oyola Tovar.",
+              "host": "colombia.com",
+              "title": "Gobierno Petro bajo la lupa: investigan contratos del DNI por más de $20.000 millones",
+              "image": "https://cdn.colombia.com/sdi/2026/11/09/escandalo-en-el-dni-contraloria-investiga-contratos-millonarios-del-gobierno-petro-1365676.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.eluniversal.com.co/colombia/2026/11/09/contraloria-revisara-cinco-contratos-de-la-dni-por-mas-de-20783-millones/",
+              "note": "Lista los cinco contratos y lo que verificará la Contraloría, incluido el helicóptero no tripulado de $9.000 millones con fallas y siniestro; registra el carácter reservado de la información y el deber de control fiscal.",
+              "host": "eluniversal.com.co",
+              "title": "Contraloría revisará cinco contratos de la DNI por más de $20.783 millones",
+              "image": "https://www.eluniversal.com.co/resizer/v2/4PG62XMN4RE5ZM72BXVYQRYMIU.jpeg?auth=113febf70f677a73f1a8e27a0018f2eea48c003ca43b7b6bff253c9e0ae967bd&smart=true&width=1200&height=630&quality=70"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "economia",
+          "claim": "Se afirma que la DNI compró sistemas antidrones por más de 8.000 millones de pesos.",
+          "quote": "Un sistema antidrones por más de 8 mil millones de pesos",
+          "figures": [
+            "más de 8.000 millones de pesos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La cifra es correcta: la DNI contrató sistemas antidrones por aproximadamente $8.340 millones, es decir, más de 8.000 millones [F1][F2][F3][F4][F5]. La imprecisión está en el singular: no es 'un sistema' sino TRES sistemas antidrones por esa suma [F1][F2][F3][F4][F5]. Además, se trata de contratos que la Contraloría puso bajo revisión prioritaria, no de irregularidades ya declaradas judicial o fiscalmente [F3][F4][F5].",
+          "context": "El 9 de noviembre de 2026 el contralor general Jorge Eliécer Laverde Vargas ordenó la revisión prioritaria de cinco contratos de la DNI por más de $20.783 millones, tras las revelaciones de Noticias Caracol sobre el 'informe de empalme' de 26 páginas [F1][F2][F3]. Entre ellos: un helicóptero no tripulado por cerca de $9.000 millones (con siniestro el 15 de marzo de 2026 y un informe técnico de agosto de 2025 que detectó fallas en comunicaciones, combustible, caja de engranajes y motor) [F1][F3]; TRES sistemas antidrones por aproximadamente $8.340 millones, cuya revisión abarca condiciones de contratación, características técnicas, entrega, funcionamiento, uso efectivo y correspondencia con las necesidades de la entidad [F1][F2][F3][F4][F5]; 595 computadores por $1.314 millones; un sistema biométrico por $580 millones que no habría entrado en servicio; y mobiliario para la sede de Funza por $1.549 millones [F1][F2][F3][F4]. La Contraloría aclaró que la apertura de estas verificaciones 'no determina la existencia de irregularidades ni atribuye responsabilidades individuales' [F3][F4][F5].",
+          "progressivePerspective": "A la luz de los principios de transparencia, control fiscal y responsabilidad pública, el dato central —que la DNI destinó más de 8.000 millones de pesos a sistemas antidrones y que eso está bajo escrutinio de la Contraloría— está respaldado por al menos cinco fuentes independientes [F1][F2][F3][F4][F5]. El propio contralor sostuvo que 'la seguridad nacional no puede convertirse en una excepción al deber de proteger los recursos públicos' y que cada peso debe responder a una necesidad legítima y producir resultados verificables [F2][F3][F4]. Desde una lectura ética y política, el esclarecimiento de estos contratos abona a la no repetición del uso discrecional del erario público: el control fiscal es una garantía institucional que corresponde ejercer con rigor técnico e independencia, respetando el debido proceso y la presunción de inocencia [F3][F5]. Presentar la revisión como si fuera una condena consumada anticipa un juicio que aún no existe; la solicitud de control no prueba por sí sola detrimento patrimonial ni responsabilidad individual [F3][F4][F5].",
+          "whatTheyOmit": "El video omite (i) la precisión de que son TRES sistemas antidrones por $8.340 millones, no uno [F1][F2][F3][F4][F5]; (ii) que la revisión de la Contraloría es una actuación de vigilancia y control fiscal que NO determina irregularidades ni atribuye responsabilidades individuales, conforme a la presunción de inocencia [F3][F4][F5]; (iii) que la Contraloría ofreció llevar posibles hallazgos penales o disciplinarios a la Fiscalía o la Procuraduría si los hubiera, en lugar de concluir desde ya culpabilidad [F3][F4]; y (iv) el contexto de que la revisión se ordenó tras denuncias periodísticas y que la reserva de inteligencia no impide el control fiscal, según el propio contralor [F1][F2][F3][F4]. También omite que el contrato de mayor valor es el helicóptero no tripulado de $9.000 millones, no el de antidrones [F3][F4].",
+          "keyFacts": [
+            "La DNI adquirió TRES sistemas antidrones por aproximadamente $8.340 millones, cifra que supera los 8.000 millones mencionados en el video [F1][F2][F3][F4][F5]",
+            "El 9 de noviembre de 2026 el contralor Jorge Laverde ordenó revisar cinco contratos de la DNI por más de $20.783 millones [F2][F3][F4][F5]",
+            "La revisión abarca condiciones de contratación, características técnicas, entrega, funcionamiento, uso efectivo y correspondencia con las necesidades de la DNI [F2][F3][F4]",
+            "La Contraloría aclaró que la apertura de estas verificaciones no determina la existencia de irregularidades ni atribuye responsabilidades individuales [F3][F4][F5]",
+            "El contrato de mayor cuantía bajo revisión es un helicóptero no tripulado por cerca de $9.000 millones, con un siniestro el 15 de marzo de 2026 [F1][F3][F4]",
+            "La revisión surgió tras las revelaciones de Noticias Caracol sobre un informe de empalme de la DNI que cuestionaba la contratación [F1][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/en-vivo/contratos-cuestionados-espionaje-y-reencauches-la-dni-en-la-era-petro/",
+              "note": "Resume el informe de empalme y desglosa los cinco contratos: tres sistemas antidrones por $8.340 millones, dron por $9.000 millones, computadores, biométricos y dotación; confirma que son TRES sistemas, no uno.",
+              "host": "lasillavacia.com",
+              "title": "Contratos cuestionados, espionaje y reencauches: la DNI en la era Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Gustavo-Petro-Consejo-de-Ministros-Julio-9-2026-.jpg.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eluniversal.com.co/colombia/2026/11/09/contraloria-revisara-cinco-contratos-de-la-dni-por-mas-de-20783-millones/",
+              "note": "Detalla los cinco contratos bajo revisión y los aspectos a verificar; cita al contralor sobre el deber de control fiscal pese a la reserva de inteligencia.",
+              "host": "eluniversal.com.co",
+              "title": "Contraloría revisará cinco contratos de la DNI por más de $20.783 millones",
+              "image": "https://www.eluniversal.com.co/resizer/v2/4PG62XMN4RE5ZM72BXVYQRYMIU.jpeg?auth=113febf70f677a73f1a8e27a0018f2eea48c003ca43b7b6bff253c9e0ae967bd&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/09/investigan-fallas-y-sobrecostos-en-contratos-de-la-dni-por-mas-de-20783-millones-contraloria-ordeno-una-revision-prioritaria/",
+              "note": "Aporta el detalle del siniestro del dron, la aseguradora por $900 millones y la aclaración clave: la revisión no determina irregularidades ni atribuye responsabilidades individuales.",
+              "host": "infobae.com",
+              "title": "Investigan fallas y sobrecostos en contratos de la DNI por más de $20.783 millones: Contraloría ordenó una revisión prioritaria",
+              "image": "https://www.infobae.com/resizer/v2/SOE5S2BSBFFMFE2IDOF5WIPTWQ.jpg?auth=0e4a363901b123907334f1ee794dd930cba329522fb968568a77446de88f19bc&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.bluradio.com/nacion/contraloria-revisara-contratos-de-la-dni-por-20-783-millones-helicoptero-y-antidrones-en-la-mira-pr30",
+              "note": "Confirma el valor de los tres sistemas antidrones ($8.340 millones), el origen de la revisión en las denuncias de Noticias Caracol y la remisión posible a Fiscalía o Procuraduría.",
+              "host": "bluradio.com",
+              "title": "Contraloría revisará contratos de la DNI por $20.783 millones: helicóptero y antidrones, en la mira",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/94134d1/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6a%2Ffa%2F203e2c52498ab161e6102b5e3762%2Fcontraloria-dni-petro.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.lafm.com.co/politica/contralor-ordena-investigar-presuntas-irregularidades-en-contratos-416625",
+              "note": "Reitera la cifra de $8.340 millones para tres sistemas antidrones y enfatiza que las actuaciones respetan el debido proceso y la presunción de inocencia.",
+              "host": "lafm.com.co",
+              "title": "Contraloría abre investigación fiscal a la DNI por contratos irregulares de más de $20.783 millones",
+              "image": "https://files.lafm.com.co/assets/public/Contralor%C3%ADa-LAF.m.-Colp.jpg?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "economia",
+          "claim": "Se afirma que hubo un contrato millonario de computadores en la DNI.",
+          "quote": "Un contrato millonario en computadores",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero la revisión es preliminar",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación es verdadera: la DNI suscribió el contrato 043 de 2024 por aproximadamente 1.314 millones de pesos para adquirir 595 computadores, y la Contraloría lo incluyó en la revisión prioritaria de cinco contratos por 20.783 millones [F1][F2][F3].",
+          "context": "La Contraloría ordenó el 9 de noviembre de 2026 revisar las condiciones de entrega, recibo y pago de los 595 computadores, ante denuncias de deficiencias de calidad, fallas de funcionamiento e incumplimiento de especificaciones [F1][F2]. El contrato es el tercero en cuantía entre los cinco revisados, por debajo del helicóptero no tripulado (9.000 millones) y los tres sistemas antidrones (8.340 millones) [F1][F3]. La revisión es preliminar y no implica una declaración de responsabilidad [F1][F2].",
+          "progressivePerspective": "El dato es verificable y aporta al escrutinio de la contratación pública: un contrato de 1.314 millones por 595 equipos con presuntas fallas técnicas. El video acierta en la existencia y magnitud del contrato, pero lo presenta como parte de una lista de derroche sin precisar que se trata de una revisión en curso y que la Contraloría aún no ha determinado sobrecostos ni responsabilidades [F1][F2].",
+          "whatTheyOmit": "Omite el número y valor del contrato, que la revisión es preliminar y que la Contraloría no ha declarado irregularidades ni responsabilidades individuales [F1][F2]. También omite que los contratos de mayor cuantía son el helicóptero y los antidrones [F1][F3].",
+          "keyFacts": [
+            "La DNI suscribió el contrato 043 de 2024 por aproximadamente 1.314 millones de pesos para 595 computadores [F1][F2]",
+            "La Contraloría incluyó ese contrato en la revisión prioritaria de cinco contratos por 20.783 millones [F1][F2]",
+            "La revisión abarca presuntas deficiencias de calidad, fallas de funcionamiento e incumplimiento de especificaciones [F1][F2]",
+            "La actuación es preliminar y no constituye una declaración de irregularidades ni de responsabilidades [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.contraloria.gov.co/w/contralor-general-republica-ordena-revision-prioritaria-contratos-direccion-nacional-inteligencia-mas-20783-millones",
+              "note": "Comunicado oficial de la Contraloría con el detalle de los cinco contratos, incluido el de 595 computadores por 1.314 millones.",
+              "host": "contraloria.gov.co",
+              "title": "Contralor General de la República ordena revisión prioritaria de contratos de la Dirección Nacional del Inteligencia por más de $20.783 millones",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elcolombiano.com/colombia/contraloria-revisara-contratos-de-la-dni-de-petro-por-20783-millones-tras-denuncias-por-operaciones-clandestinas-FH43332733",
+              "note": "Confirma la revisión de los cinco contratos y la advertencia de que es una actuación preliminar.",
+              "host": "elcolombiano.com",
+              "title": "ContralorÃa revisarÃ¡ contratos de la DNI de Petro por $20.783 millones tras denuncias por operaciones clandestinas",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c0/1280d720/none/11101/UAWL/des-deben-estar-sometidas-a-la-const_52086667_20261109064910.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/09/documentos-secretos-de-la-dni-revelarian-plan-para-espiar-a-expresidentes-e-interferir-en-elecciones-durante-el-gobierno-petro",
+              "note": "Detalla el contrato de 595 computadores por 1.314 millones y las presuntas fallas de los equipos.",
+              "host": "infobae.com",
+              "title": "Documentos secretos de la DNI revelarían plan para espiar a expresidentes e interferir en elecciones durante el Gobierno Petro",
+              "image": "https://www.infobae.com/resizer/v2/KEHUVWO34JE37G7CMFDXEVIPZM.jpg?auth=fa05084267f99b7c65ac013182816f688b7a98058d3d6da2b29d86cee2e796b1&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lasillavacia.com/en-vivo/contratos-cuestionados-espionaje-y-reencauches-la-dni-en-la-era-petro/",
+              "note": "Resume el informe de empalme y la revisión de contratos de la DNI.",
+              "host": "lasillavacia.com",
+              "title": "Contratos cuestionados, espionaje y reencauches: la DNI en la era Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Gustavo-Petro-Consejo-de-Ministros-Julio-9-2026-.jpg.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "economia",
+          "claim": "Se afirma que se compró una casa al lado de la embajada de Estados Unidos.",
+          "quote": "y una casa al lado de la embajada de Estados Unidos",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes sí documentan, con base en un informe reservado de la DNI conocido por Noticias Caracol, la existencia de una 'casa de inteligencia clandestina' ubicada a pocos metros de la Embajada de Estados Unidos en Bogotá, no registrada oficialmente [F1][F2][F3]. Sin embargo, ninguna fuente afirma que la DNI 'compró' ese inmueble: el informe la describe como una sede operativa no registrada en libros y desocupada tras las elecciones, sin precisar su titularidad ni su modo de adquisición [F2][F3]. Además, se trata de señalamientos de un documento interno que, según los mismos medios, 'deben ser verificados por las autoridades' [F2].",
+          "context": "La afirmación se inscribe en la publicación, el 8 y 9 de noviembre de 2026, de un informe de empalme de 26 páginas de la DNI, fechado en julio de 2026 y dirigido al nuevo director de la entidad, construido con información de funcionarios de la propia agencia sobre la gestión durante el gobierno de Gustavo Petro [F1][F3]. Entre sus hallazgos, el informe menciona una casa de inteligencia a pocos metros de la Embajada de Estados Unidos, que nunca se registró oficialmente, fue desocupada después de las elecciones presidenciales y cuyo rastro habría sido borrado de los archivos de la DNI [F1][F2][F3]. En el mismo informe aparecen compras cuestionadas (helicóptero no tripulado por $9.000 millones, tres sistemas antidrones por $8.340 millones, 595 computadores por $1.314 millones), frente a lo cual la Contraloría ordenó una revisión prioritaria de cinco contratos por cerca de $20.783 millones [F1][F2][F3]. Todo ello corresponde a señalamientos de documentos internos que deben ser verificados por las autoridades [F2].",
+          "progressivePerspective": "Desde el marco de la verdad, la justicia y la no repetición, la distinción decisiva es entre lo que un documento DENUNCIA y lo que está JUDICIALMENTE PROBADO. Las fuentes coinciden en que el informe es un relato de funcionarios de la propia entidad y que sus contenidos son señalamientos pendientes de verificación por las autoridades [F2]. Presentar en tono categórico que 'se compró una casa al lado de la embajada' convierte una denuncia interna en hecho consumado, lo que excede lo acreditado: el informe habla de una sede no registrada, no de una adquisición [F2][F3]. A la vez, el hecho de que la casa no figurara en los registros y que sus rastros se hayan borrado merece esclarecimiento institucional, como también lo es que la Contraloría ya ordenó control fiscal a los contratos cuestionados [F1][F2]. El estándar correcto es exigir investigaciones con garantías para todos los señalados y evitar tanto la exageración de lo no probado como la minimización de lo documentado [F2].",
+          "whatTheyOmit": "El video omite que las fuentes no afirman que la casa fuera 'comprada': el informe la describe como una instalación no registrada oficialmente, sin precisar titularidad ni forma de adquisición [F2][F3]. También omite que se trata de señalamientos de un documento interno que los propios medios califican como pendientes de verificación por las autoridades [F2], así como que la Contraloría ya activó control fiscal sobre cinco contratos por cerca de $20.783 millones y que el vicepresidente pidió investigar el caso [F1][F2]. La afirmación se enuncia como hecho consumado sin distinguir entre denuncia, investigación y sentencia.",
+          "keyFacts": [
+            "Un informe de empalme de 26 páginas de la DNI, fechado en julio de 2026, menciona una casa de inteligencia clandestina ubicada a pocos metros de la Embajada de Estados Unidos en Bogotá [F1][F2][F3]",
+            "Según el informe, ese inmueble nunca se registró oficialmente como sede de la DNI, fue desocupado después de las elecciones presidenciales y su registro habría sido borrado de los archivos oficiales [F1][F2][F3]",
+            "Las fuentes no documentan una 'compra' del inmueble: el documento lo describe como una sede operativa no registrada en libros, sin precisar su modo de adquisición [F2][F3]",
+            "La Contraloría ordenó una revisión prioritaria de cinco contratos de la DNI por cerca de $20.783 millones [F1][F2]",
+            "Los medios enfatizan que todo corresponde a señalamientes de documentos que deben ser verificados por las autoridades [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elcolombiano.com/colombia/una-casa-clandestina-y-hasta-gps-en-vehiculos-de-expresidentes-asi-habria-sido-el-plan-de-la-dni-en-la-era-petro-para-intervenir-en-elecciones-EH43332170",
+              "note": "Confirma la mención en el informe de una casa de inteligencia clandestina a pocos metros de la embajada de EE. UU., no registrada; da cifras de contratos y control de la Contraloría.",
+              "host": "elcolombiano.com",
+              "title": "Una casa clandestina y hasta GPS en vehÃculos de expresidentes: asÃ habrÃa sido el plan de la DNI en la era Petro para intervenir en elecciones",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1106x738/-87c9/1280d720/none/11101/LUJJ/gustavo-petro-dni_52086627_20261109070050.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minuto30.com/escandalo-dni-casa-clandestina-espionaje/1728576/",
+              "note": "Describe la casa como sede no registrada cuya misión no se aclara y precisa que son señalamientos que deben ser verificados por las autoridades; aporta el contexto de control fiscal de $20.783 millones.",
+              "host": "minuto30.com",
+              "title": "Casa clandestina, micrófonos y un dron que no servía: el nuevo escándalo que sacude a la DNI - Minuto30",
+              "image": "https://staticprd.minuto30.com/wp-content/uploads/2026/11/1-dni-casa-narino.webp"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/09/documentos-secretos-de-la-dni-revelarian-plan-para-espiar-a-expresidentes-e-interferir-en-elecciones-durante-el-gobierno-petro/",
+              "note": "Corrobora la vivienda no registrada oficialmente a pocos metros de la embajada, desocupada tras las elecciones con registros eliminados; no menciona compra del inmueble.",
+              "host": "infobae.com",
+              "title": "Documentos secretos de la DNI revelarían plan para espiar a expresidentes e interferir en elecciones durante el Gobierno Petro",
+              "image": "https://www.infobae.com/resizer/v2/KEHUVWO34JE37G7CMFDXEVIPZM.jpg?auth=fa05084267f99b7c65ac013182816f688b7a98058d3d6da2b29d86cee2e796b1&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "salud",
+          "claim": "Se afirma que, mientras ocurrían esos gastos, la gente en Colombia moría esperando citas médicas, tratamientos o medicamentos porque no había plata.",
+          "quote": "la gente se moría esperando una cita médica, un tratamiento o un medicamento, que porque no había plata",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La crisis de salud colombiana y los pacientes que esperan citas, tratamientos y medicamentos está ampliamente documentada por las fuentes, pero estas no ofrecen una cifra agregada de personas fallecidas por esas esperas ni establecen un vínculo causal con los gastos de la DNI: esas dos afirmaciones exceden lo que los datos permiten sostener [F1][F2][F3][F4].",
+          "context": "Las fuentes sí describen una situación grave: en 2025 hubo alrededor de 312.500 tutelas de salud y 1,9 millones de reclamos por barreras de acceso; hasta mayo de 2025 las tutelas por salud aumentaron 16% frente al mismo período de 2024; las quejas ante la Defensoría pasaron de 19.000 en 2022 a una proyección de 34.000 en 2025 (+80%); el gasto de bolsillo subió de 3,3% (2021) a 4,1% (2024) de los ingresos según Fedesarrollo; y el tiempo promedio para conseguir cita de medicina general alcanzó en 2024 su nivel más alto desde la pandemia [F1][F2]. El Plan de Choque en Salud reconocía al 14 de octubre de 2026 que más de la mitad de los pacientes reportados con medicamentos pendientes aún no tenían cierre de sus casos, con 1.279.057 personas con pendientes activos frente a 570.592 resueltos, y solo 13-15% de avance en procedimientos [F3][F4]. Se trata de la peor crisis del sistema de salud en décadas, según consenso de expertos entrevistados por La Silla Vacía, con causas estructurales (envejecimiento, nuevas tecnologías, cobertura universal, financiación insuficiente) sumadas a la gestión del gobierno Petro [F2].",
+          "progressivePerspective": "El marco de la verdad exige separar tres cosas que el video funde en una sola frase: (1) el hecho de que haya pacientes esperando y pendientes sin resolver —esto está sólidamente documentado [F3][F4]; (2) que esas esperas hayan causado muertes por falta de recursos —las fuentes no ofrecen una cifra agregada de defunciones atribuibles a demoras; hay casos individuales documentados, pero no permiten sostener la generalización [F1][F2][F3][F4]; y (3) que ese padecimiento sea consecuencia de que 'no había plata' destinada a salud sino que los recursos se gastaran en la DNI —el video no aporta evidencia de una relación presupuestaria causal entre ambos hechos, es una yuxtaposición retórica [F2]. Desde la perspectiva de la no repetición, documentar con precisión la magnitud real de la crisis de salud sí abona a la verdad y a la rendición de cuentas, mientras que atribuir muertes sin datos ni sumar la comparación con los gastos de inteligencia distorsiona el reclamo de las víctimas del sistema de salud y lo convierte en un arma político-partidista. Al mismo tiempo, la propia fuente oficial del gobierno en ejercicio admite abiertamente que 'cada punto que falta representa pacientes que siguen esperando una respuesta' [F3].",
+          "whatTheyOmit": "El video omite que las fuentes atribuyen la crisis de salud a factores estructurales acumulados desde la Ley 100 de 1993 y a la pandemia —envejecimiento, nuevas tecnologías, financiación insuficiente, cobertura universal que pasó de 22% a 99%—, no solo a la ausencia de plata en un periodo de gobierno [F2][F1]. También omite cifras oficiales del Plan de Choque que muestran avances parciales (42,89% de medicamentos entregados, 15 millones de unidades dispensadas) junto con los pendientes remanentes, es decir, no presenta la totalidad del balance [F3][F4]. Y omite cualquier dato que vincule presupuestalmente los gastos de la DNI con la carencia de recursos en salud: esa relación es una inferencia del comentario, no un hallazgo documentado en las fuentes [F1][F2].",
+          "keyFacts": [
+            "En 2025 se presentaron alrededor de 312.500 tutelas relacionadas con la salud y 1,9 millones de reclamos por barreras de acceso a tecnologías y servicios en Colombia [F1].",
+            "Hasta mayo de 2025 las tutelas por salud aumentaron 16% frente al mismo período del año anterior, y las quejas ante la Defensoría del Pueblo por vulneraciones del derecho a la salud pasaron de 19.000 en 2022 a una proyección de 34.000 en 2025, un aumento del 80% [F2].",
+            "El tiempo promedio para conseguir una cita de medicina general alcanzó en 2024 su nivel más alto desde la pandemia, y el gasto de bolsillo en salud subió de 3,3% de los ingresos en 2021 a 4,1% en 2024 según Fedesarrollo [F2].",
+            "Al 14 de octubre de 2026, el Plan de Choque en Salud registraba 1.279.057 personas con pendientes activos y solo 570.592 con cierre de sus casos; el avance en procedimientos era de aproximadamente 13-15,6% [F3][F4].",
+            "Las fuentes no ofrecen una cifra agregada de muertes atribuibles a la espera; los casos individuales documentados no permiten generalizar [F1][F2][F3].",
+            "Los expertos señalan que la crisis del sistema de salud combina problemas estructurales de larga data con la gestión del gobierno Petro, incluyendo deudas, tecnologías no incluidas en el Plan Básico y una financiación insuficiente frente a la cobertura universal [F1][F2].",
+            "La ministra de Salud reconoció en octubre de 2026 que 'cada punto que falta representa pacientes que siguen esperando una respuesta' y que el 87% de los registros pendientes de procedimientos continúa en seguimiento [F3]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-salud-bajo-el-gobierno-petro-problemas-reales-diagnostico-equivocado/",
+              "note": "Diagnóstico balanceado: problemas reales (312.500 tutelas y 1,9 millones de reclamos en 2025, tiempos de espera) pero también logros del modelo y errores del diagnóstico gubernamental; no registra muertes por falta de recursos.",
+              "host": "razonpublica.com",
+              "title": "La salud bajo el gobierno Petro: problemas reales, diagnóstico equivocado - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/7.1.-Alcaldia_salud.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/de-la-chequera-en-blanco-a-la-crisis-explicita-asi-llego-la-salud-al-limite/",
+              "note": "Detalla la magnitud de la crisis (aumento de tutelas 16%, quejas ante Defensoría +80%, gasto de bolsillo 4,1%, tiempo de citas récord) y sus causas estructurales y de gestión; es la fuente que mejor cuantifica el sufrimiento de los pacientes, sin aportar cifras de mortalidad atribuible.",
+              "host": "lasillavacia.com",
+              "title": "De la “chequera en blanco” a la “crisis explícita”: así llegó la salud al límite",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/08/jaramillo-y-petro.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.minsalud.gov.co/Comunicaciones/noticias/2026/Paginas/Plan-de-Choque-Mas-de-la-mitad-de-los-pacientes-con-medicamentos-pendientes-ya-cuentan-con-el-cierre-de-sus-casos-lo-qu-.aspx",
+              "note": "Fuente oficial: reconoce pendientes masivos de medicamentos y procedimientos a octubre de 2026, con avances parciales; confirma que pacientes siguen esperando sin resolver.",
+              "host": "minsalud.gov.co",
+              "title": "Plan de Choque: Más de la mitad de los pacientes con medicamentos pendientes ya cuentan con el cierre de sus casos, lo que representa el 51 % según el último corte reportado",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lafm.com.co/sociedad/medicamentos-plan-choque-tratamientos-colombia-salud-atencion-procedimientos-416621",
+              "note": "Cuantifica 1.279.057 personas con pendientes activos y 66,13% de registros sin resolver; detalla medicamentos y procedimientos rezagados, sin datos de muertes.",
+              "host": "lafm.com.co",
+              "title": "Más de 1,2 millones de colombianos siguen esperando medicamentos y procedimientos",
+              "image": "https://files.lafm.com.co/media/news-images/2026/11/06/183908/entregamedicamentoscolombia-1200x675.jpg?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "seguridad",
+          "claim": "Se afirma que las labores de espionaje también habrían infiltrado a altos funcionarios de la embajada de Estados Unidos en Colombia.",
+          "quote": "supuestamente en todas esas labores de escionaje también habrían estado infiltrando a altos funcionarios de la embajada norteamericana en Colombia",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las fuentes disponibles respalda que las labores de espionaje de la DNI hayan infiltrado a altos funcionarios de la embajada de Estados Unidos en Colombia. Las fuentes documentan otros elementos (casa clandestina cerca de la sede diplomática, malware ruso, planes de espionaje a expresidentes), pero no esa infiltración concreta [F1][F2][F3].",
+          "context": "Lo que sí está documentado en los informes divulgados por Noticias Caracol es: (a) una casa de inteligencia clandestina a pocos metros de la Embajada de Estados Unidos, nunca registrada oficialmente y desocupada tras las elecciones, con sus rastros borrados de los archivos de la DNI [F1][F2][F3]; (b) la sospecha de que dispositivos entregados por el SVR ruso a agentes colombianos en Moscú podrían contener software espía, lo que motivó la recomendación de una revisión forense [F2][F3]; (c) planes de instalar micrófonos y GPS en vehículos de expresidentes mediante el Decreto 0563 de 2026 [F2][F3]. Ninguna fuente menciona la infiltración de funcionarios de la embajada estadounidense; la relación entre la casa clandestina y la sede diplomática es de proximidad geográfica, no de infiltración [F1][F2][F3].",
+          "progressivePerspective": "A la luz del marco de verdad, justicia, reparación y no repetición, esta afirmación ilustra el riesgo de amplificar señalamientos que, aunque proceden de un informe interno real, exceden lo que las fuentes sostienen. El informe de empalme está construido con información de funcionarios de la propia DNI y, como advierte la prensa que lo divulgó, contiene 'señalamientos que deben ser verificados por las autoridades' [F2]. Presentar como hecho la infiltración de la embajada de EE.UU. convierte una hipótesis no verificada en certeza, lo que dificulta el esclarecimiento riguroso de la verdad y puede generar alarmismo infundado [F1][F2][F3]. Al mismo tiempo, los hechos que sí están respaldados —compras por $20.783 millones bajo control fiscal de la Contraloría, un hacker con orden de captura que permaneció en la agencia, planes de interferencia en la Registraduría— merecen investigación judicial y sanción, no dilución en afirmaciones ampliadas sin evidencia [F1][F2][F3]. La no repeticion se fortalece con la verificación rigurosa de cada señalamiento, no con la extrapolación.",
+          "whatTheyOmit": "El video omite que la casa clandestina junto a la embajada es solo una ubicación geográfica descrita en el informe, sin que se haya establecido su función ni vínculo con la sede diplomática [F1][F2][F3]. También omite que los documentos son señalamientos internos pendientes de verificación por autoridades [F2] y que la Contraloría ya ordenó control fiscal a cinco contratos, es decir, que hay mecanismos institucionales en marcha [F1][F2][F3]. No distingue entre lo probado (captura, orden de captura, hackeo a la UNAD, contratos cuestionados) y lo atribuido sin verificación [F1][F3].",
+          "keyFacts": [
+            "Existió una casa de inteligencia clandestina de la DNI a pocos metros de la Embajada de Estados Unidos, nunca registrada oficialmente, desocupada tras las elecciones con sus rastros borrados de los archivos [F1][F2][F3]",
+            "No hay evidencia en las fuentes de que altos funcionarios de la embajada de Estados Unidos hayan sido infiltrados por la DNI [F1][F2][F3]",
+            "El informe de empalme de 26 páginas está construido con información de funcionarios de la DNI y contiene señalamientos que deben ser verificados por las autoridades [F2][F3]",
+            "La Contraloría ordenó revisión de cinco contratos de la DNI por $20.783 millones tras las revelaciones [F1][F2][F3]",
+            "Existe la sospecha documentada de que dispositivos entregados por el SVR ruso a agentes colombianos podrían contener software espía [F2][F3]",
+            "Los informes documentan planes de espionaje a expresidentes mediante micrófonos y GPS en sus vehículos, bajo el Decreto 0563 de 2026 [F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/en-vivo/contratos-cuestionados-espionaje-y-reencauches-la-dni-en-la-era-petro/",
+              "note": "Resume el informe de empalme: casa clandestina cerca de la embajada, plan de espionaje a expresidentes, hacker Carlos Oyola, contratos cuestionados. No menciona infiltración de funcionarios de la embajada.",
+              "host": "lasillavacia.com",
+              "title": "Contratos cuestionados, espionaje y reencauches: la DNI en la era Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/Gustavo-Petro-Consejo-de-Ministros-Julio-9-2026-.jpg.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minuto30.com/escandalo-dni-casa-clandestina-espionaje/1728576/",
+              "note": "Detalla micrófonos y GPS en vehículos de expresidentes, casa clandestina, malware ruso y compras. Advierte que los señalamientos deben ser verificados. No reporta infiltración de la embajada.",
+              "host": "minuto30.com",
+              "title": "Casa clandestina, micrófonos y un dron que no servía: el nuevo escándalo que sacude a la DNI - Minuto30",
+              "image": "https://staticprd.minuto30.com/wp-content/uploads/2026/11/1-dni-casa-narino.webp"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/una-casa-clandestina-y-hasta-gps-en-vehiculos-de-expresidentes-asi-habria-sido-el-plan-de-la-dni-en-la-era-petro-para-intervenir-en-elecciones-EH43332170",
+              "note": "Relato detallado del informe: GPS en carros de expresidentes, casa clandestina, viajes a Moscú, red de Oyola. Menciona proximidad a la embajada, no infiltración de sus funcionarios.",
+              "host": "elcolombiano.com",
+              "title": "Una casa clandestina y hasta GPS en vehÃculos de expresidentes: asÃ habrÃa sido el plan de la DNI en la era Petro para intervenir en elecciones",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1106x738/-87c9/1280d720/none/11101/LUJJ/gustavo-petro-dni_52086627_20261109070050.jpg"
             }
           ]
         }
