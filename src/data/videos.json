@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:34:07",
+  "generatedAt": "2026-11-16T15:34:59",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -7187,6 +7187,410 @@
               "host": "dane.gov.co",
               "title": "",
               "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mensaje-al-pacto-historico-guillermo-portocarrero",
+      "title": "Del escándalo de Petro al insulto: el mensaje al Pacto Histórico",
+      "uploader": "Guillermo Portocarrero Psi",
+      "url": "https://m.facebook.com/watch/?v=1786274365980982&_rdr",
+      "duration": 340.88,
+      "thumbnail": "/media/mensaje-al-pacto-historico-guillermo-portocarrero/thumb.jpg",
+      "conclusion": "## Del escándalo al insulto: hechos reales, conclusiones que no se sostienen\n\nEl video construye una narrativa que presenta al Pacto Histórico como la fuerza que puso a Gustavo Petro en la Presidencia, que conserva poder e influencia y que, sin embargo, no trabaja por el pueblo: estorba, torpedea medidas beneficiosas y usa el escándalo de Petro como prueba de una degradación moral colectiva. Esa percepción se apoya en varios datos verdaderos: Iván Cepeda es senador y miembro del Pacto Histórico, la coalición postuló y validó la candidatura de Petro en 2022, existe una investigación judicial en curso por denuncias de contratos a cambio de favores sexuales, y el partido conserva una bancada considerable tras perder la Presidencia en 2026. El video también acierta en que mantiene poder e influencia, con 25 curules y más de cuatro millones de votos.\n\nEl problema no está en esos datos, sino en cómo se articulan. La afirmación de que Petro \"deja los hoteles en mal estado\" se presenta como un patrón de conducta, cuando las fuentes documentan un solo episodio testimonial, relatado por alguien que no presenció el hecho y que pidió que la justicia lo determine. La acusación de que la oposición del Pacto Histórico \"torpedea\" medidas beneficiosas no identifica ninguna medida concreta, ni fecha, ni votación: es una generalización sin ancla verificable que el video presenta como hecho establecido.\n\nEl punto de quiebre se produce cuando el video pasa de constatar la existencia del escándalo en torno a Petro —que es cierto, con investigaciones en curso y sin condena— a utilizarlo como premisa para deslegitimar al Pacto Histórico en su conjunto. Ese salto presupone una relación causal entre la conducta denunciada de una persona y la representación política de un partido con millones de votantes, sin aportar evidencia de esa conexión. La presentación del escándalo también omite que Petro negó las acusaciones y que los procesos siguen abiertos, de modo que la narrativa sugiere una culpabilidad que aún no ha sido determinada.\n\nEl contexto que falta es determinante: el margen de derrota presidencial fue inferior al 1%, la curul senatorial de Cepeda proviene del Estatuto de la Oposición, la bancada del Pacto Histórico ha radicado proyectos propios como el salario vital, y las fuentes documentan alianzas electorales de Petro con sectores tradicionales que matizan la idea de una victoria atribuible solo al pacto. Al omitir estos datos, el video deja la impresión de que el Pacto Histórico es un actor uniformemente obstructivo y carente de legitimidad democrática. La realidad documentada es más limitada: un partido con base electoral real, en transición de gobierno a oposición, cuyas acciones concretas no están probadas en el video. La conclusión que se construye con datos verdaderos no se sostiene: es engañosa.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Iván Cepeda es senador y hace parte del Pacto Histórico.",
+          "quote": "el senador Iván Cepeda es un inservible",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero incompleto",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación factual es correcta: Iván Cepeda es senador de la República de Colombia y hace parte del Pacto Histórico [F1][F2][F3][F4]. El calificativo \"inservible\" que se le atribuye en la cita es una valoración personal de quien habla, no un hecho verificable.",
+          "context": "Cepeda ha sido senador ininterrumpidamente desde 2014 (reelegido en 2018 y 2022) y fue representante a la Cámara entre 2010 y 2014 [F1][F2][F3]. En 2026 fue candidato presidencial del Pacto Histórico, llegando a la segunda vuelta con 12.708.712 votos (48.70%) y quedando a menos de 1% de Abelardo de la Espriella; por el Estatuto de la Oposición asumió una curul en el Senado para el período 2026-2030 y es portavoz de la bancada del Pacto Histórico [F1][F2][F3]. Antes de eso, su partido Polo Democrático integró el Pacto Histórico desde 2022 y Cepeda figuró en el séptimo renglón de esa lista [F1]. Es hijo de Manuel Cepeda Vargas, congresista de la UP asesinado en 1994 por agentes del Estado en colaboración con paramilitares, crimen por el que el Estado colombiano reconoció su responsabilidad y la Corte Interamericana de Derechos Humanos se pronunció [F1][F5].",
+          "progressivePerspective": "La verificación confirma el hecho formal (senador y miembro del Pacto Histórico), pero el sentido político de la frase depende de la calificación \"inservible\", que es opinión sin respaldo en las fuentes. En el marco de verdad, justicia, reparación y no repetición, la trayectoria documentada de Cepeda incluye la defensa de víctimas de crímenes de Estado a través de Movice, la facilitación de diálogos con FARC y ELN y la promoción de la Ley de Víctimas [F1][F3][F5]. Sustituir el debate de contenido por un insulto no aporta al esclarecimiento de la verdad ni al debate público informado; tampoco constituye por sí mismo revictimización, minimización ni negación de hechos del conflicto, porque la cita en cuestión no se refiere a los crímenes del conflicto armado sino a una valoración política de una figura concreta [F1][F2].",
+          "whatTheyOmit": "La cita no menciona ningún hecho, votación, proyecto o actuación parlamentaria que sustente el calificativo \"inservible\"; las fuentes documentan en su lugar una amplia trayectoria legislativa y de paz [F1][F5]. Tampoco se contextualiza que la condición de senador para el período 2026-2030 le proviene del Estatuto de la Oposición por su resultado electoral presidencial, no de una elección directa a una curul legislativa en esa legislatura [F2][F3].",
+          "keyFacts": [
+            "Iván Cepeda es senador de la República de Colombia desde 2014 y ocupa una curul para el período 2026-2030 [F2][F3]",
+            "Cepeda es miembro del Pacto Histórico y portavoz de su bancada en el Senado desde julio de 2026 [F2][F3]",
+            "Fue el candidato presidencial del Pacto Histórico en 2026 y alcanzó la segunda vuelta con 48.70% de los votos [F1][F2][F3]",
+            "El Polo Democrático, partido anterior de Cepeda, integró el Pacto Histórico desde 2022, cuando Cepeda quedó elegido en esa lista [F1]",
+            "Cepeda presidió o copresidió las comisiones de paz del Senado y de la Cámara y participó en los diálogos con FARC y ELN [F1][F2][F4][F5]",
+            "El calificativo \"inservible\" es una opinión de quien habla; las fuentes no aportan dato que lo sustente [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/quien-es-quien/ivan-cepeda/",
+              "note": "Perfil detallado: confirma senador del Pacto Histórico, candidato presidencial 2026, trayectoria en Movice, paz total y proceso Uribe.",
+              "host": "lasillavacia.com",
+              "title": "Quién es Iván Cepeda Castro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/02/Fotos-Quien-es-Quien-39.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.wikipedia.org/wiki/Iván_Cepeda",
+              "note": "Confirma senado desde 2014, portavoz de la bancada del Pacto Histórico, resultados electorales 2026 y Estatuto de Oposición.",
+              "host": "es.wikipedia.org",
+              "title": "Iván Cepeda - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iv%C3%A1n_Cepeda_Castro.jpg/960px-Iv%C3%A1n_Cepeda_Castro.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F3",
+              "url": "https://en.wikipedia.org/wiki/Iván_Cepeda",
+              "note": "Versión en inglés: confirma Senate since 2014, party Historic Pact, resultados presidenciales 2026.",
+              "host": "en.wikipedia.org",
+              "title": "Iván Cepeda - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iv%C3%A1n_Cepeda_Castro.jpg/960px-Iv%C3%A1n_Cepeda_Castro.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.movimientopactohistorico.co/candidatos/ivan-cepeda-castro",
+              "note": "Ficha oficial del Pacto Histórico: lista a Cepeda como congresista del partido y miembro del equipo negociador con el ELN.",
+              "host": "movimientopactohistorico.co",
+              "title": "IvÃ¡n Cepeda Castro",
+              "image": "https://www.movimientopactohistorico.co/_emdash/api/media/file/01M4F5KW48FXJDX3D670TXTFXB.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2025/10/27/la-historia-de-ivan-cepeda-nuevo-candidato-presidencial-del-pacto-historico-este-es-su-proyecto-para-saltar-del-legislativo-a-la-casa-de-narino/",
+              "note": "Perfil de campaña: trayectoria en Comisión de Paz, Movice, fallo de la CIDH y caso Uribe; aporta contexto de su perfil público.",
+              "host": "infobae.com",
+              "title": "La historia de Iván Cepeda, el hijo de un senador asesinado que ahora quiere ser presidente: este es su proyecto para llegar a la Casa de Nariño",
+              "image": "https://www.infobae.com/resizer/v2/NGYEHS4C5JGEPH7QVRNNZJACCE.JPG?auth=e2a58422973ea5a6ca427baebc8405bf91aa1dc6647022f1342a99ebd1852365&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "politica",
+          "claim": "El Pacto Histórico puso a Gustavo Petro en la Presidencia.",
+          "quote": "lo que ustedes no hicieron con el presidente hijo de puta que pusieron",
+          "figures": [
+            "2022"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El dato central es correcto: el Pacto Histórico fue la coalición que postuló a Gustavo Petro y cuya consulta lo validó como candidato, y la fórmula Petro/Márquez ganó la segunda vuelta de 2022 con el 50,44% de los votos [F3][F5]. La formulación del video, sin embargo, exagera al atribuir la victoria exclusivamente al pacto: Petro ganó con 11.281.013 votos en una segunda vuelta nacional contra Rodolfo Hernández, en la que también pesaron alianzas con sectores tradicionales y el voto de millones de ciudadanos ajenos a la coalición [F1][F5].",
+          "context": "El Pacto Histórico nació el 11 de febrero de 2021 como coalición de partidos y movimientos de izquierda, socialdemócratas y afines [F3][F4]. Su consulta interna del 13 de marzo de 2022 fue la más votada de las tres consultas de ese día, con 5.737.737 votos (incluidos nulos y no marcados), y Petro obtuvo 4.487.551 votos, el 80,51% de esa consulta [F1][F4]. En legislativas el Pacto fue el más votado, con 20 senadores y 31 (o 27, según la fuente) curules de Cámara [F4][F3]. En la primera vuelta presidencial Petro sacó 8.527.768 votos (40,34%) y en la segunda 11.281.013 (50,44%) frente a 10.580.412 (47,31%) de Rodolfo Hernández [F3][F5]. Además, la propia estrategia de Petro reconoció 'la necesidad de establecer acuerdos electorales con sectores tradicionales como el Partido Liberal' [F1], lo que matiza la idea de que el pacto por sí solo lo 'puso' en la presidencia.",
+          "progressivePerspective": "Esta afirmación pertenece a un monólogo de opinión con tono de insulto, no a un ejercicio de rendición de cuentas: la cita textual ('lo que ustedes no hicieron con el presidente... que pusieron') mezcla un hecho electoral verificable con una agresión personal. Desde el marco de verdad, justicia, reparación y no repetición aplicable al análisis político en Colombia, el dato electoral no es problemático en sí: reconocer que el Pacto Histórico impulsó la candidatura de Petro es parte de la historia política documentada [F3][F4]. Lo que no abona al esclarecimiento es convertir ese dato en un arma de descalificación, porque ni establece responsabilidades concretas de los parlamentarios del Pacto ni aporta pruebas sobre la conducta presidencial que se insinúa; el video mismo no nombra ninguna medida concreta 'torpedeada' ni aporta fuentes [F2][F3]. El esclarecimiento exigiría hechos verificables y responsabilidades precisas, no generalizaciones.",
+          "whatTheyOmit": "Omite que Petro ganó la segunda vuelta con más de 11 millones de votos en escala nacional, no solo con la maquinaria del Pacto [F5]; omite las alianzas electorales con sectores tradicionales que la propia fuente documenta como parte de la campaña de 2022 [F1]; no aporta ninguna medida legislativa o administrativa concreta que la bancada del Pacto haya 'torpedeado', ni datos, enlaces ni nombres que sustenten la acusación de comportamiento presidencial que la cita insinúa [F2][F3].",
+          "keyFacts": [
+            "El Pacto Histórico fue la coalición que postuló a Gustavo Petro a la presidencia en 2022 y se convirtió en el bloque de gobierno tras la elección [F3][F4]",
+            "La consulta interna del Pacto Histórico del 13 de marzo de 2022 obtuvo 5.737.737 votos y Petro ganó con 4.487.551 (80,51%) [F1][F4]",
+            "Petro ganó la segunda vuelta del 19 de junio de 2022 con 11.281.013 votos (50,44%) frente a 10.580.412 (47,31%) de Rodolfo Hernández [F3][F5]",
+            "La estrategia de Petro en 2022 incluyó acuerdos electorales con sectores tradicionales como el Partido Liberal, según Razón Pública [F1]",
+            "El video no identifica ninguna medida concreta que la bancada del Pacto Histórico haya bloqueado y no aporta fuentes ni datos [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-consulta-del-pacto-historico/",
+              "note": "Analiza la consulta del Pacto Histórico: 5.737.737 votos, composición de la coalición y el reconocimiento de acuerdos de Petro con sectores tradicionales. Aporta el matiz de que la victoria no fue solo obra del pacto.",
+              "host": "razonpublica.com",
+              "title": "La consulta del Pacto Histórico | Razón Pública en elecciones",
+              "image": "https://razonpublica.com/wp-content/uploads/2022/03/Gustavo-Petro-ganador-Como-queda-izquierda-Nadia-Perez.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/la-consulta-valida-el-olfato-politico-de-petro-y-cambia-futuro-del-pacto/",
+              "note": "Contexto posterior (consulta de 2025) sobre el rol de Iván Cepeda y el relevo de Petro al frente del bloque; útil para constatar que el video no aporta medidas ni pruebas específicas.",
+              "host": "lasillavacia.com",
+              "title": "La consulta valida el olfato político de Petro y cambia futuro del Pacto",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/10/Petro_Pacto_Estratega-1-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://en.wikipedia.org/wiki/Historic_Pact_for_Colombia",
+              "note": "Confirma fundación (11 feb 2021), composición, resultado de la consulta presidencial de 2022 y la victoria de la fórmula Petro/Márquez con 50,44% en segunda vuelta.",
+              "host": "en.wikipedia.org",
+              "title": "Historic Pact for Colombia - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/ac/Logo_of_the_Historic_Pact_for_Colombia.svg/1280px-Logo_of_the_Historic_Pact_for_Colombia.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://cnnespanol.cnn.com/2022/06/09/pacto-historico-petro-colombia-integrantes-origen-resultados-elecciones-orix/",
+              "note": "Detalle de partidos integrantes, resultados de la consulta interna (80,51% para Petro) y de legislativas; documenta el apoyo de la coalición a Petro.",
+              "host": "cnnespanol.cnn.com",
+              "title": "Pacto Histórico en Colombia: integrantes, origen y mejores resultados en elecciones | CNN",
+              "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1221580-pacto-historico-francia-marquez-gustavo-petro-colombia-getty.jpg?c=16x9&q=w_800,c_fill"
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2022",
+              "note": "Cifras oficiales de ambas vueltas: 8.527.768 votos (40,34%) en primera y 11.281.013 (50,44%) en segunda, contra 10.580.412 de Hernández; matiza que la presidencia se decidió en el escenario nacional, no solo dentro del pacto.",
+              "host": "es.wikipedia.org",
+              "title": "Elecciones presidenciales de Colombia de 2022 - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2022_Colombian_Presidential_Election_First_Round_Results.svg/1280px-2022_Colombian_Presidential_Election_First_Round_Results.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "Existe un escándalo en torno a Gustavo Petro por presuntos contratos a cambio de favores sexuales.",
+          "quote": "no le da pena a todo ese escándalo con Petro",
+          "figures": [
+            "2026"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero son acusaciones en investigación",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "Efectivamente existe un escándalo público y judicial en torno a Gustavo Petro por denuncias de contratos estatales a cambio de favores sexuales, formuladas por Deicy Jiménez, con investigaciones en curso ante la Corte Suprema, la Fiscalía y la Comisión de Acusaciones. Las fuentes lo confirman de manera convergente [F2][F3][F4][F5].",
+          "context": "Deicy Jiménez denunció que recibió contratos con entidades del Estado (Senado, Superintendencia de Vigilancia, Ministerio del Interior) a cambio de mantener relaciones sexuales con Petro. La Corte Suprema de Justicia tiene su testimonio, el contenido de su teléfono celular, chats, fotografías y documentos de contratación [F5]. Petro negó las acusaciones en un comunicado de dos páginas, diciendo: 'Jamás he entregado un contrato a cambio de obtener favores sexuales' [F2]. Los registros de Función Pública muestran que Jiménez tuvo contratos públicos desde 2023 [F2], y se han identificado diez contratos de Jiménez en total [F3]. La abogada de Jiménez indicó que ella figura como víctima y testigo en la investigación [F4]. No hay condena contra Petro: los procesos están en curso [F4][F5]. El propio El Colombiano lo describe como 'la denuncia de corrupción más dura que ha enfrentado en su carrera política' [F3].",
+          "progressivePerspective": "El escándalo existe como hecho público y judicial, y las fuentes periodísticas lo documentan con detalle [F2][F3][F4][F5]. Sin embargo, el uso que hace el video de este escándalo es instrumental: lo emplea como munición para atacar a un actor político (el Pacto Histórico) sin aportar datos nuevos ni contextualizar el estado jurídico de las denuncias. Desde la perspectiva de los principios de verdad y debido proceso, es relevante señalar que estamos ante acusaciones presuntas en investigación, no ante hechos probados ni condenas. El video no distingue entre la existencia del escándalo (verificable) y la culpabilidad (no establecida), lo que puede contribuir a la confusión entre denuncia y condena, un riesgo que cualquier análisis serio debe señalar independientemente de quién sea el investigado [F2][F4]. Tampoco aporta a la no repetición ni al esclarecimiento de nada: es una pieza de opinión orientada al ataque político, no al análisis del caso [F4].",
+          "whatTheyOmit": "El video no menciona que Petro ha negado expresamente las acusaciones en un comunicado formal [F2], ni que no existe condena alguna y que los procesos judiciales siguen en curso ante la Corte Suprema, la Fiscalía y la Comisión de Acusaciones [F4][F5]. Tampoco señala que Jiménez figura como víctima y testigo en la investigación [F4], ni aporta el estado procesal del caso. La afirmación del video se limita a constatar la existencia del escándalo sin matices, usándolo como argumento retórico y sin aportar el estado procesal del caso.",
+          "keyFacts": [
+            "Existe una denuncia de Deicy Jiménez contra Gustavo Petro por presuntos contratos a cambio de favores sexuales, con investigaciones en curso ante la Corte Suprema de Justicia, la Fiscalía y la Comisión de Acusaciones [F2][F3][F4][F5]",
+            "Petro negó las acusaciones en un comunicado de dos páginas: 'Jamás he entregado a cambio de obtener favores sexuales' [F2]",
+            "Los registros de Función Pública muestran que Jiménez tuvo contratos públicos desde 2023, incluyendo con el Senado, la Superintendencia de Vigilancia y el Ministerio del Interior [F2][F3]",
+            "Se han identificado diez contratos de Jiménez con entidades estatales [F3]",
+            "La Corte Suprema tiene el testimonio de Jiménez, el contenido de su teléfono celular, chats, fotografías y documentos de contratación [F5]",
+            "Jiménez figura como víctima y testigo en la investigación; no hay condena contra Petro hasta la fecha [F4]",
+            "La defensa de Petro presentó una denuncia contra Jiménez por 'falsedad en documentos' [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/gobierno-petro-la-justicia-una-relacion-mutua-desconfianza/",
+              "note": "Análisis de la relación entre Petro y la justicia; no aborda directamente el escándalo de los sexocontratos, pero contextualiza las tensiones institucionales.",
+              "host": "razonpublica.com",
+              "title": "El gobierno de Petro y la justicia, una relación de mutua desconfianza",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/12/justicia-jorge-ivan.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/petro-nego-entrega-de-contratos-a-cambio-de-favores-sexuales/",
+              "note": "Confirma la existencia del escándalo, la negativa de Petro, los registros de contratación de Jiménez desde 2023 y los procesos judiciales anunciados.",
+              "host": "lasillavacia.com",
+              "title": "Petro negó entrega de contratos a cambio de favores sexuales",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/08/Petro_Gabinete_Vida-1-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/politica/escandalo-gustavo-petro-sexocontratos-deicy-jimenez-FK43490423",
+              "note": "Documenta el escándalo en detalle: diez contratos identificados, la negativa de Petro, la publicación de un video íntimo y las respuestas del exmandatario.",
+              "host": "elcolombiano.com",
+              "title": "Â¿En quÃ© va el escÃ¡ndalo de Petro por los âsexocontratosâ?",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c0/1280d720/none/11101/JLGO/angie6099287-c0c06dc98f-o_52110363_20261111210805.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.eltiempo.com/justicia/investigacion/escandalo-del-expresidente-petro-por-denuncias-de-contratos-a-cambio-de-favores-sexuales-ultimas-noticias-reacciones-y-novedades-del-caso-3600087",
+              "note": "Cobertura en vivo de las investigaciones de la Corte Suprema, Fiscalía y Comisión de Acusación; confirma que Jiménez es víctima/testigo y que no hay condena.",
+              "host": "eltiempo.com",
+              "title": "Escándalo del expresidente Petro por denuncias de contratos a cambio de favores sexuales: defensa de Deyci Jiménez habló sobre los avances del caso",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/05/6aec5ed17fff8.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/confidenciales/articulo/deicy-petro-y-los-sexocontratos/202635/",
+              "note": "Detalle del material probatorio en manos de la Corte Suprema: testimonio, teléfono, chats, fotografías y documentos de contratación.",
+              "host": "semana.com",
+              "title": "Caso Deicy Jiménez y Petro: las pruebas de los 'sexocontratos'",
+              "image": "https://www.semana.com/resizer/v2/ETTFTU7CPRBBDN6GEXM3Y4FU6M.jpg?auth=20e5647b72f2c8cf7e75392648762f11442c87ab5cd08694a085c2b354452553&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Petro entra a hoteles y los deja en mal estado.",
+          "quote": "entra Petro a los hoteles y vuelve todo, se caga",
+          "figures": [
+            "2022"
+          ],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación plural y generalizada ('Petro entra a los hoteles y los deja en mal estado') se sustenta en una sola anécdota testimonial no corroborada: la de Ángela Benedetti (2026) sobre un episodio de 2022 en un hotel de Bogotá. La propia Benedetti aclara que no subió a la habitación y que el estado del cuarto le fue descrito por un tercero. No hay evidencia de múltiples episodios ni de ningún hallazgo judicial o periodístico que confirme el relato [F2][F3][F4].",
+          "context": "Ángela Benedetti, excolaboradora de campaña de Petro en 2022 y exembajadora en Panamá, relató en noviembre de 2026 en entrevista con Patricia Janiot una anécdota de días antes de la elección de 2022: Petro estaría en un hotel de lujo de Bogotá sin dinero para pagar, y la habitación habría quedado en mal estado con una multa que triplicaba el valor de dos noches. Benedetti fue clara en que no subió al dormitorio y que la descripción (olor a drogas, mal estado) proviene de un amigo que sí subió: «¿Qué hicieron? No sé, pero dice mi amigo…» [F2][F3][F4]. El episodio ocurrió una sola vez, en un solo hotel, y es un testimonio personal sin corroboración judicial o periodística independiente en las fuentes disponibles [F2][F3][F4].",
+          "progressivePerspective": "En el marco de la verdad y la no repetición, distinguir entre lo verificable y lo no verificable es esencial para no contaminar el debate público con acusaciones no probadas ni generalizadas. La anécdota de Benedetti, como testimonio de una exaliada distanciada del gobierno, merece escrutinio pero no puede presentarse como patrón establecido de comportamiento. La propia Benedetti pidió que la justicia determine la veracidad de sus afirmaciones y que se respete la presunción de inocencia [F3]. Presentar un solo relato no corroborado como si fuera un hábito plural y repetido ('los hoteles', 'deja todo') convierte una versión no corroborada en un patrón establecido, lo que debilita la calidad del debate y el estándar de verdad que cualquier actor político debe sostener [F2][F3][F4].",
+          "whatTheyOmit": "El video omite que: (1) solo existe UNA anécdota de hotel, no múltiples; (2) la fuente (Benedetti) no presenció personalmente el estado de la habitación; (3) no hay investigación judicial ni corroboración independiente del relato; (4) Benedetti distanció su versión de cualquier prueba y pidió que la justicia lo resuelva; (5) el video no aporta fuentes, nombres de hoteles, fechas ni ninguna verificación [F2][F3][F4].",
+          "keyFacts": [
+            "Ángela Benedetti relató en 2026 un episodio de hotel de Petro en Bogotá durante la campaña de 2022, días antes de su elección [F2][F3][F4]",
+            "Benedetti aclaró que no subió a la habitación y que la descripción del mal estado proviene de un amigo que sí subió: 'no sé, pero dice mi amigo' [F2][F3]",
+            "Según el relato, el hotel cobraba dos noches más una multa que triplicaba ese valor por el estado de la habitación [F2][F3][F4]",
+            "Solo se documenta UN episodio de hotel en las fuentes disponibles, no una serie o patrón múltiple [F2][F3][F4]",
+            "No existe condena ni hallazgo judicial que confirme el relato; la propia Benedetti pidió que la justicia lo determine [F3]",
+            "La anécdota corresponde a un episodio puntual de 2022, no a un comportamiento habitual durante su presidencia (2022-2026) [F2][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://www.semana.com/politica/articulo/angela-benedetti-conto-inedita-historia-de-lo-que-paso-con-gustavo-petro-al-interior-de-una-habitacion-de-hotel-no-quise-subir/202636/",
+              "note": "Relato original de Benedetti: aclara que no subió a la habitación y que la descripción viene de un tercero",
+              "host": "semana.com",
+              "title": "Ángela Benedetti contó inédita historia de lo que pasó con Gustavo Petro al interior de una habitación de hotel: “No quise subir”",
+              "image": "https://www.semana.com/resizer/v2/UHBRDZGMJBCYNGOKJRBS56QJUM.jpg?auth=5953a373fb08392191d5c34b96bdecc0809add678ebe18148e7b4d969f23f9e2&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/04/angela-benedetti-aseguro-que-gustavo-petro-le-hizo-pagar-una-millonaria-multa-en-un-hotel-de-bogota-durante-la-campana-presidencial-hasta-olia-a-drogas/",
+              "note": "Cobertura detallada: Benedetti pide respetar presunción de inocencia y que la justicia determine la verdad",
+              "host": "infobae.com",
+              "title": "Ángela Benedetti aseguró que Gustavo Petro le hizo pagar una millonaria multa en un hotel de Bogotá durante la campaña presidencial: “Hasta olía a drogas”",
+              "image": "https://www.infobae.com/resizer/v2/PWNGOJH4PZFKBL2DDC3B4MUU5Y.png?auth=0b6c8331348edf809f4bd8e07ea158ce24f61062ec3f7b4183a376656e41e038&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.eluniversal.com.co/colombia/2026/11/04/revelan-detalles-de-polemico-episodio-de-gustavo-petro-en-un-hotel-en-bogota/",
+              "note": "Cobertura del mismo episodio: confirma que Benedetti no ingresó al dormitorio y el estado fue descrito por acompañantes",
+              "host": "eluniversal.com.co",
+              "title": "Mal olor, daños y multa: historia de Petro en un hotel de Bogotá",
+              "image": "https://www.eluniversal.com.co/resizer/v2/TT5T5Q2BKBH6TBJTIC2OHANVBQ.jpeg?auth=26b7eaa80685e1a868ccf970496c78479fa2231ee77132c81400eabdf9f4ff49&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.iarepublica.com/co/noticia/angela-benedetti-relata-incidente-de-gustavo-petro-en-un-hotel-durante-la-campana-de-2022-15431a56",
+              "note": "Resumen adicional: destaca el contexto de Benedetti como figura distanciada del petrismo",
+              "host": "iarepublica.com",
+              "title": "Ángela Benedetti relata incidente de Gustavo Petro en un hotel durante la campaña de 2022",
+              "image": "https://iarepublica.com/og-firme.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "La oposición del Pacto Histórico torpedea medidas que benefician al pueblo.",
+          "quote": "torpedear las cosas que pueden beneficiar al pueblo",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación es una generalización sin sustento: el video no nombra ninguna medida concreta supuestamente 'torpedeada' por el Pacto Histórico, y las fuentes disponibles no documentan tal comportamiento; por el contrario, una fuente muestra a la bancada del Pacto Histórico radicando ella misma un proyecto de ley (salario vital) presentado como beneficioso para trabajadores [F5]. Las fuentes solo permiten confirmar quiénes son y en qué condición política actúan, no la conducta que se les atribuye [F1][F2][F5].",
+          "context": "El Pacto Histórico nació como estrategia coalicional de la izquierda colombiana desde 2018, se consolidó como la lista más votada al Senado en 2022 y como partido institucionalizado, con consulta interna en 2025-2026 que movilizó más de 2,7 millones de votos [F1][F4]. Fue la fuerza que impulsó la campaña y el gobierno de Gustavo Petro [F2]. Para 2026, la fuente de Semana lo describe ya como 'partido de oposición al gobierno entrante' de Abelardo De La Espriella, en cuya condición radicó el proyecto de ley del salario vital dentro del 'paquetazo legislativo' del gobierno saliente [F5]. El sitio del Senado consultado es solo un buscador de proyectos y leyes, sin resultados que permitan acreditar o descartar obstructionismo [F3].",
+          "progressivePerspective": "El marco de verdad, justicia, reparación y no repetición de la JEP aplica de forma indirecta aquí, porque la afirmación no versa sobre crímenes del conflicto armado ni sobre la JEP. En todo caso, el criterio de apertura a la verdad sí ilumina el análisis: se le pide al discurso público sustentar sus cargos con hechos verificables, y esta afirmación no aporta datos, nombres de proyectos ni registros legislativos, sino una imputación colectiva de intención ('torpedear') a toda una bancada [F5]. Contrastada con las fuentes, no abona al esclarecimiento de una conducta real: las únicas evidencias disponibles describen actividad legislativa ordinaria de esa misma bancada, tanto en su etapa de apoyo al gobierno como en su etapa de oposición [F1][F2][F5]. Una acusación sin pruebas, sostenida con tono insultante según la ficha de contexto, corre el riesgo de sustituir el debate de ideas por la descalificación, lo cual no favorece ni el control político ni la no repetición de prácticas de estigmatización política que la historia colombiana registra [F1].",
+          "whatTheyOmit": "Se omite identificar qué medidas concretas habrían sido torpedeadas, quién las impidió, cuándo y con qué votación: sin ese dato la afirmación no es contrastable [F3][F5]. También se omite que el Pacto Histórico pasó de ser fuerza de gobierno a oposición en 2026 y que, en esa condición, presentó iniciativas propias presentadas como favorables a trabajadores, lo que complica la idea de que su oposición consista bloquear todo lo beneficioso para el pueblo [F5]. Se omite asimismo la magnitud real de su peso institucional (lista más votada al Senado en 2022, consulta con más de 2,7 millones de votos), que sitúa el alcance real de cualquier supuesto poder de veto [F1][F4].",
+          "keyFacts": [
+            "El Pacto Histórico se consolidó como la lista más votada al Senado y segunda a la Cámara en 2022, y como partido de izquierda institucionalizado [F1]",
+            "La campaña de Iván Cepeda (2026) fue impulsada por el aparato del gobierno Petro, con inversión social y actividad presidencial [F2]",
+            "Para 2026 el Pacto Histórico es descrito como partido de oposición al gobierno entrante [F5]",
+            "La bancada del Pacto Histórico radicó el proyecto de ley del salario vital, presentado como desarrollo del artículo 53 de la Constitución y como garantía para trabajadores [F5]",
+            "El video no identifica ninguna medida específica que la oposición haya bloqueado ni aporta registros legislativos [F3]",
+            "El sitio del Senado consultado ofrece solo herramientas de búsqueda, sin resultados que acrediten o descarten obstructionismo [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/pacto-historico-hacia-la-consolidacion-una-izquierda-partidista-congreso/",
+              "note": "Origen, evolución y peso institucional del Pacto Histórico; contexto histórico de la izquierda colombiana y de la violencia política contra la UP y el M-19",
+              "host": "razonpublica.com",
+              "title": "El Pacto Histórico: ¿Hacia la consolidación de una izquierda partidista en el Congreso?",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/03/Registraduria-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/la-estructura-del-pacto-en-primera-vuelta-politicos-quietos-bases-aceitadas/",
+              "note": "Vinculación entre el gobierno Petro y la campaña del Pacto Histórico en 2026; estructura política y votación regional",
+              "host": "lasillavacia.com",
+              "title": "La estructura del Pacto en primera vuelta: políticos quietos, bases aceitadas",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/06/estructura-pacto-1ra-vuelta.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://leyes.senado.gov.co/",
+              "note": "Portal legislativo del Senado: herramientas de búsqueda sin resultados; no aporta evidencia de bloqueos",
+              "host": "leyes.senado.gov.co",
+              "title": "SecciÃ³n de Leyes",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.rtvcnoticias.com/colombia/asi-quedo-la-consulta-del-pacto-historico-para-el-senado",
+              "note": "Resultados de la consulta interna del Pacto Histórico y magnitud de participación (más de 2,7 millones de votos)",
+              "host": "rtvcnoticias.com",
+              "title": "Así quedó la Consulta del Pacto Histórico para el Senado y Cámara",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2025-10/VXHQUPZ25ZG4JMALYA3VW26L2E%20%282%29.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/economia/macroeconomia/articulo/salario-vital-por-ley-el-otro-proyecto-que-radico-el-pacto-historico-partido-de-oposicion-al-gobierno-entrante/202612/",
+              "note": "Contraste clave: el Pacto Histórico en oposición radica un proyecto propio presentado como beneficioso para trabajadores, lo que matiza la acusación de 'torpedear' todo lo que beneficia al pueblo",
+              "host": "semana.com",
+              "title": "Salario vital por ley, el otro proyecto que radicó el Pacto Histórico, partido de oposición al gobierno entrante",
+              "image": "https://www.semana.com/resizer/v2/7MRZQAJOBBARJE3SXQ3JRLF3QA.jpeg?auth=892522a08c29947b2193928bd72c26e157bd030c729cc2972a6e46cde3b8c4d5&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "El Pacto Histórico conserva poder e influencia política tras perder la Presidencia.",
+          "quote": "ustedes todavía tienen poder, todavía tienen influencia, todavía hay gente que lo sigue a ustedes",
+          "figures": [
+            "2026"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero requiere precisión",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación se sostiene con las fuentes: tras la derrota en la segunda vuelta presidencial de 2026, el Pacto Histórico quedó como la primera fuerza del Senado, con 25 curules y más de 4 millones de votos, y su candidato presidencial obtuvo una curul senatorial vía Estatuto de la Oposición [F2][F5]. Es decir, conserva poder legislativo e influencia política, aunque el matiz de 'perder la Presidencia' conviene precisarlo: la derrota fue en la segunda vuelta por menos del 1% [F5].",
+          "context": "El Pacto Histórico nació como coalición que respaldó la candidatura de Gustavo Petro en 2022 y se ha consolidado como partido/movimiento que reúne al Polo Democrático Alternativo, Colombia Humana, Unión Patriótica, Progresistas y el Partido Comunista [F2]. En las elecciones legislativas de 2026 el PH superó los 4.004.000 votos en el Senado con el 99,56% de mesas informadas, convirtiéndose en la primera fuerza política del Congreso para 2026-2030, por encima del Centro Democrático (17), el Liberal (13), Alianza por Colombia (11), el Conservador (11) y la de la U (9) [F2]. Iván Cepeda, su candidato presidencial, obtuvo 12.708.712 votos (48,70%) en la segunda vuelta del 21 de junio de 2026, perdiendo por menos del 1% frente a Abelardo de la Espriella (49,66%), y asumió como senador por el Estatuto de la Oposición, además de presidir la Comisión de Paz del Senado [F5]. El análisis electoral de Razón Pública muestra además que el apoyo territorial del PH en 2026 se correlaciona con la fuerza de Petro en 2022 y que el partido amplió su cobertura geográfica [F1].",
+          "progressivePerspective": "A la luz del marco de verdad, justicia, reparación y no repetición aplicable a la política colombiana post-acuerdo de paz, este dato es sobre todo un dato de realidad democrática: una fuerza política que llega al poder por vía electoral conserva caudal de representación cuando pierde el ejecutivo, y eso es consistente con un sistema de partidos y con el Estatuto de la Oposición, que busca precisamente que la minoría presidencial mantenga capacidad de interpelación [F5]. El reconocimiento de que el PH mantiene poder e influencia no niega hechos ni revictimiza a nadie; por el contrario, al situar al PH como primera fuerza del Senado y a su líder en la Comisión de Paz, enmarca al actor en su condición real de interlocutor institucional, condición relevante para la implementación del Acuerdo Final de Paz y para la garantía de no repetición [F2][F3][F5]. Lo que sí conviene separar es el dato verificable (conserva poder e influencia) del uso retórico del video, que emplea esa constatación para descalificar genéricamente a toda una coalición sin aportar pruebas de hechos concretos [F1][F2].",
+          "whatTheyOmit": "El video no precisa que la pérdida de la Presidencia fue por un margen inferior al 1% en la segunda vuelta, ni cifra alguna sobre la magnitud real del poder que conserva el PH: 25 curules en el Senado, primera fuerza política y más de 4 millones de votos [F2][F5]. Tampoco menciona que el Estatuto de la Oposición otorga la curul senatorial al segundo lugar presidencial, mecanismo legal que explica parte de esa permanencia en el Congreso [F5]. Finalmente, el video no distingue entre poder legislativo (verificable y considerable) e influencia política (afirmación más difusa) ni aporta fuentes, enlaces o datos concretos que sustenten sus generalizaciones [F1][F2].",
+          "keyFacts": [
+            "El Pacto Histórico se convirtió en la primera fuerza política del Congreso de Colombia para 2026-2030, con más de 4.004.000 votos en el Senado y una proyección de 25 curules, por encima del Centro Democrático (17) [F2].",
+            "El PH llegó al poder apoyando la candidatura de Gustavo Petro en 2022 y se estructuró como partido con el Polo Democrático Alternativo, Colombia Humana, Unión Patriótica, Progresistas y el Partido Comunista [F2].",
+            "Iván Cepeda, candidato presidencial del PH en 2026, perdió la segunda vuelta por menos del 1% (48,70% frente a 49,66%) y asumió como senador por el Estatuto de la Oposición, presidiendo la Comisión de Paz del Senado [F5].",
+            "El apoyo territorial del PH en 2026 se explica en buena medida por la fuerza de Petro en la primera vuelta de 2022, y el partido amplió su presencia regional [F1].",
+            "El sitio oficial del PH se autodescribe como 'la mayor fuerza política de Colombia' y como movimiento con base en organizaciones sociales, sindicatos y comunidades étnicas [F3].",
+            "El Estatuto de la Oposición otorga una curul directa en el Senado al segundo lugar de la elección presidencial, lo que institutionaliza la permanencia de la fuerza perdedora en el Congreso [F5]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/del-sueno-constitucional-al-fenomeno-electoral-camino-hacia-la-representacion-nacional-del-senado-colombiano-papel-del-pacto-historico/",
+              "note": "Análisis académico sobre el desempeño electoral del Pacto Histórico en el Senado 2026: muestra su crecimiento territorial y su anclaje en el electorado de Petro de 2022; aporta la magnitud real del respaldo electoral.",
+              "host": "razonpublica.com",
+              "title": "Del sueño constitucional al fenómeno electoral: el camino hacia la representación nacional del Senado colombiano y el papel del Pacto Histórico",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/03/Senado-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.noticiascaracol.com/politica/elecciones-colombia/lista-de-senadores-elegidos-2026-del-pacto-historico-el-partido-del-presidente-gustavo-petro-quienes-son-rg10",
+              "note": "Lista de senadores electos 2026-2030 y resultados: PH como primera fuerza con 25 curules y más de 4 millones de votos; compara con el Centro Democrático y otros partidos. Confirma el poder legislativo conservado.",
+              "host": "noticiascaracol.com",
+              "title": "Lista de senadores elegidos del Pacto Histórico, el partido del presidente Gustavo Petro",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/e0e36e7/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fae%2F7d%2F18b6fe594ec6a93c6e83c7de2a48%2Fdiseno-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://pactohistorico.co/",
+              "note": "Sitio oficial del Pacto Histórico: autodescripción como 'mayor fuerza política de Colombia', programa de gobierno de Cepeda y afiliación militante; útil como fuente interesada sobre su propia influencia.",
+              "host": "pactohistorico.co",
+              "title": "A Cámara y Senado vota Pacto",
+              "image": "https://pactohistorico.co/wp-content/uploads/2026/03/WEB-PH-_pactoPortada-1200-8.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.movimientopactohistorico.co/listas",
+              "note": "Listas electorales oficiales del PH: 34 listas de Senado y 13 de Cámara, confirmando estructura y alcance orgánico del movimiento.",
+              "host": "movimientopactohistorico.co",
+              "title": "Listas Electorales",
+              "image": "https://www.movimientopactohistorico.co/og-global.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Iván_Cepeda",
+              "note": "Perfil de Iván Cepeda: resultado de la segunda vuelta de 2026 (48,70% vs 49,66%), curul senatorial por el Estatuto de la Oposición y presidencia de la Comisión de Paz; aporta la precisión sobre la magnitud de la derrota presidencial.",
+              "host": "es.wikipedia.org",
+              "title": "Iván Cepeda - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iv%C3%A1n_Cepeda_Castro.jpg/960px-Iv%C3%A1n_Cepeda_Castro.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
             }
           ]
         }
