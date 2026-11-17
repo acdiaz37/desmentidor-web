@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:56:18",
+  "generatedAt": "2026-11-17T15:38:29",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -8664,6 +8664,927 @@
               "host": "caracol.com.co",
               "title": "“Son solo especulaciones”, Verónica Alcocer a su llegada a Suecia sobre acusaciones de corrupción",
               "image": "https://caracol.com.co/resizer/v2/L645BWVTLBBU3FGX3OSBUKVTUY.jpg?auth=be066124c380281e4515c5d262457be69779cbc05c4489cc3fe9c511b23d3498&quality=70&width=1200&height=675&smart=true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "151k-views-9-1k-reactions-creditos-miguelzaraten-gracias-por-la-inform",
+      "title": "151K views · 9.1K reactions | Créditos @miguelzaraten gracias por La información | Karito Mosquera/ Mentora Sanación Interior y propósito",
+      "uploader": "Karito Mosquera/ Mentora Sanación Interior y propósito",
+      "url": "https://m.facebook.com/watch/?v=1833650561123016&_rdr",
+      "duration": 351.085,
+      "thumbnail": "/media/151k-views-9-1k-reactions-creditos-miguelzaraten-gracias-por-la-inform/thumb.jpg",
+      "conclusion": "## De datos reales a una narrativa de manipulación encubierta\n\nEl video construye una narrativa general en la que La Silla Vacía —uno de los medios digitales más influyentes de Colombia— aparece no como un proyecto periodístico independiente, sino como un instrumento financiado por el capital de una familia de empresarios de alimentos, que habría acumulado fortuna vendiendo productos ultraprocesados a los más pobres y que usaría ese dinero para financiar un medio que presiona al gobierno y ataca políticos que no sirven los intereses empresariales. La percepción que genera es la de un medio hipócrita y manipulador: un actor disfrazado de independencia editorial que, en realidad, opera como brazo mediático de intereses corporativos.\n\nHay elementos con base real que el video aprovecha: Juanita León es efectivamente hija de Jorge Fernando León Dub, cofundador de Quala S.A., empresa cuyas marcas incluyen Frutiño, Ricostilla, Panelada, Ámper y Popetas; Marcelo León Dub, su tío, sí es accionista de Blogosfera Producciones SAS, la sociedad propietaria del portal; y Joli Foods (no \"Jolly Foods\") sí habría recibido un crédito subsidiado vía Colombia Agro Produce durante 2020, programa cuyos datos de la Contraloría muestran una concentración del 94,5% del crédito en grandes comercializadores. También es cierto que La Silla Vacía cubrió Colombia Agro Produce sin mencionar el vínculo familiar de Joli Foods, y que el crédito fue devuelto en abril de 2020.\n\nEl problema surge cuando el video encadena estos datos en una cadena causal que ningún dato permite: de que la familia fundó Quala se saltó a que Juanita León se hizo multimillonaria vendiendo ultraprocesados a pobres; de que el tío es accionista del portal se saltó a que el medio fue \"dado\" por el padre a la hija; de que hubo un crédito a Joli Foods se construyó que las ganancias de vendedores ambulantes financian ataques al presidente. En ningún punto el video documenta el flujo de dinero que conecta Quala, la venta en calles, La Silla Vacía y la línea editorial del medio.\n\nEl punto de quiebre se produce cuando el video pasa de constatar vínculos familiares —verdaderos y documentados— a afirmar que esos vínculos prueban una operación financiera y mediática específica: ganancias de productos callejeros → financiación del medio → ataques a políticos. Esa transición es de datos reales a una conclusión sin respaldo documental alguno.\n\nEl contexto que falta es decisivo: La Silla Vacía se financia con cooperación internacional, donaciones y crowdfunding, y en 2023 cedió sus acciones a una fundación sin ánimo de lucro; su directorio está documentado; no existe evidencia de financiamiento por venta de productos en calles; el caso de Joli Foods implica un crédito devuelto, no una operación sostenida de financiación ilegal. Cualquier interpretación más completa reconocería los vínculos familiares como legítimos y verificables, y la omisión de Joli Foods como una pregunta periodística válida, sin que ello sustente la enorme arquitectura conspirativa que el video presenta como realidad.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se afirma que los dueños de La Silla Vacía son también los dueños de una empresa llamada CUALA.",
+          "quote": "los mismos dueños de la silla vacía son los dueños de estos productos de esta empresa. CUALA, una empresa que se ha hecho multimillonaria o sus directivos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las cinco fuentes entregadas menciona una empresa llamada CUALA ni establece vínculo societario alguno entre sus propietarios y los de La Silla Vacía; las fuentes solo documentan la fundación, el equipo directivo y la financiación del medio, por lo que la afirmación queda sin respaldo ni desmentido con el material disponible [F4][F5].",
+          "context": "La Silla Vacía es un medio digital colombiano fundado en 2009 por la periodista Juanita León, quien es también su directora; Daniel Pacheco ocupa el cargo de editor en jefe y el equipo reportado es de 18 empleados [F4][F5]. Su financiación provino inicialmente de donaciones (Open Society Foundations, embajada británica, Fundación Ford, National Endowment for Democracy), crowdfunding y proyectos comerciales; en 2022 el 41% de sus ingresos provino de cooperación internacional, incluidos USAID, la Embajada Británica y la Fundación Ford [F4][F5]. Las fuentes disponibles no contienen información societaria sobre ninguna empresa denominada CUALA, por lo que no es posible dimensionar la supuesta fortuna ni confirmar a sus directivos [F4][F5].",
+          "progressivePerspective": "La afirmación se enmarca en una narrativa de descrédito contra un medio de comunicación concreto, sugiriendo que su dueños habrían acumulado riqueza por un cauce no aclarado. En términos de estándares de verificación, sostener la existencia de un vínculo societario exige documentos registrales (cámara de comercio, estados financieros) que las fuentes aportadas no contienen, de modo que la proposición no abona al esclarecimiento de hechos verificables ni a la formación de una opinión pública informada, y en cambio introduce una insinuación no sustentada sobre identidades propietarias [F4][F5]. Debe distinguirse que el reconocimiento de responsabilidades y la rendición de cuentas exigen evidencia trazable, no la asociación por proximidad entre un nombre empresarial y un medio periodístico [F4][F5].",
+          "whatTheyOmit": "Se omite documentación de propiedad o composición accionarial de la supuesta empresa CUALA, que sería lo único capaz de sustentar la afirmación; tampoco se aporta identificación plena del hablante o de la fuente primaria (créditos a una tercera persona) que origina el dato [F4][F5]. Se omite además que La Silla Vacía es un medio con estructura de financiación diversificada y equipo directivo conocido, cuyos responsables están documentados, de modo que la afirmación de «dueños» no especifica a quiénes se atribuye la propiedad [F4][F5]. Por último, no se aclara si «CUALA» refiere a una empresa jurídicamente identificable, lo que impide cualquier contrastación registral [F4][F5].",
+          "keyFacts": [
+            "La Silla Vacía fue fundada en 2009 por la periodista Juanita León, quien es también su directora; Daniel Pacheco es editor en jefe [F4][F5]",
+            "La financiación inicial del medio provenía de fundaciones, embajadas, crowdfunding y proyectos comerciales; en 2022 el 41% de sus ingresos fue cooperación internacional [F4][F5]",
+            "Ninguna de las fuentes entregadas menciona una empresa llamada CUALA ni relación societaria alguna entre sus dueños y los de La Silla Vacía [F1][F3][F4][F5]",
+            "El nombre «La Silla Vacía» hace referencia a hechos políticos colombianos (diálogos del Caguán de 1999 y el mecanismo de la silla vacía contra la parapolítica), no a una empresa [F4][F5]",
+            "La figura de la «silla vacía» es una sanción política del Acto legislativo 01 de 2009 para partidos vinculados con grupos al margen de la ley, y por corrupción en los proyectos de 2014; no debe confundirse con el medio digital homónimo [F2][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/",
+              "note": "Sitio oficial de La Silla Vacía; aporta la identificación editorial del medio pero no información societaria ni mención de CUALA.",
+              "host": "lasillavacia.com",
+              "title": "429 Too Many Requests",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/silla-vacia-por-corrupcion-una-herramienta-util/",
+              "note": "Explica la figura jurídica de la «silla vacía» (Acto legislativo 01 de 2009 y proyectos de 2014); sirve de contraste para evitar confundir el concepto político con el medio digital homónimo.",
+              "host": "razonpublica.com",
+              "title": "Silla vacía por corrupción: una herramienta útil - Razón Pública",
+              "image": "https://razonpublica.com/images/2014/articulos/Miguel_galvis_silla_vacia_congreso.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://silla-datos.lasillavacia.com/",
+              "note": "Bases de datos de La Silla Vacía sobre poder en Colombia; no contiene datos de propiedad ni referencias a CUALA.",
+              "host": "silla-datos.lasillavacia.com",
+              "title": "La Silla Vacía | Bases de Datos",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/08/lasilladatos-rec-1024x576.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/La_Silla_Vacía",
+              "note": "Fundadora (Juanita León), equipo, secciones y financiación del medio; no menciona a CUALA, por lo que no respalda la afirmación.",
+              "host": "en.wikipedia.org",
+              "title": "La Silla Vacía - Wikipedia",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/La_Silla_Vacía_(medio_digital)",
+              "note": "Versión en español con detalle de directora, editor, colaboradores y porcentaje de ingresos de cooperación internacional; tampoco contiene información sobre CUALA.",
+              "host": "es.wikipedia.org",
+              "title": "La Silla Vacía (medio digital) - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/La_Silla_Vac%C3%ADa_screenshot.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se afirma que Juanita León es hija del dueño de productos como Frutinio, Ricostilla, Bonaiz, Sentí, Panelada, Ámper y Popetas.",
+          "quote": "Juanita León, que es la hija del dueño de todos estos productos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Las fuentes confirman que Frutiño, Ricostilla, Panelada, Ámper y Popetas son marcas de Quala S.A., pero ninguna fuente entrega información sobre la filiación de Juanita León ni sobre quién es el dueño actual de Quala, por lo que no es posible verificar la relación de parentesco afirmada [F3][F4][F2].",
+          "context": "Quala S.A. es una compañía colombiana de consumo masivo fundada en 1980 (según la fuente en inglés, por Michael de Rhodes) con sede en Tocancipá/Bogotá, con ingresos de 1,58 billones de pesos y beneficio neto de 10.232 millones de pesos en 2023, y presencia en seis países del continente [F3][F4]. Sus marcas colombianas incluyen Frutiño, Ricostilla, Panelada, Amper y Popetas; en 2017 Quala vendió sus marcas de cuidado personal y aseo a Unilever para centrarse en alimentos [F3]. Sobre Juanita León, las fuentes solo describen su perfil profesional: directora y fundadora de La Silla Vacía, abogada de la Universidad de los Andes, con maestría en periodismo de Columbia y experiencia en The Wall Street Journal Americas, El Tiempo y Semana [F2]. Las marcas 'Bonaiz' y 'Sentí' no aparecen en el listado de productos de Quala en las fuentes disponibles [F3][F4].",
+          "progressivePerspective": "En términos de estándares de verificación, la afirmación combina un dato parcialmente respaldado (que varias de las marcas citadas pertenecen a Quala) con un dato central no demostrado (la filiación familiar de Juanita León con el dueño de la empresa). Presentar como hecho una relación de parentesco sin fuente alguna introduce en la narrativa un elemento que no es verificable con la evidencia disponible y que, de sostenerse, apunta a la procedencia familiar de una periodista en lugar de a sus publicaciones, lo cual no constituye prueba sobre la veracidad de su periodismo [F2][F3].",
+          "whatTheyOmit": "Omite la fuente que sustente el parentesco, la identidad del propietario de Quala y su relación con Juanita León; tampoco aclaran que Bonaiz y Sentí no figuran entre las marcas de Quala según las fuentes consultadas [F3][F4][F2].",
+          "keyFacts": [
+            "Frutiño, Ricostilla, Panelada, Amper y Popetas figuran como marcas de Quala S.A. en Colombia [F3][F4]",
+            "Quala S.A. fue fundada en 1980, tiene sede en Tocancipá/Bogotá y reportó ingresos de 1,58 billones de pesos en 2023 [F3][F4]",
+            "Juanita León es directora y fundadora de La Silla Vacía, abogada de la Universidad de los Andes y maestra en periodismo por Columbia [F2]",
+            "Ninguna fuente entregada documenta que Juanita León sea hija del dueño de Quala o de las marcas mencionadas [F2][F3]",
+            "Bonaiz y Sentí no aparecen en el listado de productos de Quala en las fuentes disponibles [F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/carlos-palacino-y-el-desfalco-de-saludcoop/",
+              "note": "Artículo sobre Carlos Palacino y Saludcoop; no aporta información sobre Juanita León ni sobre Quala.",
+              "host": "razonpublica.com",
+              "title": "Carlos Palacino y el desfalco de Saludcoop - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2018/03/logo-saludcoop-ivan-jaramillo.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/author/juanita-leon/",
+              "note": "Perfil profesional de Juanita León (directora y fundadora de La Silla Vacía); no menciona su filiación familiar.",
+              "host": "lasillavacia.com",
+              "title": "Juanita León",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/01/cropped-juanita-leon.png?fit=642%2C642&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Quala",
+              "note": "Historia, productos y datos financieros de Quala; confirma marcas como Frutiño, Ricostilla, Panelada, Amper y Popetas, pero no identifica al propietario ni su parentesco con Juanita León.",
+              "host": "es.wikipedia.org",
+              "title": "Quala - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/Quala",
+              "note": "Versión en inglés sobre Quala; confirma fundación en 1980 por Michael de Rhodes y las marcas en Colombia; sin datos sobre filiación de Juanita León.",
+              "host": "en.wikipedia.org",
+              "title": "Quala - Wikipedia",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/empresas/estas-son-las-marcas-que-le-estan-dando-una-nueva-vida-a-la-tradicional-panela-3372532",
+              "note": "Nota sobre la renovación de la panela en Colombia; menciona a Quala entre las empresas del sector, sin datos sobre propiedad o parentescos.",
+              "host": "larepublica.co",
+              "title": "Estas son las marcas locales que le están dando una nueva vida a la tradicional panela",
+              "image": "https://img.lalr.co/cms/2022/05/27193636/emp_panela_emp01_lunes_1080x900.jpg?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Se afirma que Juanita León se ha hecho multimillonaria vendiendo productos ultraprocesados baratos a los más pobres.",
+          "quote": "se ha hecho multimillonaria vendiendole a los más pobres, los productos más baratos del mercado, que tienen solamente ultra procesados",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes respalda que Juanita León se haya hecho multimillonaria vendiendo productos ultraprocesados baratos a los más pobres: las fuentes la describen como periodista, fundadora de La Silla Vacía e hija del cofundador de Quala, pero no acreditan que ella venda productos, que sean ultraprocesados, que se los venda 'a los más pobres' ni que sea 'multimillonaria' [F5][F1].",
+          "context": "Según la biografía disponible, Juanita León García (Bogotá, 1970) es periodista y escritora, hija de Jorge Fernando León Dub, cofundador y socio de Quala; estudió derecho en Los Andes, hizo maestría en periodismo en Columbia, trabajó en The Wall Street Journal, El Tiempo y Semana, y fundó La Silla Vacía en 2009 con aportes de la Open Society Foundation, medio que en 2023 cedió a una fundación sin ánimo de lucro [F5]. La única fuente que vincula su patrimonio con el exterior es la mención a su presencia en los Panama Papers, donde ella misma reportó que su declaración de renta y acciones de la empresa familiar aparecían como activo en el exterior [F5]. No hay en las fuentes datos sobre su fortuna, sobre la composición de productos de Quala ni sobre la base de clientes de esa empresa [F5][F1].",
+          "progressivePerspective": "El propósito ético de cualquier afirmación sobre agentes públicos y del debate nacional es contribuir a la verdad y al debate informado, no a la descalificación personal. En un contexto de conflicto y de responsabilidad de actores, la verificación exige separar hechos comprobables (su filiación familiar con Quala) de atribuciones no demostradas (que ella 'venda' ultraprocesados, que sean 'los más baratos del mercado', que se los venda 'a los más pobres' y que por ello sea 'multimillonaria') [F5]. Presentar como hecho lo que las fuentes no sustentan —y atribuir a la persona un negocio familiar sin mostrar su participación en él— mina la calidad de la verdad en el espacio público y puede revictimizar o estigmatizar al señalado mediante el uso retórico de la pobreza [F5][F1].",
+          "whatTheyOmit": "El video omite: (1) que las fuentes solo acreditan que Juanita León es periodista y que su padre fue cofundador de Quala, sin mostrar que ella administre o venda productos [F5]; (2) cualquier evidencia de que Quala comercialice 'ultraprocesados' o de que sus clientes sean 'los más pobres', dato que ninguna fuente suministra [F5][F3][F4]; (3) cifras de fortuna, patrimonio o ingresos que sustenten el calificativo 'multimillonaria' [F5]; y (4) que en 2023 cedió sus acciones de La Silla a una fundación sin ánimo de lucro, información relevante sobre su relación con el patrimonio de su medio [F5].",
+          "keyFacts": [
+            "Juanita León es periodista, escritora y fundadora-directora de La Silla Vacía; estudió derecho en la Universidad de los Andes y maestría en periodismo en Columbia [F5][F1]",
+            "Es hija de Jorge Fernando León Dub, cofundador y socio de Quala [F5]",
+            "En 2023 cedió sus acciones de La Silla a una fundación sin ánimo de lucro, convirtiendo el medio en una fundación sin ánimo de lucro [F5]",
+            "Su nombre apareció en 2016 en listas vinculadas al escándalo de los Panama Papers, incidente que ella misma reportó [F5]",
+            "Las fuentes no contienen datos sobre su fortuna ni sobre la venta de productos ultraprocesados por su parte [F5][F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/author/juanita-leon/",
+              "note": "Perfil de la autora: directora y fundadora de La Silla Vacía, con trayectoria periodística; no aporta datos de patrimonio ni de venta de productos.",
+              "host": "lasillavacia.com",
+              "title": "Juanita León",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/01/cropped-juanita-leon.png?fit=642%2C642&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/la-costosa-fragilidad-politica/",
+              "note": "Columna económica sobre fragilidad política; no contiene información sobre Juanita León ni sobre ultraprocesados.",
+              "host": "razonpublica.com",
+              "title": "La costosa fragilidad política | Columna | Laura León",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/03/Laura-Leon-Razon-Publica.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+              "note": "Índice de estadísticas del DANE; no aporta datos sobre la afirmación.",
+              "host": "dane.gov.co",
+              "title": "Estadísticas por tema",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://microdatos.dane.gov.co/index.php/catalog/856",
+              "note": "Metadatos de estadísticas de importaciones; no aporta datos sobre la afirmación.",
+              "host": "microdatos.dane.gov.co",
+              "title": "Estadísticas de Importaciones - IMPO - 2025 A 2026",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Juanita_León",
+              "note": "Biografía: hija del cofundador de Quala, trayectoria periodística, Panamá Papers y cesión de La Silla a fundación; es la única fuente con el vínculo familiar con Quala y no evidencia participación de ella en venta de productos ni su condición de multimillonaria.",
+              "host": "es.wikipedia.org",
+              "title": "Juanita León - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Juanita_Leon_%28cropped%29.jpg/1280px-Juanita_Leon_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "social",
+          "claim": "Se afirma que la empresa contrata a los más pobres del país en condiciones paupérrimas para vender productos en calles y semáforos.",
+          "quote": "contratan a los más pobres del país en las condiciones más pauperrimas para vender",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las fuentes entregadas permite confirmar ni desmentir que 'la empresa' contrate a los más pobres del país en condiciones paupérrimas para vender en calles y semáforos: no hay información sobre prácticas laborales, modelos de trabajo ni denuncias de esa naturaleza en las fuentes disponibles [F1][F2][F3][F4][F5].",
+          "context": "El único dato contextual relevante que aportan las fuentes es la magnitud de la pobreza en Colombia: en 2024 la incidencia de pobreza multidimensional fue del 11,5%, 0,6 puntos porcentuales menos que en 2023 (12,1%), y en los municipios PDET la cifra subió al 24,4% [F2]. Existe, además, un cuerpo documentado de problemas de corrupción y debilidad en la contratación pública en Colombia (baja competencia, concentración de contratos en pocas manos), pero ese tema se refiere a contratación estatal, no a la contratación privada de vendedores informales o en semáforos que describe el video [F1].",
+          "progressivePerspective": "A la luz de los estándares de verdad y no repetición, una afirmación de esta naturaleza —que una empresa explota a los más pobres— solo aporta a la verificación de la verdad cuando está respaldada por evidencia verificable (contratos, nóminas, testimonios, fallos o investigaciones). En este caso, el marco disponible no ofrece datos sobre la empresa aludida, por lo que la proposición queda como afirmación no verificada con las fuentes proporcionadas [F1][F2][F3][F4][F5]. Si el video pretende denunciar un caso concreto de explotación laboral, correspondería sustentarla con documentación; de lo contrario corre el riesgo de convertir una sospecha en hecho afirmado. Conviene distinguir que la existencia de pobreza real y medible en el país (11,5% a nivel nacional y 24,4% en municipios PDET) no constituye por sí sola prueba de las prácticas de contratación de un sector o empresa específica [F2].",
+          "whatTheyOmit": "El video no aporta, según las fuentes disponibles, identificación documental de la empresa, condiciones contractuales, cifras de salarios, investigaciones de la Fiscalía o fallos judiciales que respalden la denuncia; la fuente de la Fiscalía entregada corresponde a boletines generales sin relación con el tema laboral aducido [F4]. Tampoco se contextualiza la magnitud real de la pobreza (11,5% nacional en 2024), dato necesario para dimensionar la afirmación sobre 'los más pobres del país' [F2].",
+          "keyFacts": [
+            "En 2024 la incidencia de pobreza multidimensional en Colombia fue del 11,5%, frente a 12,1% en 2023 [F2]",
+            "En municipios PDET la pobreza multidimensional fue del 24,4% en 2024, un aumento de 0,7 puntos frente a 2023 [F2]",
+            "Las fuentes entregadas no contienen información sobre prácticas de contratación de la empresa aludida ni sobre venta en calles y semáforos [F1][F2][F3][F4][F5]",
+            "El estudio sobre corrupción en contratación pública analiza procesos estatales de infraestructura de 2014, no contratación privada de vendedores [F1]",
+            "No se identifica en las fuentes ninguna investigación, fallo o denuncia que respalde la afirmación específica del video [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/corrupcion-y-contratacion-publica-problemas-y-soluciones/",
+              "note": "Estudio sobre corrupción en contratación pública estatal (infraestructura 2014): aporta contexto sobre debilidad institucional, pero no trata contratación privada ni vendedores en semáforos.",
+              "host": "razonpublica.com",
+              "title": "Corrupción y contratación pública: problemas y soluciones - Razón Pública",
+              "image": "https://razonpublica.com/images/2017/marcela_melendez_contratacion_publica_corrupcion.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2024",
+              "note": "Cifras oficiales de pobreza multidimensional 2024 (11,5% nacional; 24,4% PDET): sirve para dimensionar la referencia a 'los más pobres del país', no para verificar la práctica laboral denunciada.",
+              "host": "dane.gov.co",
+              "title": "Pobreza multidimensional 2024",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://microdatos.dane.gov.co/index.php/catalog/860/get-microdata",
+              "note": "Microdatos DANE de pobreza y víctimas: no contiene información sobre contratación de empresas privadas.",
+              "host": "microdatos.dane.gov.co",
+              "title": "Indice de Pobreza Multidimensional - IPM- 2024",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.fiscalia.gov.co/",
+              "note": "Boletines generales de la Fiscalía sin relación con el tema; no hay investigación visible sobre la empresa aludida.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalia General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/logo_fisc.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.youtube.com/@KaritoMentora",
+              "note": "Canal del creador del video; aporta procedencia del contenido, no evidencia sobre la afirmación.",
+              "host": "youtube.com",
+              "title": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se afirma que los dueños de La Silla Vacía utilizan las ganancias de la venta de productos en las calles para financiar ese medio de comunicación.",
+          "quote": "utilizan esa plata para financiar medios como la silla vacía",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes aportadas respalda que los responsables de La Silla Vacía financien el medio con ganancias de la venta de productos en las calles; por el contrario, las fuentes documentan que el medio se financia con donaciones, crowdfunding, proyectos comerciales, fundaciones y cooperación internacional [F1][F4][F5].",
+          "context": "La Silla Vacía fue fundada en 2009 por la periodista Juanita León y es una entidad sin ánimo de lucro calificada en el Régimen Tributario Especial, lo que encaja con un modelo de financiación basado en donaciones con beneficio tributario para el donante, no en un negocio comercial de ventas callejeras [F1]. Según su sección de financiación en Wikipedia (en), originalmente se financió con subvenciones (Fundación Ford, Open Society Institute, National Endowment for Democracy, Embajada Británica), crowdfunding y proyectos comerciales; hoy menos del 30% de sus ingresos proviene de subvenciones, y la mayor parte proviene de crowdfunding y proyectos comerciales [F4]. La versión en español indica que el medio inició con donaciones de Open Society Foundations, la Embajada de Gran Bretaña, ONG y donaciones de usuarios, y que en 2022 el 41% de sus ingresos provino de cooperación internacional (USAID, Embajada Británica, Fundación Ford) [F5]. La página oficial de donaciones ofrece certificados tributarios y llama a apoyar 'nuestra independencia' [F1]. Existe un dato documentado de financiación externa, pero vinculada a cooperación internacional y fundaciones, no a comercio informal en la calle [F5].",
+          "progressivePerspective": "El marco aplicable aquí no es el de la JEP (no se trata del conflicto armado ni de responsabilidad de crímenes graves), sino el estándar de verificación de información sobre financiación de medios. Bajo el principio de independencia periodística, lo verificable es la procedencia documentada de los recursos: donaciones individuales con deducción tributaria, crowdfunding, proyectos comerciales y cooperación internacional [F1][F4][F5]. Afirmar un flujo de recursos desde ventas callejeras hacia el medio exige evidencia de un nexo causal (quién vende, quién recibe, qué montos) y ninguna fuente la aporta, por lo que la proposición queda sin evidencia y su difusión puede contribuir a desacreditar un medio por vías no probadas, en vez de a esclarecer hechos verificables [F1][F4][F5].",
+          "whatTheyOmit": "El video omite la documentación pública de la financiación del medio: entidad sin ánimo de lucro con donaciones deducibles [F1], menos del 30% en subvenciones y resto en crowdfunding y proyectos comerciales [F4], y 41% de ingresos de cooperación internacional en 2022 [F5]. También omite identificar qué 'productos en las calles', quiénes son los 'dueños' (el medio es una entidad sin ánimo de lucro dirigida por Juanita León) y presentar cualquier fuente que evidencie el flujo de dinero alegado [F1][F4][F5].",
+          "keyFacts": [
+            "La Silla Vacía es una entidad sin ánimo de lucro calificada en el Régimen Tributario Especial, que recibe donaciones con certificado tributario [F1]",
+            "Fue fundada en 2009 por la periodista Juanita León y su directora ha sido ella desde los inicios [F4][F5]",
+            "Se financió originalmente con subvenciones (Fundación Ford, Open Society Institute, National Endowment for Democracy, Embajada Británica), crowdfunding y proyectos comerciales; hoy menos del 30% proviene de subvenciones [F4]",
+            "En 2022, el 41% de los ingresos del medio provinieron de cooperación internacional, incluidos USAID, la Embajada Británica y la Fundación Ford [F5]",
+            "Ninguna fuente aportada documenta ganancias de venta de productos en calles utilizadas para financiar el medio [F1][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/donaciones/",
+              "note": "Página oficial de donaciones: muestra el modelo de financiación por donaciones con beneficio tributario y entidad sin ánimo de lucro; contradice un modelo de ventas callejeras.",
+              "host": "lasillavacia.com",
+              "title": "Sillatón: done y apoye el periodismo de La Silla Vacía",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/10/Sillato_2026_portada_facebook.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/cortinas-de-humo-tabaquismo-y-comercio-ilicito-de-cigarrillos-en-colombia/",
+              "note": "Artículo sobre influencia de la industria tabacalera en medios y comercio ilícito de cigarrillos; no se relaciona con La Silla Vacía ni con ventas callejeras que financien el medio.",
+              "host": "razonpublica.com",
+              "title": "Cortinas de humo: tabaquismo y comercio ilícito de cigarrillos en Colombia - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/04/cigarrillos-Norman-Maldonado.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://silla-datos.lasillavacia.com/",
+              "note": "Sección de bases de datos del medio sobre el poder en Colombia; aporta sobre su actividad periodística, no sobre su financiación.",
+              "host": "silla-datos.lasillavacia.com",
+              "title": "La Silla Vacía | Bases de Datos",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/08/lasilladatos-rec-1024x576.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/La_Silla_Vacía",
+              "note": "Sección 'Funding': subvenciones, crowdfunding y proyectos comerciales; menos del 30% de ingresos de subvenciones. Contrasta directamente con la afirmación.",
+              "host": "en.wikipedia.org",
+              "title": "La Silla Vacía - Wikipedia",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/La_Silla_Vacía_(medio_digital)",
+              "note": "Sección 'Financiación': donaciones iniciales de Open Society, Embajada Británica y ONG; 41% de ingresos de cooperación internacional en 2022.",
+              "host": "es.wikipedia.org",
+              "title": "La Silla Vacía (medio digital) - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/La_Silla_Vac%C3%ADa_screenshot.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "Se afirma que el señor León Dup le dio el medio La Silla Vacía a su hija Juanita León Dup.",
+          "quote": "el señor León de Dup le da a su hija Juanita León Dup",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes disponibles no respaldan que Jorge Fernando León Dub 'le diera' La Silla Vacía a su hija. Según la documentación, Juanita León fundó el medio en 2009 con una beca de la Open Society Foundations y con su participación en la empresa familiar de alimentos, siendo ella su fundadora, directora y hasta 2023 accionista, cuando cedió sus acciones a una fundación del medio. Existe vínculo familiar en la propiedad (el padre es accionista de Blogosfera Producciones SAS, dueña del portal), pero eso es distinto a una entrega directa del medio [F3][F4][F5].",
+          "context": "Juanita León García (Bogotá, 1970) es hija de Jorge Fernando León Dub, cofundador y socio de Quala S.A., empresa de producción de alimentos. Tras formarse en derecho en los Andes y hacer una maestría en periodismo en Columbia, trabajó en el Wall Street Journal, El Tiempo y Semana, y en 2009 fundó La Silla Vacía con una beca de la Open Society Foundations y con su parte en la empresa familiar. La empresa propietaria del medio es Blogosfera Producciones SAS, de la cual son accionistas su padre, su madre, un tío y un primo. En 2023 cedió sus acciones a una fundación, convirtiendo el medio en entidad sin ánimo de lucro. En 2016 su nombre apareció en los Panama Papers, hecho que ella misma reportó declarando su conflicto de interés [F3][F4][F5].",
+          "progressivePerspective": "La afirmación circula en un contexto de cuestionamiento a la independencia de medios de comunicación. Marco aplicable: la lectura crítica de la propiedad mediática es legítima y está respaldada por investigaciones propias del ecosistema (La Silla Vacía publicó en 2017 la base de datos de los 410 dueños de 26 medios colombianos, precisamente para transparentar quiénes poseen los medios [F1]). El problema de la afirmación verificada no es el ángulo —el origen familiar del capital sí es un dato documentado y relevante [F5]—, sino la forma: presentar la fundación del medio como un regalo paterno omite la trayectoria profesional de la fundadora, la financiación externa de la Open Society Foundations y el hecho de que en 2023 el medio pasó a ser una fundación sin ánimo de lucro. Donde las fuentes alcanzan, la conclusión es que la propiedad familiar es parcial y societaria, no una cesión directa; donde no alcanzan (no hay acta de constitución ni transferencia en las fuentes entregadas), el dato queda como afirmación no comprobable y por eso se califica de engañoso y no de falso categórico [F3][F4][F5].",
+          "whatTheyOmit": "Se omite que Juanita León fundó La Silla Vacía en 2009 con una beca de la Open Society Foundations y con su participación en la empresa familiar, no como donación paterna [F4][F5]. Se omite que la propiedad del medio es societaria (Blogosfera Producciones SAS) con varios accionistas familiares, lo que no equivale a que el padre 'posea' el medio [F5]. Se omite que en 2023 cedió sus acciones a una fundación, convirtiendo el medio en entidad sin ánimo de lucro [F3]. También se omite su trayectoria profesional previa (Wall Street Journal, El Tiempo, Semana) y el reconocimiento periodístico del medio (Premio Gabo 2013 y 2016), que contextualizan su rol más allá del apellido [F3][F5].",
+          "keyFacts": [
+            "Juanita León García es hija de Jorge Fernando León Dub, cofundador y socio de Quala S.A. [F3]",
+            "Fundó La Silla Vacía en 2009 con una beca de la Open Society Foundations y con su parte en la empresa familiar de alimentos [F4]",
+            "La empresa propietaria del medio es Blogosfera Producciones SAS, donde son accionistas su padre, madre, tío y primo [F5]",
+            "Desde 2020 dirige La Silla Vacía y en 2023 cedió sus acciones a una fundación, convirtiendo el medio en una fundación sin ánimo de lucro [F3]",
+            "Es fundadora del portal y su familia es propietaria de Quala S.A., empresa de alimentos, además de accionista de Blogosfera Producciones SAS [F5]",
+            "Las fuentes entregadas no contienen documento alguno de cesión o 'entrega' del medio por parte del padre a la hija [F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-datos/los-410-duenos-de-26-medios-colombianos-2017/",
+              "note": "Base de datos de La Silla Vacía sobre propiedad de 26 medios colombianos; aporta el contexto de que la transparencia de la propiedad mediática es un tema investigado por el propio medio, pero no contiene información sobre la propiedad de La Silla Vacía ni sobre los León Dub.",
+              "host": "lasillavacia.com",
+              "title": "Los 410 dueños de 26 medios colombianos, 2017",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/06/lasilladatos-rec.jpg?fit=1600%2C900&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/la-censura-explicita-y-lo-que-se-esconde-detras/",
+              "note": "Artículo sobre censura en museos y comparaciones con Estados Unidos; no guarda relación con la propiedad de La Silla Vacía ni con la familia León, por lo que no aporta a la verificación.",
+              "host": "razonpublica.com",
+              "title": "La censura explícita y lo que se esconde detrás - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/11/8.1-Retrato-D.-Trump-Smithsonian.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Juanita_León",
+              "note": "Biografía en español: identifica a su padre como Jorge Fernando León Dub (Quala), documenta la fundación del medio, la dirección desde 2020 y la cesión de acciones a una fundación en 2023; también los Panama Papers 2016.",
+              "host": "es.wikipedia.org",
+              "title": "Juanita León - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Juanita_Leon_%28cropped%29.jpg/1280px-Juanita_Leon_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/Juanita_León",
+              "note": "Biografía en inglés: precisa que fundó La Silla Vacía con una beca de la Open Society Foundations y con su parte en la empresa familiar, y documenta su declaración de conflicto de interés en los Panama Papers.",
+              "host": "en.wikipedia.org",
+              "title": "Juanita León - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Juanita_Leon_%28cropped%29.jpg/1280px-Juanita_Leon_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F5",
+              "url": "https://colombia.mom-gmr.org/es/proprietarios/propietarios-individuales/detail/owner/owner/show/juanita-leon-garcia/",
+              "note": "Media Ownership Monitor Colombia: detalla la estructura accionaria de Blogosfera Producciones SAS (padre, madre, tío y primo como accionistas) y el perfil profesional de Juanita León; registra que el padre es accionista, no que haya cedido el medio.",
+              "host": "colombia.mom-gmr.org",
+              "title": "Juanita León Garcia",
+              "image": "https://colombia.mom-gmr.org/uploads/tx_lfrogmom/owner/564-941_owner_import.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Se afirma que el programa Agro-Ingreso Seguro cambió de nombre y ahora se llama Colombia Agro-Produce.",
+          "quote": "agro-ingreso seguro cambió y ahora ya no se llama así, eso se mantuvo. Y se llama ahora Colombia agro-produce",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Existe efectivamente un programa llamado 'Colombia Agro Produce' y una fuente periodística lo presenta expresamente como la continuidad de 'Agro Ingreso Seguro' bajo otro nombre [F4]. Sin embargo, la formulación literal de que el programa 'cambió de nombre' es imprecisa: según la fuente enciclopédica, AIS fue reemplazado por 'Desarrollo Rural con Equidad' (DRE) con su Línea Especial de Crédito, y 'Colombia Agro Produce' aparece como una línea de crédito posterior, activada en 2020 durante la pandemia, no como un cambio de nombre formal del AIS [F3][F4].",
+          "context": "El Programa Agro Ingreso Seguro (AIS) fue una línea de crédito de Finagro diseñada e implementada por el Ministerio de Agricultura bajo la dirección de Andrés Felipe Arias, durante la presidencia de Álvaro Uribe; la Procuraduría identificó irregularidades como asignación indebida de beneficios, actos de corrupción y detrimento del erario [F3]. En 2011 la Procuraduría destituyó a Arias e inhabilitó por 16 años, y en 2014 la Corte Suprema lo condenó a 17 años y 4 meses de prisión [F3]. La fuente enciclopédica señala que AIS fue reemplazado por Desarrollo Rural con Equidad (DRE), que incluyó la Línea Especial de Crédito [F3]. Ya en 2020, el Contralor General informó al Senado que de $226.000 millones colocados en Colombia Agro Produce hasta el 8 de abril, $213.566 millones (94,5%) fueron a grandes comercializadores y agroindustriales, $8.300 millones a medianos y sólo $4.200 millones (1,9%) a pequeños productores; con corte al 23 de abril de 2020 Finagro reportó desembolsos por $224.502.909.702 [F4]. En el caso AIS, el 11 de marzo de 2026 la Sala de Casación Laboral de la Corte Suprema revocó la condena contra los empresarios Alfonso y Juan Carlos Dávila Abondano por vulneración del debido proceso y ordenó retrotraer el proceso desde la verificación del preacuerdo, sin que ello implique decisión definitiva sobre responsabilidad penal [F5].",
+          "progressivePerspective": "La afirmación apunta a un patrón verificable de continuidad sustantiva: dos programas distintos en el tiempo, AIS y Colombia Agro Produce, fueron documentados con distribuciones concentradas en grandes actores —el AIS por subsidios a familias terratenientes y figuras públicas [F1][F3] y Colombia Agro Produce con 94,5% de los recursos destinados a grandes comercializadores y agroindustriales frente a 1,9% a pequeños productores [F4]. Esa convergencia abona al debate sobre control fiscal, focalización del gasto y reparación del daño fiscal, y sitúa el foco en la rendición de cuentas más que en la etiqueta legal del programa. Al mismo tiempo, la precisión institucional importa para la no repetición: señalar formalmente que AIS fue 'reemplazado por DRE' y que Colombia Agro Produce es una línea distinta, creada en 2020, permite ubicar correctamente responsabilidades por periodo y por decisión, sin atribuir a un programa hechos de otro [F3][F4]. Los procesos judiciales y de control —la condena y destitución de Arias [F3], las alertas de la Contraloría [F4] y la anulación de actuaciones por defectos de debido proceso en el caso Dávila [F5]— muestran que la vía de esclarecimiento sigue abierta y que el estándar debe ser acreditar hechos con evidencia, no apenas reforzar la similitud de nombres.",
+          "whatTheyOmit": "Se omite que AIS fue, según la fuente enciclopédica, formalmente reemplazado por Desarrollo Rural con Equidad (DRE) y no por Colombia Agro Produce, y se omite la fecha y el contexto de creación de Colombia Agro Produce (línea activada en 2020, en la emergencia por COVID-19), así como los cortes de información de los datos de la Contraloría (8 y 23 de abril de 2020) [F3][F4]. También se omite que las cifras y conclusiones sobre Colombia Agro Produce provienen de una fiscalización en curso y de un medio que las interpreta como 'corrupción', lo que es una lectura editorial y no una sentencia firme [F4], y que en el caso AIS el proceso judicial fue parcialmente anulado en 2026 por la Corte Suprema, que ordenó rehacer el trámite y precisó que no decidió sobre la responsabilidad penal definitiva [F5].",
+          "keyFacts": [
+            "Existe una fuente con titular explícito 'De Agro Ingreso Seguro a Colombia Agro Produce', que describe a este último como la repetición del primero bajo otro nombre [F4]",
+            "El AIS fue una línea de crédito de Finagro creada por el gobierno colombiano, dirigida por el Ministerio de Agricultura bajo Andrés Felipe Arias durante el gobierno de Álvaro Uribe [F3]",
+            "Según la fuente enciclopédica, AIS fue reemplazado por Desarrollo Rural con Equidad (DRE), que incorporó una Línea Especial de Crédito [F3]",
+            "La Procuraduría formuló cargos y en 2011 destituyó e inhabilitó por 16 años a Andrés Felipe Arias; en 2014 la Corte Suprema lo condenó a 17 años y 4 meses de prisión [F3]",
+            "Según la Contraloría, de $226.000 millones colocados en Colombia Agro Produce hasta el 8 de abril de 2020, 94,5% fue a grandes comercializadores y agroindustriales y 1,9% a pequeños productores [F4]",
+            "El AIS entregó subsidios a narcotraficantes y a familias prestantes, entre ellas la ex señorita Colombia Valerie Domínguez y sus allegados, quien renunció al subsidio tras la polémica [F3]",
+            "El 11 de marzo de 2026 la Corte Suprema revocó la condena contra los empresarios Dávila Abondano por el caso AIS y ordenó rehacer el proceso por defectos en el control del preacuerdo [F5]",
+            "La fuente F2 trata sobre el piloto de fracking en Kalé y no contiene información sobre Agro Ingreso Seguro ni Colombia Agro Produce [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/seguro-agro-ingreso-seguro/",
+              "note": "Análisis de Razón Pública sobre las irregularidades del AIS (beneficiarios ajenos al sector, comité político, ley de tierras), contextualiza el origen crítico del programa; no trata Colombia Agro Produce.",
+              "host": "razonpublica.com",
+              "title": "Seguro: Agro Ingreso Seguro - Razón Pública",
+              "image": "https://razonpublica.com/images/2014/articulos/boris_salazar_andresf_arias_exministro_arias.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://webstories.lasillavacia.com/kale-el-piloto-de-fracking-en-colombia/",
+              "note": "Webstory sobre el piloto de fracking en Kalé; no aporta información sobre la afirmación ni constituye contraste útil.",
+              "host": "webstories.lasillavacia.com",
+              "title": "KalÃ©: El piloto de Fracking en Colombia",
+              "image": "https://cdn2.storyasset.link/1e9c24f8-fb9e-454a-b17f-596395b8ba27/ms-vusdbypnll.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Agro_Ingreso_Seguro",
+              "note": "Da la ficha del AIS, sus irregularidades, sanciones a funcionarios y señala que fue reemplazado por Desarrollo Rural con Equidad (DRE); es el contraste clave sobre la idea de 'cambio de nombre'.",
+              "host": "es.wikipedia.org",
+              "title": "Agro Ingreso Seguro - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.tvnoticias.net/de-agro-ingreso-seguro-a-colombia-agro-produce/",
+              "note": "Única fuente que vincula expresamente ambos nombres y aporta los datos de la Contraloría sobre la distribución de Colombia Agro Produce en 2020; su encuadre editorial es crítico.",
+              "host": "tvnoticias.net",
+              "title": "DE “AGRO INGRESO SEGURO” A “COLOMBIA AGRO PRODUCE” - TVNoticias",
+              "image": "https://www.tvnoticias.net/wp-content/uploads/2020/05/DE-“AGRO-INGRESO-SEGURO”-A-“COLOMBIA-AGRO-PRODUCE”-www.tvnoticias.com_.co_..jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2026/04/24/caso-agro-ingreso-seguro-corte-suprema-revoco-condena-contra-los-poderosos-empresarios-davila-abondano-y-ordeno-rehacer-el-proceso/",
+              "note": "Aporta el estado judicial reciente del caso AIS: anulación de actuaciones por violación al debido proceso y orden de rehacer el trámite, sin decisión definitiva sobre responsabilidad penal.",
+              "host": "infobae.com",
+              "title": "Caso Agro Ingreso Seguro: Corte Suprema revocó condena contra los poderosos empresarios Dávila Abondano y ordenó rehacer el proceso",
+              "image": "https://www.infobae.com/resizer/v2/33M6DSW4MJFL3K7IEKJ3XZ55TM.jpg?auth=ed9329294eede34e4511e0721bbd795ef140713ed610b1b2a19a16c2a8c25349&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "economia",
+          "claim": "Se afirma que el tío de Juanita León es dueño de una empresa llamada Jolly Foods.",
+          "quote": "el mismo tío de Juanita León... ellos mismos son dueños de otra empresa que llama Jolly Foods",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Existe una empresa familiar llamada Joli Foods (el video la escribe 'Jolly Foods') vinculada a la familia León, y las fuentes la identifican con el padre y el hermano de Juanita León; sin embargo, ninguna fuente entregada confirma de forma individual que el tío (Marcelo León Dub) sea dueño de esa empresa específica, por lo que la atribución precisa al tío queda solo parcialmente respaldada [F4][F5].",
+          "context": "Según las fuentes, Joli Foods figura en el entramado corporativo de la familia León y habría recibido un crédito subsidiado cercano a 2.875 millones de pesos del programa Colombia Agro Produce, creado durante la pandemia (2020), habiendo devuelto capital e intereses el 23 de abril de 2020 tras su difusión pública; su inclusión también habría sido objeto de cuestionamientos en una acción popular ante el Tribunal Administrativo de Cundinamarca. Los señalamientos provienen de un artículo de opinión del estratega Carlos Suárez publicado en Semana y reproducido por portales críticos con La Silla Vacía [F4][F5]. El padre de Juanita León, Jorge Fernando León Dub, es cofundador y socio de Quala; su tío Marcelo León Dub es identificado como fundador de la compañía química Disan y como accionista del medio La Silla Vacía, pero las fuentes no lo vinculan expresamente como accionista de Joli Foods [F3][F5].",
+          "progressivePerspective": "Este video no trata del conflicto armado colombiano ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repeticion no resulta aplicable aquí. Desde criterios generales de verificación, la afirmación apunta a un asunto legítimo de interés público: la transparencia de vínculos empresariales y familiares de quienes dirigen medios de comunicación cuando estos cubren asignación de recursos estatales. La discusión que recogen las fuentes —estándares iguales para todos los actores— es pertinente para la calidad del debate democrático, pero su fuerza probatoria depende de fuentes que son, en buena medida, artículos de opinión y portales con posición en la disputa, no registros societarios verificados directamente [F4][F5]. El portal Supersociedades incluido como fuente no aporta datos útiles sobre la empresa [F2].",
+          "whatTheyOmit": "Omite que las fuentes nombran como vinculados a Joli Foods al padre (Jorge León Dub) y al hermano (Jorge León León García) de Juanita León, no expresamente al tío; omite la grafía 'Joli Foods' de las fuentes frente a 'Jolly Foods' en el video; omite que el crédito fue devuelto el 23 de abril de 2020 y que los señalamientos provienen de un artículo de opinión de Carlos Suárez, cuya versión está en disputa; y no aporta registros societarios que sustenten la titularidad específica que afirma [F4][F5][F2].",
+          "keyFacts": [
+            "Jorge Fernando León Dub, padre de Juanita León, es cofundador y socio de Quala [F3]",
+            "Existe una empresa llamada Joli Foods vinculada a la familia León, en la que aparecen Jorge León Dub (padre) y Jorge León León García (hermano de Juanita León) [F4]",
+            "Las fuentes señalan que 'la familia León controla la compañía Joli Foods', sin individualizar al tío como accionista de esa firma [F5]",
+            "Marcelo León Dub, tío de Juanita León, es identificado como fundador de Disan y como accionista de La Silla Vacía, pero no como dueño de Joli Foods [F5][F4]",
+            "Joli Foods habría recibido un crédito subsidiado de aproximadamente 2.875 millones de pesos vía Colombia Agro Produce en 2020, devuelto el 23 de abril de 2020 [F4][F5]",
+            "Las fuentes escriben el nombre como 'Joli Foods'; el video lo dice 'Jolly Foods' [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/author/juanita-leon/",
+              "note": "Perfil de Juanita León como directora y fundadora de La Silla Vacía; no menciona a Joli Foods ni a su tío",
+              "host": "lasillavacia.com",
+              "title": "Juanita León",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/01/cropped-juanita-leon.png?fit=642%2C642&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://servicios.supersociedades.gov.co/sgs/listaoficial",
+              "note": "Portal oficial de la Supersociedades; en la fuente no aparecen datos de la empresa, no permite verificar titularidad",
+              "host": "servicios.supersociedades.gov.co",
+              "title": "Sistema de información de la supersociedades",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Juanita_León",
+              "note": "Confirma que su padre es Jorge Fernando León Dub, cofundador de Quala; no menciona Joli Foods",
+              "host": "es.wikipedia.org",
+              "title": "Juanita León - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Juanita_Leon_%28cropped%29.jpg/1280px-Juanita_Leon_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://laotracara.co/destacados/la-doble-moral-de-juanita-leon-y-su-silla-vacia-que-investigan-a-los-poderosos-pero-callan-cuando-se-benefician-de-los-jugosos-contratos-con-dineros-del-estado/",
+              "note": "Artículo de opinión (Sixto Alfredo Pinto) que reproduce el texto de Carlos Suárez; atribuye Joli Foods al padre y al hermano, y documenta el crédito de 2.875 millones; es una fuente con posición en la disputa",
+              "host": "laotracara.co",
+              "title": "La doble moral de Juanita León y su Silla Vacia, que investigan a los poderosos, pero callan cuando se benefician de los jugosos contratos con dineros del Estado | La Otra Cara",
+              "image": "https://laotracara.co/wp-content/uploads/2026/11/carlos-suarez-y-juanita-leon.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://elexpreso.co/hoy/controversia-entre-carlos-suarez-y-juanita-leon-en-la-silla-vacia-por-presuntos-conflictos-de-interes-empresarial/",
+              "note": "Cubre la controversia Suárez–León; dice que 'la familia León controla Joli Foods' e identifica al tío Marcelo León Dub como fundador de Disan y accionista de La Silla, sin vincularlo expresamente a Joli Foods",
+              "host": "elexpreso.co",
+              "title": "Controversia entre Carlos Suárez y Juanita León en La Silla Vacía por presuntos conflictos de interés empresarial - El Expreso",
+              "image": "https://elexpreso.co/wp-content/uploads/2026/11/controversia-entre-carlos-suarez-y-juanita-leon-en-la-silla-vacia-por-presuntos-conflictos-de-interes-empresarial-pagina-web.png"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "economia",
+          "claim": "Se afirma que Jolly Foods recibió un crédito por 2.800 millones de pesos en un programa similar a Agro-Ingreso Seguro, otorgado hace un par de años.",
+          "quote": "le acaban de dar o le dieron hace un par de años un crédito como los de agro-ingreso seguro por dos mil ochocientos millones de pesos a una multinacional",
+          "figures": [
+            "2800 millones de pesos"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las cinco fuentes entregadas menciona a Jolly Foods, un crédito de 2.800 millones de pesos, ni fecha, entidad otorgante ni programa específico asociado a esa empresa; la afirmación no puede verificarse ni confirmarse ni desmentirse con el material disponible [F1][F2][F3][F4][F5].",
+          "context": "La única fuente con contenido sustantivo sobre el programa referenciado documenta que Agro Ingreso Seguro (AIS) fue un programa de subsidios del sector agrario creado en el marco de la Ley 1133, en el segundo mandato del presidente Uribe, y que entregó recursos a reinas de belleza, corredores de bolsa, empresarios regionales y familiares de políticos; también registra créditos de redescuento de Finagro a paramilitares y narcotraficantes confesos, casos que se remiten a 'los últimos años' de esa gestión de gobierno, es decir, a más de una década de distancia de lo que el video describe como hecho 'hace un par de años' [F1]. El índice de verificación de La Silla Vacía incluye una pieza sobre 'los 51 beneficiarios de Agro Ingreso Seguro', lo que confirma que la distribución de AIS ha sido tema de verificación previa, pero esa página no aporta datos sobre Jolly Foods [F2]. Las fuentes F3 (portal de login de SIRFIN de Supersociedades), F4 (titulares de un agregador de noticias sin relación con el caso) y F5 (portada de FENAVI, con estadísticas de consumo avícola) no contienen información sobre la supuesta operación crediticia [F3][F4][F5].",
+          "progressivePerspective": "Este video no trata del conflicto armado colombiano ni de la JEP, por lo que los fines de verdad, justicia, reparación y no repetición no resultan directamente aplicables; el criterio pertinente es el de verificación documental de una denuncia sobre uso de recursos públicos. Cuestionar la destinación de créditos o subsidios estatales a grandes empresas mientras el sector agropecuario presenta rezagos es una línea legítima de escrutinio público, y las fuentes sí aportan un antecedente real: AIS concentró recursos en beneficiarios carentes de idoneidad y Finagro otorgó créditos a actores vinculados con el paramilitarismo, un patrón de captura de la política agraria ampliamente documentado [F1]. Ese contexto histórico sostiene la preocupación de fondo del video sobre el sesgo del apoyo estatal hacia actores grandes, pero no valida la cifra ni la empresa nombradas: presentar como hecho concreto un monto de 2.800 millones de pesos a una empresa determinada sin fuente que lo respalde traslada a la audiencia una denuncia no demostrada, con el riesgo de que la parte verificable (el sesgo histórico de la política agraria) quede desprestigiada por la parte no verificable [F1][F2].",
+          "whatTheyOmit": "Se omite la identificación del programa específico, la entidad crediticia, la fecha exacta y cualquier documento, resolución o base de datos que amarre la cifra de 2.800 millones de pesos a Jolly Foods; tampoco se distingue entre subsidio (la modalidad central de AIS) y crédito, ni se aporta evidencia de la condición de 'multinacional' de la empresa [F1][F2][F3][F4][F5]. Asimismo se omite que AIS corresponde a un ciclo de gobierno de hace más de una década, lo que hace difícil trazar una línea directa y reciente entre ese programa y el supuesto crédito mencionado [F1].",
+          "keyFacts": [
+            "Agro Ingreso Seguro entregó subsidios a personas sin idoneidad para el sector agrario, entre ellas reinas de belleza, corredores de bolsa, empresarios regionales y familiares de políticos [F1]",
+            "Existen registrados créditos de redescuento de Finagro a paramilitares y narcotraficantes confesos, como los de alias Macaco y Micky Ramírez, dentro de los escándalos del sector agrario [F1]",
+            "La Ley 1133 que originó Agro Ingreso Seguro se formuló en el contexto de las discusiones del TLC con Estados Unidos y su gestión fue criticada por concentrar el ingreso y la riqueza en el campo sin claros efectos sobre la producción [F1]",
+            "La distribución de beneficiarios de AIS ha sido objeto de verificación periodística previa, con un listado público de 51 beneficiarios [F2]",
+            "Ninguna de las fuentes entregadas menciona a Jolly Foods ni un crédito de 2.800 millones de pesos asociado a esa empresa [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/seguro-agro-ingreso-seguro/",
+              "note": "Única fuente con contenido sobre Agro Ingreso Seguro: documenta subsidios a beneficiarios no idóneos, créditos de Finagro a paramilitares y el marco normativo de la Ley 1133; aporta el contexto histórico pero no menciona Jolly Foods ni la cifra de 2.800 millones.",
+              "host": "razonpublica.com",
+              "title": "Seguro: Agro Ingreso Seguro - Razón Pública",
+              "image": "https://razonpublica.com/images/2014/articulos/boris_salazar_andresf_arias_exministro_arias.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/",
+              "note": "Índice del detector de mentiras de La Silla Vacía; confirma que AIS ha sido verificado antes (pieza sobre 51 beneficiarios), pero no contiene información sobre la supuesta operación crediticia.",
+              "host": "lasillavacia.com",
+              "title": "Detector de Mentiras",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/04/Banner_Detector_alianza-contra-la-desinformacion.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://superwas.supersociedades.gov.co/nsriWebSociedades/login.xhtml",
+              "note": "Página de acceso al sistema SIRFIN de Supersociedades; no aporta datos del caso al estar tras un formulario de login.",
+              "host": "superwas.supersociedades.gov.co",
+              "title": "SISTEMA INTEGRADO DE REPORTES FINANCIEROS SIRFIN - SOCIEDADES",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://veramundi.com/2026-11-13?lang=en",
+              "note": "Agregador de titulares internacionales sin relación con el sector agrícola colombiano ni con la empresa mencionada; no aporta evidencia.",
+              "host": "veramundi.com",
+              "title": "Headlines for 13 November 2026",
+              "image": "https://veramundi.com/partilha-en.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://fenavi.org/",
+              "note": "Portada de la federación avícola colombiana con cifras de consumo; no contiene información sobre créditos ni sobre Jolly Foods.",
+              "host": "fenavi.org",
+              "title": "Inicio - FENAVI - Federación Nacional de Avicultores de Colombia",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "politica",
+          "claim": "Se afirma que hubo un escándalo que involucró a muchas multinacionales alrededor de los años 2020-2022.",
+          "quote": "muchas multinacionales que estaban involucradas en ese escándalo por allá en el 2020-2022",
+          "figures": [
+            "2020-2022"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Existen escándalos de corrupción con participación de multinacionales que tuvieron desarrollos entre 2020 y 2022, especialmente el caso Odebrecht, que se reactivó en Colombia con nuevas imputaciones en diciembre de 2022 [F4] y con sanciones de la Superintendencia de Industria y Comercio en diciembre de 2020 [F1]. Sin embargo, el escándalo Odebrecht se originó en 2016 cuando EE.UU. publicó sus hallazgos sobre coimas a funcionarios de más de 13 países [F5], por lo que fecharlo en 2020-2022 es impreciso. Tampoco queda claro que fuera un escándalo unitario con 'muchas multinacionales' en ese periodo específico; lo documentado son sanciones y acciones legales derivadas de un caso que se extendió durante años.",
+          "context": "El caso Odebrecht implicó a la constructora brasileña y a socios como Corficolombiana (Grupo Aval) y Episol, generando sanciones superiores a 5,8 billones de pesos (US$1.648 millones) en Colombia [F5]. El esquema de Odebrecht implicó sobornos en más de 13 países de América Latina según el informe del Departamento de Justicia de EE.UU. de diciembre de 2016 [F5]. En diciembre de 2020, la Superintendencia de Industria y Comercio sancionó el pago de coimas por 88.000 millones de pesos en el caso Odebrecht-Aval [F1]. En diciembre de 2022, la Fiscalía imputó cargos contra una decena de nuevos presuntos involucrados, incluido el fiscal que investigó el caso [F4]. Además, en 2020 la Fiscalía reportó 866 condenas por corrupción en contratación pública [F2], y en 2022 se sancionó la Ley Anticorrupción 2195 que por primera vez reconoció a las víctimas de la corrupción como categoría legal [F1].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repetición aplicable al contexto colombiano, es relevante señalar que el caso Odebrecht evidenció daños colectivos como el afectación a la libre competencia, al patrimonio público y al acceso a servicios públicos de transporte, reconocidos por la Procuraduría en una acción popular que el Consejo de Estado dejó sin indemnizar por no promover el incidente de regulación de perjuicios [F1]. La Ley 2195 de 2022 estableció por primera vez un Fondo Nacional para la Reparación de las Víctimas de la Corrupción [F1]. El contexto de las 866 condenas en 2020 [F2] y las continuas sanciones reflejan un esfuerzo institucional de esclarecimiento y sanción que abona a la no repetición. Una afirmación vaga sobre 'muchas multinacionales' en 2020-2022, sin precisar casos ni responsabilidades, no contribuye al esclarecimiento de la verdad ni al reconocimiento específico de responsabilidades, aunque tampoco revictimiza ni minimiza los hechos.",
+          "whatTheyOmit": "Omite que el escándalo Odebrecht se originó en diciembre de 2016 [F5], no en 2020-2022. No identifica qué escándalo específico ni qué multinacionales concretas se refiere, lo que hace imposible evaluar la afirmación con precisión. No menciona las magnitudes reales de sanciones (más de 5,8 billones de pesos [F5]) ni los avances en condenas y reparación [F1][F2]. Tampoco distingue entre las sanciones administrativas, judiciales y las acciones penales simultáneas que se desarrollaron en ese periodo [F1][F4][F5].",
+          "keyFacts": [
+            "El escándalo Odebrecht en Colombia involucró a la constructora brasileña y a socios como Corficolombiana (Grupo Aval) y Episol, generando sanciones por más de 5,8 billones de pesos [F5]",
+            "La Fiscalía de EE.UU. publicó en diciembre de 2016 hallazgos sobre coimas de Odebrecht a funcionarios de más de 13 países de América Latina, lo que marca el origen del escándalo [F5]",
+            "En diciembre de 2020, la Superintendencia de Industria y Comercio sancionó el pago de coimas por 88.000 millones de pesos en el caso Odebrecht-Aval [F1]",
+            "En diciembre de 2022, el caso Odebrecht se reactivó en Colombia con la imputación de delitos contra una decena de nuevos presuntos involucrados [F4]",
+            "En 2020 se emitieron 866 condenas por corrupción en contratación pública en Colombia [F2]",
+            "La Ley Anticorrupción 2195 de 2022 reconoció por primera vez a las víctimas de la corrupción como categoría legal y creó un Fondo Nacional para su reparación [F1]",
+            "El caso Colombia-Gate (escándalo de corrupción en la industria bélica italiana-colombiana) se reveló a partir de marzo de 2022, involucrando a funcionarios y empresarios [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/donde-llegan-los-danos-odebrecht-grupo-aval-colombia/",
+              "note": "Analiza daños del caso Odebrecht-Grupo Aval, sanción SIC de diciembre 2020, fallo Consejo de Estado y Ley 2195 de 2022 que reconoció víctimas de la corrupción",
+              "host": "razonpublica.com",
+              "title": "¿Hasta dónde llegan los daños de Odebrecht y el Grupo Aval en Colombia?",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/08/sarmiento-aval-reparacion-corrupcion-Vivian-Newman.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.fiscalia.gov.co/hechos-concretos/durante-el-2020-fueron-emitidas-866-condenas-por-corrupcion-en-contratos-fiscal-barbosa/",
+              "note": "Reporta 866 condenas por corrupción en contratación pública durante 2020 y verificación de más de 6.000 contratos por más de 667 mil millones de pesos",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalía General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/Rendición-de-cuentas-Fiscal-Barbosa.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Anexo:Casos_de_corrupción_política_en_Colombia_por_año",
+              "note": "Lista casos de corrupción en Colombia; incluye escándalo Colombia-Gate (2022) de corrupción en industria bélica y otros casos 2020-2024",
+              "host": "es.wikipedia.org",
+              "title": "Anexo:Casos de corrupción política en Colombia por año - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://elpais.com/america-colombia/2022-12-12/el-escandalo-de-odebrecht-revive-en-colombia.html",
+              "note": "Documenta la reactivación del caso Odebrecht en diciembre de 2022 con nuevas imputaciones, incluyendo al fiscal que investigó el caso y nexos con Grupo Aval",
+              "host": "elpais.com",
+              "title": "El escándalo de Odebrecht revive en Colombia",
+              "image": "https://imagenes.elpais.com/resizer/v2/F5EVUSETS5X2DMHWRIMNQC4Q4I.jpg?auth=d19b5010ee78eba3972a57067b1a686dff5d7d343236112de1cef66e4ad52f89&width=1200"
+            },
+            {
+              "ref": "F5",
+              "url": "https://forbes.co/negocios/caso-odebrecht-mas-de-us1-640-millones-en-sanciones-tras-el-escandalo-de-corrupcion",
+              "note": "Cuantifica sanciones del caso Odebrecht en Colombia (más de 5,8 billones de pesos / US$1.648 millones) y documenta que el informe de EE.UU. se publicó en diciembre de 2016 con coimas en más de 13 países",
+              "host": "forbes.co",
+              "title": "Caso Odebrecht: más de US$1.640 millones en sanciones tras el escándalo de corrupción",
+              "image": "https://cdn.forbes.co/2020/12/RUTA-DEL-SOL-2.jpg"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "politica",
+          "claim": "Se afirma que La Silla Vacía publicó un artículo en contra de empresas vinculadas a Jolly Foods y del escándalo de Colombia Agro-Produce.",
+          "quote": "Cogió y escribió un artículo en contra de todas estas empresas de Jolly Foods y el escándalo de Colombia agro-produce",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La Silla Vacía sí cubrió el programa Colombia Agro Produce (publicó el 29 de abril de 2020 un reporte con empresas que recibieron o devolvieron recursos, como Italcol, Recisagro y Arroz Diana), pero las fuentes disponibles señalan lo contrario a lo afirmado: el medio habría OMITIDO a Joli Foods y el vínculo familiar con su directora, en lugar de haber escrito en contra de 'todas estas empresas de Joli Foods'. La única cobertura 'en contra' documentada por las fuentes es la del escándalo de Agro Ingreso Seguro en 2009 (artículo 'Palma, ingreso seguro' de Juan Esteban Lewin), no de Joli Foods [F4][F5].",
+          "context": "Colombia Agro Produce fue una línea de crédito subsidiado del Estado colombiano creada en 2020 durante la pandemia, con tasas preferenciales respaldadas con recursos públicos para el sector agroindustrial. Según las fuentes, Joli Foods —empresa vinculada a la familia León (Jorge León Dub, padre de Juanita León, y Jorge León León García, hermano)— habría recibido un crédito cercano a $2.875 millones de pesos y lo habría devuelto el 23 de abril de 2020, tras hacerse pública su inclusión; su inclusión fue además cuestionada en una acción popular ante el Tribunal Administrativo de Cundinamarca. El artículo de Carlos Suárez 'La Silla Vacía: el juguete que regala Papá' (Semana) es la fuente de los señalamientos sobre omisión, y describe que en la asamblea del 15 de diciembre de 2020 el padre, la madre y el tío de Juanita León aún figuraban como accionistas del medio. El caso de Agro Ingreso Seguro (2009) sí fue ampliamente cubierto por La Silla Vacía, y por ese escándalo fue condenado Andrés Felipe Arias, cuya sentencia fue ratificada en febrero de 2023 por la Corte Suprema [F3][F4][F5].",
+          "progressivePerspective": "Esta afirmación no corresponde al conflicto armado colombiano ni a la JEP, por lo que no aplica el marco de verdad, justicia, reparación y no repetición. En su lugar, el asunto relevante es el estándar periodístico y de transparencia: la Constitución colombiana (artículo 20) exige a la prensa imparcialidad, transparencia y veracidad, y el debate que abren las fuentes es si un medio de investigación debe transparentar los vínculos corporativos de sus propietarios cuando aborda asignación de recursos públicos. Señalar el conflicto de interés potencial de un medio es legítimo como ejercicio de contrapeso, pero hacerlo exige precisión: afirmar que el medio escribió 'en contra' de las empresas vinculadas a Joli Foods distorsiona lo que las fuentes documentan (cobertura del programa con omisión señalada de Joli Foods), lo cual puede terminar confundiendo al público sobre qué cubrió y qué omitió cada actor [F3][F4][F5].",
+          "whatTheyOmit": "Se omite que la cobertura de La Silla Vacía sobre Colombia Agro Produce sí existió (reporte del 29 de abril de 2020 con listado de empresas beneficiarias) y que el señalamiento central en las fuentes no es que el medio atacó a Joli Foods, sino que lo omitió; también se omite que el artículo de Carlos Suárez reconoce que La Silla Vacía fue minuciosa en Agro Ingreso Seguro, y que la discusión pública incluye la versión de Juanita León sobre la composición accionaria (cesión de acciones a la Fundación La Silla Vacía en agosto de 2024) [F3][F4][F5].",
+          "keyFacts": [
+            "La Silla Vacía publicó el 29 de abril de 2020 un reporte sobre Colombia Agro Produce que mencionó firmas como Italcol, Recisagro y Arroz Diana, pero —según las fuentes— no mencionó a Joli Foods ni el vínculo familiar con su directora [F4]",
+            "Joli Foods, empresa vinculada a la familia León, habría recibido un crédito subsidiado cercano a $2.875 millones de pesos por Colombia Agro Produce y lo habría devuelto el 23 de abril de 2020 [F4][F5]",
+            "La cobertura documentada de La Silla Vacía 'en contra' de un escándalo de créditos subsidiados es la de Agro Ingreso Seguro (2009), con el artículo 'Palma, ingreso seguro' de Juan Esteban Lewin, no la de Joli Foods [F3][F5]",
+            "La afirmación del video de que el medio escribió 'en contra de todas estas empresas de Joli Foods' no tiene respaldo en las fuentes, que describen omisión en lugar de ataque [F4][F5]",
+            "La controversia pública sobre estos hechos proviene del artículo de opinión de Carlos Suárez en Semana y de la respuesta y rectificaciones de Juanita León [F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/",
+              "note": "Portal de La Silla Vacía; no aporta evidencia directa sobre el artículo contra Joli Foods ni sobre Colombia Agro Produce en esta extracción.",
+              "host": "lasillavacia.com",
+              "title": "[Home sección] - Silla Nacional",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://silla-datos.lasillavacia.com/",
+              "note": "Bases de datos de La Silla Vacía sobre el poder en Colombia; no contiene el contenido específico del artículo señalado.",
+              "host": "silla-datos.lasillavacia.com",
+              "title": "La Silla Vacía | Bases de Datos",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/08/lasilladatos-rec-1024x576.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.semana.com/opinion/articulo/la-silla-vacia-el-juguete-que-regala-papa-articulo-de-opinion-de-carlos-suarez/202605/",
+              "note": "Artículo de opinión de Carlos Suárez: detalla la estructura accionaria familiar de La Silla Vacía, los vínculos con Quala y Joli Foods, y alega que el medio cubrió Agro Ingreso Seguro pero guardó silencio sobre Colombia Agro Produce cuando el vínculo era familiar.",
+              "host": "semana.com",
+              "title": "“La Silla Vacía: el juguete que regala Papá”: artículo de opinión de Carlos Suárez",
+              "image": "https://www.semana.com/resizer/v2/VYBKPLYHFFA7BI6B3D6LXPAW6Y.jpg?auth=1c9b595aaaf745f8e575e91b27784ae7bbb863d314a0e589ca9f0db5f2b2a5b9&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://elexpreso.co/hoy/controversia-entre-carlos-suarez-y-juanita-leon-en-la-silla-vacia-por-presuntos-conflictos-de-interes-empresarial/",
+              "note": "Relata la controversia: cobertura de LSV sobre Colombia Agro Produce (reporte del 29 de abril de 2020), crédito de $2.875 millones a Joli Foods y la omisión señalada; es la fuente que desmiente que el medio haya escrito en contra de las empresas de Joli Foods.",
+              "host": "elexpreso.co",
+              "title": "Controversia entre Carlos Suárez y Juanita León en La Silla Vacía por presuntos conflictos de interés empresarial - El Expreso",
+              "image": "https://elexpreso.co/wp-content/uploads/2026/11/controversia-entre-carlos-suarez-y-juanita-leon-en-la-silla-vacia-por-presuntos-conflictos-de-interes-empresarial-pagina-web.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://laotracara.co/destacados/la-doble-moral-de-juanita-leon-y-su-silla-vacia-que-investigan-a-los-poderosos-pero-callan-cuando-se-benefician-de-los-jugosos-contratos-con-dineros-del-estado/",
+              "note": "Opinión de Sixto Alfredo Pinto que reproduce el artículo de Suárez: créditos de Joli Foods, devolución del préstamo el 23 de abril de 2020, acción popular ante el Tribunal Administrativo de Cundinamarca y el precedente de la cobertura de Agro Ingreso Seguro (condena a Andrés Felipe Arias ratificada en 2023).",
+              "host": "laotracara.co",
+              "title": "La doble moral de Juanita León y su Silla Vacia, que investigan a los poderosos, pero callan cuando se benefician de los jugosos contratos con dineros del Estado | La Otra Cara",
+              "image": "https://laotracara.co/wp-content/uploads/2026/11/carlos-suarez-y-juanita-leon.jpg"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "politica",
+          "claim": "Se afirma que Jolly Foods nunca fue nombrada en el artículo de La Silla Vacía sobre el escándalo.",
+          "quote": "¿Adivinen cuáles fueron las empresas que nunca nombraron en ese escándalo? Jolly Foods, la misma empresa del tío de Juanita León",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La única fuente que aborda el tema afirma que La Silla Vacía informó sobre irregularidades en los créditos de Colombia Agro Produce pero no mencionó el vínculo familiar de Joli Foods (así aparece escrito en la fuente) ni su aparición entre los beneficiarios cuestionados, lo que respalda la afirmación del video, aunque de forma indirecta: no se tiene el artículo original de La Silla Vacía para contrastarlo directamente [F4].",
+          "context": "El hecho de fondo es que Joli Foods, empresa vinculada a la familia de la directora de La Silla Vacía (Jorge León Dub, padre, y Jorge León León García, hermano), habría recibido un crédito subsidiado cercano a 2.875 millones de pesos por el programa Colombia Agro Produce, creado durante la pandemia del gobierno de Iván Duque, según el portal elexpediente.co; la empresa habría devuelto capital e intereses el 23 de abril de 2020, después de que su nombre fuera divulgado públicamente, y su inclusión fue objeto de cuestionamientos en una acción popular ante el Tribunal Administrativo de Cundinamarca [F4]. El caso se compara con el escándalo de Agro Ingreso Seguro de 2009, por el que fue condenado a más de 17 años de prisión el exministro Andrés Felipe Arias, sentencia ratificada en febrero de 2023 por la Corte Suprema [F4]. La directora de La Silla Vacía es licenciada en Derecho por los Andes, con maestría en periodismo de Columbia, y ha trabajado en The Wall Street Journal Americas, El Tiempo y Semana [F1].",
+          "progressivePerspective": "No se trata de un tema del conflicto armado ni de la JEP, por lo que no aplica el marco de verdad, justicia, reparación y no repetición. En términos de estándares periodísticos, la fuente disponible sostiene que el medio investigó las irregularidades y la concentración de créditos en grandes empresarios pero omitió el vínculo familiar de Joli Foods con la familia de su directora, y que esa omisión merecería el mismo escrutinio que el medio aplicó a otros casos [F4]. La afirmación del video coincide con esa fuente, aunque conviene señalar que la fuente es una columna de opinión que a su vez reproduce el artículo de opinión de Carlos Suárez en Semana, no el texto original de La Silla Vacía [F4]; por eso el veredicto es mayormente_verdadero y no verdadero con certeza plena.",
+          "whatTheyOmit": "El video no precisa el nombre tal como aparece en la fuente (\"Joli Foods\", no \"Jolly Foods\") [F4]. Tampoco se confirma con las fuentes la relación específica \"tío de Juanita León\": la fuente identifica al padre (Jorge León Dub) y al hermano (Jorge León León García) como vinculados a la empresa, y menciona a un tío (Marcelo) solo como accionista de Blogosfera Producciones, sociedad inversora de La Silla Vacía [F4]. El video no aporta el artículo original de La Silla Vacía para permitir la verificación directa, ni el contexto de que la empresa devolvió el préstamo y de que hubo una acción popular al respecto [F4].",
+          "keyFacts": [
+            "Joli Foods, vinculada a la familia León (Jorge León Dub, padre de Juanita León, y su hermano Jorge León León García), habría recibido un crédito subsidiado cercano a 2.875 millones de pesos por Colombia Agro Produce durante el gobierno de Duque [F4]",
+            "La Silla Vacía informó sobre las irregularidades y la concentración de créditos en grandes empresarios, pero no mencionó el vínculo familiar de Joli Foods ni su aparición entre los beneficiarios cuestionados [F4]",
+            "La empresa habría devuelto capital e intereses del préstamo el 23 de abril de 2020, después de que su nombre fuera divulgado públicamente [F4]",
+            "La fuente que sustenta el dato es una columna de opinión del portal laotracara.co que reproduce un artículo de opinión de Carlos Suárez publicado en Semana [F4]",
+            "La afirmación de que se trata de la empresa \"del tío\" de Juanita León no está confirmada por las fuentes entregadas, que señalan padre y hermano [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/author/juanita-leon/",
+              "note": "Perfil de la directora y fundadora de La Silla Vacía; no contiene información sobre Joli Foods ni el artículo en controversia, sirve solo para situar quién dirige el medio.",
+              "host": "lasillavacia.com",
+              "title": "Juanita León",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/01/cropped-juanita-leon.png?fit=642%2C642&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/silla-vacia-por-corrupcion-una-herramienta-util/",
+              "note": "Artículo sobre la figura de la \"silla vacía\" en política (Acto legislativo 01 de 2009); no guarda relación con el medio ni con Joli Foods.",
+              "host": "razonpublica.com",
+              "title": "Silla vacía por corrupción: una herramienta útil - Razón Pública",
+              "image": "https://razonpublica.com/images/2014/articulos/Miguel_galvis_silla_vacia_congreso.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://servicios.supersociedades.gov.co/sgs/listaoficial",
+              "note": "Página de la Supersociedades sin contenido útil para la verificación.",
+              "host": "servicios.supersociedades.gov.co",
+              "title": "Sistema de información de la supersociedades",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://laotracara.co/destacados/la-doble-moral-de-juanita-leon-y-su-silla-vacia-que-investigan-a-los-poderosos-pero-callan-cuando-se-benefician-de-los-jugosos-contratos-con-dineros-del-estado/",
+              "note": "Columna de opinión que reproduce el artículo de Carlos Suárez en Semana: sustenta que La Silla Vacía no mencionó a Joli Foods ni el vínculo familiar, y aporta cifras y contexto del crédito; es también una fuente con postura crítica conocida, no una verificación independiente del artículo original.",
+              "host": "laotracara.co",
+              "title": "La doble moral de Juanita León y su Silla Vacia, que investigan a los poderosos, pero callan cuando se benefician de los jugosos contratos con dineros del Estado | La Otra Cara",
+              "image": "https://laotracara.co/wp-content/uploads/2026/11/carlos-suarez-y-juanita-leon.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.juanitas.com/",
+              "note": "Sitio de una marca de alimentos estadounidense (Juanita's) sin relación con el caso; no aporta evidencia.",
+              "host": "juanitas.com",
+              "title": "Juanita's Foods",
+              "image": "https://www.juanitas.com/wp-content/uploads/2025/06/preview.png"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "politica",
+          "claim": "Se afirma que La Silla Vacía genera presión mediática en contra del gobierno porque el gobierno no cumple los intereses de las megaempresas.",
+          "quote": "generar una presión mediática en contra del gobierno porque el gobierno no les cumple los intereses a estas megaempresas",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes respalda que La Silla Vacía ejerza presión mediática contra el gobierno motivada por intereses de megaempresas: las fuentes describen el medio, su financiación y su actividad periodística, pero no documentan vínculos ni directrices de grandes empresas que expliquen su cobertura [F5][F1][F3][F4]. La afirmación sobre el motivo (que el gobierno 'no cumple los intereses a las megaempresas') es una atribución de intención no verificable con el material disponible.",
+          "context": "La Silla Vacía es un medio digital colombiano fundado en 2009 por la periodista Juanita León, enfocado en política colombiana; se autofinancia parcialmente con donaciones de usuarios, cooperación internacional (en 2022, el 41% de sus ingresos provino de cooperación internacional, incluidos USAID, la Embajada Británica y la Fundación Ford) y donaciones iniciales de Open Society Foundations y la embajada británica [F5]. La fuente disponible sobre su actividad periodística muestra que el medio publica investigaciones críticas tanto contra gobiernos de derecha como de izquierda: en el material revisado, el foco crítico es la Rtvc del gobierno Petro, descrita como 'máquina de propaganda gubernamental' con 130 titulares sin un solo titular crítico del gobierno en 15 emisiones comparadas [F1]. No hay en las fuentes datos sobre 'megaempresas' como origen de la línea editorial de este medio.",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, la afirmación analizada no abona al esclarecimiento de hechos verificables: convierte una actividad periodística en un móvil conspirativo ('presión mediática por intereses de megaempresas') sin aportar evidencia documental, lo que puede deslegitimar el ejercicio de prensa en lugar de aportar verdad [F5][F1]. Cabe señalar, como contraste, que las fuentes sí documentan un caso verificado de captura de medios públicos: la Rtvc bajo la gerencia de Hollman Morris, con ausencia de voces críticas y censura denunciada por la Flip, y un presupuesto de 385 mil millones de pesos en 2024 [F1]. Ese hecho, respaldado por datos y metodología comparada, sí incide en la agenda de no repetición (garantía de independencia de medios públicos), mientras que la afirmación sobre La Silla Vacía permanece como opinión sin soporte en las fuentes entregadas.",
+          "whatTheyOmit": "Omite evidencia alguna del supuesto vínculo entre La Silla Vacía y 'megaempresas' cuyos intereses el gobierno no cumpliría: las fuentes solo documentan financiación de cooperación internacional y donaciones [F5]. También omite que el medio publica críticas a distintos gobiernos y que su material revisado en las fuentes es una crítica al uso político de los medios públicos bajo el gobierno actual, no una presión coordinada por grupos económicos [F1]. Además no define cuáles serían las 'megaempresas' ni qué intereses concretos el gobierno habría incumplido, lo que hace la afirmación irrebatible y por tanto no verificable [F5][F3][F4].",
+          "keyFacts": [
+            "La Silla Vacía es un medio digital colombiano fundado en 2009 por la periodista Juanita León, enfocado en política colombiana [F5]",
+            "En 2022, el 41% de los ingresos del medio provinieron de cooperación internacional, incluidos USAID, la Embajada Británica y la Fundación Ford; su financiación inicial incluyó Open Society Foundations [F5]",
+            "No existe en las fuentes ninguna evidencia de vínculos entre La Silla Vacía y 'megaempresas' ni de directrices de grandes empresarios sobre su línea editorial [F5][F3][F4]",
+            "El material documental disponible sobre el medio muestra críticas a Rtvc por alineación con el gobierno Petro: 130 titulares revisados sin un solo titular crítico del gobierno en 15 emisiones de 2024 [F1]",
+            "La Rtvc contó con un presupuesto de 385 mil millones de pesos en 2024 y la Flip recibió denuncias de 'decenas' de periodistas por ambiente de censura y autocensura [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/asi-funciona-la-maquina-de-propaganda-de-rtvc-con-hollman-morris/",
+              "note": "Aporta evidencia documentada del trabajo periodístico de La Silla Vacía (análisis comparativo de 30 noticieros de Rtvc) y datos sobre presupuesto y funcionamiento de medios públicos; no menciona vínculos con megaempresas.",
+              "host": "lasillavacia.com",
+              "title": "Así funciona la máquina de propaganda de Rtvc con Hollman Morris",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/01/Hollman-Morris.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/silla-vacia-por-corrupcion-una-herramienta-util/",
+              "note": "Explica la figura de la 'silla vacía' en el contexto legislativo colombiano (parapolítica y corrupción); no guarda relación con el medio digital ni con intereses empresariales, por lo que no aporta a la verificación.",
+              "host": "razonpublica.com",
+              "title": "Silla vacía por corrupción: una herramienta útil - Razón Pública",
+              "image": "https://razonpublica.com/images/2014/articulos/Miguel_galvis_silla_vacia_congreso.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://silla-datos.lasillavacia.com/",
+              "note": "Portal de bases de datos de La Silla Vacía sobre el poder en Colombia; no aporta información sobre financiación empresarial ni motivos de su cobertura.",
+              "host": "silla-datos.lasillavacia.com",
+              "title": "La Silla Vacía | Bases de Datos",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/08/lasilladatos-rec-1024x576.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://webstories.lasillavacia.com/",
+              "note": "Archivo de piezas del medio; no contiene información sobre vínculos con megaempresas ni sobre presión mediática por intereses económicos.",
+              "host": "webstories.lasillavacia.com",
+              "title": "El freno al fracking en Colombia",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/La_Silla_Vacía_(medio_digital)",
+              "note": "Describe origen, dirección, enfoque y financiación del medio (cooperación internacional, donaciones); es la fuente que permite descartar la existencia de evidencia sobre financiación o directrices de megaempresas en las fuentes disponibles.",
+              "host": "es.wikipedia.org",
+              "title": "La Silla Vacía (medio digital) - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/La_Silla_Vac%C3%ADa_screenshot.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "topic": "politica",
+          "claim": "Se afirma que las ganancias obtenidas de la venta de productos en la calle se usan para atacar al presidente o a políticos que no complacen intereses empresariales.",
+          "quote": "se llenan los bolsillos con la plata de los colombianos para atacar al presidente o a los políticos de turno que no les complacen sus deseos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes respalda que las ganancias de la venta ambulante se destinen a atacar al presidente o a políticos: los datos disponibles describen el tamaño y la informalidad del sector callejero (507.266 puestos y $12,84 billones en 2024), sin vínculo alguno con financiación de ataques políticos [F4][F5]. Existe un fenómeno documentado y distinto: el financiamento irregular de campañas presidenciales por parte de empresas (caso Odebrecht 2014), que es lo que las fuentes sí permiten constatar [F1].",
+          "context": "El DANE registró en 2024 507.266 puestos de ventas ambulantes y 586.668 personas ocupadas, con ingresos de $12,84 billones, casi el triple de los $5,74 billones de 2020; entre en 2025 los micronegocios ambulantes cayeron a 286.061 en las 24 principales ciudades, 93,3% sin RUT y 96,7% sin aportes a salud y pensión [F4][F5]. La informalidad total nacional fue 54,5% en el trimestre julio-septiembre de 2026 [F3]. Paralelamente, hay pruebas de ingresos de Odebrecht a las campañas de Santos y Zuluaga en 2014 (aproximadamente $4.000 millones por Gistic Logistics y US$1,6 millones vía Topsail Holding), y el Consejo Nacional Electoral absolvió ambas campañas en 2017 y 2018 pese a la compulsa de copias de la Fiscalía [F1].",
+          "progressivePerspective": "A la luz de la verdad, la justicia, la reparación y la no repetición, el dato verificable que sí abona al esclarecimiento es el del flujo de dinero empresarial hacia campañas: las pruebas de Odebrecht muestran recursos irregularmente ingresados a campañas presidenciales y suavizados mediante contratos ficticios, un hecho que exige transparencia y control electoral, no la imputación genérica a un sector laboral informal [F1]. Atribuir a los vendedores ambulantes —que operan en condiciones de precariedad, con 495.150 sin cotizar a salud ni pensión y 476.976 sin RUT— la financiación de ataques políticos carece de respaldo en las fuentes y puede revictimizar a una población ya vulnerable, mientras desvía la atención de los mecanismos documentados de captura del poder por parte de grandes actores económicos [F4][F5][F1].",
+          "whatTheyOmit": "Omite que la única financiación empresarial de campañas documentada en las fuentes corresponde a multinacionales y contratistas (Odebrecht, Pacific Rubiales), no a vendedores ambulantes, y omite que el CNE absolvió a Santos y Zuluaga sin sanción, vacío que deja el caso sin cierre judicial electoral [F1]. También omite la magnitud real y la condición de vulnerabilidad del sector ambulante: informalidad del 93,3%, casi ausencia de seguridad social y márgenes reducidos, datos que contradicen la idea de un sector con capacidad de financiar ataques políticos [F4][F5].",
+          "keyFacts": [
+            "En 2024 hubo 507.266 puestos de ventas ambulantes y 586.668 personas ocupadas, con ingresos de $12,84 billones [F4]",
+            "El 93,3% de los micronegocios ambulantes no tiene RUT y el 96,7% no aporta a salud ni pensión [F5]",
+            "La proporción de personas ocupadas informales en Colombia fue 54,5% en el trimestre julio-septiembre de 2026 [F3]",
+            "Hay pruebas de ingresos de Odebrecht a las campañas de Santos y Zuluaga en 2014, y el CNE las absolvió en 2017 y 2018 [F1]",
+            "Ninguna fuente aportada vincula las ganancias de la venta ambulante con financiación de ataques al presidente o a políticos [F4][F5][F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/odebrecht-y-las-campanas-presidenciales-de-2014-por-que-no-hay-responsables/",
+              "note": "Documenta financiación empresarial irregular de campañas 2014 (Odebrecht, Pacific Rubiales) y la absolución del CNE; aporta el único precedente verificable de dinero corporativo influyendo en política, distinto de la afirmación sobre ventas ambulantes",
+              "host": "razonpublica.com",
+              "title": "Odebrecht y las campañas presidenciales de 2014: ¿por qué no hay responsables? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/09/elecciones-zuluaga-armando-novoa.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://elecciones-2026.lasillavacia.com/walter-alfonso-rodriguez-chaparro",
+              "note": "Perfil de un activista digital de contenido político; no aporta datos sobre financiación de ataques ni sobre vendedores ambulantes",
+              "host": "elecciones-2026.lasillavacia.com",
+              "title": "Walter Alfonso Rodríguez Chaparro",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/empleo-informal-y-seguridad-social",
+              "note": "Tasa de informalidad laboral nacional (54,5%, julio-septiembre 2026); contexto estructural del sector",
+              "host": "dane.gov.co",
+              "title": "Empleo informal y seguridad social",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/negocios/colombia-507-mil-vendedores-ambulantes-dane-informalidad-NG30410926",
+              "note": "Magnitud e ingresos del comercio ambulante en 2024 y su precariedad; no registra destino político de esas ganancias",
+              "host": "elcolombiano.com",
+              "title": "En Colombia hay 507 mil vendedores ambulantes y generan $12,8 billones en ventas, revelÃ³ el Dane",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/1200d675/none/11101/UXVG/ventas-callejeras-colombia_49120811_20251029104250.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/economia/cerca-de-290-000-personas-trabajan-como-vendedores-ambulantes-en-el-pais-4485736",
+              "note": "Micronegocios ambulantes en 2025, informalidad y falta de seguridad social; contraste con la supuesta capacidad de financiar ataques políticos",
+              "host": "larepublica.co",
+              "title": "Cerca de 290.000 personas trabajan como vendedores ambulantes en el país",
+              "image": "https://img.lalr.co/cms/2026/09/18182047/eco_ambulantes_px_sabado_1080x900.jpg?size=sm&ratio=sq&f=jpg"
             }
           ]
         }
