@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:38:29",
+  "generatedAt": "2026-11-17T18:53:56",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -9585,6 +9585,1025 @@
               "host": "larepublica.co",
               "title": "Cerca de 290.000 personas trabajan como vendedores ambulantes en el país",
               "image": "https://img.lalr.co/cms/2026/09/18182047/eco_ambulantes_px_sabado_1080x900.jpg?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "4-4k-views-107-reactions-omar-garcia-rodriguez-on-reels",
+      "title": "4.4K views · 107 reactions | Omar Garcia Rodriguez on Reels",
+      "uploader": "Omar Garcia Rodriguez",
+      "url": "https://m.facebook.com/watch/?v=1665010805288714&_rdr",
+      "duration": 169.621,
+      "thumbnail": "/media/4-4k-views-107-reactions-omar-garcia-rodriguez-on-reels/thumb.jpg",
+      "conclusion": "## Un catálogo de cifras reales que no sostiene el retrato total que dibuja\n\nEl video construye la percepción de un desastre integral: un gobierno que malgastó, desfinanció, debilitó y desatendió prácticamente todo lo que tocó. La forma en que encadena cifras una tras otra produce la impresión de que cada dato confirma al anterior y de que el conjunto demuestra una sola cosa: colapso deliberado. Ese efecto de acumulación es el verdadero motor narrativo del material.\n\nUna parte considerable de los datos tiene base real y conviene reconocerlo: la cifra de 856 mil millones girados a la UNGRD sin urgencia manifiesta proviene de declaraciones oficiales del empalme, el desembolso de 1.4 billones sin rastro está documentado, los 884.064 contratos de prestación de servicios con un aumento del 119% frente al periodo anterior son verificables, la suspensión del subsidio de ICETEX afectó a cerca de 180 mil beneficiarios, la meta de 1.5 millones de hectáreas de la ANT existe y el deterioro de la fuerza pública con la expansión de grupos armados de 127 a más de 700 municipios está respaldado por la Procuraduría y centros de pensamiento.\n\nEl problema empieza cuando esos datos se presentan sin su naturaleza jurídica ni su denominador. Los 884 mil contratos se enuncian como \"nóminas paralelas\" sin aclarar que son cuatro años acumulados con 228 mil personas distintas y que el 80% se concentra en Sena, ICBF y entidades adscritas. La cifra de 5 billones en \"pasivo\" es en realidad 4.5 billones de \"presunto gasto\" en investigación. Los hallazgos sobre UNGRD, que el propio gobierno entrante aclara que \"no constituyen una sentencia\", se presentan como hechos consumados.\n\nEl punto de quiebre exacto ocurre cuando el material deja de acumular verificables y empieza a trasplantar cifras ajenas: el \"70% de presupuesto perdido\" corresponde al CONICET argentino, no a ningún ministerio de juventud; los 5.9 millones de colombianos \"con energía de ISAGEN\", los 2.6 billones en pérdidas, el \"déficit de 23 billones del ejército\" y las 350 mil hectáreas adjudicadas no tienen respaldo en ninguna fuente. En ese momento el video deja de informar y pasa a construir equivalencias entre datos que no guardan relación entre sí.\n\nEl contexto ausente es decisivo: los procesos siguen abiertos sin condena, los contratos de prestación de servicios son una modalidad legal, el deterioro security tiene múltiples factores reconocidos por expertos, y en tierras la ANT reporta 1.5 millones de hectáreas formalizadas a abril de 2025, cifra que supera su propia meta. Una interpretación más completa reconoce problemas graves y documentados, pero el video los envuelve con cifras no verificables hasta producir un retrato más severo que la evidencia permite sostener.",
+      "conclusionLabel": "A medias",
+      "conclusionColor": "lime",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Se afirma que el gobierno presentó denuncias escalofriantes el día anterior",
+          "quote": "el gobierno ayer presentó denuncias escalofriantes",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Existen denuncias graves y de gran impacto público contra el expresidente Petro (relato de Deicy Jiménez publicado por Semana y 'denuncias cruzadas' en el entorno gubernamental), pero ninguna fuente muestra que 'el gobierno' como institución haya presentado denuncias 'el día anterior'; las presentaron personas naturales y una exfuncionaria, y el adjetivo 'escalofriantes' es una valoración subjetiva [F2][F5].",
+          "context": "Según La Silla Vacía, Deicy Jiménez, trabajadora sexual de 26 años, denunció ante Semana que durante cinco años el expresidente Gustavo Petro le pagó servicios sexuales con contratos públicos y que compró y transportó cocaína; la Procuraduría y la Fiscalía abrieron indagaciones preliminares, y los registros de Función Pública verificados por La Silla muestran contratos públicos de Jiménez desde 2023 [F2]. La publicación en Semana está fechada en un tuit del 25 de octubre de 2026 [F2]. Por su parte, La Patria registra 'denuncias cruzadas' en la cúpula del Gobierno de Petro: Angie Rodríguez, exdirectora del Dapre, denunció a Petro ante la Comisión de Acusación de la Cámara por injuria, calumnia y tráfico de influencias, mientras Petro anunció que la denunciaría penalmente [F5]. No existe en las fuentes una fecha que permita datar el 'ayer' del video; además, F5 sitúa hechos anteriores al 7 de agosto de 2026 (fin del mandato) y F2 a escenarios posteriores a la posesión de De la Espriella, con un tuit del 25 de octubre de 2026 [F2][F5].",
+          "progressivePerspective": "Desde el marco de verdad y debido proceso, la afirmación mezcla tres planos distintos: (1) denuncias individuales (Jiménez ante Semana; Rodríguez ante la Comisión de Acusación), (2) investigaciones preliminares de la Fiscalía y la Procuraduría, y (3) una supuesta actuación institucional del gobierno, que las fuentes no respaldan [F2][F5]. Presentar las denuncias como obra 'del gobierno' sin precisar quién las formuló puede dar por probados hechos aún no juzgados y difuminar la separación entre acusación, investigación y sentencia. La Silla Vacía, además, documenta que las denuncias se producen en un contexto de 'batalla cultural' y de compromiso explícito del gobierno de De la Espriella con encarcelar al principal líder de oposición, lo que exige distinguir con rigor entre el mérito de cada denuncia y el uso político que se haga de ella [F2]. En cuanto al marco de la JEP (verdad, justicia, reparación y no repetición), este clip no versa sobre el conflicto armado ni sobre la Jurisdicción, pero aplica el mismo principio: la verdad exige atribuir correctamente cada afirmación a su responsable y no presentar denuncias pendientes de verificación como hechos consumados [F2][F5].",
+          "whatTheyOmit": "Omite identificar quién presentó exactamente las denuncias (una ciudadana ante un medio de comunicación y una exfuncionaria ante el Congreso, no 'el gobierno'), omite que la Fiscalía y la Procuraduría solo abrieron indagaciones preliminares —es decir, sin imputación ni sentencia—, omite que 'escalofriantes' es una valoración subjetiva y no un dato verificable, y omite el contexto de competencia política descrito por La Silla Vacía en torno a la estrategia del gobierno frente a la oposición [F2][F5].",
+          "keyFacts": [
+            "Deicy Jiménez denunció ante Semana que el expresidente Petro le pagó servicios sexuales con contratos públicos durante cinco años y que compró y transportó cocaína; la Procuraduría y la Fiscalía abrieron indagaciones preliminares [F2]",
+            "Los registros de Función Pública verificados por La Silla muestran que Jiménez tuvo contratos públicos desde 2023 en el Senado, la Superintendencia de Vigilancia, el MinInterior y el Dapre [F2]",
+            "Angie Rodríguez, exdirectora del Dapre, denunció a Petro ante la Comisión de Acusación de la Cámara por injuria, calumnia y tráfico de influencias, y Petro anunció que la denunciaría penalmente [F5]",
+            "La Silla Vacía señala que las denuncias contra Petro se producen 'acompanadas con el gobierno de Abelardo de la Espriella', quien se habría comprometido explícitamente con encarcelar al principal líder de oposición, pero no afirma que esa administración haya formulado formalmente denuncias [F2]",
+            "Ninguna fuente documenta que una institución del gobierno haya presentado formalmente 'denuncias escalofriantes' el día anterior al video [F2][F5]",
+            "La palabra 'escalofriantes' es una valoración subjetiva del hablante, no un hecho verificable [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/seguridad-y-politica-criminal-en-el-gobierno-de-de-la-espriella/",
+              "note": "Contexto sobre el cambio de política criminal del gobierno de De la Espriella; no documenta la presentación de denuncias 'el día anterior'.",
+              "host": "razonpublica.com",
+              "title": "Seguridad y política criminal en el gobierno de De la Espriella - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/1.1.-alcaldia.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/petro-enfrenta-su-peor-denuncia-de-corrupcion-alentada-por-el-gobierno/",
+              "note": "Aporta la denuncia de Deicy Jiménez ante Semana, las indagaciones preliminares de Fiscalía y Procuraduría, los contratos públicos verificados y el contexto político de acompañamiento del gobierno de De la Espriella; principal evidencia sobre la existencia y el alcance de las denuncias.",
+              "host": "lasillavacia.com",
+              "title": "Petro se enfrenta a su peor denuncia de corrupción y al “aniquilamiento moral” desde el gobierno",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/Petro_mociones-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://indepaz.org.co/informe-de-masacres-en-colombia-durante-el-2020-2021/",
+              "note": "Registro de masacres de Indepaz; no se refiere a las denuncias mencionadas en el video, sirve solo como contraste sobre violencia armada.",
+              "host": "indepaz.org.co",
+              "title": "Masacres en Colombia durante el 2020, 2021, 2022, 2023, 2024, 2025 y 2026 - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2025/01/123456.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.fiscalia.gov.co/",
+              "note": "Portal de la Fiscalía con boletines generales del 17 de noviembre de 2026; no contiene información específica sobre la presentación de denuncias 'escalofriantes' por parte del gobierno.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalia General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/logo_fisc.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.lapatria.com/colombia/el-escandalo-de-corrupcion-que-sacude-al-gobierno-de-petro-dias-de-terminar-su-mandato",
+              "note": "Documenta las 'denuncias cruzadas' en el gobierno de Petro (Rodríguez vs. Petro y viceversa) y el escándalo de Juliana Guerrero y Gabriela Muñoz; permite contrastar quién presentó cada denuncia.",
+              "host": "lapatria.com",
+              "title": "El escándalo de corrupción que sacude al Gobierno de Petro a días de terminar su mandato",
+              "image": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-07/2026-07-30_2_1741102.jpg?itok=Qy-kgjTj"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se afirma que el gobierno de Gustavo Petro giró 856 mil millones de pesos en la Unidad Nacional de Gestión del Riesgo sin urgencia manifiesta",
+          "quote": "En la unidad nacional de gestión del riesgo el gobierno de Gustavo Petro giró 856 mil millones de pesos sin urgencia manifiesta",
+          "figures": [
+            "856 mil millones de pesos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La cifra de 856 mil millones de pesos 'girados sin urgencia manifiesta' en la UNGRD efectivamente proviene de declaraciones oficiales del gobierno actual (presidente De la Espriella y el director encargado de la Agencia Jurídica para la Defensa del Estado), sustentadas en hallazgos de la Contraloría y del informe de empalme anticorrupción. Es verificable que se afirmó y que los hallazgos existen, pero se presenta en el video como hecho consumado cuando, según las fuentes, aún no hay sentencia que lo establezca [F3][F4][F5].",
+          "context": "Los datos provienen del informe de empalme del gobierno entrante, 'El libro de la verdad', entregado a Fiscalía, Procuraduría y Contraloría, donde De la Espriella precisó que la UNGRD giró $856.000 millones sin urgencia manifiesta y que no se pudo establecer el destino de $1,38 billones; el propio mandatario aclaró que el informe 'no constituye una sentencia ni reemplaza las investigaciones' y pidió a las autoridades determinar responsabilidades [F3]. El director encargado de la Agencia Jurídica para la Defensa del Estado añadió que la UNGRD habría ejecutado solo el 4,3% de su presupuesto en los cuatro años del gobierno anterior y citó hallazgos de la Contraloría: $240.766 millones sin reintegrar por convenios vencidos con IGAC y Vivienda, y $282.990 millones en obras en La Mojana y el Caribe sin rastro documentado [F5]. En cuanto a magnitud, el caso UNGRD sí tiene procesos reales: condenas, medidas cautelares y procesos penales, pero a noviembre de 2026 cinco funcionarios del gobierno Petro (Bonilla, Velasco, Ortiz, C. Ramón González y Manrique) siguen sin definición judicial de su responsabilidad, y tres salieron de prisión por vencimiento de términos sin que eso cierre las investigaciones [F4]. El contexto presupuestal general de baja ejecución del período 2023-2025 también está documentado [F2].",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición, el contenido presenta matices. Por un lado, el señalamiento de giros sin destino claro y de baja ejecución presupuestal en una entidad rectora de gestión del riesgo corresponde legítimamente al derecho a conocer la verdad sobre el manejo de los recursos públicos, y los hallazgos de la Contraloría citados aportan elementos verificables al esclarecimiento [F5]. Además, en el caso UNGRD existen procesos penales en curso que buscan precisamente establecer responsabilidades, es decir, no se trata de impunidad sino de justicia en trámite [F4]. Por otro lado, el marco de no repetición exige que las denuncias se mantengan separadas de la presunción de inocencia: la propia fuente oficial reconoce que el informe 'no constituye una sentencia' y que corresponde a Fiscalía, Procuraduría y Contraloría determinar responsabilidades penales, disciplinarias o fiscales [F3], y cinco investigados aún no tienen condena definitiva ni siquiera juicio concluido, con audiencias aplazadas hasta febrero de 2027 [F4]. Presentar la cifra en el video como un hecho ya juzgado, sin esa precisión, adelanta una conclusión que las fuentes judiciales aún no han emitido, lo cual tensiona el estándar de verdad responsable que exige distinguir entre hallazgo administrativo, acusación y sentencia [F3][F4][F5].",
+          "whatTheyOmit": "El video omite que la cifra proviene de declaraciones del gobierno actual durante el empalme, no de una decisión judicial firme: la propia fuente oficial aclara que el informe 'no constituye una sentencia' y que las responsabilidades deben determinarlas Fiscalía, Procuraduría y Contraloría [F3]. También omite el estatus procesal: a noviembre de 2026 cinco exfuncionarios del gobierno Petro siguen sin condena ni juicio concluido, y tres salieron de prisión por vencimiento de términos, con audiencias preparatorias aplazadas hasta febrero de 2027 [F4]. No se menciona la cifra complementaria de $1,38 billones cuyo destino no se pudo establecer, ni los hallazgos específicos de la Contraloría ($240.766 millones por convenios vencidos y $282.990 millones en obras sin rastro) que matizan la cifra única [F3][F5]. Tampoco se contextualiza la magnitud de la cifra (856 mil millones) frente al total del presupuesto de la entidad ni se señala que los señalamientos de 'urgencia manifiesta' son una calificación de la administración entrante [F3][F5].",
+          "keyFacts": [
+            "El presidente De la Espriella afirmó durante la entrega del informe de empalme 'El libro de la verdad' que la UNGRD giró $856.000 millones sin urgencia manifiesta y que no se pudo establecer el destino de $1,38 billones [F3]",
+            "El propio De la Espriella aclaró que el informe 'no constituye una sentencia ni reemplaza las investigaciones' y pidió a Fiscalía, Procuraduría y Contraloría determinar responsabilidades penales, disciplinarias o fiscales [F3]",
+            "El director encargado de la Agencia Jurídica para la Defensa del Estado reportó que la UNGRD habría ejecutado solo el 4,3% de su presupuesto en los cuatro años del gobierno anterior y giró $856.000 millones sin urgencia [F5]",
+            "La Contraloría identificó $240.766 millones sin reintegrar por convenios vencidos con IGAC y Vivienda, y $282.990 millones en obras en La Mojana y el Caribe sin rastro documentado [F5]",
+            "El caso UNGRD tiene procesos penales, condenas y medidas cautelares, pero a noviembre de 2026 cinco exfuncionarios del gobierno Petro (Bonilla, Velasco, Ortiz, C. Ramón González y Manrique) siguen sin definición judicial de responsabilidad [F4]",
+            "Tres de los procesados salieron de prisión por vencimiento de términos sin que eso cierre las investigaciones; la audiencia preparatoria de Bonilla y Velasco fue aplazada hasta el 2 de febrero de 2027 [F4]",
+            "La ejecución del presupuesto de inversión en el período 2023-2025 promedió 64,2%, por debajo del promedio histórico 2000-2018 de 77,7% [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-datos/comparativo-del-presupuesto-general-nacional-entre-petro-santos-y-duque/",
+              "note": "Base comparativa del Presupuesto General de la Nación entre gobiernos Santos, Duque y Petro (2017-2023); aporta contexto presupuestal general, no datos específicos de la UNGRD",
+              "host": "lasillavacia.com",
+              "title": "Comparativo del Presupuesto General Nacional entre Petro, Santos y Duque",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/05/lasilladatos-thumbnail.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/balance-del-gasto-publico-en-el-gobierno-petro-altos-recursos-baja-ejecucion/",
+              "note": "Balance de ejecución presupuestal 2023-2025: ejecución de inversión promedio de 64,2%, por debajo del promedio histórico; aporta el contexto de baja ejecución del período, sin cifras de la UNGRD",
+              "host": "razonpublica.com",
+              "title": "Balance del gasto público en el gobierno Petro: altos recursos, baja ejecución - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/07/11.1.-Gasto.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://monteriahoy.com/noticias/larazon/de-la-espriella-advirtio-giros-por-856-mil-millones-de-pesos-sin-urgencia-manifiesta-en-la-ungrd/",
+              "note": "Fuente primaria de la cifra: declaración de De la Espriella en el empalme anticorrupción, con la aclaración de que el informe no es sentencia; registra también $1,38 billones sin destino establecido",
+              "host": "monteriahoy.com",
+              "title": "De la Espriella advirtió giros por 856 mil millones de pesos “sin urgencia manifiesta” en la UNGRD - Montería Hoy",
+              "image": "https://monteriahoy.com/wp-content/uploads/2024/01/portada-monteriahoy-scaled.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/11/17/caso-ungrd-cinco-funcionarios-del-gobierno-petro-siguen-sin-responder-en-juicio-tras-mas-de-dos-anos-del-escandalo-de-corrupcion/",
+              "note": "Contraste clave: estatus procesal real a noviembre de 2026, sin condenas definitivas contra cinco exfuncionarios, audiencias aplazadas y libertades por vencimiento de términos",
+              "host": "infobae.com",
+              "title": "Caso Ungrd: cinco funcionarios del Gobierno Petro siguen sin responder en juicio tras más de dos años del escándalo de corrupción",
+              "image": "https://www.infobae.com/resizer/v2/JP2VKO7YCFAHZKDQ7QYFQ2I7YY.png?auth=7e23d585a1ca0aca5c445f9cf135d5292e3328746b0be62157450318c1fe3e1b&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.portafolio.co/economia/gobierno/ungrd-solo-habria-ejecutado-el-4-3-de-su-presupuesto-en-el-gobierno-de-gustavo-petro-500670",
+              "note": "Declaración de Germán Calderón España con la cifra de 4,3% de ejecución, los 856.000 millones sin urgencia y hallazgos específicos de la Contraloría; es el mismo origen oficial que F3",
+              "host": "portafolio.co",
+              "title": "UNGRD sólo habría ejecutado el 4,3% de su presupuesto en el Gobierno de Gustavo Petro",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2024/08/08/66b54b0f89768.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Se afirma que se perdió el rastro de 1.4 billones de pesos en la Unidad Nacional de Gestión del Riesgo",
+          "quote": "y perdió el rastro de 1.4 billones de pesos",
+          "figures": [
+            "1.4 billones de pesos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "El monto de 1.4 billones de pesos y su destino en la UNGRD están documentados en fuentes que reportan la declaración del propio director de la entidad de no encontrar rastro de esos recursos [F3]. Sin embargo, la afirmación de que 'se perdió el rastro' se basa en declaraciones mediáticas y oficiales de una investigación aún en curso ante la Fiscalía, no en una sentencia judicial que confirme la pérdida definitiva [F3].",
+          "context": "En septiembre y diciembre de 2023, el ministro de Hacienda Ricardo Bonilla autorizó dos desembolsos de 700.000 millones de pesos cada uno (resoluciones 2407 y 3202) provenientes de reservas del Tesoro Nacional, por petición de Olmedo López, a la UNGRD [F3]. El director de la UNGRD, Carlos Carrillo, declaró al medio que 'no encontró ni un solo peso en la entidad' de esos recursos y que los documentos fueron entregados a la Fiscalía General de la Nación [F3]. La Contraloría General ya ha emitido otros fallos con responsabilidad fiscal contra exfuncionarios de la UNGRD por irregularidades por $2.517 millones de pesos en ayudas humanitarias durante la pandemia [F5]. Se trata de un caso distinto al de los 1.4 billones, pero que muestra un patrón de irregularidades en la entidad.",
+          "progressivePerspective": "La afirmación abona al esclarecimiento de la verdad sobre el uso de recursos públicos destinados a la población más vulnerable. La UNGRD es la entidad encargada de atender desastres y emergencias que afectan desproporcionadamente a comunidades en situación de pobreza, muchas de ellas en zonas de conflicto. La Fiscalía de investigación en curso representa un mecanismo de rendición de cuentas que contribuye a la no repetición de la corrupción que desvía recursos de la gestión del riesgo [F3]. La Contraloría ya ha emitido fallos con responsabilidad fiscal contra exfuncionarios de la misma entidad por irregularidades previas [F5], lo que reforza la importancia de seguir la investigación sobre los 1.4 billones hasta su conclusión judicial.",
+          "whatTheyOmit": "El video no precisa que la investigación está en curso ante la Fiscalía y que aún no hay un fallo judicial definitivo que confirme la pérdida definitiva de los recursos [F3]. Tampoco menciona que la Contraloría ya ha emitido un fallo con responsabilidad fiscal por $2.517 millones por irregularidades distintas [F5], ni que los desembolsos fueron autorizados bajo facultades legales del ministro de Hacienda citando la Ley 2276 de 2022 y el Decreto 2590 de 2022 [F3], lo cual no exime de responsabilidad pero contextualiza el marco normativo de las decisiones.",
+          "keyFacts": [
+            "En septiembre y diciembre de 2023 se autorizaron dos desembolsos de 700.000 millones de pesos cada uno (total 1.4 billones) de reservas del Tesoro Nacional a la UNGRD, mediante resoluciones 2407 y 3202 firmadas por el ministro Ricardo Bonilla [F3]",
+            "El director de la UNGRD, Carlos Carrillo, declaró que no encontró ni un solo peso de esos recursos en la entidad o que no hay claridad sobre su paradero, y entregó los documentos a la Fiscalía General [F3]",
+            "La Contraloría profirió fallo con responsabilidad fiscal por $2.517 millones contra exfuncionarios de la UNGRD por irregularidades en ayudas humanitarias durante la pandemia de COVID-19 [F5]",
+            "Entre los sancionados por la Contraloría se encuentran el entonces Director General de la UNGRD y tres Subdirectores para el Manejo de Desastres, declarados responsables por culpa grave [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/ha-pasado-los-recursos-destinados-al-acuerdo-paz/",
+              "note": "Analiza inconsistencias y errores presupuestales en el Acuerdo de Paz. Menciona 1.4 billones en contexto de recursos de financiamiento del Acuerdo, no relacionado directamente con la UNGRD ni con la pérdida alegada.",
+              "host": "razonpublica.com",
+              "title": "¿Qué ha pasado con los recursos destinados al Acuerdo de Paz? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2021/09/paz-acuerdo-Colombia-Acuerdo-paz-presupuesto-Jorge-Espitia.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://portal.gestiondelriesgo.gov.co/",
+              "note": "Portal oficial de la UNGRD con información sobre actividades recientes de gestión del riesgo. No contiene información sobre los 1.4 billones.",
+              "host": "portal.gestiondelriesgo.gov.co",
+              "title": "UNGRD // <![CDATA[ _spBodyOnLoadFunctionNames.push(\"setupPageDescriptionCallout\"); // ]]>",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.wradio.com.co/2024/07/17/los-14-billones-que-giro-minhacienda-a-la-ungrd-por-peticion-de-olmedo-lopez/",
+              "note": "Fuente central: documenta los dos desembolsos de 1.4 billones, las resoluciones específicas, la declaración del director de UNGRD de no encontrar el dinero, y la remisión a la Fiscalía. También reporta el denominado 'plan 700' con presuntas irregularidades en la adjudicación de contratos.",
+              "host": "wradio.com.co",
+              "title": "Los $1.4 billones que giró MinHacienda a la UNGRD por petición de Olmedo López",
+              "image": "https://www.wradio.com.co/resizer/v2/WQC2UY475BEO7A5FHZDHB6VQLI.jpg?auth=fcd7ba8e1a16a9963841d999967998e2e7044c63559a13bd632438b2169bfad4&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://es.scribd.com/document/1078085365/Informe-Auditoria-UNGRD",
+              "note": "Informe de auditoría de la UNGRD disponible en Scribd. No fue posible acceder al contenido completo, por lo que no aporta información verificable en esta revisión.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.contraloria.gov.co/w/contraloría-profirió-fallo-con-responsabilidad-fiscal-por-2.517-millones-contra-exfuncionarios-de-la-ungrd-por-irregularidades-en-ayudas-humanitarias-durante-la-pandemia",
+              "note": "Fallo de la Contraloría por $2.517 millones contra exfuncionarios de la UNGRD por irregularidades en pandemia. Caso distinto al de los 1.4 billones, pero demuestra antecedentes de irregularidades en la entidad.",
+              "host": "contraloria.gov.co",
+              "title": "Contraloría profirió fallo con responsabilidad fiscal por $2.517 millones contra exfuncionarios de la UNGRD, por irregularidades en ayudas humanitarias durante la pandemia",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Se afirma que en el ejecutivo las nóminas paralelas llegaron a los 900 mil contratos",
+          "quote": "En el ejecutivo las nóminas paralelas llegaron a los 900 mil contratos",
+          "figures": [
+            "900 mil contratos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La cifra cercana a 900 mil contratos sí tiene respaldo aproximado: se contabilizaron 884.064 contratos de prestación de servicios en la Rama Ejecutiva del orden nacional entre agosto de 2022 y agosto de 2026, equivalentes a unos $36 billones y firmados con aproximadamente 228.000 personas [F4]. Sin embargo, presentarlos como 'nóminas paralelas' y no precisar el periodo (cuatro años acumulados) ni la distinción entre contratos y personas contratadas distorsiona la magnitud real [F4].",
+          "context": "La revisión de datos del Secop Integrado por El Tiempo encontró 884.064 contratos de prestación de servicios con personas naturales en la Rama Ejecutiva del orden nacional entre agosto de 2022 y agosto de 2026 (gobierno Petro), por cerca de $36 billones, firmados con unas 228.000 personas, en promedio casi cuatro contratos por persona en el cuatrienio; en el periodo equivalente del gobierno Duque (2018-2022) hubo 404.586 contratos con 149.378 personas por $24,31 billones, lo que representa un aumento del 119% en número de contratos y más de 50% en personas contratadas [F4]. A escala estatal, en 2025 se firmaron 1.050.953 contratos electrónicos en el SECOP por $1.126,53 billones (cifra que incluye todas las entidades y modalidades, no solo el Ejecutivo nacional) [F5]. Además, el SECOP presenta limitaciones de calidad de la información: entre 2010 y 2020 se registraron 2.235.150 contratos liquidados en total, de los cuales 163.121 correspondieron a gobernaciones, y el 86,2% de la información no permite seguimiento final por registros en cero [F1].",
+          "progressivePerspective": "El análisis a la luz de los principios de transparencia y rendición de cuentas exige separar tres elementos que la afirmación mezcla: (i) el número de contratos, (ii) el número de personas distintas contratadas y (iii) la caracterización jurídica de la relación laboral. El dato de 884.064 contratos acumulados en cuatro años corresponde a un universo de unas 228.000 personas naturales, no a 900 mil puestos de 'nómina paralela' simultáneos [F4]. Los contratos de prestación de servicios son una modalidad prevista en la normativa colombiana, y el propio análisis citado muestra que el aumento del 119% frente al periodo anterior se concentra en entidades adscritas y vinculadas como Sena (246.585 contratos), ICBF (87.542) y ANT (56.730) [F4]. Un uso verificable del dato debería exigir la precisión del periodo, la distinción contrato-persona y la comparación con administraciones anteriores, así como reconocer las conocidas fallos de calidad del SECOP que dificultan el seguimiento [F1][F5]; presentar la cifra sin esos matices dificulta el esclarecimiento de la magnitud real y puede convertir un dato verificable en una impresión de escala distorsionada.",
+          "whatTheyOmit": "Omite el periodo exacto de acumulación (agosto de 2022 a agosto de 2026, es decir, cuatro años) y el hecho de que los 884.064 contratos corresponden a unas 228.000 personas distintas, con un promedio de casi cuatro contratos por persona, no a 900 mil trabajadores simultáneos [F4]. También omite que los contratos de prestación de servicios son una modalidad legal vigente y que el 80,3% se concentra en entidades adscritas y vinculadas (Sena, ICBF, ANT), no en ministerios [F4]. No menciona la comparación con el periodo anterior (404.586 contratos bajo Duque) ni que en el conjunto del SECOP se firmaron más de 1,05 millones de contratos en 2025 solo, lo que ubica la cifra en contexto [F4][F5]. Tampoco advierte sobre las limitaciones de calidad y completitud de los datos del SECOP [F1].",
+          "keyFacts": [
+            "Entre agosto de 2022 y agosto de 2026 se firmaron 884.064 contratos de prestación de servicios con personas naturales en la Rama Ejecutiva del orden nacional, por cerca de $36 billones [F4]",
+            "Esos contratos se suscribieron con aproximadamente 228.000 personas, en promedio casi cuatro contratos por persona durante el cuatrienio [F4]",
+            "En el periodo comparable del gobierno Duque (agosto 2018-agosto 2022) hubo 404.586 contratos con 149.378 personas por $24,31 billones, lo que implica un aumento del 119% en contratos y más de 50% en personas [F4]",
+            "El 80,3% de los contratos correspondió a entidades adscritas y vinculadas, con el Sena como principal entidad (246.585 contratos con 69.630 personas) [F4]",
+            "En 2025 se firmaron 1.050.953 contratos electrónicos en el SECOP por $1.126,53 billones en el conjunto del Estado [F5]",
+            "Entre 2010 y 2020 hubo 2.235.150 contratos liquidados en el SECOP, de los cuales 163.121 correspondieron a gobernaciones, y el 86,2% de la información no permite seguimiento final [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/incoherencias-la-contratacion-las-gobernaciones-segun-secop/",
+              "note": "Analiza la calidad de los datos de contratación en el SECOP: 2.235.150 contratos liquidados 2010-2020, 163.121 de gobernaciones, 86,2% sin seguimiento posible; aporta el contexto de fiabilidad de las cifras del sistema.",
+              "host": "razonpublica.com",
+              "title": "Incoherencias en la contratación en las gobernaciones según el SECOP.",
+              "image": "https://razonpublica.com/wp-content/uploads/2022/11/contratacion-SECOP-irregular-Luis-Carlos-Calixto-Externado.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minhacienda.gov.co/web/portal/cifras-e-indicadores",
+              "note": "Fuente institucional de indicadores de Hacienda; el contenido no fue accesible (bloqueo anti-bot), por lo que no aporta datos verificables para esta afirmación.",
+              "host": "minhacienda.gov.co",
+              "title": "We are sorry...",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://colombiacompra.gov.co/analisis-de-datos-de-compra-publica/visualizaciones-compra-publica/contratos-de-prestacion-de-servicios-en-secop-i-y-secop-ii-2013-2024",
+              "note": "Portal de Colombia Compra Eficiente con visualización de contratos de prestación de servicios en SECOP I y II 2013-2024; la extracción no arrojó totales de contratos, solo metadatos de códigos UNSPSC.",
+              "host": "colombiacompra.gov.co",
+              "title": "Contratos de prestación de servicios en SECOP I y SECOP II (2013-2024)",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/08/23/gobierno-petro-firmo-884064-contratos-de-prestacion-de-servicios-119-mas-que-duque-y-superaron-los-36-billones/",
+              "note": "Aporta la cifra central: 884.064 contratos de prestación de servicios en el Ejecutivo nacional 2022-2026 con ~228.000 personas, y la comparación con 404.586 en el periodo de Duque; es la fuente que permite contrastar los '900 mil'.",
+              "host": "infobae.com",
+              "title": "Gobierno Petro firmó 884.064 contratos de prestación de servicios: 119% más que Duque y superaron los $36 billones",
+              "image": "https://www.infobae.com/resizer/v2/OVMGBPQPYZGYRGS6SFEITI5QUE.jpeg?auth=977283fe8cdbc3155d5be2e4a53b5c94ca982752d340facce1a0fe72b2c65ace&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://usecroma.com/es/co/datos/contratacion-publica-cifras",
+              "note": "Serie de contratación pública del SECOP: 1.050.953 contratos electrónicos en 2025 en todo el Estado; sirve para dimensionar que la cifra del Ejecutivo nacional en cuatro años se inscribe en un universo estatal mucho mayor.",
+              "host": "usecroma.com",
+              "title": "Contratación pública en Colombia: las cifras del SECOP",
+              "image": "https://usecroma.com/og/OG04.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "Se afirma que las nóminas paralelas dejaron un pasivo de 5 billones de pesos",
+          "quote": "dejando un pasivo de 5 billones de pesos",
+          "figures": [
+            "5 billones de pesos"
+          ],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes documentan un gasto investigado en nóminas paralelas por 4.5 billones de pesos entre 2021 y 2022, no 5 billones, y lo describen como 'gasto' o 'presunto gasto' siendo investigado, no como un 'pasivo'. La cifra se redondea al alza y se cambia la naturaleza jurídica del monto. [F4][F5]",
+          "context": "El dato real es el siguiente: el director del DAPRE, Mauricio Lizcano, entregó evidencia a la Fiscalía General de un presunto gasto en nóminas paralelas por 4.5 billones de pesos realizado entre 2021 y 2022. La Fiscalía respondió que el asunto debía ser revisado primero por la Contraloría, que en caso de encontrar irregularidades compulsaría copias al ente acusador. Es decir, era un presunto gasto bajo investigación, no un pasivo contable reconocido. Zona Cero titula la nota como 'Investigan nóminas paralelas en el Estado por $4.5 billones entre 2021 y 2022'. [F4][F5]",
+          "progressivePerspective": "No se aplica el marco de la JEP ni del conflicto armado. En el contexto de transparencia pública, la distinción entre 'gasto presunto bajo investigación' y 'pasivo' es material: un pasivo implica una obligación contable reconocida, mientras que un gasto investigado es una denuncia pendiente de verificación por la Contraloría y posiblemente la Fiscalía. Exagerar la cifra y el carácter del monto puede distorsionar la discusión sobre integridad pública y manejo del gasto estatal. [F4][F5]",
+          "whatTheyOmit": "Omite que la cifra real es 4.5 billones (no 5), que se trata de un 'presunto gasto' entre 2021 y 2022 (no un pasivo permanente), y que la Fiscalía derivó el caso a la Contraloría para revisión previa, es decir que aún no hay una determinación definitiva de irregularidad. También omite que el problema de nóminas paralelas tiene décadas de historia en Colombia, con antecedentes desde 2009 (sentencia C-614 de la Corte Constitucional) y reportes del 2012 del exministro Rafael Pardo. [F4][F5]",
+          "keyFacts": [
+            "Se investiga un presunto gasto en nóminas paralelas en el Estado por 4.5 billones de pesos entre 2021 y 2022 [F4]",
+            "El director del DAPRE entregó evidencia a la Fiscalía General por ese monto, y la entidad respondió que debía revisarlo primero la Contraloría [F5]",
+            "La cifra real documentada es 4.5 billones, no 5 billones como se afirma en el video [F4][F5]",
+            "Las fuentes lo describen como 'gasto' o 'presunto gasto', no como un 'pasivo' contable [F4][F5]",
+            "En 2020 se vincularon 112.428 contratistas y solo 7.665 empleados de planta, una relación de 1 a 15, según proyecto de ley del senador David Luna [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/detras-la-propuesta-las-administradoras-fondos-pensiones/",
+              "note": "Artículo sobre la propuesta de AFP y el Decreto 558 de 2020 que transfería cinco billones de pesos a Colpensiones; no trata de nóminas paralelas.",
+              "host": "razonpublica.com",
+              "title": "¿Qué hay detrás de la propuesta de las Administradoras de Fondos de Pensiones? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2020/05/pension-ancianos-Castano-Sandoval.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-patrimonio-de-la-nacion-petro-lo-recibio-con-137-billones-y-lo-entrega-en-273/",
+              "note": "Análisis de La Silla Vacía sobre el patrimonio de la Nación, pasivos pensionales y deuda pública; no menciona nóminas paralelas como concepto.",
+              "host": "lasillavacia.com",
+              "title": "El patrimonio de la Nación: Petro lo recibió con 137 billones y lo entrega en -273",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/06/petro_2023_ministros.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.fiscalia.gov.co/",
+              "note": "Portal de la Fiscalía General de la Nación con boletines de noticias; no aporta datos específicos sobre nóminas paralelas.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalia General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/logo_fisc.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://zonacero.com/nominas-paralelas",
+              "note": "Nota de Zona Cero titulada 'Investigan nóminas paralelas en el Estado por $4.5 billones entre 2021 y 2022'; fuente directa de la cifra real y del carácter de investigación.",
+              "host": "zonacero.com",
+              "title": "Nóminas paralelas",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/economia/macroeconomia/articulo/nominas-paralelas-la-pesadilla-sin-fin-de-la-que-quiere-salir-el-nuevo-gobierno-lo-lograra/202200/",
+              "note": "Reportaje de Semana sobre el combate a nóminas paralelas; confirma que el DAPRE entregó evidencia a la Fiscalía por 4.5 billones de gasto presunto entre 2021 y 2022, y aporta contexto histórico y estadísticas de contratación estatal.",
+              "host": "semana.com",
+              "title": "Nóminas paralelas, la pesadilla sin fin de la que quiere salir el nuevo gobierno, ¿lo logrará?",
+              "image": "https://www.semana.com/resizer/v2/7VTOITRDOFEXJB7YW5ZXJC5OOE.jpg?auth=ae2b4d4f747d2b2cecb777512247ada166845e683bc387368f506f8e311a5b6a&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "economia",
+          "claim": "Se afirma que el gobierno de Gustavo Petro realizó un festín de contratación con dinero de los colombianos",
+          "quote": "el gobierno de Gustavo Petro se dio un festín de contratación con la plata de todos los colombianos",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Los datos disponibles sí respaldan que la contratación del Ejecutivo Nacional aumentó de forma marcada en el periodo Petro (contratos de prestación de servicios +119% frente a Duque; ~36 billones de pesos y 884.064 OPS entre agosto 2022 y agosto 2026), y que hubo convenios por medio billón con organizaciones señaladas como 'contrataderos'. Sin embargo, la expresión 'festín de contratación' es una valoración retórica: las fuentes documentan el aumento y las denuncias, pero no acreditan per se desviación, desfalco ni uso personal del dinero, y las entidades estatales consultadas negaron un uso electoral [F4][F2].",
+          "context": "Según la Unidad de Datos de EL TIEMPO sobre Secop Integrado, entre agosto de 2022 y agosto de 2026 la Rama Ejecutiva nacional firmó 884.064 contratos de prestación de servicios con personas naturales por cerca de 36 billones de pesos, frente a 404.586 contratos por 24,31 billones en el mismo periodo del gobierno Duque, con un aumento del 119% en contratos y más del 50% en personas vinculadas (228.000). La delegada de la Contraloría reportó, con corte al 7 de agosto, 41,3 billones comprometidos en 230.967 contratos, de los cuales 15,4 billones correspondían a 214.000 OPS. El mismo artículo recoge afirmaciones de la administración entrante (De La Espriella) sobre una supuesta 'nómina paralela' de 900.000 contratos y un pasivo de más de cinco billones, presentadas como hallazgos de su 'Libro de la verdad'. Adicionalmente, a finales de 2025 e inicios de 2026 el gobierno firmó convenios por medio billón de pesos con organizaciones que el propio gobierno calificó de 'contrataderos' (AlDesarrollo, Red Summa, Red Universitaria, Cisp), denunciadas en la Fiscalía por la Secretaría de Transparencia por presunta colusión; el mismo gobierno Petro había criticado en 2024 este modelo, llamándolo 'inmenso robo' en referencia a regalías [F4][F2].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, la afirmación aporta un dato verificable: la expansión cuantitativa de la contratación y la existencia de convenios con esquemas cuestionados por la propia contraloría interna del gobierno. Ese dato conviene al esclarecimiento de la verdad pública sobre el uso de recursos, particularmente cuando parte de esos fondos se destinó a víctimas del conflicto, comunidades indígenas y población vulnerable, cuya reparación no debería quedar ligada a coyunturas electorales [F2]. Ahora bien, calificar todo el aumento como 'festín' sin distinguir entre contratos ordinarios de entidades operativas (el Sena, ICBF y Dane concentran cerca de la mitad de las OPS) y los convenios realmente irregulares, tiende a difuminar la frontera entre lo administrativo y lo abusivo, lo que debilita en lugar de fortalecer una rendición de cuentas precisa; la misma fuente que documenta el aumento señala que las entidades estatales respondieron que la ejecución responde al Plan de Desarrollo y no a la campaña [F4][F2].",
+          "whatTheyOmit": "Se omite la magnitud real y la composición del aumento: buena parte de las OPS se concentra en entidades adscritas de carácter estructural (Sena, ICBF, Dane) y no en carteras presidenciales, y los 19 ministerios y departamentos administrativos solo representan el 9,7% de los contratos [F4]. También se omite que las entidades consultadas negaron el uso electoral de los recursos y que sobre las organizaciones señaladas existe una investigación en curso de la Fiscalía, no una condena: son presuntas irregularidades, no hechos juzgados [F2]. El propio contexto muestra que el aumento de la contratación fue comparado por Colombia Compra Eficiente con base en series homologadas entre 2018 y 2024, sin que esa fuente concluya sobre ilicitud [F3].",
+          "keyFacts": [
+            "Entre agosto de 2022 y agosto de 2026 se firmaron 884.064 contratos de prestación de servicios en la Rama Ejecutiva nacional por cerca de 36 billones de pesos, frente a 404.586 por 24,31 billones en el periodo equivalentes del gobierno Duque: aumento del 119% en contratos [F4]",
+            "Esos contratos se repartieron entre 228.000 personas, un incremento de más del 50% frente a las 149.378 del periodo anterior [F4]",
+            "A finales de 2025 e inicios de 2026 el gobierno firmó convenios por medio billón de pesos con organizaciones señaladas por la Secretaría de Transparencia como 'contrataderos' (AlDesarrollo, Red Summa, Red Universitaria, Cisp), denunciadas en la Fiscalía por presunta colusión [F2]",
+            "En 2024 el mismo gobierno Petro y Planeación Nacional advirtieron sobre riesgos de estos esquemas, y el presidente Petro calificó como 'inmenso robo' el riesgo sobre 12 billones de pesos en regalías [F2]",
+            "Las entidades estatales consultadas respondieron que la ejecución de recursos no está ligada a elecciones sino al Plan de Desarrollo [F2]",
+            "Sobre el aumento general no existe en las fuentes entregadas una decisión judicial o una auditoría que concluya desvío de fondos: se trata de datos de contratación y de denuncias en investigación [F4][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/gobierno-petro-asediado-autoasediado/",
+              "note": "Contexto político del gobierno Petro: inestabilidad ministerial (43 ministros), problemas de ejecución presupuestal, tensiones internas y críticas de sectores del propio gobierno a nombramientos. Aporta el marco de controversia política, no datos de contratación.",
+              "host": "razonpublica.com",
+              "title": "El Gobierno de Petro: asediado y autoasediado - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/02/presidente.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-petro-entrego-medio-billon-de-pesos-a-contrataderos-en-elecciones/",
+              "note": "Documenta convenios por medio billón con organizaciones señaladas como 'contrataderos', la denuncia de la Secretaría de Transparencia en la Fiscalía, el mecanismo de estas estructuras mixtas y la negativa de las entidades de vincularlo a la campaña. Fuente central para el núcleo verificable de la afirmación.",
+              "host": "lasillavacia.com",
+              "title": "Gobierno Petro ejecuta medio billón de pesos con “contrataderos” en vísperas electorales",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/05/portada-1.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://operaciones.colombiacompra.gov.co/sala-de-prensa/infografias/informe-de-contratacion-publica-en-28-meses-de-gobierno",
+              "note": "Observatorio de Contratación de Colombia Compra Eficiente: comparación homologada en términos reales (IPC DANE) de los primeros 28 meses de Petro frente a Duque. Aporta la referencia oficial de comparación, sin concluir irregularidades.",
+              "host": "operaciones.colombiacompra.gov.co",
+              "title": "INFORME DE CONTRATACIÓN PÚBLICA en 28 meses de Gobierno",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.eltiempo.com/datos/feria-de-contratos-en-el-gobierno-de-gustavo-petro-ordenes-de-prestacion-de-servicios-se-duplicaron-respecto-a-duque-y-sumaron-cerca-de-36-billones-3580348",
+              "note": "Serie de Secop Integrado con aumento del 119% en OPS y ~36 billones; recoge además los hallazgos del 'Libro de la verdad' de la administración entrante como afirmaciones no verificadas en la nota.",
+              "host": "eltiempo.com",
+              "title": "Feria de contratos en el gobierno de Gustavo Petro: órdenes de prestación de servicios se duplicaron respecto a Duque y sumaron cerca de $ 36 billones",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8af05ef3a75.r_d.446-180-0.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.ani.gov.co/estadisticas-contratacion",
+              "note": "Portal de estadísticas de contratación de la ANI con informes anuales desde 2015: sirve como referencia de series públicas disponibles, pero la ficha entregada no contiene cifras comparativas que permitan concluir por sí solas.",
+              "host": "ani.gov.co",
+              "title": "Estadísticas contratación - Portal Institucional ANI",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "economia",
+          "claim": "Se afirma que la empresa ISAGEN (leído como \"AI\") lleva energía a 5.9 millones de colombianos en la región caribe",
+          "quote": "una empresa que lleva energía a 5.9 millones de colombianos en mi región en la región caribe",
+          "figures": [
+            "5.9 millones de colombianos"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes disponibles confirma que ISAGEN 'lleve energía a 5.9 millones de colombianos en la región caribe'. La cifra de 5.9 millones no aparece en ninguna fuente, y la presencia de ISAGEN en el Caribe colombiano se limita a una planta solar (Bosques Solares de Bolívar, Sabanalarga, Atlántico). Además, ISAGEN es empresa de generación, no de distribución, por lo que no 'lleva energía' directamente a los consumidores finales [F2][F5].",
+          "context": "ISAGEN es la tercera generadora de Colombia con 18,4% de participación en el Sistema Interconectado Nacional y 3.032 MW instalados en centrales ubicadas principalmente en Antioquia, Santander, Caldas, Tolima, Meta y La Guajira [F2]. Su única planta en el Caribe es Bosques Solares de Bolívar (100 MW, Sabanalarga, Atlántico) [F2][F5]. Fue privatizada en 2016 cuando Brookfield compró el 57,6% al gobierno por 6,49 billones de pesos [F2]. La región caribe colombiana tiene aproximadamente 5,5-6 millones de habitantes, cifra que podría explicar el origen del número citado, pero ninguna fuente vincula esa población con ISAGEN [F3].",
+          "progressivePerspective": "La afirmación carece de respaldo documental en las fuentes proporcionadas. Desde el marco de verificación factual, presentar a ISAGEN como quien 'lleva energía a 5.9 millones de colombianos en la región caribe' confunde roles del sector eléctrico: ISAGEN genera energía, pero la distribución a consumidores finales la realizan empresas distribuidoras. La atribución de una cifra específica sin fuente que la sustente dificulta el esclarecimiento de datos verificables sobre el sector energético. No se enmarca en conflicto armado ni JEP [F2][F5].",
+          "whatTheyOmit": "Omite que ISAGEN no es empresa de distribución sino de generación [F2]. Omite que su presencia en el Caribe se reduce a una planta solar de 100 MW [F2][F5]. Omite que la cifra de 5.9 millones no tiene fuente verificable en los documentos disponibles [F2]. Omite que desde 2016 la empresa es mayoritariamente propiedad de Brookfield, multinacional canadiense, no de colombianos [F2].",
+          "keyFacts": [
+            "ISAGEN es la tercera generadora de Colombia con 18,4% de participación en el Sistema Interconectado Nacional [F2]",
+            "ISAGEN opera 3.032 MW instalados en centrales ubicadas principalmente en Antioquia, Santander, Caldas, Tolima y Meta [F2]",
+            "ISAGEN tiene una única planta en el Caribe colombiano: Bosques Solares de Bolívar, 100 MW en Sabanalarga, Atlántico [F2][F5]",
+            "ISAGEN es empresa de generación y comercialización de energía, no de distribución a consumidores finales [F2]",
+            "El 99,7% de ISAGEN es propiedad de Brookfield Corporation desde la venta de 2016 [F2]",
+            "La cifra de '5.9 millones de colombianos' no aparece en ninguna de las cinco fuentes proporcionadas [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/isagen-debe-ser-para-todos-los-colombianos/",
+              "note": "Artículo de opinión sobre privatización de ISAGEN; no menciona cifra de 5.9 millones ni presencia en Caribe",
+              "host": "razonpublica.com",
+              "title": "ISAGEN debe ser para todos los colombianos - Razón Pública",
+              "image": "https://razonpublica.com/images/stories/analistas/diego%20prada.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.wikipedia.org/wiki/Isagén",
+              "note": "Ficha técnica de ISAGEN: capacidad, centrales, historia de privatización; única planta en Caribe es Bosques Solares de Bolívar",
+              "host": "es.wikipedia.org",
+              "title": "Isagén - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Isagen.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F3",
+              "url": "https://lowcarbonpower.org/es/region/Colombia",
+              "note": "Matriz energética de Colombia; no vincula ISAGEN con población del Caribe",
+              "host": "lowcarbonpower.org",
+              "title": "Matriz Energética y Eléctrica de Colombia 2025-2026 | Low-Carbon Power",
+              "image": "https://lowcarbonpower.org/es/region/Colombia.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.minenergia.gov.co/es/sala-de-prensa/noticias-index/colombia-supera-los-4626-mw-de-energias-limpias-y-marca-un-nuevo-hito-en-la-transicion-energetica/",
+              "note": "Noticia del Minenergía sobre capacidad renovable; no menciona ISAGEN ni cifra de 5.9 millones",
+              "host": "minenergia.gov.co",
+              "title": "Colombia supera los 4.626 MW de energías limpias y marca un nuevo hito en la transición energética",
+              "image": "https://www.minenergia.gov.co/media/images/Colombia_supera_los_4.626_MW_de_energias_limpia.original.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://worldpowerplants.com/es-es/companies/isagen",
+              "note": "Listado de 15 plantas de ISAGEN; confirma única presencia en Caribe es en Atlántico",
+              "host": "worldpowerplants.com",
+              "title": "Centrales Eléctricas de ISAGEN – 15 Plantas, 5.322 MW",
+              "image": "https://worldpowerplants.com/es-es/wp-content/uploads/sites/4/2026/08/icon-512.png"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "economia",
+          "claim": "Se afirma que esa empresa acumuló pérdidas por 2.6 billones de pesos",
+          "quote": "se acumularon pérdidas por 2.6 billones de pesos",
+          "figures": [
+            "2.6 billones de pesos"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las fuentes entregadas respalda la cifra de \"2.6 billones de pesos\" en pérdidas acumuladas por la empresa a la que se refiere el video: [F1] documenta la crisis y suspensión de operaciones de Viva Air (feb. 2023) sin mencionar esa magnitud de pérdidas; [F4] reporta pérdidas de 967.8 millones de pesos mexicanos de otra empresa por el Mundial 2026 y [F5] reporta pérdidas netas de 15.081 millones de pesos de Grupo Nutresa en el primer trimestre de 2026, cifras que no coinciden con la afirmación [F1][F4][F5]. Al no existir en las fuentes una verificación del dato tal como se enuncia, el veredicto es sin_evidencia.",
+          "context": "[F1] reconstruye la cronología: el 8 de agosto de 2022 Avianca y Viva solicitaron su integración ante la Aerocivil; el 8 de noviembre de 2020 el Ministerio de Transporte y la Aerocivil la negaron por riesgo de concentración de mercado (60% de viajes nacionales, 69% de cupos en El Dorado, 100% de un tercio de las 72 rutas domésticas); el 18 de enero de 2023 el gobierno anuló esa decisión por vicios de procedimiento; el 12 de febrero de 2023 Viva inició un proceso de recuperación empresarial; el 27 de febrero de 2023 suspendió sus operaciones, afectando a más de 466.000 pasajeros con reservas confirmadas y unas 90.000 reservas de esa sola semana [F1]. La Supertransporte impuso una medida de atención al usuario cuyo incumplimiento podría derivar en una multa de hasta 2.000 salarios mínimos, unos $2.320 millones de pesos [F1]. El presidente de la aerolínea afirmó en entrevista radial que la empresa no tenía capacidad de devolver el dinero a los pasajeros [F1]. Para contraste de magnitudes: Grupo Nutresa reportó pérdidas netas de 15.081 millones de pesos en el primer trimestre de 2026 frente a utilidades de 241.252 millones en igual periodo de 2025, impulsadas por gastos financieros (+165,5%) y diferencias en cambio [F5], y Ollamani acumuló pérdidas operativas de 967.8 millones de pesos mexicanos vinculadas a la organización de cinco partidos del Mundial 2026 [F4].",
+          "progressivePerspective": "Este video no trata del conflicto armado colombiano ni de actuaciones de la JEP, por lo que el marco de verdad, justicia, reparación y no repeticion no resulta aplicable al caso; el criterio pertinente es la verificación factual de una cifra económica. Desde esa óptica, lo que sí aporta al esclarecimiento es verificar con fuentes auditables (estados financieros, decisiones de la Superintendencia de Transporte) antes de difundir magnitudes, porque una cifra de pérdidas sin respaldo puede usarse tanto para exagerar el daño de una empresa como para minimizar o exagerar su responsabilidad frente a pasajeros y trabajadores. [F1] muestra que el daño acreditado y documentado es otro: más de 466.000 pasajeros con reservas afectadas, incumplimiento del servicio, venta de más de 5.500 pasajes el mismo día de la suspensión y procesos sancionatorios en firme de la Supertransporte [F1]; en esa medida, la verificación rigurosa de la cifra —o su ausencia de respaldo— es lo que permite sostener una discusión honesta sobre responsabilidad, reparación a los afectados y prevención de la repetición de estas situaciones [F1][F5].",
+          "whatTheyOmit": "La afirmación omite la fuente primaria de la cifra: ninguna de las fuentes entregadas contiene estados financieros ni decisiones de autoridad que reporten 2.6 billones de pesos en pérdidas acumuladas de la empresa aludida [F1][F4][F5]. También se omite que las cifras disponibles sobre pérdidas en las fuentes corresponden a montos y períodos distintos (15.081 millones de pesos de Nutresa en un trimestre; 967.8 millones de pesos mexicanos de Ollamani por operaciones del Mundial), y que [F1], aunque detalla la crisis de Viva Air, no cuantifica sus pérdidas acumuladas. Adicionalmente, [F1] destaca elementos que la cifra por sí sola no explica: la negociación con acreedores, los procesos ante la Aerocivil y la Supertransporte, y la afectación concreta a pasajeros y empleados (1.200 empleos directos y 5.000 indirectos mencionados en el contexto de la integración).",
+          "keyFacts": [
+            "Viva Air suspendió totalmente sus operaciones el 27 de febrero de 2023, decisión que afectó a más de 466.000 pasajeros con reservas confirmadas [F1]",
+            "El 12 de febrero de 2023 Viva inició un proceso de recuperación empresarial para evitar la quiebra y renegoció con sus acreedores [F1]",
+            "La Superintendencia de Transporte presentó pliego de cargos contra Viva y le impuso una medida de atención al usuario; el incumplimiento podría acarrear una multa de hasta 2.000 salarios mínimos, unos $2.320 millones de pesos [F1]",
+            "Viva vendió más de 5.500 pasajes el mismo día en que anunció la suspensión de operaciones [F1]",
+            "Ninguna fuente entregada reporta pérdidas acumuladas de 2.6 billones de pesos para la empresa mencionada [F1][F4][F5]",
+            "Grupo Nutresa cerró el primer trimestre de 2026 con pérdidas netas de 15.081 millones de pesos, frente a utilidades de 241.252 millones en el mismo periodo de 2025 [F5]",
+            "Ollamani acumuló pérdidas operativas de 967.8 millones de pesos mexicanos en operaciones vinculadas al Mundial 2026 [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/lo-realmente-ocurrio-viva-air/",
+              "note": "Reconstrucción periodística de la crisis y suspensión de operaciones de Viva Air (2023): cronología, daño a pasajeros y empleados, procesos de la Supertransporte y la Aerocivil. No contiene la cifra de 2.6 billones en pérdidas.",
+              "host": "razonpublica.com",
+              "title": "Lo que realmente ocurrió con Viva Air | Razón Pública 2023",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/03/Avion-amarillo-Viva-Air-Felipe-Botero.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.banrep.gov.co/es/estadisticas-economicas/series-estadisticas-historicas-colombia",
+              "note": "Portal de series históricas del Banco de la República; la fuente devolvió una página de bloqueo por detección de bot, por lo que no aporta datos verificables en esta revisión.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/",
+              "note": "Página institucional del DANE; no contiene información específica sobre pérdidas de la empresa aludida.",
+              "host": "dane.gov.co",
+              "title": "Portal DANE - Contenido principal",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elimparcial.com/mexico/2026/11/02/por-que-ollamani-empresa-emilio-azcarraga-perdio-casi-1000-millones-de-pesos-por-el-mundial-2026/",
+              "note": "Reporte de pérdidas operativas de 967.8 millones de pesos mexicanos de Ollamani por operaciones del Mundial 2026; sirve como contraste de magnitud y muestra que la cifra del video no corresponde a este caso.",
+              "host": "elimparcial.com",
+              "title": "¿Por qué Ollamani, empresa Emilio Azcárraga, perdió casi 1,000 millones de pesos por el Mundial 2026?",
+              "image": "https://www.elimparcial.com/resizer/v2/HH6WUNYX4JACBIN5FPFMA7NVL4.png?auth=503bf0e2cb69049e6664a26187121bbf5381f573f6ca0b7588c38de25eb30350&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/economia/empresas/nutresa-pasa-de-ganancias-a-perdidas-en-el-primer-trimestre-de-2026-pese-al-crecimiento-de-sus-ventas-3554944",
+              "note": "Estados financieros de Grupo Nutresa: pérdidas netas de 15.081 millones de pesos en el primer trimestre de 2026 con ventas de 5,2 billones; sirve como contraste de magnitud y de cómo se documenta una pérdida con cifras auditadas.",
+              "host": "eltiempo.com",
+              "title": "Nutresa pasa de ganancias a pérdidas en el primer trimestre de 2026 pese al crecimiento de sus ventas",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/05/11/6a026b7d113c6.r_d.720-367-0.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "seguridad",
+          "claim": "Se afirma que el gobierno dejó al ejército con un déficit de 23 billones de pesos",
+          "quote": "dejó al ejército con un déficit de 23 billones de pesos",
+          "figures": [
+            "23 billones de pesos"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes respalda que el Ejército haya recibido un 'déficit de 23 billones de pesos'. El único valor cercano a 23 billones documentado es una cifra del proyecto de presupuesto 2027: $23,3 billones en obligaciones 'omitidas o insuficientemente financiadas', desglosadas en FEPC, pensiones, salarios, salud y universidades, sin que el documento individualice rubro alguno para el Ejército [F1]. Las cifras disponibles sobre defensa no coinciden: las obligaciones del sector defensa en 2025 fueron ~$55 billones y los compromisos pendientes de defensa dentro del rezago presupuestal de ese año sumaron $5,1 billones [F5].",
+          "context": "El proyecto de PGN 2027 pasó de $575,70 billones en julio a $634,95 billones en agosto, con un aumento de $59,25 billones, de los cuales $23,3 billones corresponden a obligaciones calificadas como omitidas o insuficientemente financiadas: $9,6 billones para el Fondo de Estabilización de Precios de los Combustibles, $6,5 billones para pensiones, $4,5 billones para salarios de funcionarios públicos, $2 billones para salud y $0,7 billones para universidades públicas; ese listado no incluye al Ejército ni a la defensa [F1]. En materia de defensa, las obligaciones del sector sumaron cerca de $55 billones en 2025, un 11,1% más que en 2024 ($49,08 billones), con gasto en personal de la fuerza pública de $26,3 billones; el rezago presupuestal nacional de 2025 fue de $49 billones, dentro del cual los compromisos pendientes en defensa fueron de $5,1 billones [F5]. El CARF, además, había encontrado $20,7 billones de gasto primario por encima del Marco Fiscal de Mediano Plazo en el proyecto de julio de 2027 [F1].",
+          "progressivePerspective": "La afirmación es verificable solo parcialmente y, en la forma en que está enunciada, no es respaldada por las fuentes disponibles [F1][F5]. En términos del marco de verdad que orienta la rendición de cuentas en Colombia, la precisión de las cifras presupuestales es relevante porque de ella depende que el debate público se sustente en hechos comprobables: las propias fuentes advierten que 'reconocer el desequilibrio exige claridad en las cifras' y advierten sobre riesgos de doble contabilización en el FEPC [F1]. Atribuir un supuesto déficit de 23 billones al Ejército sin un documento que lo individualice introduce un dato no verificable en la conversación pública; si el número proviene del renglón de $23,3 billones de obligaciones omitidas del PGN 2027, trasladarlo al Ejército constituye una reasignación de la cifra que las fuentes no autorizan [F1]. Tampoco existe en las fuentes evidencia de que el origen de esa cifra sea una decisión de política militar o de defensa, por lo que cualquier lectura sobre prioridades del gasto en seguridad sería opinión y no hecho respaldado [F1][F5].",
+          "whatTheyOmit": "Se omite el desglose real de los $23,3 billones de obligaciones omitidas del PGN 2027 (FEPC, pensiones, salarios, salud y universidades), que no incluye defensa [F1]. Se omite que las obligaciones de defensa crecieron en 2025 hasta ~$55 billones, un 11,1% más que en 2024, y que los compromisos pendientes de defensa dentro del rezago presupuestal fueron de $5,1 billones, no 23 [F5]. Se omite también el contexto de que el rezago presupuestal nacional de 2025 fue de $49 billones y que el proyecto 2027 enfrentó objeciones técnicas del CARF y una devolución del Congreso, hechos que enmarcan cualquier cifra de 'déficit' en un problema fiscal general y no exclusivamente militar [F1][F5].",
+          "keyFacts": [
+            "El proyecto de presupuesto 2027 aumentó de $575,70 billones en julio a $634,95 billones en agosto, con $23,3 billones en obligaciones calificadas como omitidas o insuficientemente financiadas [F1]",
+            "Los $23,3 billones se desglosan en FEPC ($9,6 billones), pensiones ($6,5), salarios ($4,5), salud ($2) y universidades públicas ($0,7), sin rubro específico para el Ejército [F1]",
+            "Las obligaciones del sector defensa sumaron cerca de $55 billones en 2025, un 11,1% más que en 2024 ($49,08 billones) [F5]",
+            "El gasto en personal de la fuerza pública en 2025 ascendió a $26,3 billones, 12,4% más que en 2024 [F5]",
+            "El rezago presupuestal de 2025 fue de $49 billones (2,7% del PIB), con $5,1 billones en compromisos pendientes de defensa [F5]",
+            "El CARF encontró $20,7 billones de gasto primario por encima del Marco Fiscal de Mediano Plazo en el proyecto de julio de 2027 [F1]",
+            "Ninguna fuente documenta un 'déficit de 23 billones de pesos' atribuible al Ejército [F1][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/presupuesto-de-2027-reconocer-el-desequilibrio-exige-claridad-en-las-cifras-y-plantear-la-salida/",
+              "note": "Análisis del PGN 2027: aporta la cifra de $23,3 billones en obligaciones omitidas/insuficientemente financiadas con su desglose (FEPC, pensiones, salarios, salud, universidades), sin mención al Ejército; documenta además el hallazgo del CARF de $20,7 billones sobre el MFMP y la devolución del proyecto por el Congreso. Es el contraste clave: la cifra de ~23 billones existe, pero no es del Ejército.",
+              "host": "razonpublica.com",
+              "title": "Presupuesto de 2027: reconocer el desequilibrio exige claridad en las cifras y plantear la salida",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/09/6.1.-Presupuesto-camara-de-representantes-1024x683.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.mindefensa.gov.co/transparencia/presupuesto",
+              "note": "Página de presupuesto del Ministerio de Defensa; el contenido no es accesible en la fuente (requiere JavaScript), por lo que no aporta datos verificables para esta afirmación.",
+              "host": "mindefensa.gov.co",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.scribd.com/document/831722304/Presupuesto-Militar-Colombia",
+              "note": "Documento alojado en Scribd sobre presupuesto militar; el contenido no es accesible en la fuente (JavaScript deshabilitado), por lo que no aporta datos verificables.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.ejercito.mil.co/presentacion-resumen-presupuesto-asignado-vigencia-2026",
+              "note": "Página del Ejército sobre presentación del presupuesto asignado vigencia 2026; la fuente muestra contenido de operaciones y noticias, sin la cifra de déficit en cuestión.",
+              "host": "ejercito.mil.co",
+              "title": "Presentación resumen presupuesto asignado vigencia 2026 | Ejército Nacional de Colombia",
+              "image": "https://www.ejercito.mil.co/img/og-home.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.valoraanalitik.com/gasto-de-colombia-en-defensa-crecio-en-2025-y-supero-los-50-billones-tras-mayores-sueldos-a-policias-y-militares/",
+              "note": "Cierre del PGN 2025 según MinHacienda: obligaciones de defensa ~$55 billones (2024: $49,08), personal de fuerza pública $26,3 billones, rezago total $49 billones con $5,1 billones de defensa. Contrasta directamente con la cifra de 23 billones atribuida al Ejército.",
+              "host": "valoraanalitik.com",
+              "title": "Gasto de Colombia en defensa creció en 2025 y superó los $50 billones tras mayores sueldos a policías y militares",
+              "image": "https://www.valoraanalitik.com/wp-content/uploads/2024/08/Ejercito-militares-Colombia.jpg"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "seguridad",
+          "claim": "Se afirma que el gobierno debilitó la fuerza pública mientras los grupos armados se tomaron todo el territorio nacional",
+          "quote": "debilitó la fuerza pública mientras los grupos armados se tomaban todo el territorio nacional",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El debilitamiento de la fuerza pública y la expansión de los grupos armados durante el periodo 2022-2026 están respaldados por informes de la Procuraduría, centros de pensamiento y balance oficial de las Fuerzas Militares; sin embargo, la afirmación de que los grupos armados se tomaron 'todo el territorio nacional' es una exageración: los grupos pasaron de presencia en 127 a más de 700 municipios de aproximadamente 1.100 existentes, lo que es una expansión muy grave pero no total [F4][F5][F3].",
+          "context": "Durante el periodo agosto 2022-julio 2026, la Fuerza Pública registró 1.110 ataques, 1.697 combates, 272 militares asesinados y 1.347 heridos, según balance oficial del Comando General de las Fuerzas Militares [F3]. Más de 400 masacres con 1.447 víctimas ocurrieron entre 2022 y 2026, y 196 integrantes de la fuerza pública fueron asesinados y 1.042 heridos, según Semana [F4]. El pie de fuerza de los grupos armados habría crecido de unos 13.000 a cerca de 30.000 hombres y su presencia municipal de 127 a más de 700, según cifras de la Defensoría del Pueblo citadas por el exministro Molano [F4]. Un informe de la Procuraduría advierte un debilitamiento de las Fuerzas Militares y la Policía por reducción de pie de fuerza, limitaciones presupuestales y afectaciones en inteligencia y moral de tropa [F5]. Las Fuerzas Militares ejecutaron 61.006 acciones de retiro de circulación de presuntos delincuentes e incautaron 2.348,4 toneladas de cocaína en el mismo periodo, lo que indica que la fuerza pública mantuvo capacidades operativas significativas [F3]. Se diseñaron 12 mesas de diálogos que no terminaron en desarmes tangibles [F3].",
+          "progressivePerspective": "La afirmación contiene un núcleo factual respaldado por múltiples fuentes: hubo debilitamiento de la fuerza pública (según informe de la Procuraduría y análisis de la Fundación Ideas para la Paz) y expansión territorial, numérica y económica de los grupos armados (según La Silla Vacía, Fundación Conflict Responses y FIP) [F5][F1][F4]. Desde el marco de verdad, justicia, reparación y no repetición, esta constatación es pertinente si se usa para esclarecer responsabilidades de política pública y proteger a las víctimas: más de 400 masacres con 1.447 víctimas y el aumento de ataques contra la fuerza pública evidencian la gravedad del fenómeno que debe investigarse [F4][F3]. Sin embargo, la absolutización de 'todo el territorio nacional' no corresponde a los datos (700 de ~1.100 municipios), lo que distorsiona la magnitud real y puede instrumentalizarse en lugar de aportar al esclarecimiento de la verdad [F4]. La literatura especializada señala que el fortalecimiento de los grupos armados responde a múltiples factores: incentivos de la política de paz total (ceses al fuego sin líneas rojas), cortocircuito entre conducción política de paz y seguridad, legado de administraciones anteriores, narcotráfico y economías ilegales, no a una sola causa [F1]. Reducir la complejidad a una sola variable debilita el análisis de no repetición, que exige identificar todos los factores causales para diseñar garantías eficaces [F1].",
+          "whatTheyOmit": "El video omite que las Fuerzas Militares mantuvieron capacidad operativa significativa: 61.006 presuntos delincuentes retirados de circulación, 2.348,4 toneladas de cocaína incautadas, 711 laboratorios destruidos y 14.723 armas decomisadas durante el periodo [F3]. Omite que los expertos identifican múltiples factores en el fortalecimiento de los grupos, no solo la política de gobierno: legado de la administración anterior, narcotráfico, economías ilícitas, cortocircuito institucional entre políticas de paz y seguridad [F1][F4]. Omite que la presencia de grupos armados en más de 700 municipios, aunque grave, no equivale a 'todo el territorio nacional' [F4]. También omite que la situación es de conflictos regionalizados y reconfiguración del conflicto, no de un control homogéneo nacional [F2].",
+          "keyFacts": [
+            "La Fuerza Pública registró 1.110 ataques, 1.697 combates, 272 militares asesinados y 1.347 heridos entre agosto de 2022 y julio de 2026, según balance del Comando General de las Fuerzas Militares [F3]",
+            "Se registraron más de 400 masacres con 1.447 víctimas entre 2022 y 2026 [F4]",
+            "Los grupos criminales pasaron de 13.000 a cerca de 30.000 hombres en armas y de presencia en 127 a más de 700 municipios, según cifras de la Defensoría del Pueblo citadas por el exministro Molano [F4]",
+            "Un informe de la Procuraduría advierte un debilitamiento de las Fuerzas Militares y la Policía por reducción de pie de fuerza, limitaciones presupuestales y dificultades en capacidades clave [F5]",
+            "Los expertos de la Fundación Ideas para la Paz confirman que el debilitamiento es 'un hecho verídico' y atribuyen responsabilidad al gobierno nacional, el Ministerio de Defensa y el Congreso [F5]",
+            "El fortalecimiento de los grupos armados en los últimos cuatro años es un hecho documentado por informes de la FIP y la Fundación Conflict Responses, con incremento de tropas, disputas (13 activas, el doble de 2022) y expansión territorial [F1]",
+            "Se diseñaron 12 mesas de diálogos pero ninguna terminó con desarmes tangibles ni abandono de economías ilegales [F3]",
+            "Las Fuerzas Militares ejecutaron 61.006 acciones de retiro de circulación, incautaron 2.348,4 toneladas de cocaína y destruyeron 711 laboratorios durante el periodo [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/asi-influyo-la-paz-total-en-fortalecimiento-de-grupos-armados-en-colombia/",
+              "note": "Análisis de La Silla Vacía con informes de FIP y Core sobre fortalecimiento de grupos armados, múltiples causas y responsabilidad de la paz total; también señala responsabilidad del gobierno anterior",
+              "host": "lasillavacia.com",
+              "title": "Así influyó la paz total en fortalecimiento de grupos armados en Colombia",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/05/Grupos_armados_2.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://indepaz.org.co/category/actualidad/grupos-armados/",
+              "note": "Información de Indepaz sobre reconfiguración del conflicto, asesinatos de líderes y actividades de grupos armados en Colombia",
+              "host": "indepaz.org.co",
+              "title": "Grupos armados - Indepaz",
+              "image": "https://indepaz.org.co/wp-content/uploads/2026/04/indepaz-banner-redes.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/balance-paz-total-ataques-fuerza-publica-asonada-militares-muertos-cuatro-anos-gobierno-petro-ID39180338",
+              "note": "Balance oficial de las Fuerzas Militares 2022-2026 con cifras de ataques, muertos, operaciones exitosas y resultados de las Fuerzas Militares",
+              "host": "elcolombiano.com",
+              "title": "El duro balance del gobierno de la âpaz totalâ: 1.110 ataques a la Fuerza PÃºblica, 92 asonadas y 272 militares muertos",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1080x720/0c0/0d0/none/11101/UKVT/blindado-ejercito_51202950_20260724152401.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.semana.com/nacion/articulo/masacres-terrorismo-secuestros-extorsiones-y-fuerza-publica-debilitada-los-retos-para-el-proximo-gobierno-en-materia-de-seguridad/202650/",
+              "note": "Semana con cifras de masacres, crecimiento de grupos, debilitamiento de fuerza pública y opiniones de exministros y expertos",
+              "host": "semana.com",
+              "title": "Masacres, terrorismo, secuestros, extorsiones y fuerza pública debilitada, los retos para el próximo gobierno en materia de seguridad",
+              "image": "https://www.semana.com/resizer/v2/LVYV3RQUTZCSHOZYSFQ76NQQ5Y.jpg?auth=b69df7caf9faed6405de23847d3a85dba711f0398cdc6729a850219b001f8149&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.lafm.com.co/orden-publico/fuerzas-militares-enfrentan-caida-historica-de-uniformados-en-colombia-385844",
+              "note": "La FM reporta informe de Procuraduría sobre debilitamiento de fuerzas militares y policía, con testimonio de experto de la FIP",
+              "host": "lafm.com.co",
+              "title": "Alerta por debilitamiento de las fuerzas militares: Colombia tiene 65.000 uniformados menos",
+              "image": "https://files.lafm.com.co/media/news-images/2025/12/19/014649/miliateres-1200x675.jpg?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "social",
+          "claim": "Se afirma que el programa Colombia Mayor está desfinanciado y necesita 630 mil millones de pesos cada mes para cumplir sus compromisos",
+          "quote": "El programa Colombia mayor está completamente desfinanciado y necesita 630 mil millones de pesos cada mes para poder cumplir los compromisos",
+          "figures": [
+            "630 mil millones de pesos cada mes"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación general de que Colombia Mayor estaba desfinanciado tiene respaldo parcial: el presidente electo así lo declaró y el DPS lo negó, con cifras en disputa. La cifra específica de 630 mil millones de pesos mensuales no aparece literalmente en las fuentes; el déficit documentado fue de 3,2 billones para cinco meses (aug-dic), lo que equivale a unos 640 mil millones mensuales, cifra cercana pero no idéntica [F2].",
+          "context": "Las fuentes registran una controversia en torno a la financiación de Colombia Mayor durante la transición de gobierno. El presidente electo declaró haber recibido el programa 'totalmente desfinanciado' con un déficit de 3,2 billones de pesos para cubrir los pagos de agosto a diciembre. Por su parte, el director del DPS, Mauricio Rodríguez Amaya, negó que faltaran recursos y citó el Conpes 4176 de 2025, que destinaba 8,4 billones de pesos al programa para 2026 (3,2 billones del PGN, 1,7 billones de la Subcuenta del Fondo de Solidaridad Pensional y 3,5 billones de cofinanciación del Ministerio del Trabajo). Además, se documentó que los ciclos de pago se mantuvieron con normalidad [F2]. En otro contexto, el análisis del Pilar Solidario señala que el presupuesto general está desfinanciado en más de doce billones de pesos, lo que dificulta cubrir las transferencias prometidas en la reforma pensional [F1].",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición, resulta relevante que un programa de transferencias a adultos mayores sin pensión sea objeto de disputas presupuestarias recurrentes. Fuentes señalan que Colombia Mayor ha sido históricamente 'el primero en sacrificarse cuando el presupuesto se apriete' al depender de la discreción administrativa en lugar de tener blindaje legal [F1]. Esto apunta a una vulnerabilidad estructural de la protección social para la vejez pobre, donde dos de cada tres adultos mayores no tienen pensión y el valor de las transferencias es uno de los más bajos de Latinoamérica [F1]. La afirmación del desfinanciamiento, sin embargo, debe contrastarse con las cifras oficiales del DPS que aseguran la vigencia de los recursos, y la cifra mensual de 630 mil millones no ha podido ser confirmada con los documentos disponibles en estas fuentes [F2].",
+          "whatTheyOmit": "La afirmación omite que el DPS negó el desfinanciamiento y presentó el Conpes 4176 de 2025 como respaldo de 8,4 billones de pesos comprometidos para 2026, y omite que los ciclos de pago se mantuvieron sin interrupciones según comunicados oficiales. Tampoco distingue entre el déficit declarado por el gobierno entrante y una verificación independiente del mismo [F2].",
+          "keyFacts": [
+            "El presidente electo declaró recibir Colombia Mayor 'totalmente desfinanciado' con un déficit de 3,2 billones de pesos para agosto-diciembre [F2]",
+            "El DPS negó el desfinanciamiento y citó el Conpes 4176 de 2025 con 8,4 billones de pesos comprometidos para 2026 [F2]",
+            "El déficit declarado de 3,2 billones para cinco meses equivale a unos 640 mil millones mensuales, cifra cercana pero no idéntica a los 630 mil millones alegados [F2]",
+            "Los ciclos de pago de Colombia Mayor se mantuvieron con normalidad durante la transición [F2]",
+            "Colombia Mayor beneficia a 3 millones de personas mayores según el DPS [F2]",
+            "El presupuesto general está desfinanciado en más de doce billones de pesos según análisis del Pilar Solidario [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/pilar-solidario-una-promesa-se-esfuma-aire/",
+              "note": "Análisis del Pilar Solidario y su financiación; menciona la fragilidad presupuestaria de Colombia Mayor y el déficit general del PGN en más de doce billones",
+              "host": "razonpublica.com",
+              "title": "El pilar Solidario: una promesa que se esfuma en el aire",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/05/Comision-curta-scaled.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-no-ha-anunciado-que-acabara-colombia-mayor-ni-renta-ciudadana/",
+              "note": "Verificación que documenta la controversia sobre el desfinanciamiento: declaración del presidente electo vs. negación del DPS con cifras del Conpes 4176; registra que los pagos continuaron normalmente",
+              "host": "lasillavacia.com",
+              "title": "Abelardo no ha anunciado que acabará Colombia Mayor ni Renta Ciudadana",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/Abelardo-de-la-Espriella-10.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-monetaria/pobreza-monetaria-2024",
+              "note": "Datos DANE de pobreza monetaria 2024; no aporta información directa sobre la financiación de Colombia Mayor",
+              "host": "dane.gov.co",
+              "title": "Pobreza monetaria 2024",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://microdatos.dane.gov.co/index.php/catalog/861",
+              "note": "Metodología de la ECV del DANE; no contiene información sobre la financiación del programa",
+              "host": "microdatos.dane.gov.co",
+              "title": "Encuesta Nacional de Calidad de Vida - ECV - 2024",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.banrep.gov.co/es/borrador-1173",
+              "note": "Fuente no accesible (bloqueada por el sitio); no pudo aportar datos",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "economia",
+          "claim": "Se afirma que el gobierno (leído como \"de los jóvenes\") perdió el 70 por ciento de su presupuesto",
+          "quote": "el gobierno de los jóvenes perdió el 70 por ciento de su presupuesto",
+          "figures": [
+            "70 por ciento"
+          ],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes respalda que un 'gobierno de los jóvenes' haya perdido el 70% de su presupuesto. La única cifra del 70% que aparece corresponde a la caída real del presupuesto del CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas) en Argentina entre diciembre de 2023 y 2026, un organismo científico, no una cartera de juventud [F4]. En el caso más cercano a un 'ministerio de jóvenes' —el Ministerio de Juventud e Infancia de España— los datos disponibles indican que se ejecutaron 61,3 millones de 125,2 millones de crédito definitivo (cerca del 49%) y que el 57% de lo ejecutado fue a menores extranjeros no acompañados, cifras que no coinciden con el 70% ni con una pérdida presupuestaria [F3]. En México, el comparativo histórico citado es entre 7.500 millones de pesos destinados a jóvenes en cinco administraciones previas y 109.000 millones en cinco años de una administración concreta, es decir un aumento, no una pérdida [F5]. La afirmación, tal como se formula, no es verificable con las fuentes y parece mezclar o desplazar una cifra ajena al tema.",
+          "context": "El único dato de una reducción presupuestaria del 70% documentado en las fuentes es el del CONICET argentino: su presupuesto pasó de un equivalente a 2,1 billones de pesos en diciembre de 2023 a 635.000 millones en 2026 en valores ajustados por inflación, una caída acumulada real del 70%, con una contracción adicional del 33% solo entre 2025 y 2026 [F4]. Ese mismo relevamiento muestra una pérdida de 3.064 trabajadores (del 11% de la dotación) y una caída del 85% en proyectos de investigación vigentes, de 3.179 a 480 [F4]. En España, el desglose presupuestario analizado del Ministerio de Juventud e Infancia registra 125,2 millones de crédito definitivo, de los cuales se ejecutaron 61,3 millones (aproximadamente 49%), y dentro de lo ejecutado 35 millones (57%) fueron a menores extranjeros no acompañados, 12,5 millones al Instituto de la Juventud y 11 millones a estructura y funcionamiento [F3]. En Colombia, las políticas de juventud descritas se concentraron en subsidios al empleo formal (PAEF y subsidios a contratación de jóvenes de 18 a 28 años por el 25% del salario mínimo) y en matrícula gratuita para estudiantes pobres en universidades públicas, sin que la ley de inversión social definiera la magnitud absoluta o relativa de esos fondos [F1].",
+          "progressivePerspective": "El marco de verificación exige distinguir qué entidad y qué período describe la afirmación: sin identificar país, vigencia y fuente presupuestaria, la cifra del 70% queda flotando y puede atribuirse a quien no corresponde. Las fuentes sí documentan recortes presupuestarios con impacto sobre programas públicos —la caída real del 70% del presupuesto del CONICET y la pérdida de 3.064 trabajadores y del 85% de proyectos de investigación [F4]—, así como prioridades discutibles en el gasto destinado a jóvenes, como el 57% del gasto ejecutado del Ministerio de Juventud e Infancia de España destinado a menores extranjeros no acompañados y la ejecución de apenas el 49% del crédito [F3]. Del lado de la evidencia sobre política de juventud en Colombia, las fuentes muestran que las medidas existentes tienen alcance limitado frente a la magnitud del problema: la matrícula gratuita aplica solo en instituciones públicas, que cubren el 40% de la demanda de educación profesional, y los subsidios al empleo no alcanzan al empleo informal, dejando fuera a un sector importante de jóvenes [F1]. La cobertura neta de educación media en 2017 fue del 42,8% y el 17,9% de los jóvenes de 21 a 25 años no terminó el bachillerato según el DANE 2019 [F1]. En este contexto, una afirmación sobre un 70% de pérdida presupuestaria que no se ancla a un dato verificable dificulta el esclarecimiento de la realidad de las políticas públicas, porque el énfasis en una cifra no confirmada desplaza la atención de los datos sí respaldados sobre cobertura, ejecución y destinación de recursos [F1][F3][F4].",
+          "whatTheyOmit": "Se omite identificar a qué gobierno, país y vigencia presupuestaria se refiere la cifra, lo que impide contrastarla; ninguna fuente vincula un 70% de pérdida con un ministerio o programa de juventud [F3][F5]. Se omite que la única caída del 70% documentada corresponde al presupuesto del CONICET argentino, un organismo científico, no a una cartera de jóvenes [F4]. Se omiten los datos concretos disponibles sobre presupuesto de juventud: en España se ejecutó cerca del 49% del crédito definitivo y el 57% de lo ejecutado fue a menores extranjeros no acompañados, con 12,5 millones para el Instituto de la Juventud y 11 millones para estructura [F3], y en México el comparativo disponible es un incremento de 7.500 millones de pesos a 109.000 millones destinados a jóvenes [F5]. También se omiten las limitaciones estructurales de las políticas de juventud en Colombia, como que la matrícula gratuita solo aplica en IES públicas, que estas cubren el 40% de la demanda profesional, y que la ley de inversión social no definió la magnitud de los fondos [F1].",
+          "keyFacts": [
+            "El presupuesto del CONICET cayó un 70% en términos reales entre diciembre de 2023 y 2026, de 2,1 billones a 635.000 millones de pesos ajustados por inflación, según relevamiento basado en información de CONICET, INDEC y Presupuesto Abierto [F4]",
+            "Entre agosto de 2023 y agosto de 2026 el CONICET perdió 3.064 trabajadores, una reducción del 11% de su dotación, y los proyectos de investigación vigentes cayeron un 85%, de 3.179 a 480 [F4]",
+            "En el Ministerio de Juventud e Infancia de España, de 125,2 millones de crédito definitivo se ejecutaron 61,3 millones (aproximadamente 49%) [F3]",
+            "De los 61,3 millones ejecutados por el Ministerio de Juventud e Infancia de España, 35 millones (57%) correspondieron a menores extranjeros no acompañados, 12,5 millones al Instituto de la Juventud y 11 millones a estructura y funcionamiento [F3]",
+            "En México, cinco administraciones previas destinaron 7.500 millones de pesos a jóvenes según el comparativo citado, frente a 109.000 millones en cinco años de una administración con el programa Jóvenes Construyendo el Futuro [F5]",
+            "En Colombia, la ley de inversión social no define la magnitud absoluta o relativa de los fondos para matrícula gratuita, y las IES públicas cubren solo el 40% de la demanda de educación profesional [F1]",
+            "La cobertura neta de educación media en Colombia fue del 42,8% en 2017 y el 17,9% de los jóvenes de 21 a 25 años no acabó el bachillerato según el DANE 2019 [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/politicas-los-jovenes-mas-alla-del-empleo-la-matricula/",
+              "note": "Analiza las políticas de juventud en Colombia durante el paro de 2021: subsidios al empleo, matrícula gratuita y sus límites; aporta datos de cobertura educativa y no contiene ninguna cifra de pérdida presupuestaria del 70%.",
+              "host": "razonpublica.com",
+              "title": "Políticas para los jóvenes: más allá del empleo y la matrícula - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2021/08/jovenes-pandemia-Colombia-jovenes-oportunidades-2021-Jaime-Tenjo.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dnp.gov.co/",
+              "note": "Portal del DNP colombiano con información sobre Plan Nacional de Desarrollo e indicadores fiscales municipales; no registra ninguna reducción del 70% en un presupuesto de juventud.",
+              "host": "dnp.gov.co",
+              "title": "Departamento Nacional de Planeación",
+              "image": "https://www.dnp.gov.co/"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.esdiario.com/sostenibilidad/261010/199852/ministerio-jovenes-espana-57-gasto-analizado-menores-extranjeros.html",
+              "note": "Es el dato más cercano a un 'ministerio de jóvenes': en España se ejecutó el 49% del crédito y el 57% de lo ejecutado fue a menores extranjeros no acompañados; contrasta con el 70% de la afirmación y aporta la cifra real disponible.",
+              "host": "esdiario.com",
+              "title": "Un ministerio para los jóvenes de España: el 57 % del gasto analizado va a menores extranjeros",
+              "image": "https://imagenes.esdiario.com/files/og_thumbnail/files/fp/uploads/2026/10/09/6ac8b2704098b.r_d.450-221-17341.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://periferia.com.ar/indicios/el-conicet-perdio-mas-de-3-000-trabajadores-y-su-presupuesto-cayo-un-70-durante-la-gestion-de-milei/",
+              "note": "Única fuente con una caída presupuestaria del 70%, pero corresponde al CONICET argentino (organismo científico), no a un gobierno o ministerio de jóvenes; es el origen probable de la cifra usada en la afirmación.",
+              "host": "periferia.com.ar",
+              "title": "El CONICET perdió más de 3.000 trabajadores y su presupuesto cayó un 70% durante la gestión de Milei",
+              "image": "https://periferia.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-19-000010.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.losreporteros.mx/antes-no-hacian-nada-por-ellos-amlo-recuerda-presupuesto-que-se-le-destinaba-a-jovenes-en-sexenios-del-prian/",
+              "note": "Compara presupuestos destinados a jóvenes en México: 7.500 millones de pesos en cinco administraciones previas frente a 109.000 millones en cinco años, es decir un aumento, no una pérdida del 70%.",
+              "host": "losreporteros.mx",
+              "title": "âAntes no hacÃan nada por ellosâ: AMLO recuerda presupuesto que se le destinaba a jÃ³venes en sexenios del PRIAN | Los Reporteros MX",
+              "image": "https://cms.losreporteros.mx/wp-content/uploads/2024/01/InShot_20240129_105720751.jpg"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "social",
+          "claim": "Se afirma que se dejó a 180 mil jóvenes sin subsidio a la tasa de interés",
+          "quote": "dejó a 180 mil jóvenes sin subsidio a la tasa de interés",
+          "figures": [
+            "180 mil jóvenes"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El dato central es correcto: cerca de 180.000 estudiantes se beneficiaron del subsidio a la tasa de interés del ICETEX en 2023-2024 y la medida fue suspendida a partir del segundo semestre de 2025 por restricción fiscal [F2][F3][F4]. Sin embargo, la cifra de 180.000 corresponde al total acumulado de beneficiarios en dos años, no necesariamente al número exacto de jóvenes que quedaron sin subsidio al momento de la suspensión, y la frase \"dejó a...\" no precisa quién dejó a ese grupo sin el beneficio.",
+          "context": "El subsidio a la tasa de interés estaba contemplado en la Ley 1911 de 2018 como mecanismo transitorio. Entre 2023 y 2024 el Gobierno invirtió 438.000 millones de pesos, beneficiando a cerca de 180.000 estudiantes con tasas de IPC + 2% (o IPC + 4% en mora), frente a una tasa nominal del 5,08%. A partir de 2025-2 la tasa volvió al rango del 12,2% al 17,2% anual, lo que puede duplicar o triplicar las cuotas de quienes estaban en etapa de estudios [F2][F3][F4]. La suspensión afectó únicamente a estudiantes en fase de estudios, no a quienes ya estaban en amortización [F2][F4]. Además, en septiembre de 2026 se anunció un subsidio temporal para 170.000 beneficiarios en etapa de amortización con tasa IPC + 0 puntos, y se precisa que el beneficio \"fue suspendido por el gobierno anterior desde el primer semestre de 2025\" [F5]. También se suspendió el subsidio de sostenimiento que beneficiaba a cerca de 200.000 jóvenes [F3].",
+          "progressivePerspective": "La afirmación abona a poner en evidencia una política pública recortada que afectó a jóvenes en situación de vulnerabilidad económica, tema central de los debates sobre financiación de la educación superior en Colombia. Desde el marco de verdad y no repetición —aplicable aquí más como garantía de derechos sociales que en el contexto del conflicto armado—, el dato señala una consecuencia material verificable de una decisión fiscal: el retorno a tasas que pueden triplicar las cuotas [F2][F4]. Lo que la afirmación no desarrolla es la atribución de responsabilidad: la suspensión se justificó oficialmente por \"la compleja situación fiscal del país\" [F3], y una fuente institucional posterior señala que el beneficio fue restablecido de forma parcial para 170.000 beneficiarios en amortización [F5], lo que matiza la idea de un abandono total y permanente. Completar la afirmación con el contexto presupuestario y con las medidas posteriores de restablecimiento parcial contribuiría a una descripción más íntegra de la trayectoria de la política.",
+          "whatTheyOmit": "Omite que la cifra de 180.000 es el total acumulado de beneficiarios en 2023 y 2024, no el número exacto de jóvenes afectados por la suspensión de 2025 [F2][F3][F4]. No precisa que la suspensión solo alcanzó a quienes estaban en etapa de estudios, no a quienes ya se encontraban en amortización [F2][F4]. No menciona que el subsidio era una medida transitory contemplada en la Ley 1911 de 2018 [F2][F4], ni la razón oficial de la suspensión (situación fiscal) [F3]. Tampoco menciona que desde octubre de 2026 se aprobó un subsidio temporal para 170.000 beneficiarios en etapa de pago con tasa IPC + 0 puntos [F5], ni el programa voluntario 'U Solidaria' con más de 60 universidades que ofrece tasas de hasta IPC + 3 puntos [F2][F3][F4].",
+          "keyFacts": [
+            "Cerca de 180.000 estudiantes se beneficiaron del subsidio a la tasa de interés del ICETEX en 2023 y 2024 [F2][F3][F4]",
+            "El Gobierno invirtió 438.000 millones de pesos en el subsidio entre 2023 y 2024 [F2][F3][F4]",
+            "A partir del segundo semestre de 2025 el ICETEX suspendió el subsidio a la tasa de interés por restricción fiscal [F2][F3][F4]",
+            "Con el subsidio las tasas eran de 5,08% nominal anual; sin él suben al 16,51% anual, pudiendo duplicarse o triplicarse las cuotas [F2][F4]",
+            "El subsidio estaba contemplado en la Ley 1911 de 2018 como medida transitoria [F2][F4]",
+            "La suspensión afectó solo a estudiantes en etapa de estudios, no a quienes estaban en amortización [F2][F4]",
+            "Desde octubre de 2026 se aprobó un subsidio temporal de IPC + 0 puntos para 170.000 beneficiarios en etapa de amortización [F5]",
+            "También se suspendió el subsidio de sostenimiento que beneficiaba a cerca de 200.000 jóvenes [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/expectativas-realidades-la-educacion-superior-gobierno-petro/",
+              "note": "Análisis de política de educación superior bajo el gobierno Petro: promesas de gratuidad, financiación y continuidades con gobiernos anteriores. No menciona la cifra de 180.000 ni la suspensión del subsidio.",
+              "host": "razonpublica.com",
+              "title": "Expectativas y realidades: la educación superior bajo el gobierno Petro",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/03/9.1.-jovenes-Petro-educacion-superior-Ronald-Vargas.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lafm.com.co/sociedad/icetex-ya-no-dara-subsidio-quienes-pierden-el-apoyo-376836",
+              "note": "Confirma que cerca de 180.000 estudiantes se beneficiaron en 2023-2024 con 438.000 millones de pesos, y que el subsidio se suspende desde 2025-2. Detalla tasas, alcance de la suspensión y programa U Solidaria.",
+              "host": "lafm.com.co",
+              "title": "Icetex ya no dará subsidio a la tasa de interés: estos son los estudiantes afectados",
+              "image": "https://files.lafm.com.co/assets/public/2025-09/icetex.png?w=400&r=1_1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.noticiascaracol.com/economia/se-pronuncia-el-icetex-explica-por-que-suspendio-importante-subsidio-para-miles-de-jovenes-rg10",
+              "note": "Comunicado oficial del ICETEX: confirma 180.000 beneficiarios, 438.000 millones invertidos, suspensión por situación fiscal, y anuncia también suspensión del subsidio de sostenimiento (200.000 jóvenes).",
+              "host": "noticiascaracol.com",
+              "title": "Se pronuncia el Icetex: explica por qué suspendió importante subsidio para miles de jóvenes",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/18c2d8e/2147483647/strip/true/crop/640x360+0+34/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff8%2F75%2F830b6072469c8f2eb1f219e62459%2Fcolp-158833-0c5f5.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://lalinternaazul2.wordpress.com/2025/09/05/icetex-que-ya-no-dara-subsidio-a-la-tasa-de-interes-estos-son-los-estudiantes-afectados/",
+              "note": "Reproducción del reporte de La FM: mismos datos de F2 sobre 180.000 beneficiarios, cambio de tasa de 5,08% a 16,51%, alcance de la suspensión y alternativas.",
+              "host": "lalinternaazul2.wordpress.com",
+              "title": "Icetex que ya no dará subsidio a la tasa de interés: estos son los estudiantes afectados",
+              "image": "https://lalinternaazul2.wordpress.com/wp-content/uploads/2019/09/3879fd37-f477-4fe2-b8d1-fd399bef25dc.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://web.icetex.gov.co/es/-/170000-beneficiarios-icetex-tendran-desde-octubre-subsidio-temporal-tasa-interes",
+              "note": "Comunicado oficial del ICETEX (septiembre 2026): anuncia subsidio temporal para 170.000 beneficiarios en amortización con IPC + 0 puntos. Precisa que el beneficio fue suspendido por el gobierno anterior desde el primer semestre de 2025. Aporta el contraste de restablecimiento parcial.",
+              "host": "web.icetex.gov.co",
+              "title": "170.000 beneficiarios del ICETEX tendrán desde octubre subsidio temporal a la tasa de interés",
+              "image": "https://web.icetex.gov.co/documents/20122/3873989/estudiantes-sentados-en-el-parque-conversando.jpeg/568bb6ad-7a9c-7fdf-0099-d0e08db5199b?version=1.0&t=1786557599649&download=true"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "topic": "social",
+          "claim": "Se afirma que la meta de titulación de tierras era de 1.5 millones de hectáreas",
+          "quote": "la meta de 1.5 millones de hectáreas",
+          "figures": [
+            "1.5 millones de hectáreas"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La cifra de 1,5 millones de hectáreas existe efectivamente como meta: la Agencia Nacional de Tierras (ANT) fijó para el cuatrienio 2022-2026 una meta de entrega reducida a 1.500.000 hectáreas. Sin embargo, la afirmación es incompleta, porque el Plan Nacional de Desarrollo 2022-2026, de fuerza de ley, establece una meta superior de 3.000.000 hectáreas de entrega vía Fondo de Tierras, y además hay metas distintas de formalización (3.972.423 en el PND y 3.900.000 según la ANT). Depende de qué meta se esté citando y de si se refiere a 'titulación', 'entrega' o 'formalización', conceptos que las fuentes manejan de manera diferenciada [F1].",
+          "context": "El PND 2022-2026 ('Colombia, potencia mundial de la Vida') fijó: entrega vía Fondo de Tierras, meta de 3.000.000 hectáreas (línea base 17.506 ha en noviembre de 2022) y formalización de pequeña y mediana propiedad, meta de 3.972.423 hectáreas (línea base 720.065 ha). La ANT, en su Informe de Gestión de 2023, reduce la meta de entrega a 1.500.000 hectáreas y la de formalización a 3.900.000, sin explicar la diferencia; esas metas estaban pendientes del visto bueno del DNP. El desglose anual de la meta de 1,5 millones fue 100.000 ha en 2023, 500.000 en 2024, 500.000 en 2025 y 400.000 en 2026 [F1]. Como magnitud de referencia, entre agosto de 2024 y abril de 2025 la ANT reportó más de 1.508.438 hectáreas formalizadas en dos años y medio, frente a 1.072.519 ha en el gobierno Duque y 265.088 ha en el de Santos [F4][F5], y a mayo de 2026 el gobierno reporta 2,1 millones de hectáreas intervenidas mediante formalización, titulación, regularización, reglamentación y saneamiento, de las cuales 1,5 millones corresponden a comunidades étnicas [F2][F3].",
+          "progressivePerspective": "La afirmación se enmarca en el primer punto del Acuerdo de Paz con las FARC, la Reforma Rural Integral, cuya implementación está directamente ligada a la reparación de víctimas del conflicto armado y a la garantía de no repetición del despojo: la tierra es a la vez reparación y prevención. En ese marco, distinguir con rigor las distintas metas (3 millones en el PND con fuerza de ley frente a 1,5 millones en la ANT) es relevante tanto para el control social como para la rendición de cuentas, porque la brecha entre ambas cifras no fue explicada en el informe de gestión de la agencia [F1]. Las fuentes muestran que la titulación a comunidades étnicas ha operado como reparación concreta en casos emblemáticos del conflicto, como la masacre del Nilo en Caloto, donde la entrega de 452 hectáreas en 25 predios busca reparar daños que el Consejo de Estado atribuyó a la Nación en 2014 [F3]. Citar únicamente la meta de 1,5 millones sin mencionar la meta legal de 3 millones del PND, o sin precisar si se trata de entrega, titulación o formalización, puede inducir a una lectura incompleta tanto del cumplimiento como del incumplimiento de los compromisos de paz [F1].",
+          "whatTheyOmit": "Se omite que la cifra de 1,5 millones de hectáreas corresponde a la meta de la ANT, que difiere de la meta de 3 millones de hectáreas del PND 2022-2026, la cual tiene fuerza de ley, sin que el informe de la agencia explicara esa reducción a la mitad [F1]. También se omiten las metas paralelas de formalización (3.972.423 ha en el PND, 3.900.000 según la ANT), la distinción conceptual entre entrega vía Fondo de Tierras, titulación y formalización, y los avances ya reportados, que a abril de 2025 superaban los 1.508.438 hectáreas formalizadas [F4][F5] y llegaban a 2,1 millones de hectáreas intervenidas a mayo de 2026 [F2].",
+          "keyFacts": [
+            "La ANT estableció para el cuatrienio 2022-2026 una meta de entrega de tierras de 1.500.000 hectáreas, la mitad de la meta de 3.000.000 hectáreas del PND, diferencia sin explicación en el Informe de Gestión 2023 de la agencia [F1]",
+            "El PND 2022-2026 fijó como meta cuatrienio 3.000.000 hectáreas entregadas a través del Fondo de Tierras, con línea base de 17.506 hectáreas en noviembre de 2022 [F1]",
+            "La meta de formalización de pequeña y mediana propiedad era de 3.972.423 hectáreas en el PND y de 3.900.000 según la ANT, con línea base de 720.065 hectáreas [F1]",
+            "El cumplimiento de la meta de 1,5 millones se repartía en 100.000 ha (2023), 500.000 (2024), 500.000 (2025) y 400.000 (2026), y estaba pendiente del visto bueno del DNP [F1]",
+            "A abril de 2025 la ANT reportó más de 1.508.438 hectáreas formalizadas en dos años y medio de gestión [F4][F5]",
+            "A mayo de 2026 el gobierno reporta 2,1 millones de hectáreas intervenidas mediante formalización, titulación, regularización, reglamentación y saneamiento, incluidas 1,5 millones de hectáreas a comunidades étnicas [F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-gestion-tierras-gobierno-del-cambio/",
+              "note": "Fuente clave y de contraste: documenta que coexisten dos metas distintas, 3.000.000 ha en el PND y 1.500.000 ha en la ANT, además de las metas de formalización, con desglose anual y la advertencia de falta de explicación de la diferencia [F1]",
+              "host": "razonpublica.com",
+              "title": "La gestión de tierras en el Gobierno del Cambio | Razón Pública 2024",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/10/Agencia-nacional-de-tierras.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.minagricultura.gov.co/el-ministerio/sala-de-p/noticias/mas-acceso-a-la-tierra-con-21-millones-de-hectareas-formalizadas-tituladas-regularizadas-y-saneadas",
+              "note": "Comunicado oficial con resultados a mayo de 2026: 2,1 millones de hectáreas intervenidas, de las cuales 1,5 millones a comunidades étnicas; aporta magnitud alcanzada, no la meta [F2]",
+              "host": "minagricultura.gov.co",
+              "title": "Más acceso a la tierra, con 2,1 millones de hectáreas formalizadas, tituladas, regularizadas y saneadas",
+              "image": "https://www.minagricultura.gov.co/fileadmin/user_upload/forma_web_copia.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elespectador.com/especiales/las-15-millones-de-hectareas-que-hacen-justicia-para-las-comunidades-etnicas/",
+              "note": "Reportaje sobre las 1,5 millones de hectáreas formalizadas a comunidades étnicas y su vinculación con reparación de víctimas del conflicto, como el caso de la masacre del Nilo [F3]",
+              "host": "elespectador.com",
+              "title": "Las 1.5 millones de hectáreas que hacen justicia para las comunidades étnicas",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/HCUYATZX3FAQ3CYBTXL7FJ4SJE.jpeg?resize=1200,630"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.radionacional.co/actualidad/reforma-agraria-15-millones-de-hectareas-formalizadas",
+              "note": "Contrasta la cifra de 1,5 millones como logro de formalización alcanzado (no como meta), con comparación de entregas en gobiernos Duque y Santos [F4]",
+              "host": "radionacional.co",
+              "title": "Reforma agraria: 1.5 millones de hectáreas formalizadas",
+              "image": "https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/ENtrega%20de%20ti%CC%81tulos.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.rtvcnoticias.com/politica/gobierno/record-fomalizacion-hectareas-tierras-reforma-agraria-gobierno-petro",
+              "note": "Repite el reporte de la ANT: 1.508.438 hectáreas formalizadas en dos años y medio; confirma que la cifra circula también como resultado, no solo como meta [F5]",
+              "host": "rtvcnoticias.com",
+              "title": "Gobierno de presidente Petro formaliza más de 1,5 millones de hectáreas y fortalece el acceso a la tierra para campesinos",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2025-04/entrega-tierras-gobierno-petro.jpg"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "topic": "social",
+          "claim": "Se afirma que solo se adjudicaron 350 mil hectáreas",
+          "quote": "apenas adjudicaron 350 mil",
+          "figures": [
+            "350 mil hectáreas"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las fuentes entregadas registra la cifra de 350 mil hectáreas adjudicadas, ni la confirma ni la desmiente; por tanto la afirmación 'apenas adjudicaron 350 mil' no puede verificarse con la evidencia disponible [F1][F2][F3][F4][F5].",
+          "context": "Las cifras oficiales disponibles en las fuentes son otras: la Agencia Nacional de Tierras reporta 1.405.818 hectáreas de titulación rural entregada (654.834 ha ejecutoriadas, 1.117.845 ha en actos administrativos, 287.974 ha registradas) [F3]; el corte a diciembre de 2023 reporta 1.399.403 hectáreas formalizadas, de las cuales 462.921 ha por actos administrativos, 282.667 ha registradas ante ORIP y 653.814 ha en títulos entregados [F5]; el Observatorio Rural de Tierras registra 2.370.162 ha formalizadas y 826.735 ha dispuestas para la reforma agraria [F4]. El régimen de baldíos está regido por la Sentencia SU-288 de 2022 y busca la consolidación de la Reforma Rural Integral prevista en el Acuerdo Final de Paz, con adjudicación como forma de acceso progresivo a la propiedad [F1]. Nota: la fuente F2 no es accesible (requiere JavaScript), por lo que no aporta datos verificables.",
+          "progressivePerspective": "En el marco de la Reforma Rural Integral y del Acuerdo Final de Paz, la tierra es un eje de verdad, reparación y no repetición: el acceso a la propiedad busca impedir la concentración y beneficiar a más campesinos, víctimas y comunidades étnicas [F1]. Las fuentes confirman que existen entregas cuantiosas de tierra a víctimas del conflicto —170.000 hectáreas que estuvieron en manos del paramilitarismo pasan a campesinos víctimas y 181.027 ha de procesos agrarios para el Fondo de Tierras [F3]— y que el Estado publica series de titulación que deben ser objeto de escrutinio público y de rendición de cuentas [F4]. Evaluar si la cifra de 350 mil es correcta, exagerada o insuficiente exige compararla con la serie histórica y con el periodo exacto al que se refiere el video; sin esa referencia temporal y sin una fuente que sustente el número, la afirmación queda sin evidencia y no aporta por sí sola ni a la verificación de la verdad ni a un debate informado sobre reparación y no repeticion [F1][F3][F4][F5].",
+          "whatTheyOmit": "El video no indica el periodo, la entidad o la categoría exacta a la que corresponde la cifra de 350 mil (¿adjudicación de baldíos, compras, titulación, formalización?), lo que impide contrastarla; las fuentes consultadas reportan cifras de titulación/formalización muy superiores sin desglose que permita hallar un componente de 350 mil [F3][F4][F5]. También se omite el marco normativo vigente —Sentencia SU-288 de 2022 y Régimen de Baldíos— que regula los criterios de adjudicación [F1], y la fuente F2 sobre adjudicación de baldíos no es accesible, por lo que no puede usarse como respaldo [F2].",
+          "keyFacts": [
+            "No existe en las fuentes entregadas ninguna cifra de 350 mil hectáreas adjudicadas: la afirmación queda sin respaldo documental en la evidencia disponible [F1][F2][F3][F4][F5]",
+            "La Agencia Nacional de Tierras reporta 1.405.818 hectáreas de titulación rural entregada, con 654.834 ha ejecutoriadas en 21.069 títulos [F3]",
+            "Al corte del 20 de diciembre de 2023 se reportaron 1.399.403 hectáreas formalizadas, beneficiando a más de 60.000 familias [F5]",
+            "El Observatorio Rural de Tierras registra 2.370.162 hectáreas formalizadas y 826.735 hectáreas dispuestas para la reforma agraria [F4]",
+            "170.000 hectáreas que estuvieron en manos del paramilitarismo pasaron a campesinos víctimas del conflicto, y 181.027 ha de procesos agrarios fueron destinadas al Fondo de Tierras [F3]",
+            "El régimen de baldíos se rige por la Sentencia SU-288 de 2022 y la adjudicación se orienta a impedir la concentración de la propiedad y beneficiar a más campesinos [F1]",
+            "La fuente F2 no pudo leerse porque el sitio requiere JavaScript [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.sgr.gov.co/LaEntidad_/subdireccion-general-prospectiva-desarrollo-nacional/direccion-desarrollo-rural-sostenible/Paginas/regimen-de-baldios.aspx",
+              "note": "Marco normativo del régimen de baldíos y Sentencia SU-288 de 2022; no contiene cifras de adjudicación [F1]",
+              "host": "sgr.gov.co",
+              "title": "Régimen de Baldíos",
+              "image": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/La_Entidad/Directivos/Direccciones/Img_DNP.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.scribd.com/document/433758682/Terrenos-baldios-en-colombia",
+              "note": "Documento sobre adjudicación de terrenos baldíos, no accesible (requiere JavaScript); no aporta datos verificables [F2]",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "http://www.ant.gov.co/titulacion-rural-entregada",
+              "note": "Cifras oficiales de titulación, registro, tierras adquiridas, reservas campesinas y tierras de víctimas; no menciona 350 mil ha adjudicadas [F3]",
+              "host": "ant.gov.co",
+              "title": "Titulación rural entregada",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://observatorio.ant.gov.co/",
+              "note": "Serie de formalización y tierras dispuestas para reforma agraria; fuente de contraste para la magnitud real [F4]",
+              "host": "observatorio.ant.gov.co",
+              "title": "La Agencia Nacional de Tierras, como máxima autoridad de las tierras de la Nación, tendrá por objeto ejecutar la política de ordenamiento social de la propiedad rural formulada por el Ministerio de Agricultura y Desarrollo Rural, para lo cual deberá gestionar el acceso tierra como factor productivo, lograr la seguridad jurídica sobre ésta, promover su uso en cumplimiento de la función social de la propiedad y administrar y disponer de los predios rurales de propiedad de la Nación”.",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.agronegocios.co/agricultura/para-2023-se-entregaron-1-399-403-hectareas-de-predios-rurales-a-campesinos-3774323",
+              "note": "Desglose de las 1.399.403 ha formalizadas a diciembre de 2023 por tipo de acto; contraste con la cifra alegada [F5]",
+              "host": "agronegocios.co",
+              "title": "Con la reforma rural se entregaron 1.399.403 hectáreas de predios a familias campesinas | Agronegocios.co",
+              "image": "https://img.lalr.co/cms/2023/12/29145134/Entrega-tierras-a-campesinos-Colprensa.png?w=400&r=1_1"
             }
           ]
         }
