@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:23:43",
+  "generatedAt": "2026-11-17T09:42:25",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -7891,6 +7891,347 @@
               "host": "caracol.com.co",
               "title": "¿Cuánto costó la visita del príncipe Harry y Meghan Markle a Colombia?",
               "image": "https://caracol.com.co/resizer/v2/QI2ZBMLPANBDNHLYC45ZFA5IWY.jpg?auth=b0e01aaed3e04fb6304c5b883a05136efe73a392e3897c089b43306f9d774615&quality=70&width=1200&height=675&smart=true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "dni-hacker-codigo-fuente-penagos",
+      "title": "DNI, hacker y código fuente: el elogio a Hernán Penagos",
+      "uploader": "JP HERNÁNDEZ EL BUKELE COLOMBIANO",
+      "url": "https://m.facebook.com/watch/?v=1067712012960465&_rdr",
+      "duration": 170.4,
+      "thumbnail": "/media/dni-hacker-codigo-fuente-penagos/thumb.jpg",
+      "conclusion": "## Un edificio de datos verdaderos sobre un cimiento sin soporte\n\nEl video construye una narrativa según la cual detrás de las denuncias de fraude electoral y de la exigencia del código fuente habría operado un entramado del propio Estado: un director de inteligencia con presuntos nexos con disidencias, un funcionario de la DNI coordinando una red para alterar resultados, y, como corolario, un hacker capturado que estaría \"detrás\" de la petición de código fuente que Petro hizo a la Registraduría. La impresión que produce es la de una trama deliberada donde la transparencia electoral fue rechazada precisamente porque alguien tenía algo que ocultar.\n\nVarios elementos de esa narrativa tienen base real. La renuncia de Wilmar Mejía a la DNI en medio de investigaciones por presuntos nexos con disidencias ocurrió efectivamente; el video se equivoca, eso sí, al ubicar a Calarcá en el ELN, cuando se trata de una disidencia de las FARC (EMBF). La captura de Carlos Andrés Oyola Tovar y los documentos internos que lo describen como posible líder de una red orientada a atacar la Registraduría existen y fueron difundidos por periodismo reconocido. Las coincidencias entre preconteo y escrutinio superiores al 99,9% son cifras oficiales, aunque el video asigna erróneamente el 99,94% a la segunda vuelta cuando corresponde a la primera. Y la solicitud de Petro por 15 días y la negativa de Penagos están documentadas.\n\nEl problema empieza cuando esos datos se convierten en pruebas de una conspiración. Los señalamientos contra Mejía y Oyola provienen de informes reservados y expedientes en investigación: no hay sentencia ni verdad judicial. Oyola fue aprehendido por un proceso distinto —el hackeo a la UNAD—, no por el plan electoral. Y el video omite que Penagos permitió 28 jornadas de exposición integral del código fuente y acceso al 100% del mismo a auditores durante dos semanas, así como que durante las elecciones se registraron más de 300 millones de intentos de ataques cibernéticos, dato que el propio registrador usó para justificar su negativa a entregarlo públicamente.\n\nEl punto de quiebre se sitúa en la afirmación de que \"detrás de la petición del código fuente estaba un hacker que ya fue capturado\". Ahí el video salta de hechos verificables —la captura de Oyola, la solicitud de Petro, la negativa de Penagos— a una relación causal que ninguna fuente respalda: no existe evidencia documental de que Oyola tuviera relación con esa petición. Es una mera coincidencia temporal presentada como nexo causal, y es el eslabón que sostiene toda la tesis.\n\nEl contexto que falta es decisivo: la investigación judicial no ha concluido, los señalamientos son alegaciones que sus protagonistas niegan, y la disputa sobre el código fuente fue en realidad una diferencia de enfoque entre auditoría técnica y transparencia documental, no una evidencia de encubrimiento.\n\nEn conjunto, se trata de un video que parte de hechos mayormente ciertos pero que, por omisión de matices y por la construcción de una causalidad inexistente, produce una representación engañosa de la realidad política que describe.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "seguridad",
+          "claim": "Wilmar Mejía renunció a la Dirección Nacional de Inteligencia en medio de una investigación por presuntos nexos con disidencias de alias Calarcá.",
+          "quote": "infiltrada bajo la dirección de Wilmar Mejía por las disidencias del alfar de Alias Calarca",
+          "figures": [
+            "2026"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "Mayormente verdadero, pero Calarcá no es del ELN",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Wilmar Mejía, director de inteligencia de la DNI, presentó su renuncia irrevocable en medio de investigaciones por presuntos nexos con la estructura disidente de las FARC comandada por alias Calarcá: renunció el 3 de marzo y la noticia se conoció el 31 de marzo/1 de abril, tras levantarse su suspensión disciplinaria [F2][F3][F4]. El dato central es correcto; el matiz pendiente es que el video presenta como hecho establecido una infiltración 'bajo la dirección' de Mejía, cuando se trata de señalamientos en investigación que él niega [F2][F4].",
+          "context": "La renuncia se produjo tras la suspensión de tres meses impuesta por la Procuraduría en diciembre, que fue levantada el 3 de marzo; ese mismo día Mejía firmó su reincorporación y en un lapso de 15 minutos presentó su renuncia, conocida públicamente el 31 de marzo/1 de abril [F3][F4]. Los señalamientos provienen de archivos incautados el 23 de julio de 2024 en un retén en Anorí, Antioquia, a una caravana de la UNP en la que viajaba alias Calarcá; la Fiscalía mantuvo computadores, memorias USB y teléfonos bajo reserva hasta noviembre de 2025, cuando una investigación periodística los reveló [F2][F3][F4]. Alias Calarcá comanda el Estado Mayor de Bloques y Frentes (EMBF), una disidencia de las FARC, no del ELN; las investigaciones sobre los presuntos nexos continúan y no hay conclusiones definitivas ni condenas [F5][F4].",
+          "progressivePerspective": "Desde el marco de construcción de verdad y no repetición, el hecho es verificable y su publicización cumple una función de rendición de cuentas: un alto funcionario de inteligencia renuncia en medio de señalamientos graves de posible infiltración de información oficial a un grupo armado, y las investigaciones siguen abiertas [F2][F4]. Lo que debe preservarse es la distinción entre hecho acreditado (la renuncia, la existencia de la investigación, los archivos incautados) y responsabilidad aún no establecida: Mejía niega cualquier vínculo y no se ha emitido decisión definitiva [F2][F4]. Presentar la infiltración como ejecutada 'bajo su dirección' sin ese caveat convierte una indagación en veredicto, lo que desborda el estándar de verdad que debe guiar tanto la atribución de responsabilidades como la valoración de funcionarios aún no juzgados [F4]. Al mismo tiempo, el hecho de que la Fiscalía retuviera los archivos cerca de un año sin avances relevantes es un dato que la propia prensa documenta y que habilita el escrutinio institucional [F3][F4].",
+          "whatTheyOmit": "El video omite que los señalamientos son alegaciones en investigación sin conclusiones definitivas y que Mejía los ha negado de manera explica, además de alegar irregularidades procedimentales [F2][F4]. También omite la cronología precisa —la renuncia se presentó el 3 de marzo, no el día de su difusión pública, y ocurrió justo cuando la Procuraduría levantó su suspensión—, así como el hecho de que el material que sustenta los señalamientos proviene de un operativo del 23 de julio de 2024 en Anorí y estuvo en manos de la Fiscalía sin avances significativos durante cerca de un año [F3][F4]. En la cita, la identificación del grupo debe ser Corregida: Calarcá comanda una disidencia de las FARC (EMBF), no del ELN [F5].",
+          "keyFacts": [
+            "Wilmar Mejía presentó su renuncia irrevocable al cargo de director de inteligencia de la DNI en medio de señalamientos por presunta relación con la estructura disidente de alias Calarcá [F2]",
+            "Mejía renunció el 3 de marzo, el mismo día en que se reincorporó tras el levantamiento de su suspensión por la Procuraduría, y la noticia se conoció el 31 de marzo/1 de abril [F3][F4]",
+            "Los señalamientos provienen de archivos incautados el 23 de julio de 2024 en Anorí, Antioquia, a una caravana en la que viajaba alias Calarcá, cuyo contenido estuvo bajo reserva hasta noviembre de 2025 [F2][F3][F4]",
+            "Mejía niega cualquier vínculo con las disidencias de Calarcá y afirma no conocer personalmente a ese comandante [F2][F4]",
+            "Las investigaciones disciplinarias y judiciales continúan y no se han emitido conclusiones definitivas sobre el caso [F4]",
+            "Alias Calarcá comanda el Estado Mayor de Bloques y Frentes (EMBF), una disidencia de las FARC, y no una estructura del ELN [F5]",
+            "El general Juan Miguel Huertas también fue mencionado en el caso y suspendido por la Procuraduría, medida que también fue levantada [F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://www.elespectador.com/judicial/wilmar-mejia-renuncia-a-la-dni-tras-senalamientos-de-nexos-con-disidencias-de-calarca/",
+              "note": "Confirma la renuncia irrevocable en medio de señalamientos por presunta relación con Calarcá, la suspensión de la Procuraduría, los archivos incautados en julio de 2024 y la negativa de Mejía a tener vínculos.",
+              "host": "elespectador.com",
+              "title": "Wilmar Mejía renuncia a la DNI tras señalamientos de nexos con disidencias de “Calarcá”",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/RCLMDSNUQRCDZBOAIM3A56TUSM.png?resize=1200,630"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.semana.com/nacion/articulo/wilmar-mejia-renuncia-a-la-dni-tras-escandalo-que-lo-vincula-con-las-disidencias-de-alias-calarca/202651/",
+              "note": "Precisa la cronología (renuncia el 3 de marzo tras levantarse la suspensión), identifica a Calarcá como comandante de una disidencia de las FARC y documenta los cuestionamientos por la falta de avances de la Fiscalía.",
+              "host": "semana.com",
+              "title": "Wilmar Mejía renuncia al DNI tras escándalo que lo vincula con las disidencias de alias Calarcá",
+              "image": "https://www.semana.com/resizer/v2/2FMA2GLE25AM3OLSMQUGGCZPEM.jpg?auth=521a221b9ae3a5d97a4ee7f1a37b9fc52ff476db3aa21e816633bfc772fc47e4&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/04/01/wilmar-mejia-renuncio-a-la-dni-en-medio-de-escandalo-por-presuntos-nexos-con-disidencias-de-alias-calarca/",
+              "note": "Confirma renuncia, fechas, procedencia de los señalamientos (operativo del 23 de julio de 2024), negativa de Mejía y que no hay conclusiones definitivas: clave para distinguir hecho de alegación.",
+              "host": "infobae.com",
+              "title": "Wilmar Mejía renunció a la DNI en medio de escándalo por presuntos nexos con disidencias de alias Calarcá",
+              "image": "https://www.infobae.com/resizer/v2/5V6UWNPGQJFZDPZ3RRMQSA6EDQ.png?auth=ebe56df2c1b9bf73a88bb26e8792682de0db2d755f86d356a454ec87522c0eb8&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elheraldo.co/colombia/2026/11/05/muere-en-combate-alias-el-flaco-cabecilla-del-frente-36-de-las-disidencias-de-calarca/",
+              "note": "Establece que las disidencias de Calarcá son del Estado Mayor de Bloques y Frentes (EMBF) de las FARC, permitiendo corregir la identificación del grupo armado en el video.",
+              "host": "elheraldo.co",
+              "title": "Muere en combate alias El Flaco, cabecilla del frente 36 de las disidencias de Calarcá",
+              "image": "https://www.elheraldo.co/resizer/v2/SVKJ76UH4NBUDCVD2YFREUKKEM.jpeg?smart=true&auth=4ade4827b69bbfb54dbf43d0ddf8f0fea2b2fa99cc4a708f1922341ed1415aa9&width=1200&height=675"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "seguridad",
+          "claim": "Un funcionario de inteligencia capturado tenía la misión de coordinar una red para alterar los resultados electorales y atacar la Registraduría.",
+          "quote": "ahora es capturado un funcionario de inteligencia que tenía una misión, coordinar una red para intentar modificar resultados electorales, interviniendo sistemas de la registraduría, infiltrando campañas y alterando resultados",
+          "figures": [
+            "2026"
+          ],
+          "verdict": "engañoso",
+          "headline": "Engañoso: la captura es real, la “misión” es una acusación en investigación",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Los hechos base son reales: Carlos Andrés Oyola Tovar, funcionario de la DNI, fue capturado el 6 de noviembre de 2026 y documentos internos de la agencia, difundidos por Noticias Caracol, lo describen como líder de una red orientada a cambiar resultados de la segunda vuelta del 21 de junio de 2026 mediante ataques contra la Registraduría [F2][F3][F4]. Sin embargo, la afirmación presenta como misión comprobada lo que consta en informes reservados en investigación, y omite que Oyola fue aprehendido por un proceso distinto, el hackeo a la UNAD, no por el plan electoral, cuya investigación pública conocida es incierta y cuya participación 'todavía debe aclararse' según la ficha de contexto [F2][F5].",
+          "context": "Oyola Tovar, ingeniero de sistemas de 36 años, ingresó a la DNI en febrero de 2024 y fue ubicado en el grupo de tecnología, con acceso a información sensible [F2][F4]. Los documentos internos le atribuyen haber hackeado entidades estatales para que la contrainteligencia accediera a sus bases de datos, haber coordinado activistas digitales, bodegueros y hackers, y liderar una red que 'realizaría el trabajo para cambiar resultados de la votación del 21 de junio', con ataques contra la Registraduría [F3][F4]. Tenía una orden de captura vigente emitida por un juez el 7 de mayo de 2026, tres semanas antes de la primera vuelta, pese a lo cual siguió vinculado a la DNI y evadió a la Fiscalía durante seis meses [F3][F4]. Fue capturado el 6 de noviembre de 2026 en Neiva dentro de una investigación diferente, por presuntos accesos irregulares a sistemas de la UNAD, con imputación tentativa por concierto para delinquir, acceso abusivo a sistema informático, falsedad material en documento público y fraude procesal [F2][F5]. El señalamiento electoral proviene de informes periodísticos sobre documentos reservados, no de una sentencia: 'aún no se sabe con certeza' cuál fue su rol definitivo y 'todavía debe aclararse' su participación [F5]. Existe precedente histórico de uso desviado de la inteligencia estatal colombiana con fines políticos y electorales, de lo cual dan cuenta condenas como las de Jorge Noguera y José Miguel Narváez por la infiltración de las AUC en el DAS [F1].",
+          "progressivePerspective": "La afirmación abona parcialmente a la verificación pública de hechos graves, porque ayuda a que la ciudadanía conozca señalamientos contenidos en documentos oficiales sobre posible interferencia en un proceso electoral, uno de los pilares del derecho a elegir y ser elegido; en ese sentido, la divulgación periodística de los informes funciona como un aporte al esclarecimiento de lo ocurrido [F3][F4]. Pero presentarlo como una 'misión' cumplida y probada, sin distinguir entre lo que afirman unos informes en investigación y lo que ha establecido una autoridad judicial, produce el efecto inverso: convierte una denuncia en certeza y una captura por un caso distinto (el hackeo a la UNAD) en la condena por el plan electoral [F2][F5]. En términos de no repetición, la lección que ofrecen las fuentes no es solo el señalamiento contra un individuo, sino el fallo de control institucional: una agencia de inteligencia mantuvo activo a un personal con orden de captura vigente durante todo el periodo electoral, lo que hace necesario un control civil y judicial efectivo sobre los servicios de inteligencia, precisamente la exigencia que históricamente ha quedado pendiente en Colombia según el antecedente de usos políticos de la inteligencia estatal [F1][F3][F4]. Tampoco la afirmación, tal como se enuncia, permite imputar responsabilidad política superior a un gobierno, porque las fuentes describen roles, reubicaciones y documentos internos sin establecer conocimiento o decisión de autoridades superiores [F4].",
+          "whatTheyOmit": "Omite que Oyola fue capturado por un proceso distinto al electoral (hackeo a la UNAD), de modo que la aprehensión no se produjo por la red para alterar resultados [F2][F5]. Omite que el plan electoral consta en informes reservados difundidos por periodismo y no en una sentencia o imputación pública conocida, y que su participación 'todavía debe aclararse' [F5]. Omite que las fuentes describen la coordinación de 'activistas digitales, bodegueros y hackers' y ataques a la Registraduría como contenido de documentos internos, no como hechos probados judicialmente [F3][F4]. También omite que el hallazgo se enmarca en un problema de control de la agencia (un funcionario con orden de captura vigente protegido por la propia DNI), lo que desplaza la lectura de un acto deliberado de un gobierno hacia una falla institucional documentada [F3][F4].",
+          "keyFacts": [
+            "Carlos Andrés Oyola Tovar, ingeniero de sistemas y funcionario de la DNI desde febrero de 2024, fue capturado el 6 de noviembre de 2026 en Neiva [F4][F5].",
+            "Documentos internos de la DNI difundidos por Noticias Caracol lo describen como líder de una red que 'realizaría el trabajo para cambiar resultados de la votación del 21 de junio' y que ejecutaría ataques contra la Registraduría [F4][F3].",
+            "Los mismos informes le atribuyen haber coordinado activistas digitales, bodegueros y hackers y haber hackeado entidades estatales para dar acceso a la contrainteligencia [F3][F4].",
+            "Tenía una orden de captura vigente emitida por un juez el 7 de mayo de 2026, tres semanas antes de la primera vuelta, y permaneció vinculado a la DNI [F3][F4].",
+            "Su captura se produjo en el marco de una investigación distinta, por presuntos accesos irregulares a sistemas de la UNAD, con imputación tentativa por concierto para delinquir, acceso abusivo a sistema informático, falsedad material en documento público y fraude procesal [F2][F5].",
+            "El señalamiento electoral proviene de informes periodísticos sobre documentos reservados, no de una sentencia; la participación 'todavía debe aclararse' [F5].",
+            "Colombia tiene antecedentes de uso desviado de la inteligencia estatal con fines políticos, incluidas condenas a exfuncionarios del DAS por infiltración de las AUC [F1]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/interceptaciones-ilegales-un-problema-de-siempre/",
+              "note": "Antecedente histórico de uso político de la inteligencia estatal en Colombia y de infiltración de grupos ilegales en el DAS; aporta contexto y contraste, no datos del caso Oyola.",
+              "host": "razonpublica.com",
+              "title": "Interceptaciones ilegales: un problema de siempre - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2018/10/telefono-interceptaciones-ilegales-ivan-gaitan.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.kienyke.com/colombia/quien-es-carlos-oyola-el-senalado-hacker-de-la-dni",
+              "note": "Perfil de Oyola, ingreso a la DNI, documentos que lo vinculan con la red contra la Registraduría y precisión de que fue capturado en una investigación distinta (UNAD).",
+              "host": "kienyke.com",
+              "title": "¿Quién es Carlos Andrés Oyola, el señalado hacker vinculado a la DNI?",
+              "image": "https://www.kienyke.com/sites/default/files/styles/interna_destacada_s/public/2026-11/quien-es-carlos-andres-oyola.webp?itok=6JxbIMEo"
+            },
+            {
+              "ref": "F3",
+              "url": "https://radioguatapuri.com/noticias/hacker-dni-carlos-oyola-orden-captura",
+              "note": "Cita textual del informe sobre la red para cambiar resultados, orden de captura vigente, protección de la DNI y cruce con la petición de código fuente.",
+              "host": "radioguatapuri.com",
+              "title": "El hacker de la DNI que operó con orden de captura vigente y lideró ataques contra la Registraduría",
+              "image": "https://journal.api.radioguatapuri.com/uploads/b9ab46e93f3e04d1.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/11/09/el-papel-de-carlos-oyola-en-la-dni-habria-coordinado-hackers-y-participado-en-un-presunto-plan-para-atacar-la-registraduria/",
+              "note": "Detalle de los documentos internos, cita literal del informe, antecedentes judiciales y salvedades sobre lo no establecido (quién lo advirtió del allanamiento).",
+              "host": "infobae.com",
+              "title": "El papel de Carlos Oyola en la DNI: habría coordinado hackers y participado en un presunto plan para atacar la Registraduría",
+              "image": "https://www.infobae.com/resizer/v2/OK3O5NYS4NHTVIRUNCVZV33RHU.jpg?auth=3cb2e678734454e5aa053ee09cc3ddd706fcf599b53267c0e63ee5dc24294aa5&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.minuto60.com/judicial/el-es-funcionario-dni-capturado-espionaje-electoral/18560",
+              "note": "Delitos formalmente investigados, contexto de la captura y advertencia de que la participación debe determinarse en el proceso judicial.",
+              "host": "minuto60.com",
+              "title": "Él es Carlos Oyola Tovar, funcionario de la DNI capturado en Neiva por presunto espionaje electoral",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/carlos-andres-oyola-tovar-fue-capturado-en-el-barrio-quirinal-de-neiva-20261108-073726_20261108_073726_twitter.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "La coincidencia entre el preconteo y el escrutinio fue del 99,9% en la primera vuelta y del 99,94% en la segunda vuelta presidencial.",
+          "quote": "las coincidencias entre el pregunteo y el explotino de la primera vuelta, está el 99.9 por ciento... las coincidencias de la segunda vuelta presidencial, está el 99.94 por ciento",
+          "figures": [
+            "99.9%",
+            "99.94%"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "Mayormente verdadero, pero las cifras están intercambiadas",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La coincidencia entre preconteo y escrutinio fue altísima en ambas vueltas, pero las cifras del video no están bien asignadas: la Registraduría reportó 99,94% para la primera vuelta y 99,997% para la segunda. El video dice 99,9% para la primera (cerca del dato real) y 99,94% para la segunda (cifra que corresponde a la primera). La conclusión de fondo —coincidencia superior al 99,9%— se sostiene [F1][F2][F3].",
+          "context": "El preconteo es un mecanismo informativo y el escrutinio es el proceso oficial que valida los resultados [F4]. Para la primera vuelta presidencial de 2026, la Registraduría informó una coincidencia del 99,94% entre el preconteo y el escrutinio de los jueces, con 99,98% del escrutinio avanzado [F1]. Para la segunda vuelta, la entidad reportó una coincidencia del 99,997% [F2][F3][F5]. El video invierte o desactualiza esas cifras, pero no altera el hecho central: la coincidencia fue superior al 99,9% en ambos casos.",
+          "progressivePerspective": "La precisión importa: un indicador técnico de coincidencia no demuestra por sí solo transparencia ni fraude, y citar mal una cifra resta rigor aunque el margen sea pequeño. La conclusión de fondo se mantiene, pero el dato debe corregirse para no convertir una métrica técnica en eslogan [F1][F2][F4].",
+          "whatTheyOmit": "El video no distingue entre preconteo y escrutinio, no cita la fuente de las cifras y asigna a la segunda vuelta el 99,94% que corresponde a la primera. La cifra oficial de la segunda vuelta fue 99,997% [F2][F3][F5].",
+          "keyFacts": [
+            "Primera vuelta: 99,94% de coincidencia entre preconteo y escrutinio, según la Registraduría [F1]",
+            "Segunda vuelta: 99,997% de coincidencia, según la Registraduría [F2][F3][F5]",
+            "El video dice 99,9% para la primera y 99,94% para la segunda: la segunda cifra corresponde a la primera vuelta",
+            "El preconteo es informativo; el escrutinio es el proceso oficial de validación [F4]",
+            "Una coincidencia alta es un indicador técnico, no una prueba de fraude ni de transparencia absoluta"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-informa-que-escrutinio-hecho-por-jueces-va-en-un-99-98-con-una-coincidencia-del-99-94-con-el-preconteo-ni-fraude-ni-errores-3561378",
+              "note": "Registraduría: 99,94% de coincidencia en la primera vuelta y 99,98% del escrutinio avanzado.",
+              "host": "eltiempo.com",
+              "title": "Registraduría informa que escrutinio hecho por jueces va en 99,98 por ciento con una coincidencia del 99,94 % con el preconteo: ni fraude ni errores",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/01/6a1dd6ff3e2b5.r_d.569-442-0.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lapatria.com/politica/escrutinios-municipales-coinciden-con-preconteo-en-un-99997-registraduria-sobre-segunda",
+              "note": "Coincidencia del 99,997% en la segunda vuelta presidencial.",
+              "host": "lapatria.com",
+              "title": "Escrutinios municipales coinciden con preconteo en un 99,997%: Registraduría sobre segunda vuelta presidencial",
+              "image": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-06/registraduria-escrutinio.jpg?itok=CeKMI0wM"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.cronista.com/colombia/actualidad-co/registraduria-confirma-coincidencia-del-99997-entre-preconteo-y-escrutinio-en-las-elecciones-presidenciales/",
+              "note": "Confirma la coincidencia del 99,997% y el número de comisiones escrutadoras.",
+              "host": "cronista.com",
+              "title": "Registraduría confirma coincidencia del 99,997% entre preconteo y escrutinio en las elecciones presidenciales",
+              "image": "https://www.cronista.com/resizer/v2/RJAKHR7CLJCG5EM2ZBWSKGL65M.jpg?auth=30dc40190602e1464d2e00214fdb9e03f7b4e07ccc4a3b2417f65e5e1fb0c64a&height=630&width=1200&quality=70&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://canaltrece.com.co/noticias/preconteo-en-elecciones-colombia-2026-que-es-como-funciona-y-cuando-salen-resultados/",
+              "note": "Explica que el preconteo es informativo y el escrutinio es el proceso oficial.",
+              "host": "canaltrece.com.co",
+              "title": "Preconteo en elecciones Colombia 2026: qué es, cómo funciona y cuándo salen resultados | Canal Trece",
+              "image": "https://canaltrece.com.co/wp-content/uploads/2026/06/AFP__20260621__moreno-camilomo260621_nptLM__v1__MidRes__SecondRoundOfColombiaSPresid.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.registraduria.gov.co/En-un-99-997-coincide-el-preconteo-con-el-escrutinio-de-los-jueces.html",
+              "note": "Comunicado oficial de la Registraduría sobre la coincidencia del 99,997%.",
+              "host": "registraduria.gov.co",
+              "title": "Verifiquemos tuconexión",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Gustavo Petro solicitó el código fuente de la Registraduría por 15 días y Hernán Penagos se negó a entregarlo.",
+          "quote": "le era el coigo fuente, démelo por 15 días... el registrador se paró firme y no lo entregó",
+          "figures": [
+            "15 días"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero: Petro pidió el código por 15 días y Penagos se negó",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación es correcta: Petro solicitó por escrito a la Registraduría los códigos fuente del software de preconteo y escrutinio “durante 15 días” (carta del 13 de marzo de 2026), y Penagos se negó, advirtiendo riesgos de seguridad. La frase sobre auditorías versus entrega indiscriminada está documentada [F1][F6].",
+          "context": "El conflicto por el código fuente se extendió durante varios meses. En febrero de 2026, Petro exigió públicamente la entrega del código fuente completo del software de conteo de votos de Thomas Greg & Sons; en marzo, los ministros del Interior y de las TIC formalizaron ante la Registraduría la solicitud de auditoría con tiempo y peritos suficientes [F3]. La Registraduría realizó 28 jornadas de exposición integral del código fuente de los sistemas de sorteo de jurados, preconteo, consolidación, divulgación y escrutinios, y permitió a auditores y observadores acceso al 100% del código fuente durante dos semanas [F5][F2]. Penagos advirtió que entregar el código fuente «es permitir que se altere, que se vulnere, que se suplante y que los hackers puedan terminar modificando y vulnerando información de los software» [F5], y durante las elecciones se registraron más de 300 millones de intentos de ataques cibernéticos sin que el código hubiera sido expuesto [F1]. Petro, por su parte, sostuvo que «exponer no es auditar» y que el código debe someterse a auditoría técnica por expertos, no a exposición pública [F3][F4]. La carta de Petro, conocida el 13 de marzo de 2026, dice: “Le solicito al registrador respetuosamente se digne entregarme los códigos fuente del software de preconteo y escrutinio durante 15 días” [F6].",
+          "progressivePerspective": "La afirmación de que Penagos «se paró firme y no lo entregó» es correcta como hecho, pero la valoración de que ello lo convierte en «prócer» o «salvador de la democracia» es opinión, no un dato verificable. Desde el marco de la JEP —verdad, justicia, reparación y no repetición—, la transparencia electoral y el acceso ciudadano a mecanismos de verificación abonan a la garantía de no repetición de fraudes electorales; sin embargo, el hecho de que Penagos haya rechazado la entrega del código fuente no constituye en sí mismo prueba de que salvó la democracia, sino una decisión técnica y administrativa cuyos méritos deben evaluarse con la evidencia disponible. Lo que sí está documentado es que la Registraduría permitió auditorías con acceso al 100% del código fuente [F2][F5], lo que matiza la dicotomía entre «entregar» y «no entregar» que plantea el video. El video presenta la negativa de Penagos como heroica sin reconocer que la Registraduría ofreció mecanismos alternativos de auditoría y que el propio Petro reconoció que «exponer no es auditar» [F3][F4], lo cual sugiere que la disputa fue más compleja que un simple enfrentamiento entre transparencia y ocultamiento [F5].",
+          "whatTheyOmit": "El video omite que la Registraduría permitió 28 jornadas de exposición integral del código fuente y acceso al 100% del mismo a auditores y observadores durante dos semanas [F5][F2], así como que Penagos y Petro coinciden parcialmente en que exponer el código públicamente no equivale a auditarlo correctamente [F3][F4]. También omite que durante las elecciones hubo más de 300 millones de intentos de ataques cibernéticos, dato que Penagos usó para justificar su negativa [F1], y que la diferencia entre ambos era de enfoque: Petro exigía auditoría técnica independiente, mientras la Registraduría argumentaba que la transparencia real reside en la publicación de las actas electorales [F5].",
+          "keyFacts": [
+            "Petro exigió en reiteradas oportunidades la entrega del código fuente completo del software electoral, incluyendo una demanda pública en febrero de 2026 [F3]",
+            "Penagos se negó a entregar el código fuente y advirtió que «entregar un código fuente es permitir que se altere, que se vulnere, que se suplante» [F5][F1]",
+            "Penagos permitió a auditores y observadores acceso al 100% del código fuente durante dos semanas, y la Registraduría realizó 28 jornadas de exposición integral [F2][F5]",
+            "Durante las elecciones se registraron más de 300 millones de intentos de ataques cibernéticos sin que el código hubiera sido expuesto [F1]",
+            "Petro sostuvo que «exponer no es auditar» y que el código debe auditarse técnicamente por expertos [F3][F4]",
+            "La carta de Petro del 13 de marzo de 2026 pedía los códigos fuente del software de preconteo y escrutinio “durante 15 días” [F6]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.noticiasrcn.com/colombia/por-que-la-registraduria-se-nego-a-entregar-el-codigo-fuente-de-las-elecciones-1080372",
+              "note": "Confirma la negativa de Penagos y sus advertencias de riesgo; aporta datos de seguridad (300 millones de ataques cibernéticos). No menciona el plazo de 15 días.",
+              "host": "noticiasrcn.com",
+              "title": "¿Por qué la Registraduría se negó a entregar el código fuente de las elecciones y qué riesgos advirtió? | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/cms/2026/11/09212451/Codigo-fuente-electoral.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.infobae.com/colombia/2026/05/17/registrador-hernan-penagos-nego-discurso-de-fraude-y-respondio-a-gustavo-petro-por-el-codigo-fuente-grave-riesgo/",
+              "note": "Confirma la negativa de Penagos y sus razones de seguridad; menciona acceso al 100% del código fuente durante dos semanas a auditores. No menciona el plazo de 15 días.",
+              "host": "infobae.com",
+              "title": "Registrador Hernán Penagos negó discurso de fraude y respondió a Gustavo Petro por el código fuente: “Grave riesgo”",
+              "image": "https://www.infobae.com/resizer/v2/2BO7RVA34ZG7LMGDY6HF57BN34.jpg?auth=ca835d50fce1e6b00660f5a682398ad233afd685d72ae21df335c81c0d440355&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.rtvcnoticias.com/politica/petro-responde-registraduria-sobre-auditoria-del-software-electoral",
+              "note": "Documenta la solicitud de Petro (febrero y marzo de 2026) y su posición de que «exponer no es auditar»; aporta el contexto legal de las leyes derogadas en el poder judicial.",
+              "host": "rtvcnoticias.com",
+              "title": "\"Eso no sirve\": presidente Petro responde a la Registraduría sobre auditoría del software electoral",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2026-05/petro-responde-a-registraduria-sobre-auditoria-del-software-electoral.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elpais.com.co/elecciones/crece-tension-entre-petro-y-la-registraduria-por-elecciones-codigo-fuente-eje-de-la-discusion-1751.html",
+              "note": "Confirma la tensión entre Petro y la Registraduría por el código fuente; aporta la posición de ambos bandos y el llamado de Petro a testigos electorales.",
+              "host": "elpais.com.co",
+              "title": "Crece tensión entre Presidente y la Registraduría",
+              "image": "https://www.elpais.com.co/resizer/v2/4EGUUJ5BCVCTJLWZYG2JKQ74EA.jpg?auth=96a5ee0487bc743ab9425e835d5e7dd8f846ee0ab2d5100dd3f7427c5cd3a276&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://laveintitres.com/petro-acusa-a-la-registradura-de-engaar-al-pueblo-con-el-cdigo-fuente/",
+              "note": "Documenta la disputa en detalle: 28 jornadas de exposición integral, la frase de Penagos sobre riesgos, y la posición de Petro de que «exponer no es auditar». No menciona el plazo de 15 días.",
+              "host": "laveintitres.com",
+              "title": "Petro acusa a la Registraduría de engañar al pueblo con el código fuente - La Veintitrés",
+              "image": "https://laveintitres.com/wp-content/uploads/2026/05/p-200442.jpg"
+            },
+            {
+              "ref": "F6",
+              "url": "https://www.infobae.com/colombia/2026/03/13/petro-pidio-a-la-registraduria-entregar-codigos-fuente-del-software-de-preconteo-y-escrutinio-para-descartar-supuesto-fraude-electoral/",
+              "note": "Reproduce la carta de Petro en la que solicita los códigos fuente por 15 días.",
+              "host": "infobae.com",
+              "title": "Petro pidió a la Registraduría que le entregue los códigos fuente del software de preconteo y escrutinio: “Haré la debida auditoría”",
+              "image": "https://www.infobae.com/resizer/v2/H72WI257AJBXZA4EGGIJUQDIP4.JPG?auth=35a13c64d218de70fe963cbc5d4f101be21fa81177f32c515b3186f82068e806&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "seguridad",
+          "claim": "Detrás de la petición del código fuente estaba un hacker que ya fue capturado.",
+          "quote": "quien estaba detrás un hacker que ya fue capturado",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "Sin evidencia: no hay vínculo probado entre el hacker y la petición",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes confirman la captura de Carlos Andrés Oyola Tovar y lo señalan de coordinar una presunta red de ataques a la Registraduría, pero ninguna fuente conecta a Oyola con la solicitud de código fuente que el entonces presidente Petro hizo a la Registraduría: no existe evidencia de que él 'estuviera detrás' de esa petición [F2][F3][F4][F5].",
+          "context": "Oyola Tovar, ingeniero de sistemas vinculado a la DNI desde febrero de 2024, fue capturado el 6 de noviembre de 2026 en Neiva por el Gaula Militar, la CTI y la Policía, por delitos informáticos asociados a la UNAD (acceso abusivo a sistemas, falsedad, fraude procesal, concierto para delinquir, entre otros) [F2][F3][F4]. Informes internos de la DNI y un expediente de 26 páginas conocido por Noticias Caracol lo habrían vinculado con la coordinación de una red que buscaba alterar resultados de la segunda vuelta del 21 de junio de 2026 mediante ataques a la Registraduría, así como con el hackeo de entidades estatales [F3][F4][F5]. Todo ello se enmarca en investigaciones y denuncias reservadas, no en sentencias judiciales [F3][F4][F5]. Ninguna de las cinco fuentes menciona la petición de código fuente ni establece relación alguna entre Oyola y dicha solicitud.",
+          "progressivePerspective": "A la luz de los fines de la JEP —verdad, justicia, reparación y no repetición—, presentar como hecho probado una cadena causal («el hacker estaba detrás de la petición del código fuente») cuando las fuentes solo describen una coincidencia temporal no abona a la verificación rigurosa de los hechos ni al reconocimiento de responsabilidades contrastadas, y puede contribuir a construir un relato que precede a la acción judicial. La afirmación además convierte en verdad una denuncia que, según las propias fuentes, proviene de informes reservados y está en investigación [F3][F4][F5]. Por otro lado, la información que sí está respaldada —la infiltración y los presuntos abusos funcionales en la DNI, el presunto plan de atacar la Registraduría y la protección presunta de un funcionario con orden de captura vigente— constituye material relevante para el esclarecimiento de la verdad institucional y para mecanismos de control democrático [F2][F3][F4][F5].",
+          "whatTheyOmit": "El video omite que los señalamientos sobre Oyola provienen de informes reservados y denuncias en investigación, no de una sentencia o una verdad judicial establecida [F3][F4][F5]. También omite que no hay evidencia documental alguna —presente en las fuentes— de que Oyola tuviera relación con la petición de código fuente, presentando como causalidad una mera coincidencia temporal. Además, las fuentes consultadas no contienen información sobre la solicitud del código fuente ni sobre la negativa del registrador, por lo que esa parte de la afirmación queda sin respaldo en el material entregado [F2][F3][F4][F5].",
+          "keyFacts": [
+            "Carlos Andrés Oyola Tovar, funcionario de la DNI, fue capturado el 6 de noviembre de 2026 en Neiva por delitos informáticos asociados a la UNAD y otros cargos [F2][F3][F4]",
+            "Informes internos de la DNI y un expediente reservado lo habrían señalado de liderar una red para alterar resultados de la segunda vuelta del 21 de junio de 2026 mediante ataques a la Registraduría [F3][F4][F5]",
+            "Oyola tenía orden de captura vigente desde el 7 de mayo de 2026 mientras seguía activo en la DNI y habría evadido un allanamiento en una casa fachada de la entidad [F4][F5]",
+            "Los señalamientos provienen de informes reservados y denuncias en investigación; no hay sentencia ni verdad judicial que los confirme [F3][F4][F5]",
+            "Ninguna fuente respalda que Oyola estuviera detrás de la petición del código fuente: no se documenta relación causal alguna [F2][F3][F4][F5]",
+            "Las fuentes consultadas no mencionan la solicitud del código fuente ni la negativa de la Registraduría, por lo que esa parte no es verificable con el material entregado [F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://www.infobae.com/colombia/2026/11/08/cayo-funcionario-activo-del-dni-acusado-de-hackear-abusivamente-sistema-de-inteligencia-del-estado/",
+              "note": "Confirma la captura de Oyola Tovar y su vinculación con ataques a instituciones estatales y a sistemas de procesos electorales; no menciona la petición de código fuente.",
+              "host": "infobae.com",
+              "title": "Cayó funcionario activo del DNI acusado de ‘hackear’ “abusivamente” sistema de inteligencia del Estado",
+              "image": "https://www.infobae.com/resizer/v2/TDIJRC4I5VCYHCCYZ6T3MTFH4Q.png?auth=e60506f901ade819f4222f7792c5a0a3357c3e8240568c04edf7058e14f58a08&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.semana.com/politica/articulo/el-historial-de-carlos-oyola-el-hacker-del-gobierno-petro-que-habria-intentado-cambiar-resultados-de-la-segunda-vuelta/202653/",
+              "note": "Perfil de Oyola y relato de los informes reservados que lo habrían vinculado con la red de ataques a la Registraduría; los señalamientos se presentan como presuntos, en investigación.",
+              "host": "semana.com",
+              "title": "El historial de Carlos Oyola, el ‘hacker’ del gobierno Petro que habría intentado cambiar resultados de la segunda vuelta",
+              "image": "https://www.semana.com/resizer/v2/AEMDGYWTOZGRPDPV434KUKWRXU.jpeg?auth=d9292189dfcc97491f43e534c0f115bbb6de67324c3f07990b4b596ba5d99a87&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/carlos-oyola-presunto-hacker-dni-orden-captura-gobierno-petro-FH43338962",
+              "note": "Detalle los cinco episodios del presunto blindaje de Oyola en la DNI, incluida la orden de captura vigente y la presunta red de ataque a la Registraduría; no vincula a Oyola con la solicitud de código fuente.",
+              "host": "elcolombiano.com",
+              "title": "Las 5 veces que el gobierno Petro habrÃa protegido a Carlos Oyola, presunto hacker con orden de captura contratado en la DNI",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c133/1280d720/none/11101/IVAU/carlos-andres-oyola-dni_52086810_20261109124640.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elheraldo.co/politica/2026/11/10/escandalo-en-la-dni-de-petro-espionaje-a-expresidentes-e-interferencia-en-elecciones/",
+              "note": "Resume el expediente de 26 páginas con las presuntas irregularidades de la DNI, incluido el plan de alterar resultados; todo en marco de presuntas irregularidades y investigaciones en curso.",
+              "host": "elheraldo.co",
+              "title": "Escándalo en la DNI de Petro: espionaje a expresidentes e interferencia en elecciones",
+              "image": "https://www.elheraldo.co/resizer/v2/EZWDRM7M2NDS3DRAUPVPHQZQNQ.jpg?smart=true&auth=8e3662577ee4201830ac5a70ad00dab6782e4af07733b53feb8898bbbe701c36&width=1200&height=675"
             }
           ]
         }
