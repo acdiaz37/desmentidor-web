@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T15:36:50",
+  "generatedAt": "2026-11-16T21:23:43",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -7590,6 +7590,307 @@
               "host": "es.wikipedia.org",
               "title": "Iván Cepeda - Wikipedia, la enciclopedia libre",
               "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iv%C3%A1n_Cepeda_Castro.jpg/960px-Iv%C3%A1n_Cepeda_Castro.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lancha-armada-ataque-mafe-carrascal",
+      "title": "De la lancha de la Armada al insulto: el ataque a Mafe Carrascal",
+      "uploader": "Cris Sin Pelos En La Lengua",
+      "url": "https://m.facebook.com/watch/?v=3549574738543259&_rdr",
+      "duration": 115.216,
+      "thumbnail": "/media/lancha-armada-ataque-mafe-carrascal/thumb.jpg",
+      "conclusion": "## Un mosaico de hechos reales construido para sostener una tesis que los datos no sostienen\n\nEl video articula una narrativa de abuso sistemático del poder: funcionarios, familiares y allegados usarían recursos públicos como si fueran bienes privados —embarcaciones de la Armada, esquemas de seguridad millonarios, aviones oficiales, giros presidenciales y hasta una visita de celebridades extranjeras— y cierra con un ataque ad hominem contra Mafe Carrascal, la representante que cuestionó el traslado de la hija del presidente. El efecto es producir la impresión de que el desborde es un patrón generalizado, probado en cada uno de sus eslabones.\n\nVarios elementos de esa narrativa tienen base real, y conviene reconocerlo sin ambages: la hija del presidente Abelardo de la Espriella sí fue trasladada en una embarcación de la Armada durante el Festival Náutico de Cartagena, y ese hecho fue confirmado oficialmente. El Estado sí destina a Rodrigo Londoño un esquema de seguridad que supera los 335 millones mensuales y los 4.028 millones anuales, con seis blindados y dieciséis escoltas, dato ratificado por el director de la UNP ante el Congreso. El Colombiano reportó además un informe de la UIAF sobre giros de dinero hacia Verónica Alcocer, y se abrieron indagaciones por las denuncias de Eva Ferrer.\n\nEl problema empieza cuando esos hechos dejan de ser hechos para convertirse en pruebas de una tesis. El video presenta la acusación de transporte de cocaína en aviones oficiales como hecho consumado, cuando las propias fuentes señalan que las afirmaciones de Ferrer no han sido demostradas judicialmente y que Alcocer negó los cargos. Los \"giros\" que reporta El Colombiano se transforman en \"mesadas mensuales ordenadas desde la Presidencia para las hijas en Francia\", añadiendo detalles —mensualidad, destinatarias, país— que las fuentes no contienen. Y la visita de Harry y Meghan se presenta como pagada íntegramente por el Estado y originada en Netflix, cuando los duques financiaron sus vuelos, no cobraron honorarios y la invitación fue de la vicepresidencia.\n\nEl punto de quiebre se produce en la transición entre \"esto ocurrió y es cierto\" y \"por lo tanto, así es la realidad\": cada hecho verificado acumula un adjetivo o una relación que los datos no autorizan, de modo que la suma de partes verdaderas produce un todo desproporcionado. El contexto ausente —el operativo naval institucional del festival, el estatus de firmante de paz que obliga a la protección de Londoño con vigilancia de la CIDH, el carácter en investigación de las acusaciones, la financiación privada de los duques— no cambia los hechos individuales, pero transforma por completo la interpretación que el video les atribuye. Leídos con ese contexto, los mismos datos describen un panorama de controversias abiertas y desmentidos parciales, no la demostración concluyente de un saqueo en marcha que la narrativa del video pretende cerrar.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Una embarcación de la Armada trasladó a Lucía de la Espriella, hija del presidente Abelardo de la Espriella, durante el Festival Náutico de Cartagena.",
+          "quote": "una embarcación de la armada le estaba prestando seguridad a la hija del presidente que estaba en un evento naval en Cartagena",
+          "figures": [
+            "2026"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero desvía el debate",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El hecho concreto está ampliamente respaldado: el 14 de noviembre de 2026, durante el segundo día del Festival Náutico de Cartagena, Lucía de la Espriella, hija del presidente Abelardo de la Espriella, se movilizó en una embarcación de la Armada Nacional, hecho confirmado oficialmente por la Presidencia a través de su vocero Miller Soto [F1][F2][F3][F4].",
+          "context": "El traslado se enmarca en el Festival Náutico de Cartagena (13 y 14 de noviembre de 2026), dentro de la programación oficial de las Fiestas de Independencia, con más de 1.000 embarcaciones en la primera jornada y un operativo de inspección, vigilancia y control marítimo anunciado previamente por la Capitanía de Puerto y la Armada [F3]. La Presidencia sostuvo que el ingreso y la salida de la menor fueron por vía marítima, por lo que el protocolo exigía el traslado en una embarcación de la Armada: llegó en esa nave, se trasladó al bote al que se dirigía y regresó a la misma embarcación oficial para salir, sin irregularidad según el Gobierno [F2][F4]. La representante Mafe Carrascal cuestionó el posible uso de un bien público para fines privados y la congresista Laura Daniela Beltrán (Lalis) radicó un derecho de petición exigiendo explicaciones sobre quién autorizó el traslado [F1][F4]. Hasta la fecha de las fuentes, no hay pronunciamiento oficial de la Armada que detalle la función específica de la embarcación identificada como «Armada 1» ni evidencia pública que demuestre uso privado o irregular [F3].",
+          "progressivePerspective": "El hecho es verificable y la pregunta sobre el uso de un bien público es legítima: quién autorizó el traslado, bajo qué protocolo y con qué costo. El video, sin embargo, no discute ese fondo: defiende la lancha como parte del esquema de seguridad y usa el dato para insultar a Mafe Carrascal y desviar la discusión con un whataboutism sobre otros gastos. Eso no invalida la pregunta de la representante ni convierte el traslado en irregular; simplemente sustituye el debate sobre transparencia por la descalificación [F1][F2][F3][F4].",
+          "whatTheyOmit": "El video no discute el protocolo, la autorización ni el costo del traslado: se limita a defenderlo y a insultar a quien lo cuestionó. Omite que la pregunta de Carrascal y el derecho de petición de Lalis son mecanismos legítimos de control público, y que la respuesta oficial —que el traslado fue por seguridad— no cierra por sí sola el debate sobre el uso de recursos públicos [F1][F2][F4]. También omite que el Festival Náutico tenía un operativo naval institucional, de modo que la sola presencia de una embarcación oficial no permite concluir irregularidad [F3].",
+          "keyFacts": [
+            "El 14 de noviembre de 2026, durante el segundo día del Festival Náutico de Cartagena, la hija del presidente Abelardo de la Espriella se transportó en una embarcación de la Armada Nacional [F1][F4].",
+            "El vocero presidencial Miller Soto confirmó el traslado y lo justificó por vía marítima y razones de seguridad: llegó en la embarcación oficial, se trasladó al bote de destino y regresó a la misma embarcación para salir [F2][F4].",
+            "La representante Mafe Carrascal cuestionó el posible uso de un bien público para fines privados y la congresista Lalis radicó un derecho de petición exigiendo explicaciones sobre la autorización del traslado [F1][F4].",
+            "La Armada tenía un rol institucional previsto en el Festival Náutico (inspección, vigilancia y control marítimo), por lo que su presencia en la bahía no permite concluir por sí sola uso irregular [F3].",
+            "No existe pronunciamiento oficial de la Armada que detalle la función de la embarcación «Armada 1» ni evidencia pública de uso privado o irregular hasta la fecha de las fuentes [F3].",
+            "El video defiende el traslado y ataca a Carrascal; no discute el protocolo, la autorización ni el costo del uso de la lancha [F1][F2][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.infobae.com/colombia/2026/11/16/duro-rifirrafe-entre-mafe-carrascal-y-el-vocero-presidencial-miller-soto-por-traslado-de-la-hija-de-abelardo-de-la-espriella-en-embarcacion-de-la-armada-en-cartagena-se-les-cae-el-discursito/",
+              "note": "Confirma el traslado, la respuesta oficial de Miller Soto, las críticas de Carrascal sobre austeridad y el derecho de petición; aporta el contexto del debate político.",
+              "host": "infobae.com",
+              "title": "Duro rifirrafe entre Mafe Carrascal y el vocero presidencial Miller Soto por traslado de la hija de Abelardo de la Espriella en embarcación de la Armada en Cartagena: “Se les cae el discursito”",
+              "image": "https://www.infobae.com/resizer/v2/FLSV566GARFLPI2MSUTYQTNYTY.jpg?auth=9d78c2accb81ac2a1187c966e564874527359c63433c16e3ce86b85e9caec9e3&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/11/15/no-hay-nada-irregular-miller-soto-por-criticas-a-hija-del-presidente-por-uso-de-lancha-de-armada/",
+              "note": "Cita textual de la Presidencia: el traslado obedeció a necesidad de transporte por vía marítima y «no hay nada irregular»; niega que fuera una fiesta.",
+              "host": "caracol.com.co",
+              "title": "“No hay nada irregular”: Miller Soto por críticas a hija del presidente por uso de lancha de Armada",
+              "image": "https://caracol.com.co/resizer/v2/XGHWTOHTJBFCNANINCWX5J7ACE.jpg?auth=8bb0ea098f4b3438fed84a33431fa254fe86058a01ca288f7d92dee75545d80c&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.publimetro.co/noticias/2026/11/15/mafe-carrascal-cuestiono-presencia-de-hija-de-abelardo-de-la-espriella-en-embarcacion-de-la-armada-durante-el-festival-nautico/",
+              "note": "Contraste clave: documenta la presencia de la hija y el operativo de la Armada en el Festival, pero aclara que no hay evidencia pública de uso privado ni pronunciamiento oficial de la Armada.",
+              "host": "publimetro.co",
+              "title": "Mafe Carrascal cuestionó presencia de hija de Abelardo de La Espriella en embarcación de la Armada durante el Festival Náutico",
+              "image": "https://www.publimetro.co/resizer/v2/DKJ2ALT2KJDU7AA5JFT2ZNODXM.png?smart=true&auth=5af3927a0cfbe0cf9db4bcc8be0ec49402e55ec08b21512e1475c4b98b8f5f23&width=1200&height=630"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/hija-abelardo-lancha-armada-nacional-polemica-GC43639924",
+              "note": "Confirma fecha (14 nov 2026), lugar y versión oficial; aporta precedentes de uso de aeronaves oficiales por familiares de presidentes (Petro, Duque) para el debate sobre doble vara.",
+              "host": "elcolombiano.com",
+              "title": "PolÃ©mica por uso de lancha de la Armada para movilizar a la hija de Abelardo y sus amigas: Â¿quÃ© respondiÃ³ el Gobierno?",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1080x720/0c0/0d0/none/11101/VENI/hija-abelardo_52148018_20261116093347.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "seguridad",
+          "claim": "El Estado destina un esquema de seguridad costoso a Rodrigo Londoño, alias 'Timochenko'.",
+          "quote": "no se queja de todo lo que gastamos en seguridad para dos pederastas como Timochenko y Tornillo",
+          "figures": [
+            "6 vehículos blindados",
+            "16 escoltas",
+            "335 millones"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El dato central es cierto: el Estado mantiene un esquema de seguridad cuantioso para Rodrigo Londoño ('Timochenko'), confirmado por el director de la UNP ante la Cámara de Representantes (6 vehículos blindados y 16 escoltas, por un costo estimado de más de $335 millones mensuales y más de $4.028 millones anuales) [F3][F4][F5]. Lo que no tiene respaldo en las fuentes es el calificativo de 'pederastas' y la paralela mención a 'Tornillo', que se enuncian como insultos sin evidencia citable [F3][F4][F5].",
+          "context": "El esquema fue expuesto el 29 de septiembre de 2026 por el director de la UNP, Didier Blanco, en la Comisión Segunda de la Cámara, en un debate sobre el presupuesto de la entidad: 16 escoltas (unos $220,8 millones mensuales), 6 blindadas (unos $107,4 millones), combustible y peajes, para un total estimado de $335.673.142 mensuales y $4.028.077.704 anuales, sin incluir armas, chalecos ni comunicaciones [F3][F4]. Londoño pidió ampliación y la UNP la negó tras un estudio de riesgo; la protección se mantiene por su condición de firmante del Acuerdo de Paz, con vigilancia de la CIDH [F3][F4][F5]. En la misma sesión se expuso el esquema de Juliana Guerrero ($739 millones entre marzo de 2025 y septiembre de 2026) y que la UNP protege a unas 12.000 personas [F5]. La nueva administración retiró esquemas a cercanos del expresidente Petro en septiembre de 2026 [F5].",
+          "progressivePerspective": "A la luz del marco de verdad, justicia, reparación y no repetición, dos lecturas distintas. Por un lado, la pregunta por el costo del esquema es legítima y abona a la transparencia: la cifra está confirmada por un funcionario en un debate de control político y merece rendición de cuentas [F3][F4][F5]. Por otro lado, el esquema no es un favor discreto: responde a la obligación estatal derivada del Acuerdo de Paz y a estándares de la CIDH, y Londoño es un máximo responsable sancionado por la JEP con una sanción propia de ocho años por crímenes de lesa humanidad y secuestros, con más de 700 víctimas acreditadas en los casos 10 y 11 [F2][F3]. El calificativo de 'pederastas' no aporta verdad, no está respaldado por ninguna fuente y no abona al esclarecimiento de los hechos ni a la reparación de víctimas: sustituye la verificación por el insulto [F3][F4][F5]. Sobre 'Tornillo' las fuentes entregadas no contienen información alguna, por lo que no es posible verificarlo [sin_evidencia]. El gasto es real y merece control político, pero el video lo usa como whataboutism: el costo del esquema de Timochenko no responde a la pregunta sobre la lancha de la hija del presidente ni demuestra que el traslado fuera irregular [F3][F4][F5].",
+          "whatTheyOmit": "Omite que la protección obedece a la condición de firmante del Acuerdo de Paz, a evaluaciones de riesgo y a compromisos internacionales vigentes ante la CIDH, y que la UNP negó la ampliación solicitada [F3][F4][F5]. Omite el contexto presupuestal: 12.000 personas protegidas por la UNP y la revisión en curso de esquemas de exfuncionarios del gobierno anterior [F5]. Omite la magnitud de la responsabilidad de Londoño ante la JEP (imputado por crímenes de lesa humanidad y de guerra, más de 700 víctimas acreditadas) y su sanción propia de ocho años, dato necesario para juzgar la relación entre costo y obligación estatal [F2][F3]. Y no aporta fuente alguna para el insulto central ni para la mención de 'Tornillo' [F3][F4][F5].",
+          "keyFacts": [
+            "El director de la UNP, Didier Blanco, confirmó el 29 de septiembre de 2026 ante la Comisión Segunda de la Cámara que Rodrigo Londoño cuenta con 6 vehículos blindados y 16 hombres de protección [F3][F4][F5]",
+            "El costo estimado del esquema supera los $335 millones mensuales y los $4.028 millones anuales, sin incluir armamento, chalecos ni sistemas de comunicación [F3][F4]",
+            "Londoño solicitó ampliar su esquema y la UNP lo negó tras un estudio de riesgo [F3][F4][F5]",
+            "La protección se mantiene por su condición de firmante del Acuerdo de Paz, con vigilancia de la CIDH según declaró el director de la UNP [F3][F4][F5]",
+            "La JEP imputó a Londoño como máximo responsable por crímenes de lesa humanidad y de guerra, con más de 700 víctimas acreditadas en los casos 10 y 11; cumple una sanción propia de ocho años [F2][F3]",
+            "En la misma sesión se expuso que el esquema de Juliana Guerrero costó $739 millones entre marzo de 2025 y septiembre de 2026, y que la UNP protege a unas 12.000 personas [F5]",
+            "El calificativo de 'pederastas' aplicado a Londoño y la mención a 'Tornillo' no tienen respaldo en las fuentes entregadas [sin_evidencia]"
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/jep-imputo-a-timochenko-alape-y-otros-exfarc-por-crimenes-de-lesa-humanidad/",
+              "note": "Aporta el marco judicial: imputación de la JEP a Londoño por crímenes de lesa humanidad y guerra, más de 700 víctimas acreditadas; útil para dimensionar su condición de máximo responsable.",
+              "host": "lasillavacia.com",
+              "title": "JEP imputó a Timochenko, Alape y otros exFarc por crímenes de lesa humanidad",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/11/Alape_Londono_JEP-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/10/04/esta-es-la-millonada-que-le-costaria-al-estado-el-esquema-de-seguridad-de-timochenko-cuenta-con-6-vehiculos-blindados-y-16-escoltas/",
+              "note": "Fuente principal: cifras del esquema, declaración de Didier Blanco, negativa de ampliación, sanción propia de ocho años de la JEP y vigilancia de la CIDH.",
+              "host": "infobae.com",
+              "title": "Esta sería la millonada que le costaría al Estado el esquema de seguridad de ‘Timochenko’: cuenta con 6 vehículos blindados y 16 escoltas",
+              "image": "https://www.infobae.com/resizer/v2/2GR5QATCBRFG5M3JGNMBFFX52Y.jpeg?auth=2f8b5e00879c6c2d5d6f1c8ffbbbed94f9631a0d08f72836167a4bc5e54f1f69&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.minuto60.com/colombia/cuanto-cuesta-seguridad-timochenko-estado-6-vehiculos-blindados-16-escoltas/16559",
+              "note": "Confirma y desglosa las mismas cifras y la condición de firmante del Acuerdo de Paz; aporta el contraste con otros esquemas.",
+              "host": "minuto60.com",
+              "title": "¿Cuánto le cuesta al Estado la seguridad de ‘Timochenko’? Tiene 6 vehículos blindados y 16 escoltas",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/rodrigo-londono-timochenko-20261004-201721_20261004_201721_twitter.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elheraldo.co/colombia/2026/09/29/unp-revela-millonario-costo-de-esquema-de-seguridad-de-juliana-guerrero-y-niega-mas-escoltas-para-timochenko/",
+              "note": "Contexto institucional: revisión de esquemas de exfuncionarios, esquema de Juliana Guerrero ($739 millones), 12.000 personas protegidas y negativa de ampliación.",
+              "host": "elheraldo.co",
+              "title": "UNP revela millonario costo de esquema de seguridad de Juliana Guerrero y niega más escoltas para ‘Timochenko’",
+              "image": "https://www.elheraldo.co/resizer/v2/JR7QWWCF7NB4HP2OUB375I4MAM.jpg?smart=true&auth=35ec12573f6ef2f24d9661a98618d20bbba0e32d104f1a8c7360aa088ea5533a&width=1200&height=675"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "justicia",
+          "claim": "Verónica Alcocer usó aviones oficiales para transportar cocaína a Venezuela.",
+          "quote": "la bailarina de los aceites milagrosos lo cogió para llevarme cato en polvo venezuela",
+          "figures": [
+            "Venezuela"
+          ],
+          "verdict": "engañoso",
+          "headline": "Engañoso: presenta una denuncia como hecho probado",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación se enuncia como hecho consumado, pero las fuentes la respaldan únicamente como acusación no probada: proviene del testimonio de Eva Ferrer en una entrevista a Semana, la Procuraduría y la Presidencia han ordenado indagaciones y, según los propios medios, 'las afirmaciones de Ferrer no han sido demostradas judicialmente y todavía no existe una conclusión de las autoridades' [F3][F2]. Lo que está documentado es que se abrió una indagación oficial, no que el transporte de estupefacientes haya sido probado [F3][F4].",
+          "context": "Eva Ferrer, exasesora de Alcocer, declaró en Semana (10 de octubre de 2026) que la exprimera dama habría viajado a Venezuela en avión oficial y habría traído 2,5 millones de dólares, y que 'parece que hay fotos' descendiendo con maletas con droga; la propia fuente precisa que la información le llegó por terceros y que no da detalles del supuesto tráfico [F2]. El presidente De la Espriella ordenó una investigación exhaustiva en el CATAM a la Inspección General y contrainteligencia de la Fuerza Aérea, pidiendo además revisión de la Fiscalía, la Corte, la Procuraduría y autoridades estadounidenses; hasta ahora 'no se han divulgado resultados oficiales que confirmen' irregularidades y no hay condena [F3]. Estados Unidos manifestó estar 'al tanto' de los reportes, lo que no equivale a una investigación iniciada ni a una demostración [F4]. La inclusión de Alcocer en la lista OFAC se sustenta en la Orden Ejecutiva 14059 por haber proporcionado apoyo a Gustavo Petro, no por narcotráfico, y esa mención no constituye por sí sola una decisión judicial sobre las acusaciones recientes [F4]. Alcocer negó los señalamientos ante la Fiscalía [F2].",
+          "progressivePerspective": "En el marco de verdad y debido proceso, este encuadre hace lo contrario de aclarar: presenta como certeza una denuncia en investigación, lo que desdibuja la línea entre acusación y sentencia. Verificar un presunto uso de bienes públicos para fines ilícitos es legítimo y abona a la rendición de cuentas, pero convertirlo en veredicto sin prueba judicial prematura desconoce el estándar probatorio. Además, la cita se formula con apodo e insulto escatológico, recurso que no esclarece la verdad y degrada el debate [F2][F3][F4].",
+          "whatTheyOmit": "Omite que se trata de una denuncia en indagación sin resultado judicial ni prueba concluyente, según los propios medios [F3]. Omite la negativa de Alcocer ante la Fiscalía [F2]. Omite que la presencia en la lista OFAC obedece a otra causal (apoyo a Petro) y no a narcotráfico [F4]. Omite que parte de lo que afirma Ferrer se basa en terceros y en la supuesta existencia de fotos, no en conocimiento directo, y que los 2,5 millones de dólares provienen del relato de Manel Grau, no de evidencia documental [F2].",
+          "keyFacts": [
+            "Eva Ferrer, exasesora de Verónica Alcocer, acusó en una entrevista a Semana (10 de octubre de 2026) que Alcocer usó un avión oficial para transportar droga a Venezuela y traer 2,5 millones de dólares [F2]",
+            "Las afirmaciones de Ferrer 'no han sido demostradas judicialmente' y no existe conclusión de autoridades que confirme que aeronaves del Estado transportaron drogas o dinero ilegal [F3]",
+            "El presidente De la Espriella ordenó una investigación exhaustiva en el CATAM a la Inspección General y contrainteligencia de la Fuerza Aérea, y pidió revisión de Fiscalía, Corte, Procuraduría y autoridades de EE. UU.; aún no hay resultados ni sanciones [F3]",
+            "El Departamento del Tesoro de EE. UU. confirmó que Alcocer permanece en la lista OFAC en virtud de la Orden Ejecutiva 14059 por haber proporcionado apoyo a Gustavo Petro, lo que 'no constituye, por sí sola, una decisión de autoridades judiciales colombianas sobre las acusaciones recientes' [F4]",
+            "Verónica Alcocer negó los señalamientos en una comunicación a la Fiscalía, afirmando que 'carecen de todo sustento y no corresponden a la realidad' [F2]",
+            "Ferrer afirmó que su información sobre los vuelos provino de terceros (Manel Grau) y que 'parece que hay fotos', sin aportar pruebas directas del supuesto tráfico [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/eva-ferrer-acusa-a-veronica-alcocer-de-traficar-droga-a-venezuela/",
+              "note": "Detalla el origen de la acusación: testimonio de Eva Ferrer en Semana, basado en terceros, sin pruebas directas; incluye la negativa de Alcocer ante la Fiscalía. Fuente central para establecer que es una denuncia, no un hecho probado.",
+              "host": "lasillavacia.com",
+              "title": "Eva Ferrer acusa a Verónica Alcocer de traficar droga a Venezuela",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/08/Eva-Ferrer-Veronica-Alcocer.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.publimetro.co/noticias/2026/10/11/transportaron-drogas-y-millones-de-dolares-en-aviones-oficiales-de-la-espriella-ordeno-investigar-graves-denuncias-contra-veronica-alcocer/",
+              "note": "Confirma que se abrió investigación oficial (CATAM) y afirma explícitamente que las afirmaciones de Ferrer no han sido demostradas judicialmente y que no hay conclusiones de autoridades. Contraste clave con la afirmación del video.",
+              "host": "publimetro.co",
+              "title": "¿Transportaron drogas y millones de dólares en aviones oficiales? De la Espriella ordenó investigar graves denuncias contra Verónica Alcocer",
+              "image": "https://www.publimetro.co/resizer/v2/FGHAU2OMXFG4ZIB3I4BWIFSI5Q.png?smart=true&auth=9c3e7a061fc7d572e6cbf79b0b7a9da15ac387e6764268c3dbcfbfc2c2cbe0be&width=1200&height=630"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/10/14/gobierno-trump-estaba-al-tanto-de-que-veronica-alcocer-uso-un-avion-oficial-para-presuntamente-transportar-narcoticos-armas-y-dolares-desde-venezuela/",
+              "note": "Aporta el componente internacional: EE. UU. 'está al tanto' de los reportes (no de una investigación concluida) y confirma que la inclusión en la lista OFAC responde a apoyo a Petro, no a narcotráfico, y no es decisión judicial.",
+              "host": "infobae.com",
+              "title": "Gobierno Trump “estaba al tanto” de que Verónica Alcocer usó un avión oficial para presuntamente transportar narcóticos, armas y dólares desde Venezuela",
+              "image": "https://www.infobae.com/resizer/v2/CY2EQAJRNRECPH4IXU6HMVCBZQ.jpg?auth=677b4c388af3e25173fb9ebf4a375ef6f8c32ef88287a2dfd3587a31b75bb518&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "economia",
+          "claim": "Desde la Presidencia se ordenaban mesadas mensuales a Verónica Alcocer y sus hijas en Francia y Suecia.",
+          "quote": "esas asmesadas mensuales que ordenaba girar desde la presidencia a la bricona y a las retoñas allá a Francia, París, Suecia",
+          "figures": [
+            "mensuales",
+            "Francia",
+            "Suecia"
+          ],
+          "verdict": "engañoso",
+          "headline": "Engañoso: generaliza un informe sobre giros",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes respaldan parcialmente que existieron giros de dinero desde Colombia hacia Verónica Alcocer, según un informe de la UIAF, pero no confirman que se tratara de 'mesadas mensuales ordenadas desde la Presidencia' ni que se extendieran a sus hijas en Francia y Suecia. La afirmación del video añade detalles (mesadas mensuales, hijas, Francia) que no están en las fuentes [F3].",
+          "context": "Según El Colombiano, un informe de la UIAF (pedido por el propio Gobierno) señala que Petro 'ha seguido girando dinero a Alcocer y a una de sus mejores amigas, Carolina Plata Navas'. También se reporta que Petro compró euros por cerca de 321 millones de pesos. Sin embargo, el informe habla de 'giros' de dinero, no específicamente de 'mesadas mensuales' desde la Presidencia. Además, Petro declaró públicamente que Alcocer 'no gasta un peso del erario colombiano' y que su situación es de separación hace años [F3]. La familia Petro-Alcocer se separó públicamente en octubre de 2025, con Petro diciendo que estaban 'separados hace años' [F2]. Las hijas Sofía y Antonella son hijas menores de ambos, pero no hay evidencia en las fuentes de que recibieran mesadas desde la Presidencia en Francia [F2][F3].",
+          "progressivePerspective": "El marco de verdad y transparencia exige distinguir entre lo documentado y lo especulativo. El informe de la UIAF sí señala giros de dinero hacia Alcocer, lo cual es un dato relevante para la rendición de cuentas y el uso de recursos públicos [F3]. Sin embargo, presentarlo como 'mesadas mensuales desde la Presidencia a las hijas en Francia y Suecia' excede lo que las fuentes establecen. El video aprovecha un hecho parcialmente respaldado (giras de dinero hacia Alcocer) para construir una narrativa más amplia y con más detalles de los que la evidencia soporta, lo cual dificulta el esclarecimiento preciso de la verdad [F3]. Un análisis riguroso requeriría señalar tanto lo que el informe de la UIAF sí documenta como lo que no queda claro [F3].",
+          "whatTheyOmit": "El video omite que el informe de la UIAF habla de 'giros de dinero' hacia Alcocer, no específicamente de 'mesadas mensuales' desde la Presidencia, y no menciona hijas en Francia [F3]. Omite también la declaración de Petro de que Alcocer 'no gasta un peso del erario colombiano' y la afirmación de que su relación con Alcocer es de separación hace años [F3][F2]. No se presenta el contexto de que la denuncia de Eva Ferrer sobre Alcocer no ha aportado pruebas hasta la fecha [F1], y las acusaciones más graves sobre ella se sostienen 'sólo sobre su palabra' [F1].",
+          "keyFacts": [
+            "Un informe de la UIAF (pedido por el Gobierno) señala que Petro ha seguido girando dinero a Verónica Alcocer y a Carolina Plata Navas, con montos de entre 5 y 6 millones de pesos en el caso de Plata [F3]",
+            "Petro declaró que compró euros por cerca de 321 millones de pesos, según El Tiempo [F3]",
+            "No hay evidencia en las fuentes de que se hayan ordenado 'mesadas mensuales' desde la Presidencia ni de que se extendieran a las hijas del presidente en Francia [F3]",
+            "Petro afirmó públicamente que Alcocer 'no gasta un peso del erario colombiano' y que su situación es de separación hace años [F3]",
+            "La separación de Petro y Alcocer fue confirmada en octubre de 2025, con Petro diciendo que estaban 'separados hace años' [F2]",
+            "Las acusaciones graves de Eva Ferrer sobre Alcocer se sostienen 'sólo sobre su palabra' y no presentó pruebas hasta la fecha [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/tag/veronica-alcocer/",
+              "note": "Documenta que las acusaciones graves de Eva Ferrer sobre Alcocer se sostienen sólo sobre su palabra, sin pruebas presentadas hasta la fecha; también documenta montajes y desinformación en torno al caso",
+              "host": "lasillavacia.com",
+              "title": "Verónica Alcocer Archives",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.wikipedia.org/wiki/Verónica_Alcocer",
+              "note": "Confirma la separación de Petro y Alcocer en octubre de 2025 y datos sobre las hijas del presidente",
+              "host": "es.wikipedia.org",
+              "title": "Verónica Alcocer - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Veronica_Alcocer_2023.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/red-amigos-intimos-negocios-favores-veronica-alcocer-suecia-OD31013195",
+              "note": "Única fuente que menciona el informe de la UIAF con giros de dinero hacia Alcocer y Plata; también recoge la declaración de Petro de que Alcocer no gasta del erario. Aporta el dato central pero no respalda la formulación específica del video sobre 'mesadas mensuales' o hijas en Francia",
+              "host": "elcolombiano.com",
+              "title": "La red de amigos Ãntimos, negocios y favores de VerÃ³nica Alcocer en Suecia",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/VDPH/diseno-alcocer-png_49287856_20251118223155.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "La visita de Harry y Meghan a Colombia fue pagada en su totalidad por el Estado y surgió tras conocerlos por Netflix.",
+          "quote": "invitó con todos los gastos pagos al país a Harry y a Meghan, los principios de la realeza británica, que porque los conoció por Netflix",
+          "figures": [
+            "2024",
+            "244 millones"
+          ],
+          "verdict": "falso",
+          "headline": "Falso: los duques pagaron sus vuelos y el Estado solo cubrió logística",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "La afirmación tiene dos partes y ninguna se sostiene: (1) la visita NO fue pagada en su totalidad por el Estado: la Vicepresidencia destinó $244.245.305 por logística, movilidad y garantías de participación, pero los duques pagaron sus propios vuelos, su vestimenta y no cobraron honorarios, y el Ministerio de la Igualdad confirmó que financiaron su viaje y el de su equipo [F3][F4][F5]; (2) ninguna fuente indica que la invitación surgiera de conocerlos por Netflix: fue extendida por la vicepresidenta Francia Márquez, y el presidente Petro no participó en la visita [F2][F3].",
+          "context": "La visita de Harry y Meghan a Colombia se realizó del 15 al 18 de agosto de 2024, invitados por la vicepresidenta Francia Márquez [F3][F4]. Tras un derecho de petición de la senadora María Fernanda Cabal, la Vicepresidencia reveló que entre el 12 y el 18 de agosto se destinaron $244.245.305 colombianos para requerimientos técnicos, movilidad y garantías de participación de sujetos de especial protección constitucional [F3]. Por su parte, el Ministerio de la Igualdad resaltó que los duques financiaron con sus propios recursos su viaje y el de su equipo [F3]; los tiquetes fueron comprados por los propios duques [F5], la vestimenta de Meghan fue propia [F5] y no cobraron honorarios [F5]. El gobierno sí costeó algunas movilizaciones internas, la alimentación y esfuerzos del 'Foro Mujeres Afro y Poder' en Cali [F5]. Rumores de un gasto de $8000 millones y de 3000 hombres de seguridad fueron calificados de infundados [F4][F5]. Sobre el origen de la invitación en Netflix no existe respaldo en las fuentes entregadas: según estas, la invitación fue de la vicepresidenta Márquez, quien ve a los duques como 'símbolo de resistencia y rebeldía' [F2][F3].",
+          "progressivePerspective": "Desde el marco de rendición de cuentas y transparencia, la pregunta sobre cuánto y quién pagó una visita de celebridades internacionales con recursos públicos es legítima: el propio derecho de petición de la senadora Cabal y la respuesta de la Vicepresidencia muestran que la cifra de $244.245.305 existía y era verificable [F3]. Sin embargo, la afirmación analizada distorsiona ese dato en dos sentidos: exagera al decir que el Estado pagó 'la totalidad' cuando las fuentes documentan que los duques asumieron vuelos, vestimenta y honorarios [F3][F4][F5], y añade un origen de la invitación ('por Netflix') que ninguna fuente respalda [F2][F3]. Presentar como hechos probados datos parciales o no verificados deteriora precisamente lo que hace sólida una crítica: la exactitud, que es condición de toda verificación honesta y de la no repetición de la desinformación [F3][F5].",
+          "whatTheyOmit": "Omite que los duques pagaron sus propios tiquetes, su vestimenta y no cobraron honorarios, y que el Ministerio de la Igualdad confirmó el financiamiento privado de su viaje y el de su equipo [F3][F4][F5]. Omite la magnitud real de lo sí cubierto por el Estado ($244.245.305) y su destino específico (logística, movilidad, garantías de participación) [F3]. Omite que la invitación fue de la vicepresidenta Francia Márquez y que Petro no participó en la visita [F2][F3]. Omite que los rumores de $8000 millones y de 3000 hombres de seguridad ya fueron desmentidos [F4][F5]. Y omite cualquier fuente para el origen 'Netflix' de la invitación, que queda sin evidencia en los documentos disponibles.",
+          "keyFacts": [
+            "La Vicepresidencia destinó $244.245.305 colombianos entre el 12 y el 18 de agosto de 2024 para requerimientos técnicos, movilidad y garantías de participación de la visita [F3].",
+            "El Ministerio de la Igualdad resaltó que los duques de Sussex financiaron con sus propios recursos su viaje y el de su equipo de trabajo [F3].",
+            "Los duques pagaron sus propios tiquetes aéreos [F4][F5] y no cobraron honorarios por su presencia [F4][F5].",
+            "La vestimenta de Meghan Markle fue propia, no contratada por el gobierno [F5].",
+            "El gobierno sí cubrió algunas movilizaciones internas, la alimentación y esfuerzos del foro en Cali [F5].",
+            "La visita fue invitada por la vicepresidenta Francia Márquez; el presidente Petro no participó [F2][F3].",
+            "Ninguna fuente entregada menciona a Netflix como origen de la invitación: ese dato queda sin evidencia.",
+            "Rumores de $8000 millones de gasto y de 3000 hombres de seguridad fueron calificados de infundados [F4][F5]."
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/pacifico/lo-que-dejo-la-visita-de-meghan-y-harry-organizada-por-francia-marquez/",
+              "note": "Acredita que la visita fue organizada e invitada por la vicepresidenta Francia Márquez, con su agenda de cuatro días; Petro no participó. No menciona Netflix.",
+              "host": "lasillavacia.com",
+              "title": "Lo que dejó la visita de Meghan y Harry organizada por Francia Márquez",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/08/53936545298_3ebaa4e1aa_k-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://nacioncolombia.com/cuanto-costo-la-visita-de-los-duques-a-colombia-y-quien-asumio-la-factura/",
+              "note": "Cifra oficial de $244.245.305 por logística, movilidad y garantías de participación, y confirma que los duques financiaron con sus recursos su viaje y el de su equipo.",
+              "host": "nacioncolombia.com",
+              "title": "¿Cuánto costó la visita de los duques a Colombia y quién asumió la factura? - Nación Colombia",
+              "image": "https://nacioncolombia.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-09-01-a-las-10.32.08 p.-m.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elespectador.com/revista-vea/realeza/cuanto-costo-la-visita-de-meghan-y-harry-a-colombia-y-quien-la-pago/",
+              "note": "Los duques habrían asumido los costos de su visita: pagaron sus tiquetes y no cobraron honorarios; desmiente el rumor de $8000 millones y de 3000 personas de seguridad.",
+              "host": "elespectador.com",
+              "title": "¿Cuánto costó la visita de Meghan y Harry a Colombia y quién la pagó?",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/FE2I5IWORNESNCNVUPH7HHI5OI.jpeg?resize=1200,630"
+            },
+            {
+              "ref": "F5",
+              "url": "https://caracol.com.co/2024/08/20/cuanto-costo-la-visita-del-principe-harry-y-meghan-markle-a-colombia/",
+              "note": "Precisa qué cubrió el gobierno (movilizaciones internas, alimentación, foro en Cali) y qué pagaron los duques (tiquetes, ropa, sin honorarios); desmiente los rumores de gasto exagerado.",
+              "host": "caracol.com.co",
+              "title": "¿Cuánto costó la visita del príncipe Harry y Meghan Markle a Colombia?",
+              "image": "https://caracol.com.co/resizer/v2/QI2ZBMLPANBDNHLYC45ZFA5IWY.jpg?auth=b0e01aaed3e04fb6304c5b883a05136efe73a392e3897c089b43306f9d774615&quality=70&width=1200&height=675&smart=true"
             }
           ]
         }
