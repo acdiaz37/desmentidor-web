@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T09:42:25",
+  "generatedAt": "2026-11-17T10:56:18",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -8232,6 +8232,438 @@
               "host": "elheraldo.co",
               "title": "Escándalo en la DNI de Petro: espionaje a expresidentes e interferencia en elecciones",
               "image": "https://www.elheraldo.co/resizer/v2/EZWDRM7M2NDS3DRAUPVPHQZQNQ.jpg?smart=true&auth=8e3662577ee4201830ac5a70ad00dab6782e4af07733b53feb8898bbbe701c36&width=1200&height=675"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "petro-petristas-ungrd-monologo",
+      "title": "Petro, los petristas y la UNGRD: lo verificable de un monólogo de insultos",
+      "uploader": "Guillermo Portocarrero Psi",
+      "url": "https://m.facebook.com/watch/?v=1061960953523431&_rdr",
+      "duration": 600.041,
+      "thumbnail": "/media/petro-petristas-ungrd-monologo/thumb.jpg",
+      "conclusion": "## Un monólogo donde lo verificable y lo atribuido conviven sin distinción\n\nEl video construye una narrativa de acumulación: encadena una serie de hechos y acusaciones sobre Gustavo Petro, su entorno y su familia de modo que la cantidad misma de los elementos funcione como demostración. El efecto de esta presentación es producir la impresión de que existe un patrón único —corrupción, contradicción moral y desprecio por el ciudadano— del cual cada fragmento sería una muestra más. Esa sensación de solidez se apoya en datos que sí tienen base real: los días acumulados fuera del país son un registro documentado y contrastado por varios medios, la contradicción entre la oposición a la compra de aviones y el anuncio de los Gripen está fechada, y el caso de Nicolás Petro incluye admisiones, acusación formal y testimonios sobre el origen del dinero.\n\nEl problema no está en esos datos, sino en el lugar exacto donde el video pasa de \"esto ocurrió y es cierto\" a \"por lo tanto, la realidad es esta\". Ese punto de quiebre aparece en tres momentos concretos. Primero, cuando las acusaciones penales se enuncian en pretérito consumado: que Olmedo López y Velasco \"se robaron\" la UNGRD o que Verónica Alcocer \"usó aviones oficiales para llevar droga\" convierten investigaciones abiertas, sin sentencia y con juicios aplazados o indagaciones preliminares, en hechos cerrados. Segundo, cuando se omite el contexto que cambia el sentido de lo dicho: la frase sobre los pobres que \"se vuelven de derecha\" corresponde a una explicación electoral de 2021 que incluía la aclaración \"no se trata de que la gente sea pobre, se trata de que deje de ser pobre\", y ningún registro respalda la existencia de \"videos buscando prostitutas con dinero público\", como tampoco existen pruebas documentales del uso de aeronaves para transporte de drogas. Tercero, cuando una cifra verdadera se presenta sin denominador ni precisión: los 265 días no coinciden con ningún corte publicado y se omite que la mayoría de los viajes fueron cumbres y visitas de Estado con encuentros de jefes de Estado, así como el escrutinio institucional en curso.\n\nLo que cambia al analizar estos mismos datos con su contexto completo es sustancial: parte de la narrativa se sostiene sobre acusaciones en trámite presentadas como condenas, sobre paráfrasis que invierten el sentido de declaraciones reales y sobre afirmaciones sin respaldo documental. Una interpretación más completa y razonable es que existen críticas verificables y graves al uso del viaje oficial, a las contradicciones de gobierno y a los vínculos financieros de la familia Petro, pero que el video las mezcla con atribuciones no sustentadas, y esa mezcla —no los datos verdaderos— es lo que termina deformando la representación de la realidad que ofrece al espectador.",
+      "conclusionLabel": "A medias",
+      "conclusionColor": "lime",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Petro estuvo 265 días por fuera del país durante su gobierno.",
+          "quote": "cuando Petro empezó a viajar por todo el mundo y estuvo 265 días por fuera del país",
+          "figures": [
+            "265 días"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "Mayormente verdadero: la cifra depende del corte",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La cifra de 265 días es plausible pero no coincide exactamente con ningún corte publicado: los registros documentan 258 días (El Tiempo, hasta septiembre de 2025), 259 días (La Silla Vacía, hasta mayo de 2026) y 276 días (Infobae y La República, incluyendo viajes programados hasta abril de 2026). El dato de fondo —que Petro es el presidente con más días acumulados fuera del país en la historia registrada, cerca de nueve meses o ~18% de su mandato— sí está ampliamente respaldado [F1][F3][F4][F5].",
+          "context": "El número exacto varía según la fecha de corte y la fuente: El Tiempo contabilizó 258 días y 62 decretos de encargo del Dapre [F5]; La Silla Vacía, con dos derechos de petición al Dapre hasta mayo de 2026, contabilizó 65 viajes a 32 países por 259 días, el 18% de los cuatro años de gobierno, la cifra más alta desde que esa organización tiene registros, superando a todos los presidentes desde Pastrana [F1]; Infobae y La República, citando derechos de petición del representante Julio César Triana, reportan 276 días una vez culminada la gira de abril de 2026, con un costo de más de USD 2,5 millones (cerca de $9.000 millones) en transporte, alojamiento y alimentación [F3][F4]. El mismo tema generó una propuesta legislativa: un proyecto de acto legislativo radicado en la Cámara en septiembre de 2025 busca limitar el presidente a seis viajes anuales sin autorización del Congreso [F5]. Además, 65 de los viajes analizados se realizaron en un contexto de alta actividad diplomática: según La Silla Vacía, en el 85% de los viajes Petro se reunió con jefes de Estado, y el grueso correspondió a cumbres y asambleas de organismos internacionales [F1], en línea con el perfil de política exterior descrito por Razón Pública, que describe un presidente 'muy activo' en el ámbito internacional [F2].",
+          "progressivePerspective": "La afirmación sobre los días fuera del país es verificable y, con los matices de corte, mayormente exacta; el dato en sí mismo no está en discusión. Lo que exige análisis es el uso que se hace de él: presentar la cifra aisladamente como prueba de abandono del país omite que la mayoría de esos desplazamientos fueron viajes oficiales de Estado, reuniones bilaterales y cumbres multilaterales (clima, paz total, política de drogas) documentados en el 85% de los viajes [F1], y omite el debate institucional que el hecho ya genera por otras vías: la rendición de cuentas vía derechos de petición, el escrutinio periodístico y una propuesta de reforma constitucional en el Congreso [F3][F4][F5]. En términos de rendición pública, la transparencia de los datos (Dapre, congresistas, medios) permite contrastar cifras y corregir imprecisiones, lo que abona a una discusión informada; en cambio, convertir un registro de viajes en una sentencia moral ('se burló de sus votantes') sin distinguir entre actividad diplomática legítima, exceso eventual e imputación de responsabilidad corresponde a la opinión y no al dato [F1][F2].",
+          "whatTheyOmit": "El video no precisa la fecha de corte ni la fuente de los 265 días (cifra intermedia que no coincide con ningún registro publicado: 258, 259 o 276) [F1][F5][F3][F4]. Tampoco menciona que la mayoría de los viajes fueron cumbres, asambleas multilaterales y visitas de Estado, y que en el 85% de ellos hubo encuentros con jefes de Estado [F1]; ni que los datos provienen de derechos de petición y han sido contrastados por medios y por el Congreso, lo que muestra un escrutinio institucional en curso en lugar de ausencia de control [F3][F4][F5].",
+          "keyFacts": [
+            "La Silla Vacía registró 65 viajes internacionales a 32 países por 259 días fuera de Colombia durante los cuatro años de gobierno de Petro, cerca del 18% del mandato [F1]",
+            "El Tiempo contabilizó 258 días fuera del país y 62 decretos del Dapre que anuncian viajes y ministro en encargo, hasta septiembre de 2025 [F5]",
+            "Infobae y La República, citando derechos de petición del representante Julio César Triana, reportan 276 días y 65 viajes al culminar la gira de abril de 2026 [F3][F4]",
+            "Con 259 días, Petro es el presidente colombiano con más días acumulados fuera del país desde que La Silla tiene registros, superando a todos sus antecesores desde Pastrana [F1]",
+            "Los viajes costaron más de USD 2,5 millones (cerca de $9.000 millones) en transporte, alojamiento y alimentación hasta diciembre de 2025, según Triana [F3][F4]",
+            "En el 85% de los viajes Petro se reunió con jefes de Estado, y el grueso correspondió a cumbres y asambleas de organismos internacionales [F1]",
+            "En septiembre de 2025 se radicó en la Cámara un proyecto de acto legislativo para limitar los viajes presidenciales al exterior a seis por año sin autorización del Congreso [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/65-viajes-al-exterior-de-petro-el-presidente-que-mas-ha-estado-fuera-de-colombia/",
+              "note": "Registro más detallado y con fecha de corte explícita (hasta mayo de 2026): 65 viajes, 259 días, 32 países, 18% del mandato; aporta además el contexto de que en el 85% de los viajes hubo encuentros con jefes de Estado y que es el presidente con más días fuera del país en los registros de La Silla.",
+              "host": "lasillavacia.com",
+              "title": "65 viajes al exterior de Petro, el presidente que más ha estado fuera de Colombia",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/07/PetroViaje.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/la-politica-exterior-del-gobierno-del-cambio-balance-dos-anos/",
+              "note": "Balance analítico de la política exterior del gobierno Petro: confirma el perfil de un presidente 'muy activo' en el ámbito internacional, con foco en medioambiente, política de drogas y paz total; útil para contextualizar la naturaleza de los desplazamientos.",
+              "host": "razonpublica.com",
+              "title": "La política exterior del gobierno del Cambio: un balance de dos años",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/08/politica-exterior-Marcela-y-Francisco.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/04/16/fue-revelada-la-millonaria-cifra-que-gustavo-petro-ha-gastado-en-viajes-internacionales-lleva-casi-un-ano-volando-por-el-mundo/",
+              "note": "Aporta el corte superior de 276 días (incluyendo viajes programados hasta abril de 2026) y el costo de más de USD 2,5 millones; fuente es el representante Julio César Triana vía derecho de petición, con lectura crítica del gasto.",
+              "host": "infobae.com",
+              "title": "Esta sería la millonaria cifra que Gustavo Petro ha gastado en viajes internacionales: ha estado casi un año por fuera del país",
+              "image": "https://www.infobae.com/resizer/v2/BT7FA6G3CVDX3GBVNVGTMUGJIU.png?auth=a8a7402d0f61f363a5f94d32a2c7acf15d2b4c5dca6000c1b8714ed18adbc753&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.larepublica.co/economia/presidente-gustavo-petro-ha-estado-276-dias-fuera-del-pais-por-viajes-internacionales-4373116",
+              "note": "Confirma la cifra de 276 días y 65 viajes, detalla la distribución anual (5, 25, 13, 16 y 6 viajes por año) y señala que los datos provienen de un derecho de petición ante la Presidencia.",
+              "host": "larepublica.co",
+              "title": "Presidente Gustavo Petro ha estado 276 días fuera del país por viajes internacionales",
+              "image": "https://img.lalr.co/cms/2026/04/16182021/Eco_ViajesGustavoPetro_PgX_1080x900.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/politica/gobierno/cuantos-dias-ha-estado-el-presidente-gustavo-petro-fuera-del-pais-durante-su-gobierno-estas-son-las-cifras-detras-de-los-viajes-del-mandatario-3505913",
+              "note": "Aporta el corte inferior (258 días, 62 decretos de encargo) y el contexto institucional: proyecto de acto legislativo para regular viajes presidenciales, lo que muestra que el tema ya está en debate normativo.",
+              "host": "eltiempo.com",
+              "title": "¿Cuántos días ha estado el presidente Gustavo Petro fuera del país durante su gobierno? Estas son las cifras detrás de los viajes del mandatario",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/11/04/690a56f05331c.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "seguridad",
+          "claim": "Olmedo López, Velasco y otros funcionarios se robaron la Unidad Nacional de Gestión del Riesgo.",
+          "quote": "Olmedo López, Velasco y su combo se robaron la unidad de gestión del riesgo",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Existe una investigación y una acusación formal de la Fiscalía ante la Corte Suprema por presunto direccionamiento de contratos de la UNGRD y el Invías, en la que figuran el exministro Luis Fernando Velasco y el entonces director de la entidad, Olmedo López [F3][F4][F5]. Sin embargo, presentar el hecho como consumado (\"se robaron la unidad\") equivale a dar por sentada una condena: no hay sentencia, Velasco fue puesto en libertad, el juicio quedó aplazado hasta febrero de 2027 y él niega los cargos [F4][F5].",
+          "context": "Según la Fiscalía, entre mayo de 2023 y octubre de 2024 se habrían gestionado 79 proyectos por cerca de $612.000 millones de pesos, de los cuales solo siete se concretaron; la acusación describe la relación entre los exministros Velasco y Bonilla como una «empresa criminal» y les atribuye los delitos de concierto para delinquir agravado, interés indebido en la celebración de contratos y cohecho por dar u ofrecer [F3][F4]. El fiscal delegado radicó un escrito de acusación de casi trescientas páginas el 7 de abril, y la acusación contra Bonilla y Velasco se aplazó hasta febrero de 2027 [F3][F4]. Velasco estuvo detenido preventivamente el 18 de diciembre de 2025, luego en detención domiciliaria, y quedó en libertad el 5 de noviembre de 2026 cuando el Tribunal Superior de Bogotá revocó la medida por considerar que no representa un peligro para la comunidad ni para el proceso [F4][F5]. Existe también controversia sobre el alcance de la acusación: la defensa de Bonilla alega que la Fiscalía los acusó de «saquear la Unidad de Riesgo» y luego deslindó el peculado, y Velasco sostiene que fue utilizado como «cortina de humo» [F3][F4].",
+          "progressivePerspective": "Al marco de verdad, justicia, reparación y no repetición aplicable a los crímenes más graves juzgados por la JEP no corresponde directamente este caso, que tramita la justicia ordinaria (Corte Suprema) por corrupción administrativa; conviene no confundir los dos sistemas. Dicho esto, la lógica de la verdad exige separar tres planos: (a) el hecho verificable de que existe una investigación y una acusación formal por presunto saqueo de la UNGRD con cifras concretas de contratos y presuntos intercambios por votos en el Congreso [F3][F4][F5]; (b) la presunción de inocencia, que en este caso ya produjo dos decisiones judiciales favorables a la defensa y la libertad del exministro [F4][F5]; y (c) la afirmación categórica de culpabilidad, que el video presenta como sentencia firme sin que exista condena. Sostener la responsabilidad de los hechos de quien realmente los cometió —incluyendo el deber de reparar a la ciudadanía— es parte de la no repeticción; pero anticipar la condena antes del juicio distorsiona la verdad y debilita tanto la credibilidad de la denuncia como el debido proceso. El reconocimiento de responsabilidad, cuando exista, es de los máximos responsables y no se satisface con la generalización de un «combo».",
+          "whatTheyOmit": "Omite que no hay condena: Velasco fue liberado por el Tribunal Superior de Bogotá y el juicio está aplazado hasta febrero de 2027 [F4][F5]. Omite que la propia acusación tiene controversias abiertas: la defensa cuestiona el descubrimiento probatorio y sostiene que la Fiscalía «sobredimensionó» los cargos y luego descartó el peculado [F4]. Omite que Velasco niega los cargos, afirma que fue «cortina de humo» y promete demostrar su inocencia ante la Corte Suprema [F3]. Omite que de los 79 proyectos solo siete se concretaron, dato que da una magnitud distinta a la de un \"robo\" total de la entidad [F4]. También omite distinguir a los distintos investigados: la fuente disponible solo permite confirmar a Olmedo López como presunto coordinador de Velasco en el direccionamiento de contratos, no a todos los funcionarios mencionados [F5].",
+          "keyFacts": [
+            "Luis Fernando Velasco y Ricardo Bonilla fueron acusados formalmente por la Fiscalía ante la Corte Suprema por concierto para delinquir agravado, interés indebido en la celebración de contratos y cohecho por dar u ofrecer, en el caso de la UNGRD [F3][F4]",
+            "La Fiscalía señala que Velasco habría coordinado el direccionamiento de contratos con Olmedo López, director de la UNGRD, para obtener votos de congresistas a cambio de recursos públicos [F5]",
+            "Según la acusación, entre mayo de 2023 y octubre de 2024 se gestionaron 79 proyectos por cerca de $612.000 millones de pesos, de los cuales solo siete se concretaron [F4]",
+            "El exministro Velasco quedó en libertad el 5 de noviembre de 2026 tras la revocatoria de su detención domiciliaria por el Tribunal Superior de Bogotá [F4][F5]",
+            "El juicio contra Velasco y Bonilla fue aplazado hasta febrero de 2027 por la Corte Suprema de Justicia [F4][F5]",
+            "Velasco niega los cargos, dice que fue usado como «cortina de humo» y afirma que entregará elementos para demostrar su inocencia ante la Corte Suprema [F3]",
+            "No existe sentencia condenatoria en el caso al momento de las fuentes consultadas [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F3",
+              "url": "https://www.lafm.com.co/politica/libertad-luis-fernando-velasco-ministro-interior-tribunal-gestion-del-riesgo-416269",
+              "note": "Da la acusación de la Fiscalía (delitos y presunta coordinación con congresistas), el monto de los contratos, la libertad decretada por el Tribunal y la posición de la defensa, incluida la negativa de Velasco.",
+              "host": "lafm.com.co",
+              "title": "Corrupción UNGRD: Tribunal ordenó la libertad inmediata del exministro Luis Fernando Velasco",
+              "image": "https://files.lafm.com.co/media/news-images/2026/08/06/231218/luis-fernando-velasco-1200x675.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.minuto30.com/luis-fernando-velasco-libertad-tribunal/1727597/",
+              "note": "Detalla la libertad de Velasco, el aplazamiento del juicio a febrero de 2027, la acusación como «empresa criminal», las cifras de 79 proyectos y $612.000 millones, y las críticas de la defensa a la acusación.",
+              "host": "minuto30.com",
+              "title": "Luis Fernando Velasco respira en libertad: el Tribunal le tumbó la detención por el caso UNGRD - Minuto30",
+              "image": "https://staticprd.minuto30.com/wp-content/uploads/2026/11/2-velasco-portada-1.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.vanguardia.com/judicial/2026/11/05/caso-ungrd-luis-fernando-velasco-recupero-su-libertad-tras-decision-judicial/",
+              "note": "Confirma el vínculo investigado entre Velasco y Olmedo López como director de la UNGRD y aclara que sigue respondiendo en el proceso, sin condena.",
+              "host": "vanguardia.com",
+              "title": "Caso Ungrd: Luis Fernando Velasco recuperó su libertad tras decisión judicial",
+              "image": "https://www.vanguardia.com/resizer/v2/HHCN57S6OJBNLDLSZYISA3KCY4.jpg?auth=eb81441499a7eccf325bab6278d48b6ba3a145184935eb0fc8b46b55bf5e9812&smart=true&width=1200&height=630&quality=70"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "Petro dijo que no compraría aviones porque esa plata debía ir a universidades y luego anunció la compra.",
+          "quote": "había dicho que no iba a comprar aviones porque esa plata le iba a separarse en universidades y luego anunció que los iba a comprar",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "Mayormente verdadero: la compra se anunció; la cita previa hablaba de escuelas",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La contradicción de fondo está documentada: Petro se opuso a la compra de aviones de combate y dijo que ese dinero debía usarse en escuelas (no “universidades”, como dice el video); su gobierno luego anunció la compra de 17 aviones Gripen el 14 de noviembre de 2025. La paráfrasis del video es imprecisa en el destino (escuelas/universidades), pero la denuncia de contradicción se sostiene [F2][F3][F6].",
+          "context": "La compra de 17 aviones Gripen a la empresa sueca Saab asciende a $16,5 billones de pesos (3.135,5 millones de euros) según el Gobierno Nacional, e incluye armamento, software, radares, centro de simulación, repuestos y capacitación; el contrato se paga con vigencias futuras hasta 2032, con tres años de gracia (primer abono en 2028) [F3][F4]. El Ministerio de Defensa justificó la elección por el menor costo por avión, el costo de hora de vuelo (8.500 USD frente a 12.000 del F-16 y 28.000 del Rafale) y la operación en pistas cortas [F3]. Tras el anuncio, la Comisión Legal de Investigación y Acusación de la Cámara abrió investigación previa penal contra Petro por una denuncia de Pablo Bustos Sánchez, y se ordenó compulsar copias a la Fiscalía por otros hechos del expediente; la apertura de investigación previa no constituye decisión de fondo [F2]. También se presentó una acción popular ante el Tribunal Administrativo de Cundinamarca para frenar la ejecución del contrato [F4]. Petro defendió la compra argumentando que nunca hubo oferta formal de F-16 nuevos, solo de segunda y tercera mano, y que el documento circulado era una cotización P&A sin valor de oferta [F5]. Petro había dicho antes que el dinero para aviones debía usarse en escuelas, no en universidades [F6].",
+          "progressivePerspective": "A la luz del marco de verdad, justicia, reparación y no repetición, esta afirmación cae fuera del ámbito de los crímenes graves del conflicto armado que juzga la JEP; se trata de control civil y fiscal sobre decisiones de política de defensa en democracia. Desde esa perspectiva, señalar una contradicción entre una posición previa y una decisión posterior de un mandatario es legítimo ejercicio de rendición de cuentas, siempre que se sustente en la cita exacta: aquí la compra está documentada [F2][F3] y la oposición previa de Petro a comprar aviones también, aunque su frase hablaba de escuelas y no de universidades [F6]. Lo que sí está documentado es que el gobierno reconoció y ejecutó la compra, y que ella originó investigación parlamentaria y acciones judiciales, así como que las promesas en educación superior quedaron con resultados mixtos: se amplió la gratuidad para menores ingresos, pero creció la deuda de universidades públicas, no se desmontó el ICETEX y la meta de 500.000 cupos no se cumplió [F1]. Ese contraste entre prioridades presupuestarias es verificable y aporta al esclarecimiento público, sin que las fuentes permitan concluir que hubo desvío probado de recursos de educación hacia aviones: la denuncia está en investigación previa, no en sentencia [F2].",
+          "whatTheyOmit": "El video omite que la compra de los Gripen cuenta con justificación técnica y financiera oficial del Ministerio de Defensa (menor costo por avión y por hora de vuelo, tres años de gracia, ventajas de financiación) [F3], y omite que Petro sostiene que nunca existió oferta formal de F-16 nuevos, sino solo de aviones usados [F5]. También omite que la investigación en la Comisión de Acusación es una investigación previa que no constituye decisión de fondo sobre los hechos denunciados [F2], y no distingue entre la acusación y una eventual condena. Finalmente, omite el balance real del gasto en educación del gobierno, que incluye tanto avances (ampliación de la gratuidad) como incumplimientos (deuda histórica, ICETEX, meta de cupos), lo cual matiza la dicotomía simple entre 'aviones' y 'universidades' [F1].",
+          "keyFacts": [
+            "El 14 de noviembre de 2025 el presidente Gustavo Petro anunció la compra de 17 aviones de combate Gripen, según la denuncia que dio origen a la investigación previa en la Comisión de Acusación de la Cámara [F2].",
+            "El valor total de la inversión fue de $16,5 billones de pesos (3.135,5 millones de euros) según el Gobierno Nacional y la Fuerza Aeroespacial Colombiana, cubriendo aeronaves, armamento, software, radares, simulación, repuestos y capacitación, pagables con vigencias futuras hasta 2032 [F3][F4].",
+            "La Comisión Legal de Investigación y Acusación de la Cámara de Representantes abrió investigación previa en materia penal contra Petro por la compra; esa apertura no constituye decisión de fondo [F2].",
+            "El Ministerio de Defensa justificó la elección del Gripen por ser la alternativa más atractiva en costo de inversión y por su menor costo de hora de vuelo (8.500 USD frente a 12.000 del F-16 y 28.000 del Rafale) [F3].",
+            "Petro sostuvo que nunca hubo oferta formal de F-16 nuevos, sino que solo se ofrecieron aviones de segunda y tercera mano, y que el documento circulado era una carta de precio y capacidad (P&A) sin valor de oferta [F5].",
+            "En educación, el gobierno mantuvo la gratuidad para estudiantes de menores ingresos, pero no desmontó el ICETEX, no cumplió la meta de 500.000 cupos y la deuda histórica de universidades públicas siguió creciendo [F1].",
+            "Una acción popular ante el Tribunal Administrativo de Cundinamarca busca frenar la ejecución del contrato de los aviones, cuestionando su financiación y condiciones de pago, no sus características técnicas [F4].",
+            "Petro había dicho que el dinero para aviones de combate debía usarse en escuelas [F6]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/educacion-entre-grandes-promesas-y-resultados-esquivos/",
+              "note": "Balance del gasto y promesas en educación del gobierno Petro: avances en gratuidad, pero deuda de universidades públicas, ICETEX sin desmontar y meta de 500.000 cupos incumplida. Aporta el contraste presupuestario real frente a la dicotomía aviones/universidades; no menciona la frase previa de Petro sobre aviones.",
+              "host": "razonpublica.com",
+              "title": "Educación: entre grandes promesas y resultados esquivos - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/2.1.-educacion.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/gobierno/investigan-a-gustavo-petro-por-denuncia-relacionada-con-la-compra-de-17-aviones-gripen-495933",
+              "note": "Confirma el anuncio del 14 de noviembre de 2025 de la compra de 17 Gripen y la apertura de investigación previa en la Comisión de Acusación; aclara que no es decisión de fondo. Es la fuente central para verificar que la compra efectivamente se anunció.",
+              "host": "portafolio.co",
+              "title": "Investigan a Gustavo Petro por denuncia relacionada con la compra de 17 aviones Gripen",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/01/16/696a4e7a6cced.r_d.501-187-0.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/cuestionamientos-compra-aviones-combate-saab-gripen-gustavo-petro-gobierno-deficit-fiscal-CN30979182",
+              "note": "Da la magnitud de la inversión ($16,5 billones), la justificación técnica y financiera del Ministerio de Defensa, las alternativas evaluadas desde 2011 y el contexto de cuestionamiento fiscal y político; aporta el contraste a la tesis de simple contradicción.",
+              "host": "elcolombiano.com",
+              "title": "La telenovela de los aviones Gripen: presuntos sobrecostos, inconveniencia en pleno dÃ©ficit fiscal y la sombra de la primera dama",
+              "image": "https://estaticos.elcolombiano.com/binrepository/907x523/-293c0/1200d675/none/11101/FXWU/avions-gripen-contrato-petro2_49276719_20251118125814.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/09/22/gustavo-petro-reacciono-a-demanda-que-pretende-frenar-la-compra-de-los-17-aviones-gripen-necesitan-es-un-ejercito-cipayo/",
+              "note": "Documenta la acción popular para frenar el contrato y la reacción pública de Petro; muestra que el cuestionamiento se concentra en financiación y presupuesto, no en aspectos técnicos, y que el contrato ya está en ejecución.",
+              "host": "infobae.com",
+              "title": "Gustavo Petro reaccionó a demanda que pretende frenar la compra de los 17 aviones Gripen: “Necesitan es un ejército cipayo”",
+              "image": "https://www.infobae.com/resizer/v2/IICSR7VQT5HWRMJXMQ334DUN4M.jpg?auth=86f55d1eeed232fb876d4b10a5eac7ed11d4d4d322e23bc18f919e30f850d35d&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.rtvcnoticias.com/justicia/seguridad-y-orden/petro-desmonta-version-sobre-supuesta-oferta-formal-de-aviones-f16",
+              "note": "Recoge la defensa pública de Petro: nunca hubo oferta formal de F-16 nuevos, solo de segunda mano; el documento era una cotización sin valor de oferta. Aporta la versión del propio gobierno frente a la acusación de contradicción.",
+              "host": "rtvcnoticias.com",
+              "title": "Presidente Petro defiende la compra de aviones Gripen y desmonta versión sobre una supuesta oferta formal de F-16",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2025-11/Gripen%20F-16.png"
+            },
+            {
+              "ref": "F6",
+              "url": "https://www.noticiasrcn.com/colombia/cuando-gustavo-petro-pensaba-que-el-dinero-para-comprar-aviones-debia-usarse-en-hacer-escuelas-436389",
+              "note": "Recoge la posición previa de Petro: el dinero para aviones debía usarse en escuelas.",
+              "host": "noticiasrcn.com",
+              "title": "Cuando Gustavo Petro pensaba que el dinero para comprar aviones debía usarse en hacer escuelas | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/ImgNoticias/gustavo-petro_2.webp?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "seguridad",
+          "claim": "Nicolás Petro recibió dinero de narcotraficantes y parte se usó en la campaña de su padre.",
+          "quote": "el hijo de Petro recibiendo dineros, gastándose la plata del narco que pusieron para la campaña de su papá",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "Mayormente verdadero, pero el destino de parte del dinero está en disputa",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Nicolás Petro admitió haber recibido 1.300 millones de pesos durante la campaña presidencial de su padre y reconoció haber tomado dinero de Samuel Santander Lopesierra ('El Hombre Marlboro', condenado por narcotráfico) y de Alfonso 'El Turco' Hilsaca; la Fiscalía lo acusó por lavado de activos y enriquecimiento ilícito. El destino de esos dineros a la campaña está documentado en testimonios de aportantes, pero es controvertido: el propio procesado lo niega, y hay evidencias de que parte del dinero se desvió a gastos personales. Los elementos centrales se sostienen, aunque el caso no ha terminado en condena [F1][F2][F3][F4][F5].",
+          "context": "La Fiscalía acusó a Nicolás Fernando Petro Burgos como presunto responsable de lavado de activos y enriquecimiento ilícito, con un supuesto incremento patrimonial injustificado de 1.053 millones de pesos y gastos en arriendos, apartamento, vivienda y artículos lujosos no explicados por sus ingresos como diputado (280 millones en 2022); los recursos cuestionados se recibieron entre junio y diciembre de 2022 [F3]. Los testimonios señalan 400 millones de Alfonso 'El Turco' Hilsaca y sumas de Samuel Santander Lopesierra ('El Hombre Marlboro', condenado por narcotráfico), Máximo Noriega y empresarios de Cúcuta y Villavicencio [F3]. Daysuris Vásquez, expareja del procesado, declaró que dinero recogido para la campaña se destinó a gastos personales, incluida una casa de 1.600 millones [F2]. Gabriel Hilsaca Acosta declaró ante la Procuraduría que entregó 400 millones cuyo destino era la campaña presidencial, aunque se habría sabido que 'el dinero no se usó para el fin inicial' [F4]. Nicolás Petro reconoció recibir 1.300 millones, calificó el hecho como un 'error' y no un delito, y sostiene que los recursos eran lícitos y que nunca afirmó que fueran para la campaña [F4][F5]. La situación jurídica está pendiente de resolver y rige la presunción de inocencia [F3].",
+          "progressivePerspective": "El hecho de que una persona vinculada por parentesco a la máxima autoridad ejecutiva haya recibido dinero de un condenado por narcotráfico y no lo haya declarado constituye, cuando está acreditado, un asunto de interés público legítimo: la transparencia del financiamiento electoral y la rendición de cuentas son pilares de la no repetición de la captura del Estado por dineros ilícitos, principio que atraviesa tanto la justicia ordinaria como el marco de verdad y reparación. Reconocer ese hecho no depende de la ideología del gobierno de turno: la trazabilidad de los dineros de campaña es una garantía democrática. Ahora bien, el mismo marco de justicia exige distinguir entre investigación, imputación y condena: mientras no haya sentencia firme, presentar la acusación como culpa probada instrumentaliza un proceso penal en disputa política y compromete la presunción de inocencia consagrada en el artículo 29 de la Constitución [F3]. El caso Nicolás Petro sigue abierto, el procesado se declaró inocente y su colaboración con la Fiscalía se estancó, por lo que la versión completa —incluidas las negaciones— forma parte de la verdad aún no consolidada [F1][F2][F5]. En sentido inverso, el caso también muestra un déficit de verdad: la afirmación de que el dinero fue 'para la campaña' está sustentada en testimonios de aportantes, mientras que la defensa y la propia Fiscalía apuntan a que ese dinero no llegó a ese fin sino a patrimonio personal, lo que hace que afirmar tajantemente que 'parte se usó en la campaña' adelante un resultado probatorio que el proceso aún no ha establecido [F3][F4].",
+          "whatTheyOmit": "Se omite que no hay condena: la Fiscalía formula la acusación bajo la presunción de inocencia y la situación jurídica está pendiente de resolverse [F3]. Se omite que Nicolás Petro niega que el dinero fuera para la campaña, afirma que recibió recursos lícitos y sostiene que nunca dijo que fueran destinados a la campaña de su padre [F4][F5]. Se omite que el testimonio del aportante indica que el dinero 'no se usó para el fin inicial', es decir, precisamente que la campaña no habría recibido ese recurso [F4]. Se omite que, según Razón Pública, Nicolás Petro ofreció declarar a cambio de principio de oportunidad sobre financiación ilegal de la campaña, pero 'sin que todavía haya aportado prueba alguna' contra Gustavo Petro [F1]. También se omite matizar que Alfonso 'El Turco' Hilsaca es descrito como empresario cuestionado e investigado por presuntos nexos con paramilitares, no como narcotraficante condenado, a diferencia de Santander Lopesierra [F2][F4]. Finalmente se omite que el origen de la investigación fue la filtración de Daysuris Vásquez, quien también fue capturada por presunto lavado de activos [F2].",
+          "keyFacts": [
+            "Nicolás Petro reconoció haber recibido 1.300 millones de pesos durante la campaña presidencial de su padre, calificándolo como un 'error' y no un delito [F5]",
+            "La Fiscalía lo acusó formalmente de lavado de activos y enriquecimiento ilícito, con un presunto incremento patrimonial injustificado de 1.053 millones de pesos [F3]",
+            "Entre las fuentes del dinero figuró Samuel Santander Lopesierra, 'El Hombre Marlboro', condenado por narcotráfico, y Alfonso 'El Turco' Hilsaca [F2][F3]",
+            "La expareja del procesado declaró que dinero recogido para la campaña se gastó en bienes personales, incluida una casa de 1.600 millones de pesos [F2]",
+            "El aportante Gabriel Hilsaca Acosta declaró ante la Procuraduría que entregó 400 millones cuyo destino declarado era la campaña presidencial, dinero que 'a lo sumo se ha sabido que no se usó para el fin inicial' [F4]",
+            "Nicolás Petro afirma que recibió recursos lícitos y niega haber dicho que los dineros fueran para la campaña de su padre [F4][F5]",
+            "Ofreció colaborar con la Fiscalía para delatar financiación ilegal de la campaña, pero hasta el momento no ha aportado prueba alguna contra Gustavo Petro [F1]",
+            "El proceso está pendiente de resolución y rige la presunción de inocencia según la Constitución y la ley de procedimiento penal [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/nicolas-petro-dinero-la-etica/",
+              "note": "Analiza el caso: delitos de enriquecimiento ilícito y lavado de activos, y el ofrecimiento de colaboración sin pruebas aportadas hasta ahora contra Gustavo Petro.",
+              "host": "razonpublica.com",
+              "title": "Nicolás Petro: el dinero contra la ética | Razón Pública 2023",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/08/Nicolas-Gustavo-degradacion-politica-Ricardo-Garcia.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/asi-llego-nicolas-petro-a-enfrentar-un-juicio-por-lavado-de-activos/",
+              "note": "Reconstrucción cronológica del caso: declaraciones de Daysuris Vásquez sobre dinero de 'El Hombre Marlboro' (condenado por narcotráfico) y del 'Turco' Hilsaca, capturas, imputación y acuerdo de colaboración.",
+              "host": "lasillavacia.com",
+              "title": "Así llegó Nicolás Petro a enfrentar un juicio por lavado de activos",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/09/portada-nicolas-petro.png?fit=1201%2C901&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.fiscalia.gov.co/noticias/fiscalia-acusa-a-nicolas-fernando-petro-burgos-como-posible-responsable-de-los-delitos-de-lavado-de-activos-y-enriquecimiento-ilicito/",
+              "note": "Comunicado oficial de la Fiscalía con la acusación formal, montos (1.053 millones de incremento patrimonial injustificado) y advertencia sobre presunción de inocencia.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalía General de la Nación",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/donante-a-campana-gustavo-petro-desmiente-nicolas-petro-aporte-400-millones-IP29730866",
+              "note": "Contraste clave: testimonio del aportante Gabriel Hilsaca sobre destino de campaña frente a la negativa de Nicolás Petro; indica que el dinero no se habría usado para ese fin.",
+              "host": "elcolombiano.com",
+              "title": "NicolÃ¡s Petro afirmÃ³ que nunca dijo que la plata que le dieron era para la campaÃ±a del papÃ¡, pero un donante lo desmiente",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x800/1c0/1200d675/none/11101/RYYY/a20250924t040047-m-10-211-95-50-w3-4201-3841-10-f_48940629_20251006105558.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elnuevosiglo.com.co/nacion/si-se-recibieron-1300-millones-pero-fue-un-error-nicolas-petro",
+              "note": "Admisión de los 1.300 millones, defensa de origen lícito, declaración de inocencia y denuncia de instrumentalización política del proceso.",
+              "host": "elnuevosiglo.com.co",
+              "title": "Nicolás Petro admite haber recibido $1.300 millones en campaña, pero niega delitos | El Nuevo Siglo",
+              "image": "https://www.elnuevosiglo.com.co/sites/default/files/2025-10/Nicol%C3%A1s%20Petro.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Un video de Petro dice que es mejor que sus seguidores sean pobres para que sigan votando por él.",
+          "quote": "salen un vídeo a decirles que es mejor que sean pobres para que sigan votando por él",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "No existe ninguna declaración de Petro en la que diga que 'es mejor que sus seguidores sean pobres para que sigan votando por él'. La frase real —'cuando los pobres dejan de ser pobres y tienen, entonces se vuelven de derecha'— fue sacada de contexto: Petro hablaba de un fenómeno electoral (la 'agenda del tener') y no de conveniencia en mantener pobres a sus votantes [F4] [F5]. La afirmación reproduce la conclusión errónea que ya fue calificada como engañosa por dos verificadores [F4] [F5].",
+          "context": "La declaración proviene de una entrevista de Petro con Carolina Sanín en el programa Mesa Capital del 16 de noviembre de 2021. En su contexto completo, Petro dice: 'la izquierda... se identifica con superar la pobreza, es decir, que los pobres tengan. Y cuando los pobres dejan de ser pobres y tienen, entonces se vuelven de derecha', y añade luego: 'No se trata de que la gente sea pobre, se trata de que deje de ser pobre' [F4]. Colombiacheck verificó el fragmento en dos ocasiones y lo encontró cuestionable por estar recortado para llegar a conclusiones erróneas [F5]. La misma compilación viral que circula ese fragmento lo mezcla con declaraciones de otros políticos que no tienen relación entre sí, atribuyendo a todos la idea de que 'los pobres tienen que permanecer pobres' [F4] [F5].",
+          "progressivePerspective": "A la luz del marco de verdad, justicia, reparación y no repetición, la afirmación es un caso claro de distorsión: presenta como frase del presidente una conclusión que él no sustentó, lo cual impide el esclarecimiento honesto del debate público. Los verificadores demostraron que la cita original dice lo contrario de lo que se le atribuye: Petro habla de superar la pobreza, no de perpetuarla [F4] [F5]. Reconocer que la frase fue sacada de contexto no significa blindar el discurso de Petro, pero los cuestionamientos legítimos se desvirtúan cuando se construyen sobre citas falsas. La no repetición exige que la crítica política se sustente en hechos verificados —como los escándalos efectivamente investigados— y no en la recirculación de material desmentido, porque hacerlo revictimiza el debate público y alimenta la desinformación [F4] [F5].",
+          "whatTheyOmit": "Omite la parte completa de la declaración de Petro: la frase 'cuando los pobres dejan de ser pobres... se vuelven de derecha' es solo el final de una explicación sobre por qué la clase media vota contra la izquierda, y el mismo fragmento incluye la aclaración 'No se trata de que la gente sea pobre, se trata de que deje de ser pobre' [F4] [F5]. También omite que la frase original corresponde a una entrevista del 16 de noviembre de 2021 y no a un video reciente en el que Petro pida que sus seguidores permanezcan pobres [F4] [F5]. No distingue entre lo que Petro efectivamente dijo y la conclusión que el video viral le atribuye [F4].",
+          "keyFacts": [
+            "La atribución de que Petro dijo que 'es mejor que sus seguidores sean pobres para que sigan votando por él' no corresponde a sus palabras: la cita real habla de que los pobres, al salir de la pobreza, se vuelven de derecha [F4] [F5]",
+            "El fragmento fue verificado por Colombiacheck en dos ocasiones y encontrado 'cuestionable' por estar sacado de contexto [F5]",
+            "La República (Perú) calificó como engañosa la publicación que concluye 'los pobres tienen que permanecer pobres' a partir de esa cita [F4]",
+            "La declaración original proviene de la entrevista de Petro con Carolina Sanín en Mesa Capital, del 16 de noviembre de 2021 [F4] [F5]",
+            "En el mismo contexto completo, Petro dijo: 'No se trata de que la gente sea pobre, se trata de que deje de ser pobre' [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F4",
+              "url": "https://larepublica.pe/verificador/2022/08/11/video-con-declaracion-de-petro-sobre-pobres-que-dejan-de-ser-pobres-fue-sacado-de-contexto",
+              "note": "Verificador que reconstruye la cita completa de Petro, da la fecha y el medio original, y califica de engañosa la publicación que le atribuye querer mantener pobres a sus votantes.",
+              "host": "larepublica.pe",
+              "title": "Video con declaración de Petro sobre “pobres que dejan de ser pobres” fue sacado de contexto",
+              "image": "https://imgmedia.larepublica.pe/1200x735/larepublica/original/2022/08/11/62f59f0eaac2a674195d2eb6.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://colombiacheck.com/chequeos/otra-vez-sacan-de-contexto-video-en-el-que-petro-dice-cuando-los-pobres-dejan-de-ser",
+              "note": "Segunda verificación independiente: el fragmento es sacado de contexto y las piezas del video viral no tienen relación entre sí.",
+              "host": "colombiacheck.com",
+              "title": "Otra vez sacan de contexto vÃdeo en el que Petro dice: âcuando los pobres dejan de ser pobres se vuelven de derechaâ | ColombiaCheck",
+              "image": "https://colombiacheck.s3.us-east-2.amazonaws.com/colcheck/2023-08/portada_redes2_Poli%CC%81ticos-de-izquierda-dicen-que-los-pobre-deben-seguir-siendo-pobres_29-08-23.png"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "seguridad",
+          "claim": "Existen videos de Petro buscando prostitutas en páginas de internet con dinero público.",
+          "quote": "los videos de Petro buscando prostitutas en páginas de internet y no con su plata, con la plata de todos nosotros",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "media",
+          "summary": "Ninguna fuente documenta la existencia de 'videos de Petro buscando prostitutas en páginas de internet con dinero público'. Las fuentes solo describen: (a) el testimonio de Deicy Jiménez de que conoció a Petro en 2019 en una página de citas para adultos, cuando era senador y sin dinero público de por medio; (b) un video de 55 segundos de un encuentro íntimo y una captura de una videollamada; y (c) una investigación por presuntos 'sexocontratos' (contratos estatales a cambio de favores sexuales) que aún no ha probado responsabilidad penal alguna [F2][F3][F4][F5].",
+          "context": "El caso de los 'sexocontratos' se originó con la entrevista de Deicy Jiménez a Semana el 25-26 de octubre de 2026 y está en indagación ante Fiscalía, Procuraduría y Corte Suprema; la Fiscalía señala que los hechos como presidente corresponderían a la Comisión de Acusaciones de la Cámara y los de su etapa como senador a la Corte Suprema [F4]. Jiménez suscribió 10 contratos por ~126,5 millones de pesos COP entre 2021 y 2026, verificados en Secop II, con discrepancias entre su relato y los registros [F3]. Existen videos: una grabación de 55 segundos de un encuentro y la captura de una videollamada, pero una analista observó que el video solo probaría 'la existencia de una relación afectiva', no pagos por contratos públicos [F5]. Petro niega categóricamente haber usado recursos públicos y cuestionó la verificación pericial de los videos [F2][F3][F5]. Las fuentes advierten que los señalamientos 'no constituyen una responsabilidad penal demostrada' [F2][F4].",
+          "progressivePerspective": "El análisis ético-jurídico se sostiene en tres puntos verificables: (1) la afirmación mezcla tres elementos distintos —el uso presunto de una página de citas (testimonio no probado), videos de encuentros íntimos (existen, pero no muestran lo que se afirma) y el uso presunto de dinero público (objeto de investigación, no probado)— y los presenta como un hecho único y consumado [F3][F5][F4]. (2) Presentar acusaciones en curso como hechos consumados viola la presunción de inocencia que las propias fuentes invocan: 'los señalamientos no constituyen una responsabilidad penal demostrada' [F2][F4]. (3) La grabación publicada fue entregada a las autoridades para peritaje y su antigüedad y contexto están en discusión [F5]. En términos de estándares de verificación, la afirmación carece de respaldo documental en las fuentes entregadas; por ello el veredicto es 'falso' respecto a la existencia de ese video específico, con confianza media porque las fuentes describen el universo de pruebas conocidas pero no pueden descartar material futuro en la investigación [F3][F5].",
+          "whatTheyOmit": "Omite: (1) que Petro negó usar contratos estatales para favores sexuales y denunció lo que llamó una operación política [F3][F5]; (2) que las fuentes no registran ningún video de Petro 'buscando prostitutas en páginas de internet con dinero público' —el único vínculo con una página de citas es el testimonio de Jiménez sobre 2019, cuando Petro era senador y sin dinero público [F3][F5]; (3) que el caso está en investigación y no hay condena [F2][F4]; (4) discrepancias en el relato de la denunciante, como su fecha de ingreso al Senado [F3]; y (5) que el video publicado, según una analista citada, no demuestra pagos por contratos [F5].",
+          "keyFacts": [
+            "No existe, en las fuentes revisadas, registro de videos de Petro buscando prostitutas en páginas de internet con dinero público; los videos documentados son un encuentro íntimo de 55 segundos y una captura de videollamada [F3][F5]",
+            "Deicy Jiménez afirmó haber conocido a Petro en 2019, cuando era senador, a través de una página de citas para adultos, con un seudónimo [F3][F5]",
+            "El caso de los 'sexocontratos' es una investigación de Fiscalía, Procuraduría y Corte Suprema; la Fiscalía precisa que 'son acusaciones que deben ser verificadas por las autoridades y no constituyen hechos judicialmente probados' [F4][F2]",
+            "Jiménez firmó 10 contratos de prestación de servicios con entidades del Estado por unos 126.544.432 pesos COP entre 2021 y 2026, verificados en Secop II [F3]",
+            "Petro negó públicamente haber entregado contratos a cambio de relaciones sexuales y cuestionó la verificación pericial de los videos [F3][F5]",
+            "Las fuentes señalan que 'los señalamientos contra Gustavo Petro no constituyen una responsabilidad penal demostrada' [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://wradio.com.mx/2026/11/12/gustavo-petro-y-los-sexocontratos-las-pruebas-mensajes-y-contratos-que-sacuden-a-colombia/",
+              "note": "Resume las claves del caso: investigación en curso, mensajes atribuidos, ausencia de responsabilidad penal demostrada; no menciona videos de búsqueda de prostitutas con dinero público",
+              "host": "wradio.com.mx",
+              "title": "Gustavo Petro y los ‘sexocontratos’: las pruebas, mensajes y contratos que sacuden a Colombia",
+              "image": "https://wradio.com.mx/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fprisaradiomx%2FZVESX4KIGRCYLLLAEY6SQGM5EI.jpg?auth=5dfc1bacf25e2cccb15cc39cb94776e8a69ad5848f15c3fa5293659f8ad89169&height=800&width=1200&quality=70&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://eldiario.com/2026/11/17/gustavo-petro-contratos-sexuales/",
+              "note": "Detalla el origen del caso, los contratos verificados en Secop II, los videos existentes (encuentro íntimo y videollamada) y la negativa de Petro; contraste clave sobre qué hay y qué no hay de pruebas",
+              "host": "eldiario.com",
+              "title": "#TeExplicamos | Las claves del escándalo por presuntos contratos a cambio de favores sexuales que involucra a Gustavo Petro",
+              "image": "https://eldiario.com/wp-content/uploads/2025/08/gustavo-petro.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elnuevodia.com.co/politica/la-fiscalia-tomo-una-decision-clave-por-el-caso-de-los-sexo-contratos-540753",
+              "note": "Ficha de la investigación fiscal: acusaciones no probadas, reparto de competencias; contraste sobre presunción de inocencia",
+              "host": "elnuevodia.com.co",
+              "title": "La decisión de la Fiscalía por los “sexo contratos” de Petro",
+              "image": "https://www.elnuevodia.com.co/sites/default/files/styles/galeria_1200x600_/public/imagenes/2026/10/terremoto-de-agosto-estaria-detras-de-los-sismos-en-chaparral-2026-10-26t100142.287.webp?itok=H3p0xOL2"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/deicy-jimenez-publica-video-encuentro-intimo-besos-gustavo-petro-GF43202949",
+              "note": "Sobre el video publicado por Jiménez, su entrega al CTI, el testimonio de la página de citas y la negativa de Petro; contraste sobre el alcance probatorio real de los videos",
+              "host": "elcolombiano.com",
+              "title": "Deicy JimÃ©nez publicÃ³ video de supuesto encuentro Ãntimo con Gustavo Petro para probar su relaciÃ³n en el escÃ¡ndalo de âsexocontratosâ",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c126/1280d720/none/11101/VDEB/petro-escandalo-sexual_52058463_20261104204028.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "seguridad",
+          "claim": "Verónica Alcocer usó aviones oficiales para llevar droga y dinero a Venezuela.",
+          "quote": "un escándalo de su ex esposa que nunca fue su esposa yendo a Venezuela a traer maletas con dinero y llevando con droga",
+          "figures": [
+            "Venezuela"
+          ],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Existen denuncias formales y una investigación en curso, pero el uso de aviones oficiales para transportar droga y dinero está presentado como hecho consumado cuando solo es una acusación sin pruebas documentales acreditadas, negada por la señalada y aún sin resolver por la Fiscalía [F2][F3][F4].",
+          "context": "La acusación proviene de una entrevista de Eva Ferrer, exasesora del DAPRE, publicada el 9 de octubre de 2026, en la que sostuvo que en un viaje de enero de 2023 se habrían transportado 2,5 millones de dólares hacia Colombia en la aeronave oficial de la primera dama y que existirían fotografías de Alcocer descendiendo con maletas con droga; el mismo medio señala que sus afirmaciones no fueron respaldadas con documentos, fotografías ni versiones de los señalados [F2][F3]. Alcocer reconoce haber viajado a Venezuela en dos ocasiones como primera dama (31 de enero de 2023, en delegación oficial, y 18 de noviembre de 2023, con el entonces presidente), dice que ambos desplazamientos tienen registros institucionales y agendas oficiales, y niega cualquier conducta ilícita [F4]. La Fiscalía tiene abierta una indagación de la Dirección Especializada contra la Corrupción, etapa preliminary que no equivlica imputación ni condena [F4]. La OFAC del Departamento del Tesoro de EE. UU. incluyó a Alcocer en octubre de 2025 en el marco de las sanciones relacionadas con su apoyo a Gustavo Petro (Orden Ejecutiva 14059); esa inclusión no es una condena por narcotráfico ni prueba el transporte de droga. El Departamento de Estado declaró estar “al tanto” de las informaciones, sin pronunciarse sobre su veracidad [F3]. Alcocer vive en Suecia y calificó las acusaciones de 'especulaciones' [F5].",
+          "progressivePerspective": "El marco de verificación exige separar tres planos: la denuncia (real y documentada como denuncia), la investigación (en curso) y la responsabilidad penal (no establecida). Presentar como hecho probado un crimen que solo está en indagación vulnera el principio de presunción de inocencia y convierte una investigación pendiente en sentencia, riesgo que existe tanto en este caso como en cualquier otro procesado [F4]. Desde la lógica de verdad, justicia, reparación y no repetición, lo que abona al esclarecimiento es precisamente que la Fiscalía termine la indagación y aporte pruebas materiales —fotografías, registros de vuelo, cadena de custodia de la aeronave—, no que un monólogo declare resuelto el caso antes de tiempo [F2][F4]. La existencia de una sanción administrativa extranjera (OFAC, octubre de 2025) y de una indagación interna muestra que hay elementos formales que ameritan investigación, pero la sanción no equivale a una condena por narcotráfico: corresponde a las autoridades esclarecerla, no a la opinión pública anticiparla [F3][F4].",
+          "whatTheyOmit": "Omite que la acusación es un testimonio de segundo orden —Ferrer admite que le 'hacen saber' los hechos— y que hasta ahora carece de pruebas documentales adjuntas [F2][F3]. Omite que existe una indagación y no una imputación o condena, y que Ferrer no ha comparecido a dos citaciones de la Fiscalía [F4]. Omite la negativa y la versión de Alcocer sobre los dos viajes oficiales con registros institucionales, así como el hecho de que, según su abogado, no aparecían registros de vinculación a procesos penales en su contra a comienzos de agosto de 2026 [F4][F5]. También omite que la denuncia original sitúa el traslado de los 2,5 millones de dólares de Venezuela hacia Colombia, matiz que el video invierte o difumina al hablar de 'yendo a Venezuela a traer maletas con dinero' [F3][F4].",
+          "keyFacts": [
+            "Eva Ferrer denunció el 9-10 de octubre de 2026 que Verónica Alcocer habría usado una aeronave oficial para transportar drogas y 2,5 millones de dólares en relación con Venezuela; las afirmaciones no fueron respaldadas con documentos ni fotografías [F2][F3]",
+            "La Fiscalía General tiene una indagación abierta por las declaraciones de Ferrer, a cargo de la Dirección Especializada contra la Corrupción; es una etapa preliminary, sin imputación ni condena [F4]",
+            "Alcocer admitió haber viajado a Venezuela dos veces como primera dama (31 de enero y 18 de noviembre de 2023), en el marco de actividades oficiales, y negó haber participado en las conductas señaladas [F4]",
+            "El Departamento de Estado de EE. UU. declaró estar 'al tanto' de las informaciones sobre el uso de la aeronave oficial, sin pronunciarse sobre su veracidad [F3]",
+            "Petro negó que los aviones oficiales de su administración 'jamás viajaron con armas clandestinas ni drogas' y calificó la acusación de infundio [F2]",
+            "Alcocer radicó un derecho de petición ante la Fiscalía para colaborar y conocer el detalle de las actuaciones, y sus desplazamientos a Venezuela cuentan con agendas oficiales y material audiovisual público [F4]",
+            "Alcocer reside en Suecia y respondió a la prensa sueca que las acusaciones son 'solo especulaciones' [F5]",
+            "La OFAC incluyó a Alcocer en octubre de 2025 en el marco de sanciones por apoyo a Gustavo Petro, no por una condena por narcotráfico [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F2",
+              "url": "https://www.infobae.com/colombia/2026/10/13/gustavo-petro-respondio-acusaciones-de-eva-ferrer-contra-la-ex-primera-dama-sobre-trafico-de-armas-drogas-y-dolares-en-aviones-oficiales-antes-de-mi-gobierno-si-se-hacia/",
+              "note": "Reconstruye la denuncia de Ferrer, destaca la ausencia de pruebas documentales y recoge la negativa de Petro",
+              "host": "infobae.com",
+              "title": "Gustavo Petro respondió acusaciones de Eva Ferrer contra la ex primera dama sobre tráfico de armas, drogas y dólares en aviones oficiales: “Antes de mi gobierno sí se hacía”",
+              "image": "https://www.infobae.com/resizer/v2/BD6UN3INXVH7HNQSY67P2CGQ7U.jpg?auth=9700599e7db98b579a09a77da8605fb779d95e302576737ea88c1815f49126d2&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/mundo/eeuu-y-canada/estados-unidos-se-pronuncia-sobre-denuncias-contra-veronica-alcocer-por-presunto-transporte-de-dinero-y-drogas-desde-venezuela-estamos-al-tanto-3593484",
+              "note": "Postura oficial de EE. UU., sanción OFAC de octubre de 2025 y detalle del contenido de la denuncia de Ferrer",
+              "host": "eltiempo.com",
+              "title": "Estados Unidos se pronuncia sobre denuncias contra Verónica Alcocer por presunto transporte de dinero y drogas desde Venezuela: 'Estamos al tanto'",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/01/6a6e0c2959b04.r_d.195-217-0.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/veronica-alcocer-respondio-denuncias-eva-ferrer-pidio-informacion-fiscalia-caso-AA42245522",
+              "note": "Versión de Alcocer, fechas de los viajes oficiales, estado real de la indagación y advertencia de que los señalamientos no son hechos probados",
+              "host": "elcolombiano.com",
+              "title": "ReapareciÃ³ VerÃ³nica Alcocer tras denuncias de Ferrer; confirmÃ³ que viajÃ³ a Venezuela y pidiÃ³ informaciÃ³n a FiscalÃa sobre el caso",
+              "image": "https://estaticos.elcolombiano.com/binrepository/896x1178/-192c138/1280d720/none/11101/PKDJ/gemini-generated-image-w1j09ow1j09ow1j0_51877490_20261014164035.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://caracol.com.co/2026/08/07/son-solo-especulaciones-veronica-alcocer-a-su-llegada-a-suecia-sobre-acusaciones-de-corrupcion/",
+              "note": "Residencia en Suecia, declaración de Alcocer calificando las acusaciones de especulación y ausencia de restricciones de viaje a agosto de 2026",
+              "host": "caracol.com.co",
+              "title": "“Son solo especulaciones”, Verónica Alcocer a su llegada a Suecia sobre acusaciones de corrupción",
+              "image": "https://caracol.com.co/resizer/v2/L645BWVTLBBU3FGX3OSBUKVTUY.jpg?auth=be066124c380281e4515c5d262457be69779cbc05c4489cc3fe9c511b23d3498&quality=70&width=1200&height=675&smart=true"
             }
           ]
         }
