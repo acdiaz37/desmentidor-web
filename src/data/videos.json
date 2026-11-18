@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:40:39",
+  "generatedAt": "2026-11-18T17:09:17",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -10811,6 +10811,349 @@
               "note": "Clasifica el magnesio (Mg, Z=12) como alcalinotérreo del grupo 2, período 3.",
               "host": "periodictable.one",
               "title": "Magnesio (Mg) - Tabla Periódica",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "34k-views-5-6k-reactions-la-memoria-historica-no-puede-estar-al-servic",
+      "title": "34K views · 5.6K reactions | La memoria histórica no puede estar al servicio de una ideología. #Colombia #Historia | Pablo Andres Manjarres",
+      "uploader": "Pablo Andres Manjarres",
+      "url": "https://m.facebook.com/watch/?v=1697505432079144&_rdr",
+      "duration": 54.148,
+      "thumbnail": "/media/34k-views-5-6k-reactions-la-memoria-historica-no-puede-estar-al-servic/thumb.jpg",
+      "conclusion": "## Una tesis construida sobre datos ciertos y un adversario invisible\n\nEl video construye una narrativa de apropiación: instituciones que hoy parecen ligadas a la izquierda —la Universidad Nacional, la educación pública, el SENA— habrían sido creadas por fuerzas que no eran de izquierda, antes de que la izquierda existiera como fuerza política, de modo que reclamar su legado sería un uso ideológico de la memoria histórica. Esa secuencia de fechas genera una percepción poderosa: la sensación de que un bando posterior se apropia de obras que no le pertenecen.\n\nLos datos base sí se sostienen en gran parte. La Universidad Nacional fue creada el 22 de septiembre de 1867, en la administración de Santos Acosta; Santander impulsó escuelas públicas en el Congreso de Cúcuta de 1821; el SENA se creó el 21 de junio de 1957 por decreto, con el impulso de Rodolfo Martínez Tono. Esos hechos son verificables y el video los presenta con precisión razonable, con matices menores: la fundación universitaria fue obra del Congreso por Ley 66, no decisión personal de «Santos», y la gratuidad explícita como obligación legal data de 1870, bajo el liberalismo radical, no de la era Santander.\n\nEl problema empieza cuando esos datos se convierten en premisa de una tesis que ninguno de ellos sostiene. El punto de quiebre exacto es la frase «esas instituciones se crearon antes de que la izquierda fuera una fuerza política real». Hasta ahí el video ha dado fechas; a partir de ahí infiere un orden de legitimidad. Y esa inferencia se apoya en una afirmación sin periodo —«no existía ningún partido de izquierda»— que es plausible para 1867 pero falsa para 1957: el Partido Comunista Colombiano existía desde 1930, con antecedentes socialistas desde 1926. Además, el santanderismo está catalogado como centroizquierda, y el liberalismo radical impulsó la educación laica y gratuita; la frontera que el video traza entre «izquierda» y «no izquierda» resulta mucho más borrosa de lo que la narrativa sugiere.\n\nFalta también el contexto decisivo: quién habría reclamado esas instituciones para la izquierda y cuándo. El video no cita a nadie, no muestra declaraciones, ni documenta ese supuesto despojo. La tesis se dirige contra un adversario no identificado, lo que convierte la construcción entera en un argumento contra una posición que el espectador debe imaginarse. Sin ese dato, la lectura posible cambia: las instituciones nacionales son de todo el país, fueron producto de largas disputas políticas —incluidas guerras civiles por la educación laica— y su contenido ideológico ha variado con el tiempo sin que eso constituya apropiación indebida. Los datos son en su mayoría ciertos; la realidad que el video deja entrever no se sostiene con ellos.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "educacion",
+          "claim": "La Universidad Nacional fue fundada en 1867 por Santos, a costa del Partido Liberal.",
+          "quote": "La Universidad Nacional fundaba en 1867 por Santos a costa del Partido Liberal.",
+          "figures": [
+            "1867"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La fecha es correcta: la Universidad Nacional fue creada el 22 de septiembre de 1867 mediante la Ley 66 del Congreso, en la administración de Santos Acosta [F3][F4]. Sin embargo, la frase tiene dos imprecisiones: la fundación fue un acto legislativo del Congreso durante ese gobierno, no obra personal de «Santos», y la atribución «a costa del Partido Liberal» no aparece respaldada en ninguna de las fuentes entregadas [F3][F4][F1]. Además, «Santos» corresponde a Manuel María de los Santos Acosta, no a Francisco de Paula Santander, quien aparece en la frase siguiente del video [F3].",
+          "context": "La Universidad Nacional de Colombia se fundó el 22 de septiembre de 1867, en los Estados Unidos de Colombia, cuando el Congreso expidió la Ley 66, en la administración de Santos Acosta; en 1868 se expidió el Estatuto Orgánico y se eligió al primer rector [F3][F4]. Su antecedente directo fue la Universidad Central de la República, creada el 25 de diciembre de 1826 bajo la Ley 8 de 1826 promovida por Francisco de Paula Santander, vicepresidente de la Gran Colombia, y cerrada después por gobiernos federalistas y radicales; la idea de universidad pública y estatal en Colombia «comenzó» con esa ley de 1826 [F3]. Ninguna fuente documenta que la creación de 1867 se hiciera «a costa del» o «por» el Partido Liberal: el texto de la fuente institucional atribuye la ley al Congreso en la administración de Santos Acosta [F4], y el artículo de Razón Pública solo confirma «la Nacional … fue fundada en Bogotá en 1867» como principal institución pública de educación superior [F1]. El artículo de La Silla Vacía corresponde a Juan Manuel Santos Calderón (nacido en 1951), un personaje distinto del «Santos» de 1867, y no aporta datos sobre la fundación universitaria [F2].",
+          "progressivePerspective": "Este video no aborda el conflicto armado colombiano ni la actuación de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no resulta aplicable de forma directa; su invocación de «memoria histórica» funciona como marco general de un debate sobre origen y propiedad de las instituciones educativas, sin referirse a víctimas, responsabilidades ni decisiones judiciales [F3][F4]. Desde una lectura de fidelidad a los hechos, la afirmación cumple parcialmente con el estándar de esclarecimiento histórico: es verificable que la universidad nació en 1867 durante la administración de Santos Acosta y en un período marcado por el radicalismo liberal, que impulsó la educación pública [F3][F4], pero el paso de «administración de Santos Acosta» a «obra del Partido Liberal» es una inferencia que las fuentes entregadas no respaldan, y la omisión de que la idea de universidad pública estatal proviene de la Ley 8 de 1826 de Santander —mencionado el mismo video en la frase siguiente— impide al espectador apreciar la continuidad institucional que las propias fuentes describen [F3]. La afirmación es, en suma, parcialmente verificable: sólida en la fecha y débil en la atribución partidista.",
+          "whatTheyOmit": "Se omite que la creación fue por Ley 66 del Congreso, no por decisión personal de «Santos», y que la fuente institucional solo dice «en la administración de Santos Acosta» [F3][F4]. Se omite toda evidencia del vínculo con el Partido Liberal, que ninguna fuente entregada sostiene [F3][F4][F1]. Se omite el antecedente de la Ley 8 de 1826 de Francisco de Paula Santander, que según la misma fuente inaugura la idea de universidad pública y estatal en Colombia y da origen a la Universidad Central, antecesora de la Nacional [F3]. También se omite distinguir a Manuel María de los Santos Acosta de Francisco de Paula Santander, riesgo de confusión amplificado porque el video menciona a «el general Santander en la Gran Colombia» justo después [F3].",
+          "keyFacts": [
+            "La Universidad Nacional de Colombia fue fundada el 22 de septiembre de 1867, en los Estados Unidos de Colombia [F3]",
+            "La creación se produjo mediante la Ley 66 expedida por el Congreso, en la administración de Santos Acosta [F3][F4]",
+            "En 1868 se expidió el Estatuto Orgánico y se designó al primer rector; el primer año tuvo 335 estudiantes y 45 profesores [F3]",
+            "La idea de universidad pública y estatal en Colombia comenzó con la Ley 8 de 1826 sobre instrucción pública, promovida por Francisco de Paula Santander, y su antecedente fue la Universidad Central de la República (1826), antecesora de la Nacional [F3]",
+            "Ninguna de las fuentes entregadas documenta que la fundación de 1867 se realizara «a costa del Partido Liberal» [F3][F4][F1]",
+            "La fuente de La Silla Vacía corresponde a Juan Manuel Santos Calderón (1951), persona distinta del «Santos» del gobierno de 1867, y no aporta información sobre la fundación [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-universidad-de-la-paz-una-leccion-para-replicar-en-la-region-caribe/",
+              "note": "Confirma que la Universidad Nacional «fue fundada en Bogotá en 1867» y su condición de principal institución pública de educación superior; no aporta datos sobre el Partido Liberal ni sobre Santos Acosta.",
+              "host": "razonpublica.com",
+              "title": "La Universidad de La Paz: una lección para replicar en la región Caribe* - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/11.1.-universidad-de-la-paz-21-9.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/quien-es-quien/juan-manuel-santos-calderon/",
+              "note": "Perfil de Juan Manuel Santos Calderón (n. 1951), liberal y presidente 2010-2018. Sirve solo como contraste para evitar confundir a este «Santos» con el «Santos» del gobierno de 1867 (Santos Acosta); no aporta datos sobre la fundación de la universidad.",
+              "host": "lasillavacia.com",
+              "title": "Juan Manuel Santos Calderón",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2021/02/santosqeq-1.jpg?fit=1200%2C900&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Universidad_Nacional_de_Colombia",
+              "note": "Fuente central: fecha exacta (22 de septiembre de 1867), Ley 66 del Congreso, «en la administración de Santos Acosta», y antecedente de la Ley 8 de 1826 de Santander con la Universidad Central de la República; no menciona al Partido Liberal como creador.",
+              "host": "es.wikipedia.org",
+              "title": "Universidad Nacional de Colombia - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nuevos_Espacios_para_las_Artes_%28NEA%29%2C_Universidad_Nacional_de_Colombia.jpg/1280px-Nuevos_Espacios_para_las_Artes_%28NEA%29%2C_Universidad_Nacional_de_Colombia.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://unal.edu.co/",
+              "note": "Fuente institucional de la Universidad Nacional: reproduce que «el 22 de septiembre de 1867 … el Congreso expidió la Ley 66 … en la administración de Santos Acosta»; no atribuye la creación al Partido Liberal.",
+              "host": "unal.edu.co",
+              "title": "Universidad Nacional de Colombia",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.scribd.com/document/534007568/HISTORIA-DE-LA-UNIVERSIDAD-NACIONAL-DE-COLOMBIA",
+              "note": "Fuente inaccesible (Scribd bloquea el contenido sin JavaScript); no aporta información verificable para esta verificación.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "politica",
+          "claim": "No existía ningún partido de izquierda en Colombia en esa época.",
+          "quote": "No había ningún partido izquierda en Colombia.",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Como afirmación sin fecha ni periodo, «no había ningún partido de izquierda en Colombia» es sostenible respecto de 1867 y la Gran Colombia (aunque ninguna de las fuentes entregadas lo confirma para esas fechas), pero es falsa si se aplica al segundo caso del video, 1957: en Colombia existía el Partido Comunista Colombiano, fundado en 1930 como sucesor del Partido Socialista Revolucionario (1926-1930) [F5], y con anterioridad organizaciones socialistas desde 1924-1926 [F5]. El video no acota el periodo, con lo que una lectura general de la frase queda desmentida por la evidencia [F5][F1].",
+          "context": "El Partido Socialista Revolucionario (PSRC) fue fundado en diciembre de 1926 en el Tercer Congreso Obrero Nacional, con laicos e intelectuales como María Cano, Tomás Uribe Márquez y Gilberto Vieira White; el 17 de julio de 1930 su plenaria lo reconvirtió en el Partido Comunista Colombiano [F5]. Posteriormente, la izquierda partidista colombiana tuvo otras experiencias: la Unión Patriótica (descrita como víctima de un genocidio paramilitar con anuencia de sectores políticos y del Estado), el Polo Democrático Alternativo y la Alianza Democrática M-19, todas de finales del siglo XX e inicios del XXI [F1]. En la actualidad, el Pacto Histórico integra Polo Democrático, Unión Patriótica, Partido Comunista y Progresistas [F2]. El panorama de partidos incluye también formaciones de derecha como Primero Colombia (2002-2010) [F3]. Para 1867 y el periodo de la Gran Colombia (1819-1830), las fuentes entregadas no aportan datos sobre la existencia o inexistencia de partidos de izquierda: ese punto queda sin evidencia documental en este conjunto [F4 no accesible].",
+          "progressivePerspective": "El marco de los objetivos de la JEP —verdad, justicia, reparación y no repetición— exige distinciones precisas: los hechos verificables no deben mezclarse con inferencias, y la memoria no puede usarse para atribuir o negar legitimidad de origen a actores enteros [F1]. En este punto concreto, la afirmación es verificable parcialmente: para 1957 es contraria a la evidencia, porque el Partido Comunista Colombiano existía desde 1930 y el PSRC desde 1926 [F5]; para 1867 las fuentes no alcanzan para concluir, por lo que el veredicto sobre ese periodo es «sin evidencia» y no debería presentarse como dato establecido. Que la Unión Patriótica haya sido víctima de un genocidio y que la Alianza Democrática M-19 también haya sufrido violencia política [F1] subraya por qué la imprecisión en el trazo de «quién existía y quién no» tiene consecuencias: minimizar la trayectoria de formaciones de izquierda —incluida su victimización— afecta el reconocimiento de responsabilidades y la garantía de no repetición. Una memoria histórica rigurosa abona a la verdad al distinguir entre la inexistencia de partidos en una fecha temprana y su existencia posterior, en lugar de generalizar [F5][F1].",
+          "whatTheyOmit": "El video no acota a qué «época» se refiere la frase «no había ningún partido de izquierda», con lo que deja abierta una lectura que resulta falsa para 1957 [F5]. Omite que, para 1957, existía el Partido Comunista Colombiano (fundado en 1930) y que el PSRC data de 1926 [F5]. Tampoco menciona que la izquierda partidista posterior tuvo experiencias documentadas —UP, PDA, M-19— y que la UP fue víctima de genocidio [F1]. No aporta fuente alguna para el periodo de 1867/Gran Colombia, ni fecha para cuándo, según su tesis, la izquierda habría llegado a ser «fuerza política real», lo que impide evaluar la inferencia [F1][F5]. Las fuentes de este set no cubren la circulación de ideas socialistas en el siglo XIX ni el papel del liberalismo radical en la educación pública laica, ausencia que impide contrastar ese antecedente [F4 no accesible].",
+          "keyFacts": [
+            "El Partido Socialista Revolucionario, de posición política de izquierda, fue fundado en diciembre de 1926 y disuelto el 17 de julio de 1930, cuando fue reconvertido en el Partido Comunista Colombiano [F5]",
+            "El PSRC es descrito como uno de los primeros partidos marxistas estables de Colombia, cofundado por María Cano, con miembros como Tomás Uribe Márquez y Gilberto Vieira White [F5]",
+            "En Colombia existieron partidos de izquierda de finales del siglo XX e inicios del XXI: Unión Patriótica, Polo Democrático Alternativo y Alianza Democrática M-19 [F1]",
+            "La Unión Patriótica fue víctima de un genocidio perpetrado por grupos paramilitares con la anuencia de sectores políticos y del propio Estado, según la fuente consultada [F1]",
+            "El Pacto Histórico reúne hoy al Polo Democrático, la Unión Patriótica, el Partido Comunista y Progresistas como partido unitario de izquierda [F2]",
+            "Para 1867 y el periodo de la Gran Colombia (1819-1830) ninguna de las fuentes entregadas aporta datos sobre la existencia de partidos de izquierda: ese extremo queda sin evidencia en este conjunto de fuentes",
+            "La fuente [F4], destinada a la historia de los partidos políticos en Colombia, no fue accesible (bloqueo ant-bot) y no aporta información verificable"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/pacto-historico-hacia-la-consolidacion-una-izquierda-partidista-congreso/",
+              "note": "Aporta el recuento de experiencias partidistas de izquierda en Colombia (UP, PDA, M-19), la victimización de la UP por genocidio paramilitar y la trayectoria de la izquierda en el Congreso; sirve de contraste empírico a la idea de ausencia de izquierda partidista.",
+              "host": "razonpublica.com",
+              "title": "El Pacto Histórico: ¿Hacia la consolidación de una izquierda partidista en el Congreso?",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/03/Registraduria-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/colombia-humana-entra-al-pacto-y-la-izquierda-sella-proceso-de-unidad/",
+              "note": "Confirma la existencia actual de partidos de izquierda organizados (Pacto Histórico con Polo, UP, Partido Comunista, Progresistas), útil para situar la escala temporal de la afirmación.",
+              "host": "lasillavacia.com",
+              "title": "Colombia Humana entra al Pacto y la izquierda sella proceso de unidad",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/02/Diseno-sin-titulo-2026-02-08T140147.091.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Primero_Colombia",
+              "note": "Describe una formación de derecha (2002-2010); aporta contraste sobre el espectro partidista colombiano, no sobre izquierda en el siglo XIX o 1957.",
+              "host": "es.wikipedia.org",
+              "title": "Primero Colombia - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Movimiento_Primero_Colombia.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F4",
+              "url": "https://enciclopedia.banrepcultural.org/Historia_de_los_Partidos_Políticos_en_Colombia",
+              "note": "Fuente prevista para la historia de los partidos, pero no accesible (bloqueo ant-bot): no aporta información verificable; por eso el extremo sobre 1867/Gran Colombia queda como sin evidencia.",
+              "host": "enciclopedia.banrepcultural.org",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://en.wikipedia.org/wiki/Revolutionary_Socialist_Party_(Colombia)",
+              "note": "Clave para datar la izquierda partidista colombiana: PSRC (1926-1930) y sucesión por el Partido Comunista en 1930; es el contraste que desmiente la afirmación cuando se aplica a 1957.",
+              "host": "en.wikipedia.org",
+              "title": "Revolutionary Socialist Party (Colombia) - Wikipedia",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Partido_Socialista_Revolucionario.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "educacion",
+          "claim": "La educación pública gratuita ya era ley con el general Santander en la Gran Colombia.",
+          "quote": "La educación pública gratuita ya era ley con el general Santander en la Gran Colombia.",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Santander sí impulsó la creación de escuelas públicas en la Gran Colombia (Congreso de Cúcuta, 1821), pero las fuentes no confirman que la gratuidad explícita ya estuviera codificada como ley en esa etapa. La norma que establece la enseñanza primaria «obligatoria, gratuita y religiosamente neutra» data de 1870, bajo el gobierno liberal radical de Eustorgio Salgar [F4][F5].",
+          "context": "En el Congreso de Cúcuta de 1821, Santander ordenó crear escuelas públicas en cada parroquia de la Gran Colombia, asumiendo el Estado la responsabilidad educativa por primera vez. Sin embargo, esa reforma quedó limitada al ciudadano varón, mestizo y urbano, dejando fuera a indígenas, mujeres y población rural [F4]. La gratuidad como mandato legal explícito y generalizado apareció casi medio siglo después, con el Decreto Orgánico de Instrucción Pública de 1870, que estableció la primaria obligatoria, gratuita y laica —y que fue uno de los detonantes de la guerra civil de 1876-1877 [F5]. El video no distingue entre «crear escuelas públicas» y «garantizar gratuidad legal», ni señala que la consagración jurídica más completa de la educación gratuita como derecho se produjo bajo un gobierno de liberalismo radical, no durante la presidencia de Santander [F4][F5].",
+          "progressivePerspective": "La afirmación se enmarca en un argumento cronológico: si la educación gratuita es anterior a la izquierda, esta no puede reclamarla. Las fuentes muestran que el camino hacia la educación pública gratuita y obligatoria fue largo y atravesado por disputas entre liberalismo radical, Iglesia y conservadurismo, con hitos concretos en 1821 (Santander) y en 1870 (decreto de Salgar) [F4][F5]. Presentar la gratuidad como «ya ley» con Santander omite que el mandato explícito llegó con el liberalismo radical, corriente política que el video no identifica como izquierda pero que representa un antecedente directo de las demandas de educación pública como derecho. En términos de verdad y no repetición, el video simplifica una historia de disputas ideológicas reales —la guerra de 1876 fue causada en parte por la reforma educativa laica [F5]— al reducirla a una sola fecha y a una conclusión preconcebida [F4][F5].",
+          "whatTheyOmit": "Omite: (1) que el Decreto Orgánico de 1870, que sí consagró la gratuidad explícita, fue obra del liberalismo radical de Eustorgio Salgar, no de Santander [F5]; (2) que la reforma de Santander era limitada —solo para varones mestizos urbanos— y no universal [F4]; (3) que la gratuidad educativa fue motivo de guerras civiles (1876-1877) y contrarreformas (Constitución de 1886), lo que muestra que el tema nunca fue neutro ni «ya resuelto» desde el siglo XIX [F5]; (4) no aporta ninguna fuente normativa concreta de la época de Santander que respalde el uso específico de «gratuita» como obligación legal [F4].",
+          "keyFacts": [
+            "Santander ordenó crear escuelas públicas en cada parroquia de la Gran Colombia en el Congreso de Cúcuta de 1821, y el Estado asumió por primera vez la responsabilidad educativa [F4].",
+            "La reforma educativa de Santander estaba dirigida al ciudadano varón, mestizo y urbano; indígenas, mujeres y población rural quedaron excluidos [F4].",
+            "El Decreto Orgánico de Instrucción Pública de 1870, bajo el gobierno liberal radical de Eustorgio Salgar, estableció la enseñanza primaria obligatoria, gratuita y religiosamente neutra [F5].",
+            "Ese decreto de 1870 fue uno de los detonantes directos de la guerra civil de 1876-1877 [F5].",
+            "Las fuentes disponibles no documentan una norma específica de la era Santander que declare la educación pública como «gratuita» en el sentido pleno que sugiere el video [F4][F5]."
+          ],
+          "sources": [
+            {
+              "ref": "F4",
+              "url": "https://plandecenal.edu.co/portal/_redirect/1785/w3-article-428904.html",
+              "note": "Detalle la reforma educativa de Santander: creación de escuelas públicas en 1821, límites de alcance y transferencia de responsabilidad del Estado. Confirma la iniciativa pero no menciona gratuidad explícita.",
+              "host": "plandecenal.edu.co",
+              "title": "Reforma de Santander: el Estado asume la educación por primera vez — para algunos - Reforma de Santander: el Estado asume la educación por primera vez — para algunos",
+              "image": "https://cms.mineducacion.gov.co/icn/corp/logito_newtenberg.gif"
+            },
+            {
+              "ref": "F5",
+              "url": "https://historiacolombiana.com/hechos/el-decreto-organico-de-instruccion-publica-de-1870",
+              "note": "Documenta el Decreto Orgánico de 1870 que sí estableció la primaria obligatoria, gratuita y laica, bajo el gobierno liberal radical de Salgar. Aporta el contraste clave: la gratuidad legal explícita es posterior a Santander.",
+              "host": "historiacolombiana.com",
+              "title": "Decreto Orgánico de Instrucción Pública de 1870",
+              "image": "https://historiacolombiana.com/api/public-image/cmrnti82l000lad014i3raxky?v=7655bdbcc073b3d4fc129427d3aedbb69cd28ba6246687092e3d266250c03048"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.scribd.com/document/263206903/Obra-Educativa-Santander-1819-26-Vol-1",
+              "note": "Referencia a la obra educativa de Santander (1819-26) y al Decreto 1 de 1826, pero el contenido no es accesible en la fuente.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/matricula-cero-va-pasar-la-educacion-superior/",
+              "note": "Contexto sobre gratuidad en educación superior contemporánea; no aporta directamente al período Gran Colombia.",
+              "host": "razonpublica.com",
+              "title": "Matrícula Cero: qué va a pasar con la educación superior",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/06/salon-clases-matricula-cero-Francisco-Cajiao.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/opinion/educacion-publica-gratuita/",
+              "note": "Análisis contemporáneo de la gratuidad en colegios oficiales (decreto 4807 de 2011); no aporta al período Gran Colombia.",
+              "host": "lasillavacia.com",
+              "title": "Educación pública ¿gratuita?",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "educacion",
+          "claim": "El SENA fue fundado en 1957 por iniciativa de Rojas Martínez, del Partido Liberal.",
+          "quote": "El Sena fundaba en 1957 por iniciativa de rol por Martínez del Partido Liberal.",
+          "figures": [
+            "1957"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La fecha es correcta: el SENA se creó el 21 de junio de 1957 mediante el Decreto 118 y se organizó por el Decreto 164 de agosto de ese año. La iniciativa se atribuye a Rodolfo Martínez Tono, con el apoyo del ministro de Trabajo Raimundo Emiliani Román. Dos precisiones: el nombre correcto es Rodolfo Martínez Tono (el audio, por transcripción automática, suena como «Rojas Martínez»/«rol por Martínez»), y la afiliación liberal de Martínez Tono no queda demostrada por las fuentes entregadas; además, el decreto fue expedido por la Junta Militar de Gobierno, no por un partido [F3][F5][F4].",
+          "context": "El Decreto 118 del 21 de junio de 1957 creó el SENA bajo la Junta Militar presidida por el general Gabriel París, y el Decreto 164 del 6 de agosto de 1957 (Diario Oficial 29475) lo organizó como organismo descentralizado, expresamente «en uso de las atribuciones de que trata el artículo 121 de la Constitución Nacional». Su Consejo Nacional integró a los ministerios de Trabajo y Educación, un representante del Cardenal Arzobispo, la ANDI, la FENALCO, agricultores y ganaderos, y un representante de los trabajadores designado por la confederación sindical con más afiliados, es decir, un diseño tripartito de gremios, empresarios y sindicatos, no una obra partidista [F3]. Martínez Tono impulsó la entidad con el apoyo del entonces ministro de Trabajo Raimundo Emiliani Román, y la propia historia institucional del SENA lo narra como relato de su fundador [F5][F4]. La entidad nació inspirada en el SENAI de Brasil y con asesoría técnica de la OIT a partir de 1960 [F5][F1].",
+          "progressivePerspective": "El veredicto no se resuelve por bandos sino por precisión: separar el hecho verificable (fecha y nombre del impulsores) de la inferencia que el video construye sobre él. Que el SENA se creara en 1957 por iniciativa de un dirigente gremial y con el respaldo de un ministro de Trabajo, dentro de un gobierno de transición militar que respondió a la caída de Rojas Pinilla, muestra una institución de naturaleza mixta —gremios, sindicatos, empresarios y Estado— y no propiedad de ninguna familia política actual [F3][F5]. Desde el principio de la verdad histórica, atribuir la fundación a «el Partido Liberal» sin fuente que lo acredite introduce un dato no verificado en la secuencia del video; y desde la no repetición del uso político de la memoria, el caso ilustra que la solidez de una fecha no certifica la conclusión que de ella se deriva: que una institución no haya nacido de un partido de izquierda no demuestra que «la izquierda se apropió de lo que no construyó», afirmación que el video sostiene sobre un adversario que no nombra ni documenta [F4][F5].",
+          "whatTheyOmit": "Omite que el SENA fue creado por decreto de una Junta Militar de Gobierno y no por decisión de un partido; que su diseño institucional fue tripartito, con representación empresarial (ANDI, FENALCO) y de los trabajadores en el Consejo Nacional [F3][F5]. Omite el papel del ministro de Trabajo Raimundo Emiliani Román y la asesoría internacional de la OIT en la conformación de la entidad [F5]. No aporta ninguna fuente sobre la afiliación partidista de Martínez Tono, ni sobre el momento en que, según el video, la izquierda se habría «apropiado» de estas instituciones. Nota: la diferencia entre «Rojas Martínez» (transcripción automática) y «Rodolfo Martínez Tono» es un error de transcripción, no necesariamente del video original [F4][F5].",
+          "keyFacts": [
+            "El SENA fue creado el 21 de junio de 1957 mediante el Decreto 118 y organizado por el Decreto 164 del 6 de agosto de 1957 [F5][F3]",
+            "El decreto fue expedido por la Junta Militar de Gobierno en ejercicio de las atribuciones del artículo 121 de la Constitución, no por un partido político [F3]",
+            "La idea se materializó con el impulso de Rodolfo Martínez Tono y el apoyo del ministro de Trabajo Raimundo Emiliani Román, bajo la junta presidida por el general Gabriel París [F5]",
+            "El Consejo Nacional del SENA incluyó a los ministerios de Trabajo y Educación, la ANDI, la FENALCO, gremios agropecuarios y un representante de los trabajadores designado por la confederación sindical con mayor número de afiliados [F3]",
+            "Rodolfo Martínez Tono es la fuente narrativa de la reseña histórica institucional del SENA conmemorativa de los 55 años de la entidad [F4]",
+            "Las fuentes entregadas no documentan la afiliación partidista de Martínez Tono, por lo que «del Partido Liberal» queda sin respaldo en este corpus [F5][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-sena-de-la-demagogia-a-la-formacion-profesional/",
+              "note": "Aporta contexto sobre el concepto de formación profesional y la misión del SENA; no trata la fundación ni la afiliación partidista, sirve como contraste sobre lo que la institución es y no es.",
+              "host": "razonpublica.com",
+              "title": "El SENA: de la demagogia a la formación profesional - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2011/01/Francisco_Cajia0.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.scribd.com/document/572703947/Normativa-de-creacion-del-sena",
+              "note": "Referencia al Decreto 118 de 1957, pero el contenido no se pudo cargar; se usa solo como indicio documental, no como evidencia sustantiva.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://normograma.sena.edu.co/compilacion/docs/decreto_0164_1957.htm",
+              "note": "Texto normativo: confirma la creación por Decreto 118 del 21 de junio de 1957, la expedición por la Junta Militar y la composición tripartita del Consejo Nacional; contraste directo con la atribución exclusiva a un partido.",
+              "host": "normograma.sena.edu.co",
+              "title": "Decreto 164 de 1957",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://repositorio.sena.edu.co/handle/11404/7648",
+              "note": "Reseña histórica del SENA contada por Rodolfo Martínez Tono a los 55 años; confirma el nombre correcto del impulsor y su rol fundacional.",
+              "host": "repositorio.sena.edu.co",
+              "title": "La historia del SENA contada por Rodolfo Martínez Tono",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Servicio_Nacional_de_Aprendizaje",
+              "note": "Confirma fecha (21 de junio de 1957), decreto, gobierno de la Junta Militar de Gabriel París, impulso de Martínez Tono con el apoyo del ministro Emiliani Román; no menciona su afiliación partidista.",
+              "host": "es.wikipedia.org",
+              "title": "Servicio Nacional de Aprendizaje - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bogot%C3%A1%2C_torre_del_Sena_en_Chapinero.JPG/960px-Bogot%C3%A1%2C_torre_del_Sena_en_Chapinero.JPG?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Esas instituciones se crearon antes de que la izquierda fuera una fuerza política real en Colombia.",
+          "quote": "Todo eso ocurrió antes de que la izquierda fuera una fuerza política real en Colombia.",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Las fechas de creación de la Universidad Nacional (1867) están confirmadas por la Ley 1 de 1867 [F3]. El rol de Santander en la instrucción pública en la Gran Colombia también está respaldado [F1][F2]. Sin embargo, la afirmación de que la izquierda no era «una fuerza política real» antes de esas fechas es problemática: el santanderismo —del que deriva el Partido Liberal— está catalogado como centroizquierda [F5], y las fuentes no permiten verificar la fecha de creación del SENA (1957) ni establecer un punto de corte claro para cuándo «la izquierda» existió como fuerza política organizada en Colombia [F5].",
+          "context": "La Universidad Nacional de los Estados Unidos de Colombia fue creada por la Ley 1 de 1867, sancionada el 22 de septiembre de 1867 por el presidente Manuel María de los Santos Acosta [F3]. El santanderismo, base del Partido Liberal desde su fundación en 1848, incluye entre sus principios la educación pública y el anticlericalismo, y es catalogado como de centroizquierda [F5]. El Partido Liberal experimentó un giro hacia la izquierda en el siglo XX, especialmente con la Reforma Constitucional de 1936 y su afiliación a la Internacional Socialista [F5]. La educación laica y pública fue bandera del Radicalismo Liberal, con su formulación más ambiciosa en el Decreto Orgánico de Instrucción Pública de 1870 [F1]. No se dispone de fuente para verificar la fecha exacta de creación del SENA (1957).",
+          "progressivePerspective": "La afirmación plantea que la anterioridad cronológica demuestra que «la izquierda» no construyó esas instituciones. Desde el marco de verdad, justicia, reparación y no repeticion —aplicable al conflicto armado colombiano y a la JEP—, este tipo de argumento tiene relevancia indirecta: al reducir la historia política a una disputa de apropiación partidista sobre instituciones públicas, se desvía la atención de las causas estructurales del conflicto (desigualdad, exclusión política, debilidad institucional) que la educación pública buscó, en parte, resolver. El santanderismo, reconocido como centroizquierda [F5], y el liberalismo radical que impulsó la educación laica [F1], muestran que la frontera entre «izquierda» y «derecha» en Colombia no es estática: el propio Partido Liberal mutó ideológicamente a lo largo del siglo XX [F5]. Presentar la cuestión como una simple apropiación indebida de la izquierda simplifica una trayectoria política compleja y puede contribuir a la polarización en lugar de al esclarecimiento histórico. La JEP enfatiza que la verdad requiere matices y reconocimiento de responsabilidades múltiples, no la asignación de méritos exclusivos a un bando [F5].",
+          "whatTheyOmit": "El video omite que el santanderismo —del que deriva el Partido Liberal— está catalogado como centroizquierda [F5], lo que debilita la premisa de que «la izquierda» no existía antes de 1867. También omite que el liberalismo radical fue el impulsor de la educación laica y pública con el Decreto Orgánico de 1870 [F1], un antecedente directo de las políticas educativas que el video asocia implícitamente solo a la izquierda posterior. Omite precisar el alcance real de las disposiciones de Santander en materia educativa, que incluyeron escuelas para niños pobres y planificación de estudios, pero no necesariamente un sistema nacional de primaria gratuita, obligatoria y laica tal como se entendería después [F1][F2]. Finalmente, no identifica ni documenta quién ni cuándo habría «reclamado» esas instituciones para la izquierda, lo que convierte esa premisa en un argumento contra un adversario no citado.",
+          "keyFacts": [
+            "La Universidad Nacional de los Estados Unidos de Colombia fue creada por la Ley 1 de 1867, sancionada el 22 de septiembre de 1867 por el presidente Santos Acosta [F3]",
+            "El santanderismo, base fundacional del Partido Liberal desde 1848, incluye la educación pública entre sus principios y está catalogado como de centroizquierda [F5]",
+            "El Congreso de Cúcuta de 1821 promulgó las primeras leyes generales de educación de Colombia, y Santander expidió en 1826 el decreto del plan general de estudios [F1]",
+            "El Partido Liberal experimentó un giro ideológico hacia la izquierda en el siglo XX, especialmente con la Reforma Constitucional de 1936 y su afiliación a la Internacional Socialista [F5]",
+            "La formulación más ambiciosa de la educación laica y pública fue el Decreto Orgánico de Instrucción Pública de 1870, bajo el Radicalismo Liberal [F1]",
+            "Las fuentes disponibles no permiten verificar la fecha de creación del SENA (1957)"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://historiacolombiana.com/ideas/educacion-laica",
+              "note": "Historia de la educación laica en Colombia: leyes de 1821, decreto de Santander de 1826, Decreto Orgánico de 1870, y el papel del liberalismo radical. Aporta contexto sobre el alcance real de las reformas educativas del siglo XIX.",
+              "host": "historiacolombiana.com",
+              "title": "Educación laica en Colombia: historia y debates",
+              "image": "https://historiacolombiana.com/api/public-image/cmstz4oo6001sad016z4oi3f0?v=1786775946949"
+            },
+            {
+              "ref": "F2",
+              "url": "https://diariolalibertad.com/2026/10/20/la-lucha-por-una-educacion-publica-laica-y-gratuita-en-colombia-durante-el-siglo-xix/",
+              "note": "Confirma el rol de Santander y Bolívar en la instrucción pública, las diferencias entre ambos, y las reformas liberales y conservadoras del siglo XIX.",
+              "host": "diariolalibertad.com",
+              "title": "La lucha por una educación pública, laica y gratuita en Colombia durante el siglo XIX - Diario La Libertad.",
+              "image": "https://diariolalibertad.com/wp-content/uploads/2026/10/758bd986-dc13-422e-b0b3-4b04fbf97d7a.webp"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=13665",
+              "note": "Ley 1 de 1867 que crea la Universidad Nacional, firmada por Santos Acosta. Confirma la fecha exacta y el gobierno bajo el cual se expidió.",
+              "host": "alcaldiabogota.gov.co",
+              "title": "RÉGIMEN LEGAL DE BOGOTÁ D.C.",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://es.scribd.com/document/472987556/LEY-66-DE-1867-Crea-Universidad-Nacional-Colombia",
+              "note": "Referencia a la creación de la Universidad Nacional en 1867; el contenido no es accesible por restricciones técnicas, por lo que no aporta información verificable adicional.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Santanderismo",
+              "note": "Describe el santanderismo como centroizquierda, su relación con el Partido Liberal, y el giro ideológico del partido hacia la izquierda en el siglo XX. Aporta el contraste clave sobre la evolución de las categorías políticas en Colombia.",
+              "host": "es.wikipedia.org",
+              "title": "Santanderismo - Wikipedia, la enciclopedia libre",
               "image": ""
             }
           ]
