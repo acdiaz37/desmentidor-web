@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:53:56",
+  "generatedAt": "2026-11-18T10:40:39",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -10604,6 +10604,214 @@
               "host": "agronegocios.co",
               "title": "Con la reforma rural se entregaron 1.399.403 hectáreas de predios a familias campesinas | Agronegocios.co",
               "image": "https://img.lalr.co/cms/2023/12/29145134/Entrega-tierras-a-campesinos-Colprensa.png?w=400&r=1_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "19k-views-810-reactions-que-verguenza-la-ignorancia-del-pacto-historic",
+      "title": "19K views · 810 reactions | ¡Qué vergüenza! La ignorancia del Pacto Histórico en el congreso es atrevida. Desde el colegio enseñan que el magnesio no es lo mismo que el manganeso. ¡Por eso menos influencer y más preparación! #nomasizquierda #NoMasIgnorancia | Visión Colombia 2026",
+      "uploader": "Visión Colombia 2026",
+      "url": "https://m.facebook.com/watch/?v=1665856391581122&_rdr",
+      "duration": 34.24,
+      "thumbnail": "/media/19k-views-810-reactions-que-verguenza-la-ignorancia-del-pacto-historic/thumb.jpg",
+      "conclusion": "## Un dato correcto enmarcado en una corrección que también se equivoca\n\nEl video construye una narrativa de exhibición de ignorancia: a partir de un fragmento de audio cortado a mitad de frase, sin oradores identificados ni fecha ni sesión, presenta a un integrante del Pacto Histórico como ejemplo de incompetencia científica en el Congreso, y cierra con una reflexión general sobre «menos influencer y más preparación». La percepción que genera es de que se está presenciando una corrección pedagógica impecable que deja al descubierto la ignorancia de una bancada entera.\n\nEs cierto, y conviene reconocerlo, que la frase central del clip —el magnesio no es una tierra rara, es un material alcalinotérreo— es químicamente correcta: el magnesio pertenece al grupo 2 de la tabla periódica y las tierras raras son los 15 lantánidos más escandio e itrio. El clip parte, además, de una discusión documentada sobre minerales estratégicos en Colombia, de modo que el tema de fondo no es una invención.\n\nEl problema aparece en el segundo movimiento del clip. La corrección presenta al manganeso como «la tierra rara» que sí correspondía discutir, y esa premisa es falsa: el manganeso es un metal de transición que no integra la lista de 17 tierras raras; en el memorando colombiano figura, en todo caso, dentro de la categoría más amplia de «minerales críticos». Aquí está el punto de quiebre: el video pasa de «este elemento no es una tierra rara, es un alcalinotérreo» (cierto) a «por lo tanto, la persona que hablaba confundió magnesio con manganeso, que es la tierra rara correcta» (no cierto). En ese giro, la corrección comete el mismo tipo de error de clasificación que pretende denunciar, y el espectador, sin las listas de referencia a mano, difícilmente lo notará.\n\nSe añaden otras omisiones decisivas. El audio arranca a mitad de frase y no se escucha la respuesta, por lo que no puede saberse qué se dijo antes, si hubo error previo, o si la corrección fue aceptada o rebatida. No hay identificación de oradores, de modo que la atribución a toda una bancada y la extrapolación del título quedan sin respaldo documental. También se omite que «tierras raras» y «minerales críticos» son categorías distintas, una definida químicamente y otra geopolíticamente por cada Estado, matiz que habría permitido entender la discusión sin necesidad de exhibir a nadie.\n\nLa interpretación más completa sería más modesta: se escucha un fragmento sin contexto en el que una corrección química parcialmente acertada se acompaña de un error clasificatorio, y no hay elementos para concluir qué dijo primero el interpelado ni para generalizar a una bancada entera. El dato verdadero sostiene una frase, pero la narrativa de vergüenza generalizada no se sostiene.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "ciencia",
+          "claim": "Se afirma que el magnesio no es una tierra rara, sino un material alcalinotérreo.",
+          "quote": "el magnesio no es una tierra rara, es un material arcalicio-terreo",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero a medias",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación es correcta: el magnesio (Mg) es un metal alcalinotérreo del grupo 2 de la tabla periódica, no una tierra rara [F2][F3][F4]. Las tierras raras son los 15 lantánidos más el escandio y el itrio [F1][F5], conjunto en el que el magnesio no figura.",
+          "context": "La confusión que pretende corregir el clip tiene por objeto una distinción química estándar: los alcalinotérreos son berilio, magnesio, calcio, estroncio, bario y radio (grupo 2) [F2][F4], mientras las tierras raras son los lantánidos más escandio e itrio [F1][F5]. La fuente F1 precisa además que, en el lenguaje diplomático y minero colombiano, «tierras raras» y «minerales críticos» no son sinónimos: los minerales críticos son una categoría más amplia que sí incluye al manganeso, junto con cobre, níquel, litio, cobalto, grafito y niobio [F1]. Esto importa porque en el mismo fragmento se sostiene que el manganeso «sí es la tierra rara», lo que es incorrecto: el manganeso no aparece en la lista de tierras raras [F1][F5]. El clip, por tanto, acierta en la primera corrección y falla en la segunda [F1][F2].",
+          "progressivePerspective": "La verificación se circunscribe a un dato de química elemental, sin componente de conflicto armado ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no resulta aplicable aquí. En términos de rigor informativo, la afirmación bajo examen es exacta y se sostiene con fuentes de referencia [F2][F3][F4]. Lo que sí conviene señalar, desde una lectura ética de la verificación, es que el recorte se publica con un título que generaliza la intervención a toda una bancada parlamentaria, sin identificar al orador, a la persona interpelada ni la sesión [F1 de la ficha de contexto] y sin permitir reconstruir la discusión; el efecto es convertir una corrección puntual —parcialmente válida— en un juicio colectivo. La verificación neutral exige separar dos planos: el dato químico, que es verdadero para el magnesio [F2][F3][F4], y la atribución generalizante, que las fuentes disponibles no respaldan.",
+          "whatTheyOmit": "Omited: la segunda afirmación del clip, que presenta al manganeso como «la tierra rara», es falsa: el manganeso es un metal de transición (grupo 7) y no figura en la lista de tierras raras [F1][F5]. También omite que el título del video extrapola de un fragmento sin nombre, fecha ni sesión a toda una bancada, y que el audio comienza a mitad de frase, lo que impide saber qué se dijo antes y después [F1 de la ficha de contexto]. Adicionalmente, la fuente F1 muestra que en el uso diplomático colombiano el memorando de 2026 se refiere a «minerales estratégicos o críticos», categoría distinta y más amplia que las tierras raras, matiz que el recorte no desarrolla [F1].",
+          "keyFacts": [
+            "El magnesio (Mg, número atómico 12) está clasificado como alcalinotérreo y pertenece al grupo 2 de la tabla periódica [F2][F3][F4]",
+            "Los metales alcalinotérreos son berilio, magnesio, calcio, estroncio, bario y radio [F2][F4]",
+            "Las tierras raras son una familia química de 17 elementos: los 15 lantánidos más el escandio y el itrio [F1]",
+            "El manganeso no es una tierra rara; en cambio, sí se incluye en la categoría más amplia de «minerales críticos» junto con cobre, níquel, litio, cobalto, grafito y niobio [F1]",
+            "La afirmación textuada en el clip («el magnesio no es una tierra rara, es un material alcalinotérreo») es químicamente correcta [F2][F3][F4]",
+            "El mismo fragmento sostiene que el manganeso «sí es la tierra rara», lo que es incorrecto según la definición estándar de tierras raras [F1][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/tierras-raras-una-nueva-oportunidad-o-la-vuelta-al-extractivismo/",
+              "note": "Define las tierras raras como los 15 lantánidos más escandio e itrio, y distingue esa familia de los «minerales críticos», categoría amplia que sí incluye al manganeso; aporta el contraste que demuestra la falsedad de la segunda corrección del clip.",
+              "host": "razonpublica.com",
+              "title": "Tierras raras: ¿una nueva oportunidad o la vuelta al extractivismo? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/08/Marcela-anzola-news.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.wikipedia.org/wiki/Alcalinotérreos",
+              "note": "Confirma que el magnesio es uno de los seis elementos del grupo 2 (alcalinotérreos) según nomenclatura IUPAC, sustento directo de la afirmación verificada.",
+              "host": "es.wikipedia.org",
+              "title": "Alcalinotérreos - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.periodictable.one/es/elemento/12",
+              "note": "Ficha del magnesio: número atómico 12, clasificación «Alcalinotérreos», grupo 2, período 3, bloque s.",
+              "host": "periodictable.one",
+              "title": "Magnesio (Mg) - Tabla Periódica",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://quimicaencasa.com/grupo-2-de-la-tabla-periodica-metales-alcalinoterreos/",
+              "note": "Lista los elementos del grupo 2 (Be, Mg, Ca, Sr, Ba, Ra) y explica el origen del nombre «alcalinotérreos».",
+              "host": "quimicaencasa.com",
+              "title": "Grupo 2 de la Tabla Periódica: Metales Alcalinotérreos - Química en casa.com",
+              "image": "https://www.quimicaencasa.com/wp-content/uploads/2016/04/56da03_6fab0c743eb54c8f928eb7b4f7a9db31-300x225.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://elementos.org.es/tierras-raras",
+              "note": "Inventario de tierras raras (escandio, itrio y lantánidos); el magnesio y el manganeso no figuran, lo que respalda ambas correcciones del análisis.",
+              "host": "elementos.org.es",
+              "title": "▷ Tierras Raras",
+              "image": "https://elementos.org.es/tierras-raras"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "ciencia",
+          "claim": "Se afirma que la persona a quien se dirige equivocó el elemento: se trata de manganeso, no de magnesio.",
+          "quote": "Señora Luz Verónica, no es magnesio, es manganeso",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación contiene dos partes separables: (a) que el elemento en discusión era manganeso y no magnesio, y (b) la premisa implícita con que se enuncia en el clip, esto es, que el manganeso es la 'tierra rara' que se estaba discutiendo. Sobre (b) las fuentes son concluyentes: el manganeso no pertenece a las tierras raras, que son 17 elementos (escandio, itrio y los 15 lantánidos), y el magnesio tampoco [F3][F4][F5]. Sobre (a) las fuentes entregadas no permiten verificar qué elemento se mencionó primero ni qué dijo la persona interpelada, porque el clip no identifica orador, sesión ni fecha y ninguna de las fuentes corresponde a esa intervención [F1][F2]. Por eso el veredicto es engañoso: se presenta como corrección válida una identificación que, en el marco de la discusión sobre tierras raras, es falsa, y no hay respaldo documental del intercambio [F3][F4][F5].",
+          "context": "Las tierras raras son un grupo de 17 elementos: escandio, itrio y los 15 lantánidos (lantano, cerio, praseodimio, neodimio, prometio, samario, europio, gadolinio, terbio, disprosio, holmio, erbio, tulio, iterbio y lutecio) [F3][F4]. Esa misma lista, con números atómicos y símbolos, es la que registra la fuente especializada en elementos: escandio (Sc, 21) e itrio (Y, 39) como metales de transición incluidos en el grupo, y el resto como lantánidos [F5]. En consecuencia, ni el manganeso (Mn) ni el magnesio (Mg) figuran en ninguna de las listas de referencia, de modo que llamar 'tierra rara' al manganeso es una clasificación incorrecta, del mismo modo en que llamarlo así al magnesio también lo sería [F3][F4][F5]. Dato adicional de contexto útil: el nombre 'tierras raras' es arcaico y no implica escasez —cerio, itrio y neodimio son más abundantes— sino la dificultad de encontrarlos en forma pura [F3][F4]. Sobre la procedencia del clip, ni la fuente F1 (semblanza de Álvaro Gómez Hurtado) ni la fuente F2 (verificación sobre declaraciones atribuidas a un mandatario) aportan datos sobre la sesión, el orador o la persona interpelada en este fragmento [F1][F2].",
+          "progressivePerspective": "Este clip no concierne al conflicto armado colombiano ni a la JEP, por lo que no cabe aplicar el marco de verdad, justicia, reparación y no repeticion; el análisis se reduce al estándar general de verificación y a la honestidad del encuadre. En esa clave, la pieza se sostiene sobre una corrección ajena que, al verificarse contra las fuentes de referencia, resulta parcialmente errónea: acierta al excluir al magnesio de las tierras raras, pero incorpora al manganeso, que tampoco pertenece al grupo [F3][F4][F5]. El problema de método es el que ilustra la propia F2: cuando no existen registros de una atribución, la conclusión verificadora es que la atribución queda sin respaldo, no que pueda darse por cierta [F2]. Aquí ocurre algo análogo: sin identificar al orador, a la persona interpelada ni la sesión, la atribución de la frase a una bancada entera carece de sustento documental [F1][F2]. El clip, además, empieza a mitad de frase y no permite reconstruir qué se dijo antes ni después, de modo que la generalización de un error individual a todo un colectivo no se sostiene con la evidencia disponible [F1][F2]. En términos de calidad del debate público, exponer una confusión química como muestra de ignorancia generalizada, sosteniéndose a su vez en otra confusión química, debilita la posibilidad de un intercambio fáctico verificable entre legisladores y audiencia [F3][F4][F5].",
+          "whatTheyOmit": "Se omite que el manganeso no es una tierra rara, aunque la frase lo presenta implícitamente como el elemento correcto de la discusión sobre tierras raras [F3][F4][F5]. Se omite qué dijo exactamente la persona interpelada, quién es, en qué sesión y con qué fecha, dato que ninguna fuente aporta y que es indispensable para saber si hubo error previo y a quién se le atribuye [F1][F2]. Se omite el contexto completo del intercambio: el audio inicia a mitad de frase y no se oye la respuesta, por lo que no puede saberse si la corrección fue aceptada, matizada o rebatida [F1][F2]. Se omite también que la lista de 17 tierras raras es cerrada y de referencia objetiva, de modo que una afirmación sobre qué elemento es o no tierra rara puede resolverse sin apelar a la persona que la dice [F3][F4][F5].",
+          "keyFacts": [
+            "Las tierras raras son 17 elementos: escandio, itrio y los 15 lantánidos [F3][F4]",
+            "El manganeso no figura en ninguna lista de referencia de tierras raras, por lo que presentarlo como tal es una clasificación incorrecta [F3][F4][F5]",
+            "El magnesio tampoco figura en las listas de tierras raras [F3][F4][F5]",
+            "El nombre 'tierras raras' no implica escasez: cerio, itrio y neodimio son más abundantes en la corteza terrestre [F3][F4]",
+            "Las fuentes entregadas no identifican al orador, a la persona interpelada, la sesión ni la fecha del clip, ni contienen registro de lo que se dijo antes o después [F1][F2]",
+            "Cuando no existen registros de una atribución, la conclusión verificadora aplicada en fuentes de contraste es que la atribución no está respaldada [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/alvaro-gomez-hurtado-el-gran-ausente/",
+              "note": "Semblanza política de Álvaro Gómez Hurtado. No aporta información sobre la intervención en el Congreso, el orador ni la sesión; se incluye como fuente que no cubre la afirmación.",
+              "host": "razonpublica.com",
+              "title": "Álvaro Gómez Hurtado, el gran ausente - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2010/12/dario_londono.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-dijo-que-el-papa-leon-xiv-no-representa-a-un-verdadero-cristiano/",
+              "note": "Verificación de otro caso (declaraciones atribuidas a un mandatario). Aporta el criterio metodológico de contraste: ausencia de registros = atribución sin respaldo. No trata el clip ni la química.",
+              "host": "lasillavacia.com",
+              "title": "De la Espriella no dijo que el Papa León XIV \"no representa a un verdadero cristiano\"",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/10/Abelardo-de-la-Espriella-Papa-Leon-XIV-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Tierras_raras",
+              "note": "Define las tierras raras como 17 elementos (escandio, itrio y 15 lantánidos) y aclara el origen del término. Permite concluir que ni manganeso ni magnesio son tierras raras.",
+              "host": "es.wikipedia.org",
+              "title": "Tierras raras - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/RareEarthOreUSGOV.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F4",
+              "url": "https://ecologiaverde.elperiodico.com/tierras-raras-que-son-lista-caracteristicas-para-que-sirven-y-donde-estan-6349.html",
+              "note": "Lista explícita de los 17 elementos de tierras raras con sus usos; confirma la exclusión de manganeso y magnesio y aporta contexto sobre escasez y extracción.",
+              "host": "ecologiaverde.elperiodico.com",
+              "title": "Tierras raras: qué son, lista, características, para qué sirven y dónde están - Resumen",
+              "image": "https://cdn0.ecologiaverde.com/es/posts/9/4/3/tierras_raras_que_son_lista_caracteristicas_para_que_sirven_y_donde_estan_6349_1200.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://elementos.org.es/tierras-raras",
+              "note": "Ficha de elementos con número atómico y símbolo para cada tierra rara; confirma que la lista no incluye Mn ni Mg y permite ubicar escandio e itrio como metales de transición incluidos en el grupo.",
+              "host": "elementos.org.es",
+              "title": "▷ Tierras Raras",
+              "image": "https://elementos.org.es/tierras-raras"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "ciencia",
+          "claim": "Se afirma que el manganeso sí es una tierra rara.",
+          "quote": "y sí es la tierra rara",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "La afirmación de que el manganeso 'sí es la tierra rara' es falsa: las tierras raras son una familia de 17 elementos (15 lantánidos más escandio e itrio) y el manganeso no pertenece a ella; en cambio, las fuentes lo clasifican como mineral crítico, categoría distinta y más amplia [F1][F4][F5].",
+          "context": "El clip contiene dos afirmaciones químicas: (a) el magnesio no es tierra rara sino metal alcalinotérreo, correcta porque el Mg es un elemento del grupo 2 de la tabla periódica [F4][F5]; y (b) 'y sí es la tierra rara' refiriéndose al manganeso, incorrecta. La definición de referencia indica que las tierras raras son los 15 lantánidos más el escandio y el itrio, mientras que el manganeso aparece en la lista de minerales críticos junto con cobre, níquel, litio, cobalto y grafito, que 'conforman una categoría más amplia, definida por cada Estado' [F1]. Es decir, el error de fondo del clip es de clasificación química, no de confusión entre nombres, y sostiene una afirmación falsa en el mismo pasaje en que corrige a otro. El clip no identifica al orador, a la persona interpelada ni la sesión, por lo que la atribución de la frase al Pacto Histórico carece de respaldo documental en las fuentes disponibles [F1].",
+          "progressivePerspective": "Este veredicto no se enmarca en el marco de la JEP (no se trata de conflicto armado ni de crímenes graves), por lo que la evaluación se limita al estándar de exactitud factual. En términos de rigor, el material presenta un doble rasgo: acierta al separar el magnesio de las tierras raras [F4][F5], pero incurre en el mismo tipo de error que denuncia cuando presenta al manganeso como tierra rara, contradiciendo la definición de referencia [F1]. Esa contradicción interna es relevante porque la pieza se construye como corrección de la supuesta ignorancia ajena mientras sostiene una clasificación incorrecta; el clip aporta, en ese punto, desinformación en lugar de esclarecimiento [F1][F4][F5]. De todos modos, el fragmento no permite reconstruir la discusión ni atribuir la frase a un interlocutor identificado, lo que impide establecer quién dijo qué y en qué condiciones [F1].",
+          "whatTheyOmit": "Omite que las tierras raras son 17 elementos definidos (lantánidos, escandio e itrio) y que el manganeso queda fuera de esa familia, al incluirlo en la categoría de minerales críticos, distinta y más amplia [F1]. Omite también que la corrección que el clip presenta como válida contiene un error de clasificación química, y no identifica al orador, a la persona corregida, la fecha ni la sesión, de modo que la generalización sobre una bancada entera no queda sustentada por las fuentes [F1].",
+          "keyFacts": [
+            "Las tierras raras son una familia química de 17 elementos: los 15 lantánidos más el escandio y el itrio; entre ellos cerio, neodimio, praseodimio y disprosio [F1].",
+            "El manganeso no es una tierra rara: las fuentes lo listan dentro de los minerales críticos, junto con cobre, níquel, litio, cobalto, grafito, niobio y las propias tierras raras, categoría más amplia definida por cada Estado [F1].",
+            "El magnesio (Mg) es un metal alcalinotérreo, elemento del grupo 2 de la tabla periódica, junto con berilio, calcio, estroncio, bario y radio [F4][F5].",
+            "La afirmación 'y sí es la tierra rara' (sobre el manganeso) es incompatible con la definición de referencia de tierras raras [F1][F4][F5].",
+            "El clip no identifica al orador, a la persona interpelada ni la sesión, por lo que la atribución de la frase al Pacto Histórico no está respaldada documentalmente en las fuentes [F1]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/tierras-raras-una-nueva-oportunidad-o-la-vuelta-al-extractivismo/",
+              "note": "Define las tierras raras como 17 elementos (15 lantánidos + escandio + itrio) y ubica al manganeso entre los minerales críticos, no entre las tierras raras: base de la refutación.",
+              "host": "razonpublica.com",
+              "title": "Tierras raras: ¿una nueva oportunidad o la vuelta al extractivismo? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/08/Marcela-anzola-news.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://elecciones-2026.lasillavacia.com/walter-alfonso-rodriguez-chaparro",
+              "note": "Perfil de un comunicador digital; no aporta datos sobre la clasificación química ni sobre la sesión del clip.",
+              "host": "elecciones-2026.lasillavacia.com",
+              "title": "Walter Alfonso Rodríguez Chaparro",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.lasillavacia.com/en-vivo/isabel-zulueta-denuncio-a-abelardo-por-acuerdo-de-minerales-con-ee-uu/",
+              "note": "Contexto del memorando sobre minerales estratégicos y tierras raras; confirma que el gobierno distingue entre minerales críticos y tierras raras, pero no aporta la clasificación del manganeso.",
+              "host": "lasillavacia.com",
+              "title": "Isabel Zuleta denunció a Abelardo por acuerdo de minerales con EE.UU.",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/02/Isabel_Zuleta_Lopez.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://es.wikipedia.org/wiki/Alcalinot%C3%A9rreos",
+              "note": "Lista el magnesio como metal alcalinotérreo del grupo 2, confirmando la primera corrección del clip.",
+              "host": "es.wikipedia.org",
+              "title": "Alcalinotérreos - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.periodictable.one/es/elemento/12",
+              "note": "Clasifica el magnesio (Mg, Z=12) como alcalinotérreo del grupo 2, período 3.",
+              "host": "periodictable.one",
+              "title": "Magnesio (Mg) - Tabla Periódica",
+              "image": ""
             }
           ]
         }
