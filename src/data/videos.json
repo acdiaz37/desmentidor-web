@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:40:35",
+  "generatedAt": "2026-11-19T11:38:12",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -13022,6 +13022,610 @@
               "host": "minuto60.com",
               "title": "Luz Verónica Estrada: los delitos que podría enfrentar por el escándalo de su título universitario",
               "image": "https://d33tk5b80rpokn.cloudfront.net/images/luz-veronica-estrada-20261119-062435_20261119_062435_twitter.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "15k-views-532-reactions-lucio-exmilitante-del-m19-mar-ce-con",
+      "title": "15K views · 532 reactions | Lucio... Exmilitante del M19. | Mar Ce Con",
+      "uploader": "Mar Ce Con",
+      "url": "https://m.facebook.com/watch/?v=1175611765412876&_rdr",
+      "duration": 110.454,
+      "thumbnail": "/media/15k-views-532-reactions-lucio-exmilitante-del-m19-mar-ce-con/thumb.jpg",
+      "conclusion": "## Los casos reales y la conclusión que no se sostiene\n\nEl video construye una narrativa que parte de un principio incuestionable y bien documentado: en Colombia ha habido corrupción política inmensa y estructural durante décadas. Las fuentes confirman 967 casos documentados entre 2016 y 2020, redes de clientelismo arraigadas y corrupción presente en todos los departamentos del país. Ese punto de partida es sólido y el hablante lo expone con convicción, y tiene razón en él. Sobre esa base se edifica un listado de casos concretos —el sistema de salud del magisterio, Ecopetrol, Colpensiones— que en sí mismos son reales: existen auditorías en curso, procesos de responsabilidad fiscal, condenas penales y desvíos millonarios documentados por órganos de control. El video selecciona correctamente la existencia de esos casos.\n\nEl problema de interpretación surge cuando esos datos, cada uno legítimo en su contenido, se ensamblan en una conclusión categórica. El punto de quiebre es preciso: ocurre en el momento en que el hablante pasa de «aquí hay casos documentados» a «este es el gobierno más corrupto y más degradado de la historia de Colombia» y a «no entró ni un honesto». Esa transición no está sustentada por los datos que el propio video presenta. No hay serie comparativa entre gobiernos, no hay ranking de magnitudes, no hay metodología para el supuesto «seguimiento entidad a entidad» que se menciona. Los casos de Ecopetrol corresponden a una auditoría interna en curso con hallazgos preliminares, no a decisiones judiciales. Los de Colpensiones incluyen fraudes de periodos anteriores al gobierno actual, como el caso documentado entre 2009 y 2015. La crisis del sistema de salud del magisterio precede al cambio de modelo actual. El contexto que falta es decisivo: el estatus procesal de cada caso, los períodos en que ocurrieron, la inexistencia de condenas que sustenten los superlativos, y el hecho fundamental de que la corrupción en Colombia es un fenómeno sistémico que atraviesa gobiernos y coaliciones —así lo reconoce el propio material documental—, no un atributo exclusivo de una administración.\n\nAl analizar el conjunto, la percepción que queda es de un gobierno excepcionalmente criminal, cuando los mismos datos permiten construir una interpretación más razonable: hay casos graves, algunos en curso, que merecen investigación y sanción, pero su existencia no demuestra un récord histórico ni la inexistencia total de funcionarios honestos. El video emplea datos auténticos para armar una escala de gravedad que los datos mismos no autorizan. Es engañoso en su construcción: no por lo que muestra, sino por la magnitud de la conclusión que extrae de lo que muestra.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "política",
+          "claim": "Se afirma que un gobierno del Pacto Histórico es el más corrupto de la historia de Colombia.",
+          "quote": "miembro de ese gobierno el más corrupto de la historia de Colombia",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes confirman que existen investigaciones judiciales y denuncias por presuntas irregularidades contra funcionarios y congresistas del Pacto Histórico, pero ninguna respalda el superlativo 'el más corrupto de la historia de Colombia': no hay datos comparativos entre gobiernos ni sentencias condenatorias que sustenten tal clasificación [F2][F3][F4][F5].",
+          "context": "Los hechos documentados por las fuentes son, en su mayoría, indagaciones y denuncias, no sentencias definitivas: (1) una denuncia de octubre de 2023 contra 19 senadores del Pacto Histórico por fraude procesal y falsedad ideológica en documento público, relacionada con reportes de campaña ante el CNE y unos supuestos viajes de la Sociedad Aérea de Ibagué (Sadi) por unos $60.782.337 reportados por cada uno [F2][F5]; (2) una indagación previa de la Corte Suprema contra Iván Cepeda por la financiación de la consulta interna del Pacto de octubre de 2025, tras el CNE haber decidido en enero no abrir investigación administrativa al concluir que se trataba de errores de reporte y contratos a crédito por servicios de propaganda, no donaciones [F3]; (3) una investigación formal contra el representante David Racero por concusión, en fase de indagatoria [F4]. Los casos están en etapas de instrucción sin condenas que permitan afirmar un monto o una magnitud total de corrupción, y las fuentes no aportan series comparativas con gobiernos anteriores que sustenten el calificativo 'el más corrupto de la historia' [F2][F3][F4][F5].",
+          "progressivePerspective": "A la luz del marco de verdad, justicia, reparación y no repetición, la afirmación funciona como una calificación global y superlativa sobre 'ese gobierno' en lugar de referirse a hechos específicos, individuales y acreditados. Los propios antecedentes citados muestran un sistema de control en funcionamiento: el CNE revisó la financiación de la consulta y concluyó que hubo errores de reporte y no donaciones irregulares [F3], y la Corte Suprema ejerce indagaciones y investigaciones formales que aún no han producido condenas [F2][F3][F4]. Cuando un caso judicial está en instrucción, presentarlo como prueba de un superlativo histórico adelanta una conclusión que el proceso aún no ha establecido, lo cual dificulta distinguir lo acreditado de lo denunciado y puede contribuir tanto a la impunidad por desgaste de las categorías como a la revictimización del debate público, en lugar de favorecer el esclarecimiento caso por caso, el reconocimiento de responsabilidad individual de los máximos responsables y las garantías de no repetición [F2][F3][F4].",
+          "whatTheyOmit": "Omite (1) el estatus procesal de los casos: son indagaciones, investigaciones previas y una denuncia, sin sentencias condenatorias que sustenten una afirmación categórica [F2][F3][F4]; (2) la decisión del Consejo Nacional Electoral de no abrir investigación administrativa en el caso de la consulta de Iván Cepeda, al concluir que correspondía a errores de reporte y contratos a crédito por servicios de propaganda y no a donaciones prohibidas [F3]; (3) la defensa de los señalados, como la tesis de Racero de linchamiento mediático vinculado a su actividad legislativa [F4]; (4) cualquier base comparativa entre gobiernos de distintas épocas y coaliciones que permita establecer el superlativo 'el más corrupto de la historia de Colombia', ausente en todas las fuentes [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "En octubre de 2023, el senador Jota Pe Hernández denunció a 19 senadores del Pacto Histórico ante la Corte Suprema por fraude procesal y falsedad ideológica en documento público, por reportes de campaña con unos $60.782.337 en supuestos viajes de la Sadi cada uno [F2][F5]",
+            "La Corte Suprema abrió indagación previa contra Iván Cepeda por la financiación de la consulta interna del Pacto Histórico de octubre de 2025, en la que se reportaron $116 millones de una persona natural y $609 millones vinculados a Samat Publicidad SAS [F3]",
+            "El Consejo Nacional Electoral decidió en enero no abrir investigación administrativa en el caso de la consulta de Cepeda, al concluir que correspondía a errores de reporte y a contratos a crédito por servicios de propaganda, no donaciones [F3]",
+            "La Corte Suprema abrió investigación formal contra el representante David Racero por concusión, en fase de indagatoria, tras denuncias de retención de salarios de su UTL [F4]",
+            "Ninguna fuente aporta condenas ni datos comparativos entre gobiernos que sustenten que el gobierno del Pacto Histórico sea 'el más corrupto de la historia de Colombia' [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/la-estructura-del-pacto-en-primera-vuelta-politicos-quietos-bases-aceitadas/",
+              "note": "Reportería sobre la estructura electoral del Pacto Histórico; documenta el uso del aparato estatal en campañas, no aporta datos de corrupción ni comparación histórica de gobiernos.",
+              "host": "lasillavacia.com",
+              "title": "La estructura del Pacto en primera vuelta: políticos quietos, bases aceitadas",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/06/estructura-pacto-1ra-vuelta.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.infobae.com/colombia/2025/02/18/denuncia-de-jota-pe-hernandez-tiene-bajo-las-cuerdas-a-19-miembros-del-pacto-historico-en-la-corte-suprema-este-es-el-expediente-00870/",
+              "note": "Documenta la denuncia contra 19 senadores del Pacto Histórico y el expediente 00870; es una denuncia en instrucción, no una condena.",
+              "host": "infobae.com",
+              "title": "Esta es la denuncia de Jota Pe Hernández que tiene contra las cuerdas a 19 miembros del Pacto Histórico en la Corte Suprema",
+              "image": "https://www.infobae.com/resizer/v2/2EXTTGBZGFEOHJEMI57VFFLVLM.jpg?auth=c580539fc09eee8dab23d314d388efdd759225efa29af32b218596acf6b2b693&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.portafolio.co/economia/gobierno/corte-suprema-abrio-indagacion-contra-ivan-cepeda-por-financiacion-de-consulta-del-pacto-historico-502470",
+              "note": "Indagación previa de la Corte Suprema contra Iván Cepeda; incluye el contraste clave: el CNE decidió no abrir investigación administrativa por error de reporte.",
+              "host": "portafolio.co",
+              "title": "Corte Suprema abrió indagación contra Iván Cepeda por financiación de consulta del Pacto Histórico",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/06/12/6a2c01c9d217e.r_d.896-786-0.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elpais.com.co/politica/corte-suprema-abrio-una-investigacion-contra-david-racero-representante-del-pacto-historico-2138.html",
+              "note": "Investigación formal por concusión contra David Racero en fase de indagatoria; registra su versión de linchamiento mediático.",
+              "host": "elpais.com.co",
+              "title": "Corte Suprema abrió una investigación contra David Racero, representante del Pacto Histórico",
+              "image": "https://www.elpais.com.co/resizer/v2/DRXH3GLDFZF27G72R6AWPFVTKM.jpeg?auth=2fe44ab793ab870c52a40a4571479ead239e4ed74e89a737bba00f03879ddd2f&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://elfrente.com.co/corte-investiga-cuentas-de-19-senadores-del-pacto-historico/",
+              "note": "Cubre el caso de los 19 senadores y los chats sobre vuelos de la Sadi; medio con lenguaje valorativo, útil como contraste del tenor de la acusación.",
+              "host": "elfrente.com.co",
+              "title": "Corte investiga cuentas de 19 senadores del ‘Pacto Histórico’",
+              "image": "https://elfrente.com.co/content/images/size/w1200/2025/02/LOGO-PACTO-HISTORICO.svg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "política",
+          "claim": "Se afirma que ese mismo gobierno es también el más degradado de la historia de Colombia, con las peores conductas personales.",
+          "quote": "sino el más degradado de la historia de Colombia, el de las piores conductas personales",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación constituye un juicio de valor subjetivo y superlativo ('el más degradado de la historia', 'las peores conductas personales') que ninguna fuente disponible permite verificar de forma objetiva mediante comparación histórica entre todos los gobiernos colombianos. [F1] [F2] [F3]",
+          "context": "Las fuentes disponibles no incluyen datos comparativos longitudinales que permitan establecer cuál gobierno de Colombia fue el 'más degradado' de su historia. La única fuente que aborda la degradación institucional del gobierno actual es un artículo de opinión que califica el periodo de Gustavo Petro como kakistocracia, pero lo hace desde una postura ensayística, no desde una medición objetiva comparable con administraciones anteriores [F1]. Las demás fuentes ([F3], [F4], [F5]) aportan información biográfica del hablante —Carlos Alonso Lucio, ex guerrillero del M-19, condenado por falsa denuncia, ex congresista, asesor de las AUC y pastor protestante— pero no contienen datos sobre la degradación histórica de gobiernos colombianos [F3] [F4] [F5].",
+          "progressivePerspective": "En el marco de la verdad, justicia, reparación y no repetición, esta afirmación merece atención crítica: (1) La expresión 'el más degradado de la historia' es una superlativa no demostrable, lo que convierte la declaración en opinión política más que en hecho verificable; calificar un gobierno con semejante superlativo sin datos comparativos puede contribuir a la polarización en lugar del esclarecimiento [F1] [F2]. (2) La noción de 'peores conductas personales' apunta a la esfera moral individual del gobernante sin aportar hechos concretos, verificables ni referenciables, lo que diluye la responsabilidad institucional en un juicio moral genérico [F1]. (3) El hablante es un actor político con trayectoria propia de controversias documentadas —condena penal, vínculos con paramilitarismo, inhabilitación perpetua para cargos públicos [F3] [F5]—, lo cual no invalida su derecho a opinar pero sí exige al analista distinguir entre opinión política y hecho verificable. (4) Ninguna de las fuentes aporta evidencia empírica que sustente la superlatividad histórica del juicio; por tanto, no abona ni niega directamente los propósitos de verdad y no repetición de la JEP [F1] [F2].",
+          "whatTheyOmit": "Omite cualquier dato comparativo entre gobiernos colombianos que permita sostener que este es 'el más degradado de la historia'. No menciona hechos concretos de 'conductas personales' específicas que respalden el juicio moral. No reconoce que la degradación institucional es un fenómeno recurrente en la historia política colombiana que afectó múltiples administraciones. No considera que el propio hablante tiene antecedentes penales y de inhabilitación política documentados [F1] [F3] [F5].",
+          "keyFacts": [
+            "No existe en las fuentes proporcionadas evidencia comparativa histórica que permita establecer que el gobierno actual es 'el más degradado de la historia de Colombia' [F1] [F2] [F3]",
+            "La fuente [F1] es un artículo de opinión que califica el gobierno de Petro como 'kakistocracia', describiendo problemas de institucionalidad, pero lo hace como ensayo, no como medición objetiva ni comparativa",
+            "El hablante es Carlos Alonso Lucio, ex guerrillero del M-19, condenado por falsa denuncia y inhabilitado de por vida para ejercer cargos políticos [F3] [F5]",
+            "La expresión 'peores conductas personales' es un juicio moral subjetivo sin hechos específicos citados en la afirmación [F1]",
+            "Las fuentes biográficas del hablante confirman su trayectoria: M-19, congresista, condenado, asesor de AUC, pastor [F3] [F4] [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/kakistocracia/",
+              "note": "Artículo de opinión que argumenta que el gobierno de Petro cumple con la definición de kakistocracia. Aporta la única fuente que describe degradación institucional del gobierno actual, pero como ensayo opinativo, no como dato comparable con otros gobiernos. No sustenta la superlatividad histórica de la afirmación.",
+              "host": "razonpublica.com",
+              "title": "Kakistocracia",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/04/4.1.-Casa_narino-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/",
+              "note": "Página principal de La Silla Vacía. No contiene información relevante sobre la degradación histórica de gobiernos colombianos ni sobre la afirmación verificada.",
+              "host": "lasillavacia.com",
+              "title": "La Silla Vacía - Política y poder en Colombia",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Carlos_Alonso_Lucio",
+              "note": "Biografía de Carlos Alonso Lucio. Aporta el perfil del hablante: ex M-19, congresista, condenado por falsa denuncia, asesor de AUC, pastor. Relevante para contextualizar quién emite la afirmación.",
+              "host": "es.wikipedia.org",
+              "title": "Carlos Alonso Lucio - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/6/carlos-alonso-lucio-de-la-guerrilla-del-m-19-al-circulo-del-poder-del-gobierno-del-tigre",
+              "note": "Perfil periodístico de Lucio que detalla su trayectoria desde la guerrilla hasta ser asesor político. Aporta contexto sobre el hablante y su posición en el espectro político actual.",
+              "host": "cambiocolombia.com",
+              "title": "Carlos Alonso Lucio: la historia del exguerrillero del M-19 que hoy le habla al oído a Abelardo de la Espriella",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/Whats_App_Image_2026_06_26_at_1_13_58_PM_2_da26ac0fda_full-width.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://humanaradio.com.co/carlos-alonso-lucio-ex-m-19-cargado-de-polemica-historica-es-asesor-clave-del-empalme-de-abelardo-de-la-espriella/",
+              "note": "Perfil de Lucio que destaca sus controversias: condena firme de 30 meses, inhabilitación perpetua, vínculos documentados con paramilitarismo. Aporta la información más detallada sobre los antecedentes del hablante.",
+              "host": "humanaradio.com.co",
+              "title": "Carlos Alonso Lucio, ex M-19 cargado de polémica histórica, es asesor clave del empalme de Abelardo de la Espriella | Humana Radio",
+              "image": "https://humanaradio.com.co/wp-content/uploads/2026/06/image-2-3.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "salud",
+          "claim": "Se afirma que se robaron el sistema de salud de los maestros.",
+          "quote": "cómo se robaron el sistema de salud de los maestros",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Existen denuncias documentadas de irregularidades, manejo cuestionado de recursos y presunta corrupción en el sistema de salud del magisterio, pero las fuentes no concluyen un robo probado: hay una auditoría forense en curso y un llamado a judicializar responsables, sin decisión judicial que acredite el delito [F2][F3][F4][F5]. La expresión 'se robaron' anticipa una conclusión que aún no está establecida.",
+          "context": "El sistema de salud del magisterio es un régimen exceptuado administrado a través del Fondo de Prestaciones Sociales del Magisterio (FOMAG), cuenta especial creada por la Ley 91 de 1989 y administrada por la Fiduprevisora, con más de 800.000 afiliados entre docentes, pensionados y beneficiarios [F1][F5]. El 1 de mayo de 2024 entró en funcionamiento un nuevo modelo centralizado que sustituyó a los 10 operadores regionales, tras años de quejas bajo el modelo anterior: antes del cambio, el FOMAG registraba la mayor tasa de quejas por cada 100.000 afiliados, por encima de cualquier EPS, y el régimen acumulaba problemas de acceso desde hacía una década [F2][F3]. Tras el cambio persisten fallas: en 2024 el régimen registró 56 PQRS por cada 1.000 pacientes frente a un promedio nacional de 33 [F5]. La Contraloría General identificó irregularidades por más de $82.000 millones en auditorías y contratos sin respaldo presupuestal [F5]. El Consejo Directivo del FOMAG aprobó un traslado de $859 mil millones para cubrir parte de un déficit estimado en $2,7 billones para la vigencia 2026, y el Gobierno anunció una auditoría forense cuyos resultados se estiman en un año, con llamados explícitos a 'judicializar a los responsables por acción y por omisión' [F4]. Fecode ha exigido investigaciones sobre el 'manejo de los dineros' y sobre acusaciones de presunta corrupción, formuladas como denuncias y no como hechos juzgados [F2][F3].",
+          "progressivePerspective": "La afirmación se sostiene parcialmente en hechos verificables: hay irregularidades auditadas, un déficit millonario, denuncias formales del sindicato docente sobre el manejo de los recursos y una auditoría forense en curso con llamado a la judicialización [F2][F3][F4][F5]. Desde la perspectiva de la rendición de cuentas, la denuncia es legítima y necesaria: exige transparencia, investigación y sanción a quienes resulten responsables, que es la vía para garantizar el derecho a la salud de más de 800.000 personas [F1][F5]. Sin embargo, presentar el asunto como un robo consumado ('se robaron') va más allá de lo que las fuentes establecen, pues no existe en ellas una sentencia ni una investigación concluida que individualice responsabilidades: los ministros de Hacienda y de Trabajo hablan de 'determinar las responsabilidades a que haya lugar' y de resultados pendientes de la auditoría [F4]. Un relato de comprobación anticipada puede ser contraproducente para la propia exigencia de justicia, porque debilita la presión por un proceso que efectivamente esclarezca hechos y determine responsabilidades. Conviene además distinguir el componente de presunta desviación o mal manejo, que sí tiene sustento documental, del componente de crisis estructural del fondo, que es anterior al modelo vigente y responde también a desbalances financieros y demográficos del régimen [F3][F5].",
+          "whatTheyOmit": "Se omite que la crisis del sistema de salud del magisterio precede al modelo actual: Fecode reconoce 34 años bajo el modelo anterior, con los últimos diez marcados por crisis y millones de quejas bajo los operadores [F3][F2]. Se omite el componente estructural del desfinanciamiento: los aportes en salud cayeron 29% en términos reales entre 2021 y 2024 y el desbalance pensional superó los $9,8 billones en 2024, una brecha previa al cambio de modelo [F5]. Se omite que el nuevo modelo fue acordado entre el Gobierno y Fecode, y que aún no hay conclusión judicial: la auditoría forense entregaría resultados en un año y las responsabilidades están por determinarse [F3][F4]. También se omite que no todos los problemas del modelo nuevo se explican por desvío: la propia Fecode señala fallas de gestión, contratación vencida (2.914 contratos) y un sistema tecnológico que no funciona, que son fallas operativas además de las denuncias de corrupción [F2].",
+          "keyFacts": [
+            "El FOMAG es una cuenta especial creada por la Ley 91 de 1989, administrada por la Fiduprevisora, que cubre prestaciones y salud de más de 800.000 afiliados del magisterio oficial [F1][F5]",
+            "Desde el 1 de mayo de 2024 opera un modelo centralizado en cabeza de la Fiduprevisora que sustituyó a los 10 operadores regionales del sistema anterior [F3][F5]",
+            "Fecode ha exigido a las autoridades que investiguen denuncias sobre el manejo de los dineros y sobre acusaciones de presunta corrupción en el sistema, formuladas como denuncias pendientes de esclarecimiento [F2][F3]",
+            "La Contraloría General identificó irregularidades por más de $82.000 millones en auditorías y contratos sin respaldo presupuestal del FOMAG [F5]",
+            "El Consejo Directivo del FOMAG aprobó un traslado de $859 mil millones ante un déficit estimado en $2,7 billones para la vigencia 2026, y se ordenó una auditoría forense con resultados estimados en un año [F4]",
+            "El ministro de Hacienda pidió 'judicializar a los responsables por acción y por omisión', sin que las fuentes registren sentencia o individuación de responsables [F4]",
+            "En 2024 el régimen del magisterio registró 56 PQRS por cada 1.000 pacientes frente a un promedio nacional de 33, con aumento sostenido desde 2019 [F5]",
+            "Los ingresos destinados a salud del FOMAG cayeron 29% en términos reales entre 2021 y 2024, de $2,08 billones a $1,47 billones [F5]",
+            "Antes del modelo actual, el FOMAG tenía la mayor tasa de quejas por cada 100.000 afiliados, por encima de cualquier EPS, según Fecode [F2]",
+            "El desbalance del régimen pensional del magisterio superó los $9,8 billones en 2024, cubierto con recursos del Presupuesto General de la Nación [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-salud-los-maestros-asi-se-ve-desde-adentro/",
+              "note": "Explica el funcionamiento del FOMAG, su carácter de régimen exceptuado, el presupuesto de salud de 2023 ($2,9 billones) y las fallas de los operadores anteriores; aporta el marco institucional y las críticas al modelo nuevo.",
+              "host": "razonpublica.com",
+              "title": "La salud de los maestros: así se ve desde adentro",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/05/docentes-Diana-cardenas.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/vida/educacion/los-nuevos-reclamos-de-fecode-por-las-constantes-fallas-del-nuevo-sistema-de-salud-de-los-maestros-3433493",
+              "note": "Registra las exigencias de Fecode de investigar manejo de dineros y 'supuestos hechos de corrupción', además de fallas operativas (contratos vencidos, sistema HORUS inoperante); presenta las acusaciones como denuncias, no como hechos probados.",
+              "host": "eltiempo.com",
+              "title": "Los nuevos reclamos de Fecode por las constantes fallas del nuevo sistema de salud de los maestros",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/06/12/6669efee5dad0.r_d.893-1009-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elespectador.com/educacion/fecode-exige-que-se-investiguen-las-denuncias-realizadas-al-nuevo-modelo-de-salud/",
+              "note": "Aporta la historia del modelo: 34 años del modelo anterior, diez últimos años en crisis, estructura FOMAG-Fiduprevisora-operadores, y el pedido de investigación del nuevo modelo tras 10 meses.",
+              "host": "elespectador.com",
+              "title": "Fecode exige que se investiguen las denuncias realizadas al nuevo modelo de salud",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/HMVDCX6TIVHERPVWIBVNBH7ZQM.JPG?quality=60&w=1024&resize=1200,630"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lapatria.com/educacion/suman-plata-para-garantizar-la-salud-de-los-profesores-gobierno",
+              "note": "Aporta cifras del déficit ($2,7 billones en 2026), el traslado de $859 mil millones, la auditoría forense pendiente y el llamado de las autoridades a determinar y judicializar responsabilidades.",
+              "host": "lapatria.com",
+              "title": "Colombia: Aprueban recursos para la salud de los maestros y piden una solución de fondo para el Fomag",
+              "image": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-10/minbsitramasfomagfocoWEB.jpg?itok=u2nnu588"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.portafolio.co/economia/gobierno/seguridad-social-de-docentes-oficiales-en-colombia-cifras-del-regimen-especial-del-magisterio-y-del-fomag-638591",
+              "note": "Aporta series cuantitativas: afiliados, caída real de ingresos de salud (29%), irregularidades de la Contraloría por más de $82.000 millones, nivel de quejas y desbalance pensional estructural; permite distinguir mal manejo de crisis financiera previa.",
+              "host": "portafolio.co",
+              "title": "Así funciona la seguridad social de los docentes oficiales en Colombia",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/08/27/68af426fdb691.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "salud",
+          "claim": "Se afirma que se robaron el sistema de salud de los colombianos.",
+          "quote": "cómo se robaron el sistema de salud de los colombianos",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La existencia de desvíos y robos millonarios al sistema de salud colombiano está ampliamente documentada por órganos de control: la Contraloría reporta 522 procesos de responsabilidad fiscal por 11 billones de pesos abiertos desde 2022 [F3][F4], y se calcula que la corrupción le roba al sector cerca de un billón de pesos al año según Fiscalía, Procuraduría y Contraloría [F2]. Sin embargo, la formulación 'se robaron el sistema de salud' totaliza: no equivale a que el sistema completo haya sido sustraído, pues conviven con esos desvíos logros verificables como una cobertura de aseguramiento cercana al 99% en 2025 [F1]. El veredicto es 'mayormente_verdadero' porque el hecho núcleo (hay robos cuantiosos a la salud) está probado, pero el alcance totalizador de la frase excede lo que las fuentes respaldan.",
+          "context": "Magnitud real de los desvíos documentados: la Contraloría General de la República tenía, a marzo de 2025, 522 procesos de responsabilidad fiscal por 11 billones de pesos en el sector salud, con 111 imputaciones por $498.539 millones, 41 fallos ejecutoriados por $542.995 millones y un resarcimiento total de $185.080 millones [F3]. Se halló que más de $6 billones de la UPC, destinados legalmente a reservas técnicas, se usaron para pagar deudas antiguas y que las EPS hicieron pagos por $5 billones a IPS sin facturas ni soportes [F4]. A nivel regional, se documentaron casos como el de Córdoba, donde exgobernadores desviaron unos 44 mil millones de pesos con pacientes fantasma de hemofilia, y se estimó que el billón de pesos robado anualmente al sector era suficiente para cubrir la falta de camas UCI durante la pandemia [F2]. Estos robos conviven con logros del mismo sistema: la cobertura de aseguramiento pasó de menos del 25% hace tres décadas a aproximadamente el 99% en 2025 [F1]. También se reportan fallas de acceso: unas 312.500 tutelas de salud y 1,9 millones de reclamos por barreras en 2025 [F1].",
+          "progressivePerspective": "La afirmación abona parcialmente al esclarecimiento de una verdad pública: nombra un problema estructural —la apropiación de recursos públicos de salud— que los órganos de control confirman con cifras y procesos concretos [F2][F3][F4], lo cual es consistente con la exigencia de rendición de cuentas y reparación a los ciudadanos afectados. Sin embargo, convertir la corrupción en la explicación casi exclusiva de los problemas del sector tiene un costo analítico reconocido por fuentes especializadas: el diagnóstico correcto sobre prevención y desigualdad territorial quedó subsumido en una narrativa de robo total, y sirvió de base para decisiones de política que debilitaron mecanismos esenciales del aseguramiento sin resolver las causas del mal acceso [F1]. En términos de no repetición, la afirmación funciona como denuncia pero no distingue responsables, períodos ni instancias (gobernaciones, IPS, EPS, funcionarios), lo que reduce su utilidad para individualizar responsabilidades y para orientar correctivos; los registros de la Contraloría muestran que sí hay responsabilidad fiscal individualizada en curso [F3][F4]. Este tema corresponde a la política de salud y no a los crímenes del conflicto armado objeto de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición de esa jurisdicción no resulta aplicable aquí [F3].",
+          "whatTheyOmit": "Se omite que la frase totalizadora no especifica quiénes robaron, cuándo, ni en qué magnitud relativa, cuando las fuentes muestran actores y períodos concretos (exgobernadores, IPS, EPS, funcionarios regionales) y procesos en curso [F2][F3][F4]. También se omite que el sistema produce logros verificables —cobertura cercana al 99% en 2025 y gasto de bolsillo relativamente bajo frente a países de ingresos similares [F1]— y que el gobierno actual ha sido señalado por diagnósticos aciertos en prevención y atención rural pero por errores en el desmonte de la arquitectura del aseguramiento [F1]. Finalmente, se omite la distinción entre corrupción (desvío de recursos) y fallas estructurales de acceso, como las 312.500 tutelas de salud de 2025 [F1], que no se explican únicamente por robo.",
+          "keyFacts": [
+            "La Contraloría tenía 522 procesos de responsabilidad fiscal abiertos por 11 billones de pesos en el sector salud desde 2022 [F3]",
+            "Las EPS desviaron más de $6 billones de la UPC de reservas técnicas para pagar deudas y hicieron pagos por $5 billones a IPS sin facturas ni soportes [F4]",
+            "Se calcula que la corrupción roba cerca de un billón de pesos al año al sector de salud, según Fiscalía, Procuraduría y Contraloría [F2]",
+            "En Córdoba, exgobernadores desviaron unos 44 mil millones de pesos con pacientes fantasma de hemofilia; dos exgobernadores fueron destituidos, inhabilitados o condenados [F2]",
+            "La cobertura de aseguramiento colombiana llegó a aproximadamente el 99% en 2025, frente a menos del 25% tres décadas antes [F1]",
+            "En 2025 se presentaron alrededor de 312.500 tutelas relacionadas con la salud y 1,9 millones de reclamos por barreras de acceso [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-salud-bajo-el-gobierno-petro-problemas-reales-diagnostico-equivocado/",
+              "note": "Análisis de política de salud: reconoce logros (cobertura ~99% en 2025) y fallas (tutelas y barreras), y critica que la narrativa casi exclusiva de corrupción condujo a debilitar la arquitectura del aseguramiento. Aporta el contraste al discurso de robo total.",
+              "host": "razonpublica.com",
+              "title": "La salud bajo el gobierno Petro: problemas reales, diagnóstico equivocado - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/7.1.-Alcaldia_salud.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/el-robo-de-siempre-a-la-salud-pasa-factura-con-coronavirus/",
+              "note": "Documenta casos regionales de corrupción en salud (Córdoba, San Andrés, entre otros), la cifra de un billón de pesos robados al año según entes de control y su impacto en capacidad hospitalaria.",
+              "host": "lasillavacia.com",
+              "title": "El robo de siempre a la salud pasa factura con coronavirus",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2020/04/portada_481.jpg?fit=1000%2C625&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.contraloria.gov.co/w/por-malos-manejos-de-dineros-de-la-salud-la-contraloría-general-de-la-república-tiene-aperturado-522-procesos-de-responsabilidad-fiscal-por-11-billones",
+              "note": "Fuente oficial: 522 procesos por 11 billones, 111 imputaciones, 41 fallos ejecutoriados y $185.080 millones de resarcimiento en el sector salud.",
+              "host": "contraloria.gov.co",
+              "title": "Por malos manejos de dineros de la salud, la Contraloría General de la República tiene aperturado 522 procesos de responsabilidad fiscal por $11 billones",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://consultorsalud.com/corrupcion-contraloria-investiga-mal-manejo-din/",
+              "note": "Repasa hallazgos de la Contraloría: desvíos de la UPC, pagos sin facturas, hallazgos en FOMAG y alertas de infraestructura hospitalaria.",
+              "host": "consultorsalud.com",
+              "title": "Corrupción en el sector salud: Contraloría investiga el mal manejo de $11 billones de pesos",
+              "image": "https://consultorsalud.com/wp-content/uploads/2025/03/Corrupcion-en-el-sector-salud-Contraloria-investiga-el-mal-manejo-de-11-billones-de-pesos.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.supersalud.gov.co/es-co/nuestra-entidad/cifras-y-estadisticas",
+              "note": "Portal estadístico de la Supersalud con información financiera de EPS e IPS; no aporta cifras directas sobre magnitud del robo al sistema, por lo que sirve apenas como referencia del ente de vigilancia.",
+              "host": "supersalud.gov.co",
+              "title": "Cifras y Estadísticas",
+              "image": "https://www.supersalud.gov.co/es-co/PublishingImages/U3CPa-Tm.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "Se afirma que se robaron Ecopetrol.",
+          "quote": "cómo se robaron ecopetrol",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Existe evidencia de auditorías y periodística sobre presuntos esquemas de corrupción y contratación irregular en Ecopetrol durante el período 2022-2026, con contratos por más de $10 billones bajo revisión; sin embargo, se trata de señalamientos en curso, no de decisiones judiciales que establezcan un 'robo' probado, y la caída de utilidades se explica en las fuentes también por desaceleración operativa y baja reposición de reservas [F3][F4][F5][F1].",
+          "context": "La auditoría forense interna de Ecopetrol revisa 32 macrocasos de presunta corrupción durante el gobierno Petro (2022-2026), con contratos por más de $10 billones involucrados; los hallazgos serán remitidos a la Fiscalía y a autoridades de EE. UU. (DOJ y SEC), y el proceso tomará entre cuatro y ocho meses, sin condenas aún [F3][F4]. Un vicepresidente de Ecopetrol comparó la dimensión del caso con la del escándalo de la UGRD, donde ya hay más de 10 capturas [F4]. Documento interno adicional identifica 78 casos de corte a agosto de 2026 sobre nombramientos y contratación en CENIT, Ocensa, ODC y ODL, pero la propia fuente advierte que los señalamientos no constituyen decisiones judiciales ni determinan responsabilidad penal [F5]. En paralelo, la situación financiera de la empresa muestra una caída del 48% en utilidades, reposición de reservas por debajo del 50% y reservas estimadas para unos seis años, indicadores que el análisis de Razón Pública asocia a menor inversión en mantenimiento y freno de operaciones [F1]. Precedente verificable de desinformación: una viral que atribuía a la Presidencia la frase 'hemos robado en tres años lo que otros en 20' fue calificada como falsa [F2].",
+          "progressivePerspective": "El marco de verdad, justicia, reparación y no repetición exige separar tres planos que la frase 'se robaron Ecopetrol' funde en uno: (a) los hechos verificables —existen auditorías, correos, chats y testimonios en cadena de custodia que documentan contratos con concentración atípica, presiones indebidas y presuntos sobornos—, (b) los señalamientos atribuidos a personas concretas, que aún no tienen decisión judicial ni determinan responsabilidad [F3][F4][F5], y (c) las causas de la caída de resultados, que las fuentes también atribuyen a menor inversión y baja reposición de reservas [F1]. Afirmando la verdad de modo categórico sin ese matiz se corre el riesgo de convertir una investigación abierta en culpabilidad declarada, lo que debilita tanto la exigencia de verdad como la de no repetición: la no repetición se construye sobre hechos precisos, responsabilidades individualizadas por la autoridad competente y mecanismos de control efectivos, no sobre generalizaciones. Señalar, además, que el propio sistema de justicia transicional ya está citado en el expediente —testimonios ante la JEP y Justicia y Paz señalan presuntos nexos de un contratista con un frente de las AUC, hecho por el cual esa persona no ha sido condenada— muestra que la verificación rigurosa y la presunción de inocencia son indispensables cuando el dato involucra tanto a funcionarios como a víctimas del conflicto [F4]. El mismo procedimiento de verificación aplicado a una atribución presidencial viral sobre robo arrojó resultado de falsedad, lo que ilustra que el estándar de evidencia debe aplicarse por igual a acusaciones de distintos signos [F2].",
+          "whatTheyOmit": "La afirmación omite que los 32 macrocasos son resultados preliminares de una auditoría interna aún en curso y que los señalamientos no constituyen decisiones judiciales ni determinan responsabilidad penal o disciplinaria [F3][F5]. Omite la cautela explícita de la fuente interna sobre personas señaladas y no condenadas, incluido el caso del contratista vinculado a testimonios sobre nexos con las AUC [F4]. Omite que la caída del 48% en utilidades y la reposición de reservas por debajo del 50% se explican en las fuentes también por freno de operaciones e inversiones en mantenimiento, no solo por apropiación indebida [F1]. Y omite el contexto de que narrativas virales previas sobre admisiones de robo a escala semejante fueron verificadas como falsas [F2].",
+          "keyFacts": [
+            "Ecopetrol adelanta una auditoría forense sobre 32 casos que incluyen contratos por más de $10 billones, presuntos pagos por nombramientos y supuestas dádivas por adjudicación de contratos [F3]",
+            "Los hallazgos de la auditoría serán remitidos a la Fiscalía General de la Nación y a autoridades de EE. UU. (DOJ y SEC), con un plazo estimado de entre cuatro y ocho meses [F3][F4]",
+            "Se trata de señalamientos contenidos en un documento: no constituyen por sí mismos una decisión judicial ni determinan responsabilidad penal o disciplinaria [F5]",
+            "Un documento interno con corte a agosto de 2026 identifica 78 casos sobre nombramientos, contratación y conflictos de interés en CENIT, Ocensa, ODC y ODL [F5]",
+            "Las utilidades de Ecopetrol cayeron 48% y la reposición de reservas no llegó al 50% en el año reportado, con reservas estimadas para unos seis años [F1]",
+            "La contratación bajo revisión presenta un patrón de concentración atípica de contratistas y presiones indebidas, según el informe de riesgo citado [F4]",
+            "Se citan testimonios ante la JEP y Justicia y Paz que señalarían presuntos nexos de un contratista con el Frente Isidro Carreñó de las AUC; esa persona no ha sido condenada por esos hechos [F4]",
+            "Una publicación viral que atribuía a la Presidencia la frase 'hemos robado en 3 años lo que otros en 20' fue verificada como falsa: esa frase nunca fue pronunciada [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-alarmante-situacion-ecopetrol/",
+              "note": "Análisis de la situación financiera y operativa de Ecopetrol: caída del 48% en utilidades, reposición de reservas <50%, menor inversión en mantenimiento; aporta la lectura de deterioro gestional y sus causas, distinta del hurto.",
+              "host": "razonpublica.com",
+              "title": "La alarmante situación de Ecopetrol | Razón Pública 2024",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/03/ecopetrol-logo-resultados-2023-Alejandro-Ospina.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-dijo-que-robo-en-tres-anos-lo-que-otros-en-20/",
+              "note": "Verificación IFCN: una atribución viral de admisión de robo masivo resultó falsa; sirve de contraste sobre el estándar de evidencia en afirmaciones de este tipo.",
+              "host": "lasillavacia.com",
+              "title": "Detector: Petro no dijo que robó en tres años lo que otros en 20",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/11/Petro-Cali-Nov-2025.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/09/20/ecopetrol-destapa-32-casos-bajo-auditoria-contratos-por-10-billones-presuntos-sobornos-y-nombramientos-en-la-mira/",
+              "note": "Detalla la auditoría forense de 32 casos, contratos por >$10 billones, presuntos sobornos y venta de nombramientos; todo en calidad de presuntos, con derivación a Fiscalía y autoridades de EE. UU.",
+              "host": "infobae.com",
+              "title": "Ecopetrol destapa 32 casos bajo auditoría: contratos por $10 billones, presuntos sobornos y nombramientos en la mira",
+              "image": "https://www.infobae.com/resizer/v2/5UWZP7D5U5BIVOCCSLA2XQADXY.JPG?auth=ce10edbb426fe858248cc384c62f4fd930f5506ab5949444a7585a61b6ebb183&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/negocios/ecopetrol-auditoria-forense-32-macrocasos-corrupcion-gobierno-petro-BF41554216",
+              "note": "Contexto y magnitud: comparación con el escándalo de la UGRD, uso de mensajería cifrada, $79.000 millones en Conyser, menciones a testimonios ante JEP/Justicia y Paz sin condena previa.",
+              "host": "elcolombiano.com",
+              "title": "AsÃ se destaparon los 32 casos de corrupciÃ³n en el interior de Ecopetrol durante el gobierno Petro",
+              "image": "https://estaticos.elcolombiano.com/binrepository/747x419/0c0/1280d720/none/11101/QWLX/ricardo-roa-y-petro-ecopetrol_51731908_20260925172203.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.lafm.com.co/economia/ecopetrol-documento-senala-presiones-y-cargos-politicos-en-filiales-410843",
+              "note": "Documento de 78 casos sobre nombramientos y filiales de transporte; contiene la advertencia explícita de que los señalamientos no son decisiones judiciales ni determinan responsabilidad.",
+              "host": "lafm.com.co",
+              "title": "Ecopetrol: documento señala presiones y cargos políticos en filiales",
+              "image": "https://files.lafm.com.co/media/news-images/2026/09/14/144342/ecopetrol-contratos-1200x675.png?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "economia",
+          "claim": "Se afirma que se robaron Colpensiones.",
+          "quote": "cómo se robaron colpensiones",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Existen casos documentados y judicializados de desfalco y fraude contra Colpensiones (fraudes por más de $22.000 millones, un caso por más de $30.000 millones y otro por más de $1.500 millones), lo que respalda la idea de que hubo robos a la entidad. Sin embargo, la afirmación categórica y sin matizes del video no precisa magnitudes, autores ni periodos, y las fuentes más recientes sobre Colpensiones (la ventana de traslado y el Decreto 415) muestran disputas jurídicas y de financiación, no robos propiamente dichos [F3][F4][F5][F1][F2].",
+          "context": "Colpensiones fue víctima de una estructura delictiva que operó entre 2009 y 2015, con un fraude estimado en $22.000 millones, que involucró a jueces, abogados, funcionarios del ISS y de Colpensiones; 11 personas fueron judicializadas y 9 aceptaron responsabilidad [F3][F4]. Un caso separado en Cartagena condenó a un exjuez a 12 años y medio de prisión por afectar las finanzas del Estado en más de $30.000 millones a través de más de 90 pensiones [F5], y en Santander un abogado-fiscal fue condenado a 7 años y medio por desfalcar $1.500 millones [F5]. En el contexto reciente, la Ley 2381 de 2024 fue suspendida por la Corte Constitucional (Auto 841 de 2025) salvo los artículos 12 y 76; la ventana de traslado cerró el 16 de julio de 2026 con alrededor de 166.000 traslados efectivos, y el Consejo de Estado suspendió el Decreto 415 de 2026 que ordenaba a las AFP girar cerca de $25 billones a Colpensiones por exceder la potestad reglamentaria [F1][F2].",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición aplicables al análisis de hechos de corrupción pública, el mérito de la afirmación es doble: por un lado, los casos documentados muestran que efectivamente hubo robos estructurales a Colpensiones, con redes que involucraron a funcionarios judiciales y de la propia entidad, y la justicia ya produjo condenas, lo cual abona al esclarecimiento de la verdad y a la rendición de cuentas [F3][F4][F5]. Por otro lado, una afirmación genérica y sin datos como «cómo se robaron Colpensiones» corre el riesgo de difuminar la distinción entre fraude probado y otras controversias —como la suspensión del Decreto 415, que el Consejo de Estado resolvió por exceso de potestad reglamentaria, no por robo [F1][F2]—; sin contexto y magnitudes, la narrativa puede alimentar una percepción de impunidad o de saqueo generalizado sin sustento en las fuentes disponibles, lo cual no cumple plenamente con el estándar de verdad verificable que exige el marco de no repetición [F1][F3][F4][F5].",
+          "whatTheyOmit": "El video no aporta —según las fuentes disponibles— cifras, periodos ni responsables concretos de los fraudes documentados ($22.000 millones entre 2009 y 2015 con 11 judicializados, $30.000 millones en Cartagena, $1.500 millones en Santander) [F3][F4][F5]. También omite que el caso reciente en torno a los recursos de Colpensiones es una disputa jurídica sobre la reforma pensional: la Corte Constitucional suspendió la mayor parte de la Ley 2381 de 2024 y el Consejo de Estado suspendió el Decreto 415 de 2026 por considerar que el Ejecutivo excedió su potestad reglamentaria, situaciones distintas de un robo [F1][F2].",
+          "keyFacts": [
+            "La Fiscalía desarticuló una estructura delictiva de fraude pensional contra Colpensiones que operó entre 2009 y 2015, con un monto estimado de $22.000 millones; 11 personas fueron judicializadas y 9 aceptaron responsabilidad, entre ellas un juez laboral de Barranquilla, abogados y funcionarios del ISS y de Colpensiones [F3][F4].",
+            "El caso se originó en una denuncia de Colpensiones y derivó en imputaciones por prevaricato, peculado, concierto para delinquir, cohecho y otros delitos [F3][F4].",
+            "Un exjuez sexto laboral de Cartagena fue condenado a 12 años y medio de prisión por procesos que afectaron las finanzas del Estado en más de $30.000 millones, relacionados con más de 90 pensiones [F5].",
+            "En Santander, un abogado y fiscal fue condenado a 7 años y medio de prisión por defraudar a Colpensiones por más de $1.500 millones mediante falsificación de documentos [F5].",
+            "La reforma pensional (Ley 2381 de 2024) fue suspendida por la Corte Constitucional mediante el Auto 841 de 2025, dejando vigentes solo los artículos 12 y 76 [F1][F2].",
+            "La ventana de traslado entre Colpensiones y los fondos privados cerró el 16 de julio de 2026 con más de 137.000 traslados hacia el régimen público y solo 8.070 en sentido inverso [F1].",
+            "El Consejo de Estado suspendió provisionalmente el Decreto 415 de 2026, que ordenaba a las AFP girar cerca de $25 billones a Colpensiones, por considerar que el Ejecutivo excedió su potestad reglamentaria [F1][F2]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-ventana-que-casi-nadie-uso/",
+              "note": "Análisis de la ventana de traslado de la Ley 2381 de 2024: cifras de participación, dirección de los flujos y la suspensión del Decreto 415 de 2026 por el Consejo de Estado.",
+              "host": "razonpublica.com",
+              "title": "La ventana que casi nadie usó - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/8.1.-pensiones.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/forzar-un-traslado-a-colpensiones-es-ilegal-e-incoherente/",
+              "note": "Análisis jurídico de por qué el Decreto 415 de 2026 es ilegal; aporta el contexto de la reforma pensional, la litigiosidad histórica de traslados y la cifra de ~$25 billones en disputa.",
+              "host": "lasillavacia.com",
+              "title": "Forzar un traslado a Colpensiones es ilegal e incoherente",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/10/ENCABEZADO-68.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.asuntoslegales.com.co/actualidad/fiscalia-general-desmantelo-estructura-de-fraude-pensional-gracias-a-denuncia-de-colpensiones-3068263",
+              "note": "Noticia de 2020 sobre el desmantelamiento de una estructura de fraude pensional contra Colpensiones por $22.000 millones (2009-2015), 11 judicializados.",
+              "host": "asuntoslegales.com.co",
+              "title": "Fiscalía General desmanteló estructura de fraude pensional gracias a denuncia de Colpensiones | AsuntosLegales.co",
+              "image": "https://img.lalr.co/cms/2020/05/21173955/WhatsApp-Image-2020-05-21-at-5.31.33-PM.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F4",
+              "url": "https://regioncaribe.com.co/desmantelan-estructura-que-desfalco-a-colpensiones-por-22-mil-millones-de-pesos/",
+              "note": "Detalle del mismo caso: nombres de implicados, delitos imputados, allanamientos y condenas; confirma el monto de $22.000 millones.",
+              "host": "regioncaribe.com.co",
+              "title": "Desmantelan estructura que desfalcó a Colpensiones por 22 mil millones de pesos",
+              "image": "https://regioncaribe.com.co/wp-content/uploads/2020/10/Desmantelan-estructura-que-desfalco-a-Colpensiones-por-22-mil-millones-de-pesos.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/america/colombia/2020/10/23/por-millonario-desfalco-a-colpensiones-condenan-a-juez-a-prision-en-cartagena/",
+              "note": "Caso de Cartagena (condena de 12,5 años por más de $30.000 millones) y el caso de Santander ($1.500 millones), documentando fraudes adicionales contra Colpensiones.",
+              "host": "infobae.com",
+              "title": "Por millonario desfalco a Colpensiones condenan a juez a prisión en Cartagena",
+              "image": "https://www.infobae.com/resizer/v2/ZRXN5R7FO6GNWSLHKKNMLB5Y4E.jpg?auth=db23a35d146fe10eb885049a8a91027328713f68179b751f223283f6269442ba&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "política",
+          "claim": "Se afirma que se hizo seguimiento entidad a entidad y se constató que no se salvó ninguna entidad del gobierno, y que no entró ni un honesto a ese gobierno.",
+          "quote": "hicimos el seguimiento entidad a entidad y nos encontramos con la triste realidad de que no se salvó una sola entidad, no se les coló un honesto a ese gobierno",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Las fuentes entregadas no contienen ningún estudio, auditoría o seguimiento 'entidad a entidad' del gobierno al que se refiere la afirmación, ni evidencia sobre el carácter (honesto o no) de quienes ingresaron a sus entidades; el contenido disponible solo permite contextualizar quién habla y su trayectoria, no verificar el dato [F1][F2][F3][F4][F5].",
+          "context": "El hablante, según las fuentes, es Carlos Alonso Lucio, exmilitante del M-19, representante a la Cámara (1994-1998) y senador (1998-2002), condenado por la Corte Suprema de Justicia en agosto de 2000 a 30 meses de prisión por falsa denuncia, quien se desempeñó como asesor de las AUC en los diálogos de paz con el Gobierno de Álvaro Uribe y, actualmente, es asesor del círculo presidencial de Abelardo de la Espriella, director programático de su campaña y coordinador del empalme con el Gobierno saliente de Gustavo Petro [F3][F4][F5]. Esa condición de interlocutor del presidente entrante y crítico del Ejecutivo saliente es relevante para leer la afirmación como una proposición política de campaña/traslado de poder, no como un informe técnico [F4][F5]. La única fuente que aporta datos verificables sobre actuaciones del gobierno saliente (el caso Pegasus) muestra precisamente un escenario de vacíos probatorios y preguntas por resolver, no un balance entidad por entidad [F1]. La página de la Fiscalía consultada es un repositorio de documentos de política pública, sin ningún listado de entidades evaluadas por honestidad [F2].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición que orienta el análisis de hechos públicos en Colombia, una afirmación de alcance total ('no se salvó una sola entidad', 'no se les coló un honesto') que no aporta metodología, listado de entidades, criterios de evaluación ni fuentes no abona al esclarecimiento de la verdad: la verdad en este marco exige verificación y documentación, y las generalizaciones absolutas sobre colectivos enteros —gobiernos, instituciones, grupos— son justamente el tipo de enunciado que el estándar probatorio busca evitar, pues desplazan la responsabilidad individual hacia atributos difusos [F1][F2]. Tampoco puede leerse como ejercicio de no repetición, porque no identifica fallas concretas, ni mecanismos de control, ni remite a instancias de rendición de cuentas. Es pertinente señalar que el propio hablante tiene antecedentes judiciales registrados (condena por falsa denuncia), lo cual no invalida su derecho a opinar pero sí hace más necesario que una acusación de esa magnitud acompañe evidencia verificable, de la que las fuentes disponibles carecen [F3][F5]. Al no existir en las fuentes ningún dato sobre el personal de las entidades del gobierno referido, la afirmación queda como opinión política no verificada con la evidencia suministrada.",
+          "whatTheyOmit": "Se omite la metodología del supuesto 'seguimiento entidad a entidad': cuáles entidades, con qué criterios, en qué período y con qué fuentes; no se define qué significa 'honesto' ni se aporta ningún caso nombrado que sustente el veredicto total; no se distingue entre entidades del gobierno nacional, descentralizadas o de control; y no se incorpora el contexto de que el hablante fue condenado por falsa denuncia y asesoró a las AUC, antecedentes que el público no recibe junto a la acusación [F1][F3][F5].",
+          "keyFacts": [
+            "El hablante es Carlos Alonso Lucio, exmilitante del M-19, exrepresentante y exsenador, actualmente asesor del círculo presidencial de Abelardo de la Espriella [F3][F4][F5]",
+            "Lucio fue director programático de la campaña de De la Espriella y coordinó el empalme con el Gobierno saliente de Gustavo Petro, y es uno de los ideólogos del marco programático 'Patria Milagro' [F5]",
+            "La Corte Suprema de Justicia condenó a Lucio en agosto de 2000 a 30 meses de prisión por el delito de falsa denuncia [F3][F5]",
+            "Lucio se desempeñó como asesor de las AUC durante los diálogos de paz con el Gobierno de Álvaro Uribe, función que ha reivindicado como labor pública [F3][F5]",
+            "Ninguna de las fuentes entregadas contiene un seguimiento 'entidad a entidad' del gobierno referido ni datos sobre la honestidad de los funcionarios ingresados a sus entidades [F1][F2]",
+            "El caso Pegasus documentado por la fuente disponible muestra que, incluso en denuncias presidenciales concretas, persisten vacíos probatorios y preguntas por responder [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/lo-que-se-sabe-y-lo-que-no-en-las-denuncias-de-petro-sobre-pegasus/",
+              "note": "Análisis de las denuncias sobre Pegasus: identifica hechos comprobados, contradicciones en cifras y vacíos de evidencia en afirmaciones de alto calibre sobre el gobierno anterior. Aporta el contraste metodológico: incluso acusaciones detalladas requieren pruebas verificables.",
+              "host": "lasillavacia.com",
+              "title": "Pegasus en Colombia: lo que se sabe del software espía",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T182121.456.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.fiscalia.gov.co/transparencia-y-acceso-a-informacion-publica/estudios-investigaciones-y-otras-publicaciones/",
+              "note": "Repositorio de documentos de política pública de la Fiscalía; no contiene evaluaciones de entidades por honestidad, por lo que no respalda la afirmación.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalía General de la Nación",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Carlos_Alonso_Lucio",
+              "note": "Biografía: trayectoria en el M-19, cargos en el Congreso, condena por falsa denuncia, asesoría a las AUC. Contexto sobre quién formula la afirmación.",
+              "host": "es.wikipedia.org",
+              "title": "Carlos Alonso Lucio - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/6/carlos-alonso-lucio-de-la-guerrilla-del-m-19-al-circulo-del-poder-del-gobierno-del-tigre",
+              "note": "Perfil periodístico: Lucio como arquitecto intelectual del programa de gobierno de De la Espriella. Aporta el interés político en juego al criticar al gobierno saliente.",
+              "host": "cambiocolombia.com",
+              "title": "Carlos Alonso Lucio: la historia del exguerrillero del M-19 que hoy le habla al oído a Abelardo de la Espriella",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/Whats_App_Image_2026_06_26_at_1_13_58_PM_2_da26ac0fda_full-width.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.politicaelectoral.com/es/colombia/politicos/carlos-alonso-lucio",
+              "note": "Perfil: condena, asesoría a las AUC, rol en la campaña de 2026 y ruptura con Petro. Contraste sobre su condición de interlocutor del nuevo Ejecutivo.",
+              "host": "politicaelectoral.com",
+              "title": "Carlos Alonso Lucio: del M-19 al abelardismo",
+              "image": "https://www.politicaelectoral.com/og/politicos/colombia/carlos-alonso-lucio.png"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "política",
+          "claim": "Se afirma que ha habido una corrupción política inmensa e histórica en el país, que lleva décadas.",
+          "quote": "aquí ha habido una corrupción política inmensa, histórica y por décadas",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación de que en Colombia ha habido corrupción política inmensa, histórica y por décadas es consistente con las fuentes: una investigación de Transparencia por Colombia documentó 967 casos de corrupción entre 2016 y 2020, de los cuales el 27 % correspondió a corrupción política, con casos en todos los departamentos y con redes de clientelismo y criminalidad de larga data [F1]. Adicionalmente, un senador reconoció la corrupción como 'el más grave problema' de un gobierno reciente, aunque precisó que no es exclusivo de esa administración [F2]. La fuentes disponibles no aportan una serie que extienda explícitamente la medición de corrupción política 'por décadas', por lo que la dimensión temporal del reclamo queda solo parcialmente respaldada [F1].",
+          "context": "La magnitud real documentada: entre 2016 y 2020 se reconstruyeron 967 casos de corrupción a partir de más de 2.000 notas de prensa de 25 medios; el 44 % fue corrupción administrativa, el 27 % corrupción política, el 19 % corrupción privada y el 10 % corrupción judicial. En 367 casos se determinó cifra: 92,77 billones de pesos comprometidos, 13,67 perdidos y apenas 4,94 recuperados. En 561 casos se identificaron 1.926 afectaciones a derechos humanos, y en 311 casos la corrupción afectó a población vulnerable. Se hallaron casos en todos los departamentos, y el estudio advierte que los reportes dependen de la libertad de prensa de cada región [F1]. Sobre la dimensión política en particular, un senador calificó la corrupción como el problema más grave de un reciente gobierno, matizando que no es un asunto exclusivo de ese partido ni de esa administración [F2].",
+          "progressivePerspective": "A la luz de los estándares de verdad y no repetición, la afirmación abona al esclarecimiento de un problema estructural cuando se sustenta en datos verificables: la documentación de 967 casos con desglose por tipo, sector y consecuencias, incluidas afectaciones a derechos humanos y a población vulnerable, permite reconocer la magnitud del daño público sin necesidad de hipérboles [F1]. El propio reconocimiento de un actor político de que la corrupción fue el problema más grave de su gobierno —y de que no es exclusivo de él— ilustra el deber de responsabilidad que exige el marco de verdad y reparación: la transparencia sobre los propios actos es condición de la no repetición [F2]. La afirmación, en tanto diagnóstico general, es compatible con el propósito de verdad histórica; su utilidad ética depende de que se acompañe de datos que permitan atribuir responsabilidades concretas y no de generalizaciones que diluyan la atribución de responsabilidad. En este caso las fuentes sí aportan base fáctica para el diagnóstico, aunque no una serie temporal de décadas que sustente el alcance temporal exacto [F1].",
+          "whatTheyOmit": "La afirmación no precisa qué actores, gobiernos o periodos concretos concentran la corrupción política, ni distingue entre corrupción política (27 % de los casos) y corrupción administrativa, privada o judicial, que en conjunto son mayores [F1]. Tampoco se aportan datos de series históricas de décadas que sustenten directamente el adjetivo 'por décadas' en el subtipo corrupción política: la fuente principal analiza el periodo 2016-2020 y solo alude de forma indirecta a la memoria y la repetición de escándalos y a redes de clientelismo [F1]. Se omite además la matización de que la corrupción no es un problema exclusivo de un gobierno o partido, sino que se reconoce como transversal [F2].",
+          "keyFacts": [
+            "Se documentaron 967 casos de corrupción en Colombia entre 2016 y 2020, a partir de más de 2.000 notas de prensa de 25 medios [F1]",
+            "El 27 % de los casos analizados correspondió a corrupción política, definida como funcionarios que manipulan procedimientos y trámites institucionales a su favor para mantener o aumentar su poder [F1]",
+            "En 367 casos se cuantificaron 92,77 billones de pesos comprometidos, 13,67 perdidos y 4,94 recuperados [F1]",
+            "Se identificaron casos de corrupción en todos los departamentos del país, y la corrupción en Colombia se apoya en redes de clientelismo y criminalidad [F1]",
+            "En 561 casos se identificaron 1.926 afectaciones a derechos humanos y en 311 casos la corrupción afectó a población vulnerable [F1]",
+            "Un senador reconoció que la corrupción fue 'el más grave problema' de un reciente gobierno, aclarando que no es un asunto exclusivo de ese partido ni de esa administración [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/radiografia-la-corrupcion-colombia/",
+              "note": "Investigación de Transparencia por Colombia sobre 967 casos (2016-2020): tipología, cifras, alcance territorial y consecuencias. Aporta la base cuantitativa y el reconocimiento de redes de clientelismo y criminalidad; no aporta una serie de décadas para corrupción política específica.",
+              "host": "razonpublica.com",
+              "title": "Radiografía de la corrupción en Colombia - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2021/12/contratos-revision-corrupcion-informe-transparencia-corrupcion-Andres-Hernandez.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/cepeda-la-corrupcion-ha-sido-el-mas-grave-problema-del-gobierno-petro/",
+              "note": "Reconocimiento público de un senador de que la corrupción fue el problema más grave de un gobierno reciente, con la matización de que no es exclusiva de ese partido ni de esa administración. Aporta contexto político y contraste sobre atribución de responsabilidad.",
+              "host": "lasillavacia.com",
+              "title": "Cepeda: la corrupción ha sido “el más grave problema” del gobierno Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/08/Ivan-Cepeda-Gustavo-Petro-Pacto-Historico.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.fiscalia.gov.co/",
+              "note": "Portal de la Fiscalía General de la Nación con boletines de noticias; en el contenido disponible no aporta datos cuantitativos sobre corrupción política que permitan verificar la afirmación.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalia General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/logo_fisc.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.banrep.gov.co/es/corrupcion-colombia-analisis-integral",
+              "note": "Página del Banco de la República no accesible (bloqueo por actividad automatizada); no se pudo extraer información para la verificación.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://transparenciacolombia.org.co/indices-de-percepcion-de-la-corrupcion-colombia/",
+              "note": "Portal de Transparencia por Colombia sobre el Índice de Percepción de la Corrupción de Transparencia Internacional; confirma la existencia de mediciones anuales de percepción, pero el contenido disponible no incluye las cifras de Colombia por año.",
+              "host": "transparenciacolombia.org.co",
+              "title": "Índices de Percepción de la Corrupción (IPC) Colombia - Transparencia por Colombia",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "política",
+          "claim": "Se afirma que, a pesar de esa larga historia de corrupción, el mayor caso de corrupción corresponde a los interlocutores mencionados.",
+          "quote": "aún en medio de esa larga y triste historia de corrupción, el trofeo se lo llevan ustedes",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La frase 'aún en medio de esa larga y triste historia de corrupción, el trofeo se lo llevan ustedes' es una valoración retórica y comparativa (un superlativo: 'el mayor caso de corrupción') que ninguna de las fuentes respalda, ni por cuantificación ni por ranking de casos [F1][F2][F3][F4][F5]. Las fuentes sí confirman antecedentes judiciales y de vínculos con grupos armados ilegales de uno de los interlocutores mencionados, pero no permiten afirmar que su caso sea 'el mayor' del país [F4][F5].",
+          "context": "Las fuentes documentan: (a) que Carlos Alonso Lucio, exmilitante del M-19, fue representante a la Cámara (1994-1998) y senador (1998-2002), y que la Corte Suprema de Justicia lo condenó en agosto de 2000 a dos años y seis meses de prisión por falsa denuncia, mientras el proceso por estafa agravada prescribió [F4]; (b) que un informe del Centro Internacional para la Justicia Transicional lo identifica como asesor de la mesa de Ralito en los diálogos gobierno-AUC [F4]; (c) que la corrupción en Colombia se describe como un fenómeno sistémico y adaptativo, no reducible a un solo 'villano individual', sin que la fuente aporte una clasificación cuantitativa de 'los mayores casos' [F1]. Las fuentes disponibles no contienen rankings, cifras ni decisiones judiciales que permitan dimensionar cuál es 'el mayor caso de corrupción' del país [F1][F2][F4][F5].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, una acusación superlativa sin métrica ni respaldo documental no abona al esclarecimiento de la verdad: convierte un juicio de valor en un 'trofeo' retórico, lo que puede desdibujar la línea entre hechos judicialmente establecidos y disputa rhetorica [F1][F4]. Simultáneamente, los hechos que sí están documentados —una condena de la Corte Suprema y la identificación como asesor de la mesa de Ralito— son elementos relevantes para la verdad y para la no repeticion, porque muestran la conexión entre actores políticos y estructuras armadas ilegales que el derecho ha sancionado [F4][F5]. La consistencia con el propósito de verdad exige apoyar cada imputación en antecedentes judiciales o investigaciones verificables, como los que registran las fuentes, y evitar el superlativo no sustentado, que por su carácter indeterminado no permite ni condenar ni exonerar con precisión [F1][F4].",
+          "whatTheyOmit": "Omite cualquier métrica, ranking o dato que sustente que ese sea 'el mayor caso de corrupción' del país; ninguna de las fuentes aporta magnitud, cifras ni comparación entre casos [F1][F2][F4][F5]. También omite el detalle de los hechos por los que existen antecedentes judiciales (falsidad, prescripción de la estafa, vínculos con narcotráfico y asesoría a AUC), presentándolos en cambio como un trofeo retórico [F4][F5]. Finalmente, omite el contexto de que la corrupción se describe como un problema sistémico y de acción colectiva que excede a cualquier individuo, lo que hace insostenible el superlativo centrado en interlocutores particulares [F1].",
+          "keyFacts": [
+            "Carlos Alonso Lucio fue representante a la Cámara por Bogotá (1994-1998) y senador de la República (1998-2002) [F4]",
+            "La Corte Suprema de Justicia condenó a Lucio el 14 de agosto de 2000 a dos años y seis meses de prisión por falsa denuncia; el proceso por estafa agravada concluyó por prescripción [F4]",
+            "Un informe del Centro Internacional para la Justicia Transicional identifica a Lucio como asesor de la mesa de Ralito en los diálogos de paz gobierno-AUC, y señala que proyectos empresariales del Bloque Central Bolívar en Vichada contaban con su asesoría [F4]",
+            "Lucio fue asesor de las AUC durante el proceso de paz con el gobierno de Álvaro Uribe y posteriormente se desempeñó como predicador protestante y empresario agropecuario [F4][F5]",
+            "La corrupción se analiza como un fenómeno complejo y sistémico que sobrevive mediante adaptación y 'cumplimiento ceremonial', y que no se explica por un solo 'villano individual' [F1]",
+            "Ninguna fuente aporta un ranking, cifra o clasificación que permita establecer cuál es 'el mayor caso de corrupción' en Colombia [F1][F2][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-corrupcion-buenas-practicas-malas-sorpresas/",
+              "note": "Análisis académico de la corrupción como fenómeno sistémico y adaptativo; aporta el contexto de que no se reduce a un individuo, y contrasta con el superlativo del video. No contiene rankings de casos.",
+              "host": "razonpublica.com",
+              "title": "La corrupción: buenas prácticas, malas sorpresas - Razón Pública",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.fiscalia.gov.co/",
+              "note": "Página de inicio de la Fiscalía General de la Nación con boletines de noticias; no aporta información sobre el caso ni sobre rankings de corrupción.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalia General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/logo_fisc.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.youtube.com/watch?v=XaDz45wpIOY",
+              "note": "Entrevista a Carlos Alonso Lucio, exmilitante del M-19; confirma la identidad del interlocutor pero su contenido no cuantifica casos de corrupción.",
+              "host": "youtube.com",
+              "title": "Segunda parte entrevista al excongresista y exmilitante del M-19 Carlos Alonso Lucio | Canal 1",
+              "image": "https://i.ytimg.com/vi/XaDz45wpIOY/maxresdefault.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://es.wikipedia.org/wiki/Carlos_Alonso_Lucio",
+              "note": "Biografía con antecedentes judiciales (condena por falsa denuncia), actividad congresional y asesoría a la mesa de Ralito; principal respaldo documental de los hechos atribuidos al interlocutor.",
+              "host": "es.wikipedia.org",
+              "title": "Carlos Alonso Lucio - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/6/carlos-alonso-lucio-de-la-guerrilla-del-m-19-al-circulo-del-poder-del-gobierno-del-tigre",
+              "note": "Perfil periodístico de Lucio que reconstruye su trayectoria desde el M-19 hasta el círculo de poder presidencial; aporta contexto histórico, sin clasificar casos de corrupción.",
+              "host": "cambiocolombia.com",
+              "title": "Carlos Alonso Lucio: la historia del exguerrillero del M-19 que hoy le habla al oído a Abelardo de la Espriella",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/Whats_App_Image_2026_06_26_at_1_13_58_PM_2_da26ac0fda_full-width.webp"
             }
           ]
         }
