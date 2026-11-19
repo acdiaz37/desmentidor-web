@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:09:17",
+  "generatedAt": "2026-11-19T00:27:08",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -11155,6 +11155,1003 @@
               "host": "es.wikipedia.org",
               "title": "Santanderismo - Wikipedia, la enciclopedia libre",
               "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "3-3k-views-269-reactions-tantas-razones-james-alberto-garzon-duenas",
+      "title": "3.3K views · 269 reactions | Tantas razones ....🫡 | James Alberto Garzón Dueñas",
+      "uploader": "James Alberto Garzón Dueñas",
+      "url": "https://m.facebook.com/watch/?v=2134926830725378&_rdr",
+      "duration": 145.437,
+      "thumbnail": "/media/3-3k-views-269-reactions-tantas-razones-james-alberto-garzon-duenas/thumb.jpg",
+      "conclusion": "## Acumulación real, presentación sin distinción\n\nEl video construye su narrativa mediante un recurso retórico de acumulación: enumera una sucesión de casos —corrupción en la UNGRD, carrotanques en La Guajira, sobornos a congresistas, chuzadas, el caso de Nicolás Petro, Carlos Ramón González prófugo en Nicaragua, los exministros Bonilla y Velasco— bajo una formulación irónica que sugiere \"tantas razones\" para protestar. El efecto que produce esta presentación es una sensación de peso acumulativo: cuanto más casos se listan, más sólida parece la imagen de un gobierno profundamente cuestionado.\n\nLa base real de casi toda la enumeración es sólida. Los escándalos de la UNGRD están judicialmente documentados, con condenas, imputaciones y colaboradores de justicia. Los carrotanques de La Guajira corresponden a un caso de sobrecostos y abandono con sanciones ejecutadas. Bonilla y Velasco fueron capturados. Carlos Ramón González está efectivamente asilado en Nicaragua con circular roja de Interpol. Los nombres de Olmedo López y Sneider Pinilla están respaldados por sentencias y renuncias verificables. El caso de Nicolás Petro existe con múltiples frentes procesales. Las denuncias de chuzadas y seguimientos a opositores tienen respaldo institucional.\n\nEl problema de interpretación surge en dos niveles. Primero, el video presenta como hechos establecidos casos que todavía son investigaciones presuntas: las \"mariposas amarillas\" son una denuncia en curso sin condena, y la frase \"robo electoral\" sobrepasa lo que sostiene el informe reservado de DNI que la origina, cuyas evidencias sobre ataques al software electoral no incluye el documento. Segundo, mezcla sin distinción claims verificados con tres elementos que las fuentes no documentan en absoluto: los \"exo-contratos\", el supuesto intento de obtener el censo electoral, y el helicóptero no tripulado de la DNA, donde las fuentes muestran aeronaves tripuladas de Policía.\n\nEl punto de quiebre se produce cuando la enumeración individual —donde cada caso puede sostenerse— se convierte en representación unitaria. Al apilar casos de naturaleza jurídica muy distinta —condenas firmes junto con investigaciones sin resolver y afirmaciones sin respaldo— sin señalar esas diferencias, el video genera la impresión de que todos los elementos tienen el mismo grado de certeza y responsabilidad atribuible. Es ahí donde deja de ser \"esto ocurrió y es cierto\" y pasa a \"la realidad es esta\".\n\nEl contexto que falta es precisamente el estatus procesal diferenciado, el precedente de casos similares en administraciones anteriores (chuzadas bajo Uribe, corrupción en gestión de riesgo en gobiernos pasados), y el hecho de que parte de los procesos están funcionando —hay condenas, capturas y colaboradores de justicia— lo que muestra respuesta institucional más que impunidad absoluta.\n\nEn síntesis, el video reúne información mayoritariamente real y relevante para la discusión pública sobre gobernabilidad, pero la presenta sin distinguir entre lo probado y lo presunto, lo investigado y lo sancionado, y mezcla elementos verificables con otros que no tienen respaldo documental. La conclusión general de que existen razones legítimas de preocupación se sostiene; lo que se debilita es la representación de uniformidad y gravedad equivalente que la acumulación visual sugiere.",
+      "conclusionLabel": "Con matices",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Se menciona el caso de Primo Gay como motivo de protesta.",
+          "quote": "Seguro vas a marchar por el Primo Gay",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "El caso de alias 'Primo Gay' sí aparece en el video, pero de forma irónica ('Seguro vas a marchar por el Primo Gay'), es decir, como ejemplo de una causa por la que el hablante supone que nadie marchará, no como una convocatoria genuina a protestar. El personaje existe y está respaldado por las fuentes como cabecilla de las disidencias de las FARC capturado en Antioquia, señalado de graves crímenes [F2][F3][F4][F5].",
+          "context": "Néider Yesid Uñates López, alias 'Primo Gay', fue capturado el 14 de noviembre en zona rural de Briceño (Antioquia) por una operación del Ejército (Séptima División y Gaula Militar) con Fiscalía y Policía. Fue señalado como cabecilla de la subestructura 5 de la facción de alias 'Calarcá' (Frente 36 de las disidencias de las FARC) y presunto enlace con el Clan del Golfo. Se le atribuye la masacre de 13 policías en Amalfi (agosto de 2025), ataques con explosivos, el asesinato del líder social Didier Agudelo (2020) y el secuestro, tortura y asesinato del periodista Mateo Pérez Rueda (mayo de 2026). La recompensa por su captura llegó a 640 millones de pesos. Los señalamientos corresponden a investigaciones en curso, no a condenas judiciales [F2][F3][F4][F5].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, el caso 'Primo Gay' ilustra crímenes graves cometidos por estructuras armadas ilegales —incluidos ataques contra uniformados, asesinato de civiles y del periodista Mateo Pérez Rueda— que deben ser investigados y sancionados por la justicia ordinaria, dado que las disidencias de las FARC no forman parte del acuerdo que da origen a la JEP, la cual juzga a los máximos responsables de los ex-FARC-EP firmantes del Acuerdo de Paz, con sanciones propias y deber de reparación a las víctimas [F2][F3][F4][F5]. Mencionar el caso puede contribuir al esclarecimiento de la verdad y a la exigencia de no repetición, pero la formulación irónica ('seguro vas a marchar por...') funciona como una comparación retórica entre causas de protesta y no aporta datos sobre el estado del proceso judicial ni sobre las víctimas concretas, que en las fuentes se presentan como presuntas responsabilidades aún sin condena [F3][F5]. La nota de contexto sobre prácticas de protesta social y disidencia muestra que en Colombia coexisten múltiples formas y motivos de protesta, lo que matiza cualquier lectura de que solo se marche por un tipo de causas [F1].",
+          "whatTheyOmit": "El video no precisa quién es 'Primo Gay', los hechos que se le atribuyen, ni que se trata de señalamientos de investigaciones pendientes de condena, lo que puede generar una percepción de culpabilidad ya establecida [F3][F5]. Tampoco aporta el contexto de por qué algunos crímenes generan movilización y otros no, ni el estado de las investigaciones y la situación de las víctimas [F2][F4]. La afirmación de que 'se menciona como motivo de protesta' resulta incompleta si no se aclara el tono irónico de la cita.",
+          "keyFacts": [
+            "Alias 'Primo Gay' es Néider Yesid Uñates López, señalado como cabecilla de la subestructura 5 de la facción de alias 'Calarcá' (Frente 36 de las disidencias de las FARC) [F2][F4]",
+            "Fue capturado en zona rural de Briceño (Antioquia) en operativo del Ejército con Fiscalía y Policía [F2][F4][F5]",
+            "Se le atribuye la masacre de 13 policías en Amalfi (agosto de 2025) y el asesinato del periodista Mateo Pérez Rueda (mayo de 2026) [F2][F3][F5]",
+            "La recompensa por su captura llegó a 640 millones de pesos [F4][F5]",
+            "Los señalamientos corresponden a investigaciones y atribuciones de las autoridades, no a condenas judiciales [F3][F5]",
+            "La cita del video ('Seguro vas a marchar por el Primo Gay') es irónica y no constituye una convocatoria a protestar [F]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/rebeldia-protesta-social-practicas-artisticas-mariconas-queer-convergencia/",
+              "note": "Contexto sobre formas y motivos de protesta social en Colombia; aporta el contraste sobre la diversidad de causas de movilización.",
+              "host": "razonpublica.com",
+              "title": "Rebeldía, protesta social y prácticas artísticas mariconas (queer) en convergencia - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2021/05/piisciis-vogue-trans-marica-queer-yecid-calderon.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/capturan-a-primo-gay-cabecilla-de-disidencias-en-antioquia/",
+              "note": "Confirma la captura, el rol de cabecilla de 'Primo Gay', los crímenes que se le atribuyen y la advertencia de la Defensoría del Pueblo.",
+              "host": "lasillavacia.com",
+              "title": "Capturan a “Primo Gay”, cabecilla de disidencias, en Antioquia",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/11/primo_gay_capturado.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://lakalle.bluradio.com/noticias/nacion/la-historia-detras-de-alias-primo-gay-el-jefe-de-las-disidencias-capturado-en-antioquia-rs15",
+              "note": "Trayectoria del capturado y advertencia explícita de que los señalamientos no equivalen a condena judicial.",
+              "host": "lakalle.bluradio.com",
+              "title": "La historia detrás de alias Primo Gay, el jefe de las disidencias capturado en Antioquia",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/afed011/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F21%2F2a%2F822e64c544898e7a61f7e2064ea5%2Fprimo-gay-blu-radio.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.bluradio.com/regiones/antioquia/quien-es-alias-primo-gay-el-prontuario-criminal-del-hombre-de-confianza-de-calarca-capturado-so35",
+              "note": "Prontuario criminal detallado, recompensas y hechos atribuidos entre 2017 y 2026.",
+              "host": "bluradio.com",
+              "title": "¿Quién es alias ‘Primo Gay’? El prontuario criminal del hombre de confianza de 'Calarcá' capturado",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/fe7f513/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9e%2F6b%2F6d0db65746279732be9adeae90ad%2Fla-primera-imagen-de-la-captura-de-alias-primo-gay-en-briceno-antioquia.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/antioquia/quien-es-primo-gay-capturado-antioquia-NL43597813",
+              "note": "Detalle del ataque de Amalfi, cambio de estructura al Clan del Golfo y condición de presunto responsable del asesinato del periodista.",
+              "host": "elcolombiano.com",
+              "title": "âPrimo Gayâ, el temido excabecilla seÃ±alado por el ataque que dejÃ³ 13 policÃas muertos en Amalfi",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1080x720/0c0/0d0/none/11101/TVNB/primo-gay-2_52139914_20261114113658.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "politica",
+          "claim": "Se mencionan unos supuestos 'exo-contratos' como motivo de protesta.",
+          "quote": "por los exo-contratos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes entregadas menciona, define ni documenta unos 'exo-contratos' ni los vincula a protesta alguna, por lo que la afirmación del video no puede verificarse ni confirmarse ni refutarse con el material disponible [F1][F2][F3][F4][F5].",
+          "context": "El único material pertinente al tema de las protestas es F1, que documenta una marcha opositora convocada para el 14 de octubre contra el gobierno de De la Espriella y una desinformación previa: un falso decreto 1346 de 2026 que supuestamente prohibiría las protestas; el Detector de Mentiras establece que ese decreto corresponde a un nombramiento de funcionario firmado en agosto, que el único decreto de octubre relacionado con manifestaciones es el 1525 de 2026, que modifica el protocolo policial sin prohibir la protesta, y que el derecho a la protesta está protegido por el artículo 37 de la Constitución y por la jurisprudencia de la Corte Constitucional (C-223 de 2017, C-009 de 2018, C-742 de 2012) [F1]. Las demás fuentes no aportan al caso: F2 es el Manual de Contratación de la Fiscalía General de la Nación [F2], F3 es una obra de fanfiction en portugués que solo contiene la palabra 'EXO' en otro sentido [F3], F4 describe una criptomoneda llamada Exotic Markets (EXO) y sus contratos inteligentes en Solana [F4], y F5 es la biografía del político español Alberto Garzón [F5].",
+          "progressivePerspective": "El video no se enmarca en el conflicto armado colombiano ni en el propósito de la JEP (verdad, justicia, reparación y no repeticion), por lo que ese marco no resulta aplicable de forma directa a esta cita; de todos modos, el criterio de verificación es el mismo: una aseveración sobre motivos de protesta solo abona al esclarecimiento si está respaldada por evidencia. Aquí no lo está con las fuentes disponibles, de modo que no puede afirmarse que el motivo esclarecido sea 'los exo-contratos' [F1][F2][F3][F4][F5]. Por otro lado, el contexto de protesta que sí está documentado en las fuentes muestra una discusión pública real sobre garantías a la manifestación y sobre desinformación previa a la marcha del 14 de octubre, cuya verificación exige distinguir entre hechos probados y rumores, tal como F1 hace con el supuesto decreto 1346 [F1].",
+          "whatTheyOmit": "El video no define qué son los 'exo-contratos', no indica a qué sector, empresa o contrato se refiere ni aporta documento que sustente el motivo de protesta, y las fuentes entregadas no permiten reconstruir esa información [F1][F2][F3][F4][F5]. Tampoco se aporta el contexto completo de la cita: el texto 'por los exo-contratos' es un fragmento aislado, sin la frase que lo precede ni la que lo sigue, lo que impide determinar si se presenta como hecho, como motivo atribuido a terceros o como opinión [F1]. Finalmente, se omite el contraste disponible en la única fuente pertinente: que las protestas de octubre ocurrieron en un escenario de desinformación documentada sobre un supuesto decreto que prohibía manifestaciones [F1].",
+          "keyFacts": [
+            "Ninguna de las cinco fuentes entrega contiene la expresión 'exo-contratos' ni describe un contrato, norma o trámite con ese nombre [F1][F2][F3][F4][F5]",
+            "F1 documenta que hubo una marcha opositora convocada para el 14 de octubre contra el gobierno de De la Espriella, llamada por sus convocantes 'preparatoria' [F1]",
+            "F1 establece que el supuesto decreto 1346 de octubre de 2026 que prohibía protestas es falso: corresponde a un nombramiento de funcionario firmado en agosto, y el decreto de octubre relacionado con manifestaciones es el 1525 de 2026, que modifica el protocolo policial sin prohibir la protesta [F1]",
+            "F1 señala que la protesta está protegida por el artículo 37 de la Constitución y por jurisprudencia de la Corte Constitucional: regularla es materia de ley estatutaria y prohibirla exigiría referendo, asamblea constituyente o acto legislativo [F1]",
+            "F2 es el Manual de Contratación de la Fiscalía General de la Nación, actualizado por resolución de agosto de 2026, y no guarda relación con protestas ni con contratos llamados 'exo' [F2]",
+            "F3 es una obra de fanfiction en portugués y F4 describe una criptomoneda (Exotic Markets, EXO) con contratos en Solana: son coincidencias de término, no fuentes sobre Colombia [F3][F4]",
+            "F5 corresponde a la biografía del político español Alberto Garzón, sin relación con la cita verificada [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-ha-prohibido-protestas-decreto-1346-es-de-un-nombramiento/",
+              "note": "Única fuente pertinente: aporta el contexto real de las protestas de octubre de 2026 y desmiente un falso decreto que supuestamente prohibía manifestaciones; no menciona 'exo-contratos'.",
+              "host": "lasillavacia.com",
+              "title": "De la Espriella no ha prohibido protestas: Decreto 1346 es de un nombramiento",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/10/Abelardo-de-la-Espriella-decreto-sobre-protesta.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.fiscalia.gov.co/contrataciones/manual-de-contratacion/",
+              "note": "Manual de contratación de la Fiscalía; sirve como contraste negativo: es la única fuente que trata 'contratos' oficiales y no hay en ella rastro de 'exo-contratos'.",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalía General de la Nación",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.spiritfanfiction.com/historia/a-aposta--imagine-baekhyun-exo-18995899/capitulos/24391625",
+              "note": "Fanfiction en portugués donde 'EXO' es un grupo musical; contraste que muestra que la coincidencia léxica no constituye evidencia sobre Colombia.",
+              "host": "spiritfanfiction.com",
+              "title": "Acessar sua Conta",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.bitget.com/es/price/exotic-markets/what-is",
+              "note": "Describe la criptomoneda Exotic Markets (EXO) y sus 'contratos' en Solana; contraste que evidencia que las fuentes recuperadas por el término son ajenas al caso.",
+              "host": "bitget.com",
+              "title": "Qué es Exotic Markets (EXO) | Cómo obtener y utilizar Exotic Markets | Bitget",
+              "image": "https://img.bgstatic.com/video/open_graph_new.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Alberto_Garzón",
+              "note": "Biografía del político español Alberto Garzón; no aporta información sobre la cita ni sobre protestas en Colombia.",
+              "host": "es.wikipedia.org",
+              "title": "Alberto Garzón - Wikipedia, la enciclopedia libre",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Alberto_Garz%C3%B3n_2020_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "Se atribuye a Gustavo Petro el hecho de las 'mariposas amarillas'.",
+          "quote": "por las mariposas amarillas de Gustavo Petro",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La expresión 'mariposas amarillas' sí designa una presunta red de mujeres cercanas a Gustavo Petro que habrían obtenido beneficios, contratos y puestos durante su gobierno, y así es reportada por las fuentes como objeto de denuncia e investigación [F2][F4]. Sin embargo, las mismas fuentes la califican de 'presunta' y de 'denuncias' que 'exigen rigor' y debido proceso; no hay en ellas ninguna decisión judicial que haya declarado probados los hechos, de modo que presentarlos como 'el hecho' de Petro es presentar como cierto algo que sigue siendo una investigación sin resolver [F1][F4].",
+          "context": "El término fue acuñado en el contexto político: primero Angie Rodríguez, ex aliada de Petro, denunció que el entonces mandatario habría concedido beneficios a jóvenes mujeres cercanas a él, bautizando así a ese círculo [F2]. Independientemente, el propio Petro usó la imagen de las 'mariposas amarillas' en un discurso político apoyado en García Márquez ('aquí tienen que caer las flores y volar mariposas amarillas'), referencia literaria que luego fue reapropiada por sus críticos [F5]. En cuanto a magnitud, se habla de una presunta red de cerca de 48 mujeres vinculadas al DAPRE y otras entidades, con contratos, testimonios y una investigación fiscal en curso; Mary Luz Herrán, exesposa de Petro, sostuvo en entrevista que se trataría de un programa social que benefició a 48 mujeres vulnerables, hipótesis que los analistas consideran la más frágil jurídicamente por falta de soportes administrativos [F1][F3]. No se aporta en las fuentes ninguna condena o providencia que confirme los hechos [F4].",
+          "progressivePerspective": "Este asunto no corresponde al conflicto armado colombiano ni a la jurisdicción de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición resulta aquí sólo aplicable por analogía ética. Desde esa analogía, la ponderación correcta exige dos niveles simultáneos: (a) el interés público legítimo en esclarecer si se usaron recursos del Estado para favorecer intereses particulares, que es exactamente lo que pide la fuente que formula la pregunta central del escándalo [F4]; y (b) el deber de no convertir una denuncia sin resolver en veredad consumada, ni de convertir en cómplices por anticipado a las mujeres nombradas, cuando la propia fuente insiste en que responder esa pregunta 'exige rigor, tanto para proteger los derechos de quienes denuncian como para respetar el debido proceso' [F4]. La fuente de opinión analítica llega incluso a hipotetizar que, si hubiera voluntad propia de las mujeres, estaríamos ante corrupción y no ante victimización, pero deja abierta la hipótesis más grave —abuso de poder y coacción sexual— como la que 'debe esclarecer la justicia' [F1]. Un discurso que enuncia la afirmación como hecho consumado, sin esa escala de hipótesis ni la presunción de inocencia, corre el riesgo de revictimizar a las mujeres involucradas y de precindir del esclarecimiento judicial que las mismas fuentes demandan [F1][F4].",
+          "whatTheyOmit": "Se omite la calificación constante de 'presunta' y 'denuncias' que acompañan el término en todas las fuentes: no se menciona que no existe aún una decisión judicial que declare probados los hechos [F1][F2][F4]. Se omite también la hipótesis alternativa plantegada por Mary Luz Herrán de que se trataría de un programa social para 48 mujeres vulnerables, y el hecho de que ella misma la reconoció en entrevista, así como que esa versión se considera jurídicamente frágil por falta de actos administrativos [F1]. Finalmente se omite que la imagen de las 'mariposas amarillas' fue usada originalmente por el propio Petro como referencia literaria a García Márquez en un acto político, antes de ser reapropiada como etiqueta del escándalo [F5][F2].",
+          "keyFacts": [
+            "'Mariposas amarillas' es el nombre de una presunta red de mujeres cercanas a Gustavo Petro que habrían obtenido beneficios, contratos y puestos durante su gobierno, y que está bajo investigación [F2].",
+            "El nombre se originó tras la denuncia de Angie Rodríguez, ex mano derecha de Petro, quien alegó que el entonces mandatario habría concedido beneficios a jóvenes mujeres de su círculo [F2].",
+            "Se reporta una presunta estructura de contratos de prestación de servicios vinculada a cerca de 48 mujeres en el DAPRE y otras entidades, con testimonios bajo juramento y una investigación fiscal en curso [F3].",
+            "Mary Luz Herrán, exesposa de Petro, declaró que se trataría de un programa social que benefició a 48 mujeres vulnerables, versión que los analistas consideran la más débil jurídicamente por ausencia de actos administrativos, CONPES o imputación presupuestal [F1].",
+            "El propio Petro utilizó la frase 'volar mariposas amarillas' en un discurso en la Plaza de Bolívar apoyado en Gabriel García Márquez, referencia que luego fue resignificada por sus críticos [F5][F2].",
+            "Las fuentes consultadas presentan el caso como denuncia e investigación abierta, sin condena judicial que declare probados los hechos [F4]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.publimetro.co/opinion/2026/11/03/opinion-gustavo-petro-las-mariposas-amarillas-y-tres-hipotesis/",
+              "note": "Opinión jurídica que plantea tres hipótesis (programa social, complicidad voluntaria, abuso de poder), registra la declaración de Mary Luz Herrán sobre las 48 mujeres y exige soportes administrativos; aporta el contraste entre las versiones en pugna.",
+              "host": "publimetro.co",
+              "title": "Opinión: Gustavo Petro, las mariposas amarillas y tres hipótesis",
+              "image": "https://www.publimetro.co/resizer/v2/XHLDRR3LA5DNFGXUFB5VBANL6A.jpg?smart=true&auth=e2fa3342ead0def8e9b808cb239ae748594b160621b86eed9a5d9a57ed94eb0c&width=1200&height=630"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.colombia.com/actualidad/politica/como-las-mariposas-amarillas-es-conocida-presunta-red-de-mujeres-cercanas-a-gustavo-petro-597978",
+              "note": "Explica el origen del término (denuncia de Angie Rodríguez), su calificación constante como 'presunta red' y el uso previo de la imagen por parte de Petro; aporta la procedencia y la naturaleza no probada de la etiqueta.",
+              "host": "colombia.com",
+              "title": "Beneficios a modelo destapan red de presuntas beneficiarias en el gobierno Petro",
+              "image": "https://cdn.colombia.com/sdi/2026/08/28/como-las-mariposas-amarillas-es-conocida-presunta-red-de-mujeres-cercanas-a-gustavo-petro-1354922.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://elexpediente.co/el-expediente-revela-dentro-de-las-mariposas-amarillas-un-informante-trans-entrega-video-de-petro-en-relaciones-excrementales/",
+              "note": "Reporta elementos de la presunta red (48 mujeres, contratos, testimonios, investigación fiscal y un video no publicado por reserva), todo formulado en clave de presunción y sujeta a verificación de autenticidad y cadena de custodia.",
+              "host": "elexpediente.co",
+              "title": "Primicia El Expediente: dentro de las Mariposas Amarillas, un informante trans entrega video de Petro en relaciones excrementales - El Expediente",
+              "image": "https://elexpediente.co/wp-content/uploads/2026/11/PP5244262-h-s.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://libretadeapuntes.substack.com/p/mariposas-amarillas-se-usaron-contratos",
+              "note": "Formula la pregunta central sobre uso de contratos públicos y advierte que responderla exige rigor, protección de los derechos de quienes denuncian y respeto al debido proceso; aporta el estándar de verificación y el reconocimiento de que no hay respuesta concluyente.",
+              "host": "libretadeapuntes.substack.com",
+              "title": "«Mariposas amarillas»: ¿se usaron contratos públicos para fines privados?",
+              "image": "https://substackcdn.com/image/fetch/$s_!EePR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F182ff024-79fb-410d-850b-a577bcc864b0_1672x941.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/politica/articulo/petro-dije-quizas-sea-el-ultimo-aureliano-y-me-place-y-aqui-tienen-que-caer-las-flores-y-volar-mariposas-amarillas/202537/",
+              "note": "Registra el discurso de Petro en la Plaza de Bolívar donde usa 'mariposas amarillas' como referencia literaria a García Márquez; aporta el origen retórico previo de la expresión, ajeno al escándalo.",
+              "host": "semana.com",
+              "title": "Petro: “Dije quizás sea el último Aureliano y me place y aquí tienen que caer las flores y volar mariposas amarillas”",
+              "image": "https://www.semana.com/resizer/v2/P3KJLZR7GBFNDFEEY73DLZSJ4Q.jpg?auth=1e7459f44f63a03c56053ced7db42d817a8a1bed6811e7e6c97d0c9849f486af&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "seguridad",
+          "claim": "Se mencionan los 'carrotanques' de La Guajira como motivo de protesta.",
+          "quote": "por los carrotanques de La Guajira",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Los 'carrotanques de La Guajira' existen como caso real: la UNGRD compró 40 (posteriormente 80) vehículos por contratos cuestionados por sobrecostos, colusión y abandono, lo que generó denuncias, investigaciones de Contraloría, Procuraduría y Fiscalía, renuncias y condenas [F1][F2][F3][F4]. Que fuera concretamente un 'motivo de protesta' queda solo parcialmente respaldado: las fuentes documentan denuncias de comunidades indígenas de Uribia y controversia pública, no actos de protesta como tales en la información disponible [F3][F5].",
+          "context": "La UNGRD adquirió 40 carrotanques por un contrato de ~$46.800 millones (otras cifras citadas: $45.000 millones) adjudicado a Impoamericana Roger S.A.S., empresa con capital de $50 millones cuyo único accionista era un estudiante de 26 años; la Secretaría de Transparencia denunció a tres altos mandos de la UNGRD y a las tres empresas participantes por presunta concertación de precios [F2]. La Contraloría abrió indagación preliminar el 20 de febrero de 2024, la declaró de impacto nacional el 12 de marzo y embargó bienes de Olmedo López, Esnéider Pinilla y Víctor Meza; la Procuraduría destituyó e inhabilitó por 18 años a Olmedo López y por 20 a Sneyder Pinilla, este último condenado a 5 años de cárcel [F1][F4]. Los carrotanques permanecieron parados en Uribia sin prestar el servicio; el escándalo implicó la caída del director de la UNGRD y del ministro de Hacienda, y ocho carrotanques debieron entregarse a municipios en cumplimiento de la Sentencia T-302 de la Corte Constitucional [F3].",
+          "progressivePerspective": "Este asunto no corresponde al marco de la JEP (verdad, justicia, reparación y no repetición en el conflicto armado), por lo que ese marco no es aplicable aquí; corresponde más bien a responsabilidad de funcionarios por corrupción en gestión de riesgo. En términos de accountability, el caso muestra que las denuncias mediáticas y de órganos de control sí derivaron en sanciones concretas (destituciones, inhabilidades, condena penal y embargos), lo que ilustra el funcionamiento de los mecanismos de control ordinario [F1][F4]. Al mismo tiempo, la controversia incluye evaluaciones técnicas previas ignoradas —la directora de Aguas de La Guajira advirtió en julio de 2023 que los carrotanques eran inadecuados para la alta Guajira por falta de vías— y una dimensión política regional en el debate [F5], elementos que conviene distinguir de la estricta dimensión penal del caso.",
+          "whatTheyOmit": "El video no precisa la magnitud del escándalo (montos, número de carrotanques, sanciones ya ejecutadas) ni el hecho de que las denuncias provinieron también del propio gobierno y de organismos de control, ni que hubo advertencias técnicas previas sobre la inidoneidad de los carrotanques para la alta Guajira, ni que parte del debate tuvo componente político regional [F2][F4][F5]. Tampoco las fuentes disponibles documentan actos de protesta específicos motivados por los carrotanques, sino denuncias y controversia pública [F3].",
+          "keyFacts": [
+            "La UNGRD compró 40 carrotanques para La Guajira por un contrato de ~$46.800 millones (otra fuente señala $45.000 millones) adjudicado a Impoamericana Roger S.A.S., empresa con capital de $50 millones [F2][F5]",
+            "La Secretaría de Transparencia denunció ante la Fiscalía a tres altos mandos de la UNGRD y a representantes de las tres empresas cotizantes por presunta concertación de precios [F2]",
+            "Contraloría, Procuraduría y Fiscalía abrieron investigaciones; la Contraloría embargó bienes de Olmedo López, Esnéider Pinilla y Víctor Meza [F4]",
+            "La Procuraduría destituyó e inhabilitó 18 años a Olmedo López y 20 a Sneyder Pinilla; este último fue condenado a 5 años de cárcel, primer condenado del escándalo [F1]",
+            "Los carrotanques permanecieron parados en Uribia sin entregar agua; comunidades indígenas de Uribia denunciaron que las ayudas prometidas no llegaron [F3][F5]",
+            "Ocho carrotanques deben entregarse a municipios en cumplimiento de la Sentencia T-302 de la Corte Constitucional [F3]",
+            "La directora de Aguas de La Guajira advirtió en julio de 2023 que los carrotanques eran inadecuados para la alta Guajira por falta de vías [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/tag/carrotanques/",
+              "note": "Archivo de notas sobre carrotanques: sanciones de la Procuraduría (18 y 20 años de inhabilidad), condena a 5 años de Sneyder Pinilla, investigación a Pinilla, entregas de carrotanques y vínculos con el escándalo de corrupción de la UNGRD.",
+              "host": "lasillavacia.com",
+              "title": "carrotanques Archives",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elcolombiano.com/colombia/que-paso-con-el-caso-de-los-carrotanques-de-la-guajira-NP23868126",
+              "note": "Denuncia formal del secretario de Transparencia: 40 carrotanques parados, contrato por $46.800 millones a empresa con capital de $50 millones, presunta colusión de las tres empresas cotizantes, denuncia de funcionarios de la UNGRD.",
+              "host": "elcolombiano.com",
+              "title": "EscÃ¡ndalo de carrotanques: esta es la denuncia del secretario de Transparencia de Presidencia contra Olmedo LÃ³pez",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/0d0/none/11101/MTON/carrotanques-la-guajira_44531940_20240229163628.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/colombia/otras-ciudades/carrotanques-de-la-guajira-del-escandalo-con-ungrd-a-operacion-tras-millionaria-poliza-3407041",
+              "note": "Contexto posterior: 80 carrotanques asegurados por $1.600 millones, Sentencia T-302 de la Corte Constitucional, caída del director de la UNGRD y del ministro de Hacienda, denuncias de comunidades indígenas de Uribia por ayudas que no llegaron.",
+              "host": "eltiempo.com",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elnuevosiglo.com.co/nacion/escandalo-de-carrotanques-en-la-guajira-asi-avanzan-los-tres-flancos-de-investigaciones",
+              "note": "Detalle de las tres investigaciones (Contraloría, Procuraduría, Fiscalía), embargos, inspecciones, posible soborno de $7.200 millones y respuesta de Olmedo López sobre la contratación en régimen especial.",
+              "host": "elnuevosiglo.com.co",
+              "title": "Escándalo de carrotanques en La Guajira: Así avanzan los tres flancos de investigaciones | El Nuevo Siglo",
+              "image": "https://www.elnuevosiglo.com.co/sites/default/files/2024-04/5AI%20INFORME%20UNGRD%2024%20ABRIL%202024.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://cambiocolombia.com/poder/articulo/2024/2/carrotanques-la-guajira-disputas-politicas",
+              "note": "Contraste: costos unitarios ($1.150 millones), advertencias técnicas previas de la directora de Aguas de La Guajira, dificultades de vías y conductores, y disputa política regional en torno al caso.",
+              "host": "cambiocolombia.com",
+              "title": "Carrotanques de La Guajira: las disputas políticas detrás de la controversia por el agua",
+              "image": "https://d2anbic24wxii4.cloudfront.net/uploads/crops/full-width/article_19791_main_20260424103228_071bfef2ff_full-width.webp"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se señala que ocurrió un desfalco en la Unidad Nacional de Gestión de Riesgo.",
+          "quote": "por el desfalco a la Unidad Nacional de Gestión de Riesgo",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Las fuentes confirman la existencia de un esquema de corrupción documentado judicialmente en la UNGRD, con desvío de recursos públicos para pagar sobornos a congresistas, imputaciones, órdenes de captura y siete condenas; el término 'desfalco' es una simplificación de un caso que las fuentes describen como 'presunto esquema de corrupción' aún en desarrollo procesal [F1][F2][F5].",
+          "context": "El caso salió a luz en febrero de 2024 con los carrotanques que no funcionaban en La Guajira. La UNGRD recibió dos transferencias de 700.000 millones de pesos (septiembre y diciembre de 2023). La Fiscalía cifra los contratos irregulares en ~380 mil millones; Caracol documentó 25 contratos de obra por más de 1 billón de pesos ejecutados por Olmedo López a través de la Fiduprevisora entre 2023 y 2024, sin sumar carrotanques, maquinaria ni ollas comunitarias (otros ~100 mil millones). Hay condenas (Sneyder Pinilla, y siete condenas en total según balance de 2026), imputados (Carlos Ramón González, ex DAPRE/DNI), investigados (exministro Ricardo Bonilla), capturas de congresistas Iván Name y Andrés Calle, y la investigación avanza ante la Corte Suprema y la Dirección contra la Corrupción [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "Este caso no pertenece al conflicto armado ni a la jurisdicción de la JEP; corresponde a la justicia ordinaria, que ya está produciendo verdad judicial (declaraciones de Olmedo López y Sneyder Pinilla), sanciones y avances hacia la rendición de cuentas. Desde el marco de verdad, justicia y no repetición aplicable a la corrupción como daño sistemático a la población, el señalamiento del desfalco abona al esclarecimiento cuando se sustenta en investigaciones y decisiones judiciales, no en la mera denuncia [F1][F2][F5]. El caso también ilustra que el uso político de la corrupción como arma de ataque puede ser legítimo si se apoya en hechos probados, pero resulta insuficiente si se invoca sin precisar cifras, responsables ni estatus procesal, porque confunde a la opinión pública sobre qué está probado y qué está pendiente [F3][F4]. La magnitud real (cientos de miles de millones a más de un billón) y las siete condenas muestran que no se trata de una acusación sin sustento, sino de un proceso en curso con responsabilidades individuales en distintas etapas [F3][F5].",
+          "whatTheyOmit": "El video no precisa la magnitud ni el estatus procesal: la Fiscalía habla de ~380 mil millones en contratos irregulares, mientras investigaciones periodísticas alcanzan más de 1 billón en 25 contratos; los hechos son 'presuntos' hasta que haya sentencia, y algunas cifras que circulan (571 mil millones) corresponden al Invías, no a la UNGRD. También se omiten los mecanismos de reparación y los avances de la propia justicia (siete condenas, colaboraciones con la justicia), que muestran que el caso no es impunidad sino proceso abierto [F1][F3][F5].",
+          "keyFacts": [
+            "Existe un escándalo de corrupción judicialmente investigado en la UNGRD durante el gobierno Petro, por presunto desvío de recursos para pagar sobornos a congresistas [F2]",
+            "La Fiscalía se refiere a contratos irregulares por aproximadamente 380 mil millones de pesos en la UNGRD [F3]",
+            "Caracol documentó 25 contratos de obra por más de 1 billón de pesos ejecutados por Olmedo López vía Fiduprevisora entre 2023 y 2024, sin contar carrotanques ni otros contratos [F3]",
+            "Hay siete condenas en el macrocaso UNGRD (seis por preacuerdo y una por aceptación de cargos) [F5]",
+            "Carlos Ramón González fue imputado por peculado, cohecho y lavado de activos y tiene orden de captura; Iván Name y Andrés Calle fueron capturados por la Corte Suprema [F1][F2]",
+            "Ricardo Bonilla fue investigado y renunció a su cargo para enfrentar a la justicia; la investigación sigue en etapa de juicio y se reasignó a la Dirección contra la Corrupción en 2026 [F2][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/lo-que-se-sabe-y-lo-que-no-en-el-caso-de-corrupcion-de-la-ungrd/",
+              "note": "Detalle del caso: imputados, condenas, presiones de contratación, coimas y avances judiciales",
+              "host": "lasillavacia.com",
+              "title": "Todo lo que se sabe del caso de corrupción en la Ungrd de Petro",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/06/Sneyder-Pinilla.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.wikipedia.org/wiki/Escándalo_de_corrupción_en_la_UNGRD_(Colombia)",
+              "note": "Cronología, montos de transferencias, entregas de dinero a congresistas y estado procesal de los implicados",
+              "host": "es.wikipedia.org",
+              "title": "Escándalo de corrupción en la UNGRD (Colombia) - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://caracol.com.co/2026/04/29/investigacion-ungrd-el-billon-que-nadie-ha-contado/",
+              "note": "Contrasta la cifra oficial de 380 mil millones con más de 1 billón en 25 contratos; distingue UNGRD de Invías",
+              "host": "caracol.com.co",
+              "title": "Investigación UNGRD: El billón que nadie ha contado",
+              "image": "https://caracol.com.co/resizer/v2/3GEVFZ3PYBFR7CAOLIMCLLSZF4.jpg?auth=1bdfb0cae793cd398a7805d5501b251fa5db3fd8ebbceca28721b8222a1d55e3&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.semana.com/nacion/articulo/drastica-decision-de-la-fiscalia-en-la-investigacion-por-el-escandalo-de-la-ungrd-que-viene-ahora/202607/",
+              "note": "Estado de avance de la investigación: casos en etapa de juicio y reasignación de expedientes",
+              "host": "semana.com",
+              "title": "Drástica decisión de la Fiscalía en la investigación por el escándalo de la UNGRD ¿Qué viene ahora?",
+              "image": "https://www.semana.com/resizer/v2/ODJWKZUBD5GILOBCV3YT6A5TTU.png?auth=86cd23a3eee46075fd2d739214fe8a418598e71c3f5a41a2792344849a348bd3&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://diariolalibertad.com/2026/10/09/caso-ungrd-ya-suma-siete-condenas-por-el-entramado-de-corrupcion/",
+              "note": "Balance de siete condenas y continuidad de las investigaciones",
+              "host": "diariolalibertad.com",
+              "title": "Caso UNGRD ya suma siete condenas por el entramado de corrupción - Diario La Libertad.",
+              "image": "https://diariolalibertad.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-09-a-las-3.37.55-p.m.webp"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "Se afirma que hubo un intento de robo electoral por parte de la DNI.",
+          "quote": "por el intento del robo electoral de la DNI",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Existen denuncias serias, informadas por varios medios, sobre presuntos planes de la DNI para interferir en procesos electorales durante el Gobierno Petro, incluidos supuestos ataques contra la Registraduría; pero se trata de señalamientos de un informe reservado de empalme que no acredita pruebas ni ha sido confirmado de forma independiente, y el término 'robo electoral' sobrepasa lo que las fuentes sostienen [F2][F3][F4].",
+          "context": "El documento central es un informe de empalme de 26 páginas elaborado en julio de 2066 para el nuevo director de la DNI, conocido por la Unidad Investigativa de Noticias Caracol, que reúne alegaciones de funcionarios de la propia agencia sobre la administración anterior: instalación de micrófonos y GPS en vehículos de esquemas de protección de expresidentes, una casa clandestina de inteligencia cerca de la Embajada de EE.UU., contratos cuestionados y ataques presuntos a la Registraduría [F2][F3][F4]. El informe periodístico no incluye las evidencias de los supuestos intentos de atacar el software electoral, y otras acusaciones sobre injerencia electoral 'aparecieron en el radar con el nuevo Gobierno, pero por ahora los informes no acreditan pruebas de ello' [F2]. El funcionario señalado como cabeza de los ataques, Carlos Andrés Oyola Tovar, fue capturado el 6 de noviembre en Neiva por el Gaula Militar con la Fiscalía, acusado de acceso abusivo a un sistema informático y fraude procesal por venta de títulos universitarios; la Contraloría, además, revisa cinco contratos de la DNI por cerca de 20.783 millones de pesos [F2][F4][F5]. Cabe distinguir otro episodio distinto: el presidente Petro acusó al candidato Abelardo De la Espriella de querer 'robarse las elecciones' con apoyo de Thomas Greg & Sons, acusación que la Fiscalía no respaldó al no encontrar evidencia de interceptaciones tras revisar más de 10 mil registros de la Plataforma Esperanza [F1].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repetición, los abusos de los órganos de inteligencia son un asunto central de garantía democrática: el país ya vivió el escándalo del DAS con interceptaciones ilegales y persecución contra magistrados, periodistas y opositores, y esa historia exige controles y rendición de cuentas efectivos [F5]. En ese sentido, que existan denuncias documentadas sobre usos políticos de la DNI y que la Fiscalía, la Contraloría y el Congreso investiguen abona a la verdad y a la no repetición [F2][F4][F5]. Sin embargo, presentar como hecho cierto un 'intento de robo electoral' cuando las propias fuentes advierten que los informes no acreditan pruebas y que nada ha sido confirmado de forma independiente [F2] traslade una denuncia en investigación a categoría de verdad consumada, lo que puede debilitar el estándar de verificación que exige la no repetición; la afirmación es más sólida como denuncia grave que requiere esclarecimiento que como hecho probado [F2][F3][F4].",
+          "whatTheyOmit": "Omite que el señalamiento proviene de un informe reservado de empalme cuyas evidencias sobre ataques al software electoral no fueron incluidas y que no ha sido confirmado de forma independiente [F2]. Omite que la Fiscalía, tras revisar más de 10 mil interceptaciones de la Plataforma Esperanza, no encontró evidencia en el caso de interceptaciones a De la Espriella [F1], y que en ese mismo proceso se cruzaron acusaciones cruzadas entre el presidente y el candidato, con retos de renuncia mutuos [F1]. Omite también que el funcionario capturado lo fue hasta el momento por delitos informáticos y fraude procesal, con investigaciones penales en curso, y que el expresidente Petro no se ha pronunciado, mientras el Pacto Histórico habla de un ataque político [F2][F4].",
+          "keyFacts": [
+            "Un informe reservado de empalme de 26 páginas de la DNI, elaborado en julio de 2026, señala presuntos planes de interferencia en elecciones y espionaje a expresidentes durante el Gobierno Petro [F2][F3][F4]",
+            "Carlos Andrés Oyola Tovar, vinculado a la DNI desde febrero de 2024, es señalado de haber liderado ataques contra la Registraduría en la época electoral; fue capturado el 6 de noviembre en Neiva por el Gaula Militar con la Fiscalía [F2][F4]",
+            "El informe periodístico no incluye las evidencias de los supuestos intentos de atacar el software electoral, y otras acusaciones de injerencia electoral no están acreditadas por pruebas [F2]",
+            "El contenido del informe aún no ha sido confirmado de forma independiente [F2]",
+            "En un caso distinto, la Fiscalía no encontró evidencia de interceptaciones a Abelardo De la Espriella tras revisar más de 10 mil registros de la Plataforma Esperanza, pese a la acusación del presidente de que el candidato quería 'robarse las elecciones' [F1]",
+            "La Contraloría ordenó revisar de forma prioritaria cinco contratos de la DNI por más de 20.783 millones de pesos [F2][F4][F5]",
+            "Colombia tiene antecedente histórico de abusos de inteligencia con el DAS: interceptaciones ilegales y persecución contra magistrados, periodistas, defensores y opositores [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/en-vivo/inspeccionaran-a-la-dni-por-presuntas-interceptaciones-a-de-la-espriella/",
+              "note": "Aporta el caso paralelo: acusación de Petro de 'robarse las elecciones' contra De la Espriella, investigación en la Comisión de Acusaciones y ausencia de evidencia de interceptaciones en la Fiscalía; contraste entre acusaciones cruzadas.",
+              "host": "lasillavacia.com",
+              "title": "Inspeccionarán a la DNI por presuntas interceptaciones a De la Espriella",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/03/abelardo.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://elpais.com/america-colombia/2026-11-13/de-los-espias-del-das-a-los-de-la-dni-colombia-recicla-sus-escandalos-de-inteligencia.html",
+              "note": "Aporta el contexto central: informe reservado de la DNI, denuncias de injerencia electoral y ataques a la Registraduría, y la advertencia clave de que no hay evidencias acreditadas ni confirmación independiente.",
+              "host": "elpais.com",
+              "title": "De los espías del DAS a los de la DNI: Colombia recicla sus escándalos de inteligencia",
+              "image": "https://imagenes.elpais.com/resizer/v2/6AAYGQ7LPFCQ7FL5WWYF56QCAY.jpg?auth=6a79091e852b918b15a0be342e63badac5927b9334c3f9fc029c45a89b401501&width=1200"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/09/documentos-secretos-de-la-dni-revelarian-plan-para-espiar-a-expresidentes-e-interferir-en-elecciones-durante-el-gobierno-petro/",
+              "note": "Detalle del informe de empalme de 26 páginas, decreto 0563, casa clandestina, malware tras viaje a Rusia y dictamen de un exinspector de la DNI sobre extralimitación competencial.",
+              "host": "infobae.com",
+              "title": "Documentos secretos de la DNI revelarían plan para espiar a expresidentes e interferir en elecciones durante el Gobierno Petro",
+              "image": "https://www.infobae.com/resizer/v2/KEHUVWO34JE37G7CMFDXEVIPZM.jpg?auth=fa05084267f99b7c65ac013182816f688b7a98058d3d6da2b29d86cee2e796b1&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elheraldo.co/colombia/2026/11/09/escandalo-de-irregularidades-en-la-dni-durante-el-gobierno-de-petro-hubo-intentos-de-interferir-en-procesos-electorales/",
+              "note": "Aporta los señalamientos específicos contra Oyola Tovar, su captura, su orden de captura vigente y el carácter de 'presuntas' irregularidades con indagaciones en curso.",
+              "host": "elheraldo.co",
+              "title": "Escándalo por presuntas irregularidades en la DNI en el gobierno Petro: denuncian espionaje a expresidentes e intentos de interferir en las elecciones",
+              "image": "https://www.elheraldo.co/resizer/v2/EZWDRM7M2NDS3DRAUPVPHQZQNQ.jpg?smart=true&auth=8e3662577ee4201830ac5a70ad00dab6782e4af07733b53feb8898bbbe701c36&width=1200&height=675"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.lanacion.com.co/del-das-al-dni-la-inteligencia-en-manos-de-quien/",
+              "note": "Aporta el precedente histórico del DAS, la exigencia de investigación rigurosa y la revisión contraloría de 20.783 millones de pesos; encuadra el deber de rendición de cuentas de la inteligencia.",
+              "host": "lanacion.com.co",
+              "title": "Del DAS al DNI: ¿la inteligencia en manos de quién? - lanacion",
+              "image": "https://www.lanacion.com.co/wp-content/uploads/2026/11/FOTO-EDITORIAL.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Se señala que existen denuncias de sobornos a congresistas.",
+          "quote": "por los sobornos a congresistas",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero a medias",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "Existen denuncias judiciales y mediáticas concretas de sobornos a congresistas en Colombia, particularmente en el caso de la UNGRD, donde la Corte Suprema investiga y ha ordenado capturas de expresidentes del Senado y la Cámara [F3][F4]. La afirmación es correcta y está respaldada por investigaciones judiciales en curso [F2][F3][F4].",
+          "context": "El escándalo de la UNGRD, que salió a la luz pública en febrero de 2024, involucra un presunto esquema de desvío de recursos públicos para pagar sobornos a congresistas a cambio de apoyo a las reformas del gobierno Petro. Según las investigaciones, se habrían entregado dos maletas con 1.500 millones de pesos cada una al senador Iván Name y 1.000 millones al representante Andrés Calle [F3]. En mayo de 2025, la Corte Suprema ordenó la captura de ambos expresidentes de las cámaras legislativas, y para marzo de 2026 deliberaba sobre la posible llamada a juicio de seis congresistas más (Gallo, Peinado, Bitar, Manzur, Manrique y Muñoz) [F4]. Además, el exdirector de la UNGRD, Olmedo López, señaló un \"cónclave\" de al menos cinco personas entre funcionarios y ministros, y afirmó que hay 380 mil millones de pesos en contratos comprometidos en prácticas corruptas [F2]. En paralelo, se ha verificado que existen desinformaciones circulando sobre el mismo caso, como una imagen falsa atribuida a Noticias Caracol que vinculaba falsamente a la primera dama Verónica Alcocer con sobornos de 1.780 millones de pesos, lo cual fue desmentido [F2].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repetición, este dato es relevante porque corresponde a denuncias que la justicia colombiana está procesando activamente: existen colaboradores de justicia que han declarado, imputaciones formuladas, detenciones preventivas y capturas ordenadas por la Corte Suprema [F3][F4]. La existencia de denuncias concretas de sobornos a congresistas aporta a la verdad histórica sobre cómo se habría instrumentalizado el aparato estatal para asegurar votos legislativos, y el avance judicial evidencia que el sistema de justicia busca responsabilizar a los máximos involucrados. Sin embargo, las declaraciones de colaboradores de justicia (como Olmedo López, quien mencionó un \"cónclave\") están sujetas a verificación en el proceso penal y aún no constituyen sentencias condenatorias definitivas [F2][F3]. Para la no repetición es relevante que se evidencie el mecanismo de cooptación del Congreso, lo cual subraya la necesidad de controles institucionales que impidan la subordinación del Legislativo al Ejecutivo mediante recursos públicos [F4].",
+          "whatTheyOmit": "El video no precisa qué denuncias concretas de sobornos a congresistas se refiere ni el estado procesal de las mismas: si se trata de denuncias presentadas ante la Fiscalía, investigaciones de la Corte Suprema, o colaboraciones de justicia ya concluidas [F3][F4]. También se omite el contexto específico del caso UNGRD, donde las cifras y las personas implicadas están documentadas con detalle [F2][F3], así como el hecho de que parte de la información mediática sobre el caso ha incluido desinformaciones verificadas como falsas [F2]. No se distingue entre imputados, investigados, capturados y condenados, lo cual es relevante dado que el subdirector de la UNGRD ya fue condenado tras aceptar cargos, mientras que otros investigados permanecen prófugos o en libertad [F3][F4].",
+          "keyFacts": [
+            "La Corte Suprema de Justicia investiga a congresistas por presuntos sobornos en el caso de la UNGRD, con interceptaciones telefónicas y testimonios de colaboradores de justicia como prueba [F4]",
+            "En mayo de 2025, la Corte Suprema ordenó la captura de Iván Name y Andrés Calle, expresidentes del Senado y la Cámara, por su presunta participación en el esquema de sobornos [F3]",
+            "Según declaraciones de Sneyder Pinilla a la justicia, se habrían entregado dos maletas con 1.500 millones de pesos cada una al senador Iván Name y 1.000 millones al representante Andrés Calle [F3]",
+            "El exdirector de la UNGRD, Olmedo López, ha declarado como colaborador de justicia y señaló un \"cónclave\" de al menos cinco personas entre funcionarios, ministros y directores de departamento [F2]",
+            "El subdirector de la UNGRD, Sneyder Pinilla, fue condenado tras aceptar cargos y colaborar con la justicia [F3]",
+            "Para marzo de 2026, seis congresistas adicionales (Gallo, Peinado, Bitar, Manzur, Manrique y Muñoz) podrían ser llamados a juicio penal [F4]",
+            "Existen desinformaciones verificadas sobre el caso, como una imagen falsa atribuida a Noticias Caracol que acusaba falsamente a la primera dama Verónica Alcocer de sobornos de 1.780 millones de pesos [F2]",
+            "La investigación incluye testimonio del exministro de Comercio Luis Carlos Reyes, quien denunció irregularidades en el manejo del presupuesto de Hacienda y avisó al presidente Petro [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/salario-escandaloso-los-congresistas/",
+              "note": "Artículo de Razon Pública sobre el salario escandaloso de los congresistas (37 veces el salario mínimo), contexto sobre la institucionalidad legislativa en Colombia, aunque no aborda directamente denuncias de sobornos.",
+              "host": "razonpublica.com",
+              "title": "¿Por qué el salario escandaloso de los congresistas?",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/08/Congreso-presidente-salario-congresistas-Luis-Barreto.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/caracol-no-publico-que-alcocer-soborno-a-congresistas-imagen-es-un-montaje/",
+              "note": "Verificación de La Silla Vacía que confirma la existencia del escándalo UNGRD con presuntos sobornos a congresistas Name y Calle, pero desmiente una desinformación específica que involucraba falsamente a la primera dama Alcocer.",
+              "host": "lasillavacia.com",
+              "title": "Caracol no publicó que Alcocer sobornó a congresistas; imagen es un montaje",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/06/veronica-alcocer.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Escándalo_de_corrupción_en_la_UNGRD_(Colombia)",
+              "note": "Artículo enciclopédico con cronología detallada del escándalo UNGRD: entregas de sobornos, investigaciones judiciales, capturas ordenadas por la Corte Suprema y estado procesal de los implicados.",
+              "host": "es.wikipedia.org",
+              "title": "Escándalo de corrupción en la UNGRD (Colombia) - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/03/03/caso-ungrd-seis-congresistas-podrian-ser-llamados-a-juicio-penal-estas-son-las-pruebas-que-analiza-la-corte-suprema-de-justicia/",
+              "note": "Reporte sobre la deliberación de la Corte Suprema para llevar a juicio a seis congresistas por el caso UNGRD, con detalle de pruebas: interceptaciones, chats y testimonios.",
+              "host": "infobae.com",
+              "title": "Seis congresistas serían llamados a juicio por escándalo de la Ungrd: estas son las pruebas que analiza la Corte Suprema de Justicia",
+              "image": "https://www.infobae.com/resizer/v2/MIDNFYGJKBC3VBAE22DRROLJ5Y.png?auth=02debf2bef586074a519c26e0d69e55679bca49a8caf6f0bdb90c862aadfbab1&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/1/gobierno-denunciara-ante-la-corte-suprema-a-congresistas-que-promuevan-conductas-contra-la-soberania-de-colombia",
+              "note": "Artículo sobre anuncio del gobierno de denunciar a congresistas por conductas contra la soberanía, relacionado con declaraciones sobre amenazas de Trump. No aborda sobornos a congresistas.",
+              "host": "cambiocolombia.com",
+              "title": "Gobierno llevará a congresistas a la Corte Suprema por afectar la soberanía de Colombia",
+              "image": "https://d2anbic24wxii4.cloudfront.net/uploads/crops/full-width/article_43489_main_20260425155838_fb2b16d043_full-width.webp"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "politica",
+          "claim": "Se mencionan los casos de Olmedo López y Sneider Pinilla.",
+          "quote": "por Olmedo López y Sneider Pinilla",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero a medias",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "Las dos personas mencionadas, Olmedo López (exdirector de la UNGRD) y Sneyder Pinilla (exsubdirector de la UNGRD), son efectivamente protagonistas documentados del caso de corrupción de la Unidad Nacional para la Gestión del Riesgo de Desastres; Pinilla fue condenado en 2025 a cinco años, ocho meses y un día de prisión y López renunció en 2024 tras el escándalo de los carrotanques y se acogió a cargos por peculado [F1][F3][F4][F5].",
+          "context": "El caso de la UNGRD se originó en irregularidades en la contratación de 40 carrotanques para llevar agua potable a La Guajira, por una malversación reportada de 46.800 millones de pesos (unos 12 millones de dólares) [F4]. Según la Fiscalía, Olmedo López acordó con Pinilla disponer de 100 mil millones de pesos de la entidad para el alquiler de carrotanques, y de los sobrecostos se obtendría dinero para pagar coimas y sobornos a congresistas [F1]. Pinilla confesó la entrega de 1.000 millones de pesos a Andrés Calle y 4.000 millones en sobornos para asegurar votos en el Congreso, y sus declaraciones han salpicado a al menos siete altos funcionarios (cuatro ministros), cinco funcionarios de rango medio y nueve congresistas [F1]. Las declaraciones de ambos han sido cuestionadas por los aludidos, quienes afirman que solo buscan rebajar sus penas [F3].",
+          "progressivePerspective": "La mención de los casos de Olmedo López y Sneider Pinilla corresponde a hechos con respaldo documental y judicial: existe una condena firme a Pinilla y un proceso en curso contra López, ambos acogidos a colaboración con la justicia [F1][F3][F5]. Desde la perspectiva de verdad, justicia, reparación y no repetición aplicable a estos procesos, mencionar estos casos abona al esclarecimiento de hechos de corrupción grave en un organismo estatal dedicado a la gestión del riesgo, cuya función es precisamente proteger a la población en situaciones de emergencia. Lo que un análisis riguroso exigiría al uso de estos nombres es distinguir entre lo acreditado (la condena de Pinilla, las imputaciones y confesiones, la renuncia de López) y lo que sigue en controversia (las acusaciones contra terceros, que estos han negado y que forman parte de investigaciones aún en curso) [F1][F3]. También corresponde señalar que el esquema descrito —sobornos a congresistas para mover reformas del gobierno— ilustra la práctica de la corrupción política que Razón Pública describe como estructural en Colombia, donde la frontera entre corrupción y 'gobernabilidad' resulta borrosa [F2].",
+          "whatTheyOmit": "La cita aislada 'por Olmedo López y Sneider Pinilla' no permite conocer el marco en que se presentan estos nombres (si se los menciona como responsables condenados/imputados, como colaboradores, o con algún matiz adicional), por lo que no es posible evaluar si el video omite el estatus procesal de cada uno: Pinilla está condenado tras preacuerdo con la Fiscalía, mientras que el caso de López aparece en fuentes como en juicio o con aceptación de cargos [F1][F5]. Tampoco se evidencia en la cita el monto real del caso (46.800 millones de pesos malversados reportados) ni el hecho de que los aludidos por las declaraciones han negado su participación [F3][F4]. Sin el audio completo, la omisión o distorsión no puede determinarse con certeza.",
+          "keyFacts": [
+            "Sneyder Augusto Pinilla Álvarez fue subdirector de la UNGRD durante el gobierno de Petro y es el primer condenado por el caso de corrupción en esa entidad, con una condena de cinco años, ocho meses y un día de prisión, más devolución de 618 millones de pesos [F1].",
+            "Olmedo López fue director de la UNGRD entre abril de 2023 y su renuncia en febrero de 2024, tras el escándalo de los carrotanques en La Guajira [F3][F5].",
+            "Según la Fiscalía, Olmedo López acordó con Pinilla disponer de 100 mil millones de pesos de la UNGRD para el alquiler de carrotanques, destinando sobrecostos a coimas y sobornos a congresistas [F1].",
+            "Pinilla confesó la entrega de 1.000 millones de pesos a Andrés Calle y admitió 4.000 millones en sobornos para asegurar votos en el Congreso [F1].",
+            "La malversación asociada al caso de los carrotanques fue de 46.800 millones de pesos (aproximadamente 12 millones de dólares) [F4].",
+            "Las declaraciones de López y Pinilla han salpicado a al menos siete altos funcionarios (cuatro ministros) y nueve congresistas, acusaciones que los mencionados han negado [F1][F3]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/quien-es-quien/sneyder-augusto-pinilla/",
+              "note": "Perfil de Sneyder Pinilla: condena de 5 años, 8 meses y 1 día, preacuerdo con la Fiscalía, confesión de sobornos a congresistas y cifras del caso UNGRD; aporta el estatus procesal concreto de uno de los dos mencionados.",
+              "host": "lasillavacia.com",
+              "title": "Sneyder Augusto Pinilla",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/04/Sneyder_Pinilla_Ungrd.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/gobernabilidad-criminal/",
+              "note": "Contexto analítico: menciona a Olmedo López y Snyder Pinilla como presuntos 'funcionarios ladrones' según la Fiscalía, y enmarca la corrupción política colombiana como fenómeno estructural; aporta el contraste entre corrupción abierta y 'gobernabilidad'.",
+              "host": "razonpublica.com",
+              "title": "Gobernabilidad criminal - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/12/Hernando-Gomez-Buendia.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Olmedo_López",
+              "note": "Perfil de Olmedo López: director de la UNGRD 2023-2024, renuncia por el escándalo de carrotanques, declaraciones de Pinilla y negativas de los aludidos; aporta el estatus procesal del segundo mencionado y la posición de los acusados.",
+              "host": "es.wikipedia.org",
+              "title": "Olmedo López - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Olmedo_L%C3%B3pez_Mart%C3%ADnez.jpg/960px-Olmedo_L%C3%B3pez_Mart%C3%ADnez.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.bloomberglinea.com/latinoamerica/colombia/quien-es-olmedo-lopez-el-hombre-que-revelo-irregularidades-del-gobierno-petro-y-la-ungrd/",
+              "note": "Monto de la malversación (46.800 millones de pesos), renuncia de López en 2024, acusaciones sobre sobornos a Name y Calle, y negativa del presidente Petro de que su gobierno 'compra congresistas'; aporta magnitud y contraste de versiones.",
+              "host": "bloomberglinea.com",
+              "title": "¿Quién es Olmedo López, el hombre que reveló irregularidades del gobierno Petro y la UNGRD?",
+              "image": "https://www.bloomberglinea.com/resizer/v2/2SWOA4FSRFDFRL3SAGMCWA3XF4.jpg?auth=0f9f851cf70f8a366f4b9832e7264d4460c1aa714663799da849f74ab8f1a631&width=1200&height=630&quality=80&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/politica/gobierno/quien-es-olmedo-lopez-el-cuestionado-director-de-la-ungrd-859049",
+              "note": "Perfil de Olmedo López en El Tiempo: renuncia el 29 de febrero de 2024 por el escándalo de los 40 carrotanques, sobrecostos y falta de experiencia administrativa; los títulos del portal indican que López aceptó cargos por peculado y fue a juicio; aporta contexto biográfico y procesal (contenido parcialmente accesible tras muro de suscripción).",
+              "host": "eltiempo.com",
+              "title": "Olmedo López: ¿Cómo llegó al gobierno Petro el cuestionado exdirector de la UNGRD?",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/02/26/65dcc205f1ba5.r_d.745-460-0.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "politica",
+          "claim": "Se mencionan los casos de Ricardo Bonilla y Luis Fernando Velasco.",
+          "quote": "por los casos de Ricardo Bonilla y Luis Fernando Velasco",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero incompleto",
+          "color": "lime",
+          "confidence": "media",
+          "summary": "La mención a los casos de Ricardo Bonilla y Luis Fernando Velasco corresponde a hechos reales y documentados: ambos exministros del Gobierno Petro fueron capturados y enviados a prisión preventiva por su presunta participación en el escándalo de corrupción de la UNGRD, imputados por concierto para delinquir, cohecho e interés indebido en la celebración de contratos; posteriormente Bonilla recuperó la libertad por vencimiento de términos por demora de la Fiscalía. El video solo los menciona sin desarrollar, por lo que la afirmación aislada es verificable como existencia de casos, pero la narrativa completa no puede juzgarse con las fuentes disponibles [F2][F3][F4][F5].",
+          "context": "Los exministros de Hacienda (Bonilla) y del Interior (Velasco) fueron capturados el 18 de diciembre de 2025 y enviados a prisión preventiva por la magistrada Aura Alexandra Rosero Baquero del Tribunal de Bogotá, como los exfuncionarios de más alto rango en prisión por el escándalo de la UNGRD. Se les imputó concierto para delinquir, cohecho e interés indebido en la celebración de contratos; la Fiscalía alega que lideraron una organización criminal que entre 2023 y 2024 habría destinado más de $612.000 millones a comprar apoyos legislativos mediante contratos y proyectos, incluyendo tres proyectos de Invías por 89 mil millones de pesos vinculados con el senador Julio Changüí [F2][F3]. El 7 de abril de 2026 el Tribunal Superior de Bogotá dejó en libertad a Bonilla por vencimiento de términos, al no presentar la Fiscalía el escrito de acusación dentro del plazo de 120 días desde la imputación; la Comisión Nacional de Disciplina Judicial abrió actuación disciplinaria contra los fiscales por esa demora. El proceso penal continúa y la Fiscalía anunció llevar el caso a juicio [F3][F4][F5].",
+          "progressivePerspective": "En el marco de los principios de verdad, justicia, reparación y no repeticion, la mención de estos casos, sin más, no permite determinar si abona al esclarecimiento de la verdad o si por el contrario se usa para revictimizar, justificar o minimizar hechos: el video solo cita los nombres sin exponer el contenido [F2]. Lo que las fuentes sí muestran es que el caso UNGRD es el mayor escándalo de corrupción del Gobierno de Gustavo Petro y que involucra a exministros, expresidentes de cámara y senado, y congresistas, con procesos penales en curso [F2][F3]. Desde la garantía de no repeticion y la rendición de cuentas, cualquier mención de estos casos debería acompañarse del reconocimiento de las responsabilidades atribuidas y del estado real de los procesos, incluyendo tanto los avances (imputaciones, prisión preventiva de altos funcionarios) como los retrocesos procesales (libertad de Bonilla por fallas de la Fiscalía, que derivó en investigación disciplinaria de los propios fiscales) [F3][F4][F5]. No es un caso de la JEP ni del conflicto armado, sino de corrupción administrativa ordinaria, por lo que aplica el sistema penal acusatorio estándar y sus garantías procesales [F4].",
+          "whatTheyOmit": "El fragmento disponible solo contiene la cita 'por los casos de Ricardo Bonilla y Luis Fernando Velasco', sin desarrollar qué se afirma sobre ellos; no se puede determinar qué omisión concreta comete el video con las fuentes entregadas. Lo que las fuentes permiten señalar como contexto que podría quedar fuera de una mención breve: 1) Bonilla fue puesto en libertad no por absolución sino por vencimiento de términos imputable a fallas de la Fiscalía, y el proceso penal continúa [F3][F4][F5]; 2) la Comisión Nacional de Disciplina Judicial investiga disciplinariamente a los fiscales por la demora [F5]; 3) el caso involucra a múltiples congresistas y exfuncionarios, no solo a los dos exministros mencionados [F2][F3].",
+          "keyFacts": [
+            "Los exministros Ricardo Bonilla (Hacienda) y Luis Fernando Velasco (Interior) fueron capturados y enviados a prisión preventiva por su participación en el escándalo de la UNGRD [F2][F3]",
+            "Los delitos imputados son concierto para delinquir, cohecho e interés indebido en la celebración de contratos [F2][F3][F4]",
+            "La Fiscalía acusa que entre 2023 y 2024 habrían destinado más de $612.000 millones para comprar apoyos legislativos mediante contratos [F3]",
+            "Bonilla recuperó la libertad el 7 de abril de 2026 por vencimiento de términos, al no presentarse el escrito de acusación dentro de los 120 días desde la imputación [F3][F4]",
+            "La Comisión Nacional de Disciplina Judicial abrió actuación disciplinaria contra los fiscales delegados ante la Corte Suprema por la demora en la acusación [F5]",
+            "El proceso penal contra ambos continúa y la Fiscalía anunció llevar el caso a juicio [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/author/ricardob/",
+              "note": "Página de autor de Ricardo Bonilla en Razón Pública; solo confirma su existencia como autor, no aporta datos del caso penal.",
+              "host": "razonpublica.com",
+              "title": "Ricardo Bonilla, autor en Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2009/09/Ricardo_Bonilla_Gonzalez.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/a-la-carcel-exministros-bonilla-y-velasco-por-caso-ungrd/",
+              "note": "Detalla la prisión preventiva de ambos exministros, los delitos, los proyectos de Invías por 89 mil millones, los congresistas involucrados y el contexto del proceso.",
+              "host": "lasillavacia.com",
+              "title": "A la cárcel exministros Bonilla y Velasco por caso Ungrd",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/11/Bonilla_Velasco-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://caracol.com.co/2026/04/08/que-hizo-el-exministro-de-hacienda-ricardo-bonilla-razon-de-captura-en-2025-y-delitos-imputados/",
+              "note": "Confirma captura el 18 de diciembre de 2025, delitos imputados, cifra de $612.000 millones, y posterior libertad de Bonilla por vencimiento de términos el 7 de abril de 2026.",
+              "host": "caracol.com.co",
+              "title": "Qué hizo el exministro de Hacienda Ricardo Bonilla: razón de captura en 2025 y delitos imputados",
+              "image": "https://caracol.com.co/resizer/v2/NHZ2OJEMY5B6RLKTIZBMAO2GQA.jpg?auth=42e4a364f949c2c5258f4c22561f4078f43aca3ced331fc2dd37297da6dc9d2c&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.eltiempo.com/justicia/delitos/las-demoras-de-la-fiscalia-en-la-acusacion-contra-el-exministro-ricardo-bonilla-que-llevaron-a-su-libertad-por-decision-del-tribunal-3546150",
+              "note": "Explica el vencimiento de términos, la interpretación de la magistrada Isabel Álvarez Fernández y que la libertad no implica terminación del proceso ni debilitamiento de la hipótesis fiscal.",
+              "host": "eltiempo.com",
+              "title": "Las demoras de la Fiscalía en la acusación contra el exministro Ricardo Bonilla que llevaron a su libertad por decisión del Tribunal",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/12/01/692da4ff3fca4.r_d.655-277-0.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.portafolio.co/economia/gobierno/ordenan-investigacion-judicial-a-fiscales-por-fallas-procesales-que-dejaron-libre-a-ricardo-bonilla-exminhacienda-491670",
+              "note": "Confirma la actuación disciplinaria de la Comisión Nacional de Disciplina Judicial contra los fiscales por la demora en el escrito de acusación.",
+              "host": "portafolio.co",
+              "title": "Ordenan investigación judicial a fiscales por fallas procesales que dejaron libre a exminhacienda Ricardo Bonilla",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/04/09/69d7c6616fbd0.r_d.332-283-0.png"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "seguridad",
+          "claim": "Se afirma que Carlos Ramón González está refugiado en Nicaragua y es prófugo.",
+          "quote": "por Carlos Ramón González, refugiado en Nicaragua, prófugo",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero a medias",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "Carlos Ramón González, exdirector del Dapre, obtuvo asilo en Nicaragua en agosto de 2025 y sigue prófugo de la justicia colombiana: la orden de captura dictada el 3 de julio de 2025 fue confirmada y prorrogada por un año, y pesa contra él una circular roja de Interpol. Ambos elementos de la afirmación quedan respaldados por las fuentes [F2][F3][F5].",
+          "context": "González llegó a Nicaragua desde 2024 y obtuvo residencia en mayo de 2025, cuando ya estaba imputado; salió del país en noviembre de 2024, antes de la imputación formal por peculado, cohecho y lavado de activos [F2][F3]. La medida de aseguramiento en centro carcelario se impuso el 3 de julio de 2025, fue ratificada por la Corte Suprema en octubre tras rechazar una tutela suya, y el Tribunal Superior de Bogotá la prorrogó por un año más a solicitud de la Fiscalía [F3][F5]. El 20 de agosto de 2025 Nicaragua rechazó la solicitud de extradición al otorgarle asilo, lo que el gobierno colombiano calificó de 'inamistoso y agresivo'; la Fiscalía tramita una circular roja de Interpol [F2][F4]. Se le atribuye haber ordenado el pago de 4.000 millones de pesos a los expresidentes del Senado y de la Cámara, Iván Name y Andrés Calle, en el marco del escándalo de corrupción de la UNGRD; la Fiscalía precisa 3.000 millones para Name y 1.000 millones para Calle [F5]. Su abogado sostiene que es un perseguido político, mientras la Fiscalía lo califica de prófugo; en audiencia González afirmó su inocencia y denunció una incriminación política basada en un testimonio [F3].",
+          "progressivePerspective": "La afirmación es un dato verificable que abona al esclarecimiento de la verdad y a la no impunidad: identifica a un presunto máximo responsable de graves delitos de corrupción que afectaron recursos destinados a gestión del riesgo de desastres, precisamente bienes públicos vinculados a población vulnerable. Documentar que un exalto funcionario opera bajo asilo mientras pesan orden de captura, prórroga judicial y circular roja de Interpol es compatible con los fines de verdad, justicia y no repeticion, al poner de relieve los mecanismos mediante los cuales se evade el deber de acatar las medidas judiciales [F3][F5]. El propio Tribunal Superior advirtió que usar solicitudes de asilo para eludir las órdenes judiciales pone a prueba el Estado de derecho [F3]. Ese mismo marco obliga a sostener dos precisiones: la afirmación de prófugo es la postura de la Fiscalía, no una sentencia condenatoria, y existe una contraparte —el asilo otorgado por Nicaragua y la versión de persecución política del defensor— que debe ser escuchada, porque la presunción de inocencia forma parte del derecho al debido proceso que la justicia restaurativa también respeta [F2][F3]. Sobre el tema, la única fuente que trata directamente el diferendo Colombia-Nicaragua muestra que los canales de solución pacífica entre ambos Estados están agotados y que queda el diálogo, lo que contextualiza la dimensión diplomática del rechazo a la extradición [F1].",
+          "whatTheyOmit": "La cita no explicita las calidades jurídicas de la situación: que Nicaragua le concedió asilo político (no simplemente 'refugio'), que la orden de captura aún no se ha materializado porque la medida no se ha hecho efectiva, y que hasta ahora hay imputación y acusación, no condena; también omite que su abogado alega persecución política y que González sostiene su inocencia frente a lo que califica como incriminación con base en un solo testimonio [F2][F3]. Tampoco se mencionan los delitos concretos (cohecho, peculado y lavado de activos), el monto atribuido ni el nexo con el escándalo de la UNGRD, lo que priva a la audiencia de la magnitud real de los hechos [F3][F5].",
+          "keyFacts": [
+            "La Cancillería de Nicaragua confirmó a Colombia que Carlos Ramón González está asilado en ese país, lo que dio por rechazada la solicitud de extradición formulada tres días antes [F2]",
+            "Está prófugo de la justicia colombiana desde julio de 2025, cuando un juez ordenó su captura; está imputado por cohecho, peculado, apropiación y lavado de activos [F2]",
+            "Llegó a Nicaragua desde 2024 y recibió residencia en mayo de 2025, cuando ya estaba imputado; salió del país en noviembre de 2024, antes de la imputación formal [F2][F3]",
+            "El Tribunal Superior de Bogotá prorrogó por un año la medida de aseguramiento en centro carcelario impuesta desde el 3 de julio de 2025, que no se ha materializado por su asilo en Nicaragua [F3]",
+            "La orden de captura fue confirmada por la Sala Penal del Tribunal Superior de Bogotá y ratificada por la Corte Suprema en octubre de 2025 al rechazar una tutela suya [F5]",
+            "Pesaba contra él una circular roja de Interpol, cuya solicitud la Fiscalía formuló en junio de 2025 [F2][F4]",
+            "Se le atribuye haber instruido al exdirector de la UNGRD, Olmedo López, el pago de 4.000 millones de pesos a los entonces presidentes del Congreso, Iván Name y Andrés Calle [F5]",
+            "Fue director del Dapre y de la DNI, y hasta febrero de 2024 fue financiador y presidente del partido Alianza Verde [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/nicaragua-colombia-tras-fallo-la-corte-internacional/",
+              "note": "Contexto del diferendo Colombia-Nicaragua ante la CIJ y de la vía del diálogo; no trata el caso de Carlos Ramón González, por lo que solo aporta el marco de la relación bilateral tras el rechazo a la extradición.",
+              "host": "razonpublica.com",
+              "title": "Nicaragua y Colombia tras el fallo de la Corte Internacional",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/07/San-Andres-Nicaragua-Colombia-Manuel-Rayran.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/nicaragua-le-otorgo-asilo-a-carlos-ramon-gonzalez/",
+              "note": "Fuente central: confirma asilo en Nicaragua, rechazo de la extradición, condición de prófugo desde julio, imputación, residencia previa y circular roja de Interpol en trámite.",
+              "host": "lasillavacia.com",
+              "title": "Nicaragua le otorgó asilo a Carlos Ramón González",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/05/Carlos-Ramon-Gonzalez.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://cambiocolombia.com/justicia/articulo/2026/6/carlos-ramon-gonzalez-profugo-o-perseguido-politico-prorrogan-la-orden-de-captura-en-su-contra",
+              "note": "Aporta la prórroga de la medida de aseguramiento, la posición de la Fiscalía y la contraparte del defensor (perseguido político) y la declaración de inocencia de González.",
+              "host": "cambiocolombia.com",
+              "title": "Caso UNGRD: Tribunal prorroga la medida de aseguramiento dictada contra Carlos Ramón González",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/article_24778_main_20260519172832_ccc482fc56_full-width.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.semana.com/confidenciales/articulo/carlos-ramon-gonzalez-profugo-de-la-justicia-vive-comodo-y-tranquilamente-en-managua-bajo-la-proteccion-del-regimen-de-daniel-ortega/202514/",
+              "note": "Describe su vida en Managua bajo protección del régimen de Ortega y confirma la circular roja de Interpol.",
+              "host": "semana.com",
+              "title": "Carlos Ramón González, prófugo de la justicia, vive cómodo y tranquilamente en Managua, bajo la protección del régimen de Daniel Ortega",
+              "image": "https://www.semana.com/resizer/v2/XYSM4GSEOVACPEZXUMRFVJPAGQ.jpg?auth=b55e785c370b88e95ea2ba7608a04f07edd2eeebfa1d0831087180455e60cf11&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elespectador.com/judicial/carlos-ramon-gonzalez-profugo-de-la-justicia-colombiana-reaparecio-en-fiesta-en-nicaragua/",
+              "note": "Detalla la línea de tiempo de la orden de captura, su ratificación por la Corte Suprema, los delitos y las cifras atribuidas por la Fiscalía, además de su aparición pública en Nicaragua.",
+              "host": "elespectador.com",
+              "title": "Carlos Ramón González, prófugo de la justicia colombiana, reapareció en fiesta en Nicaragua",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/GFV6QCSZ2FH4HBY67JBR6ELQ34.jpg?resize=1200,630"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "politica",
+          "claim": "Se señala que hay denuncias de chusadas y seguimientos a opositores.",
+          "quote": "por las denuncias de chusadas y seguimientos a opositores",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Efectivamente existen denuncias formales y periodísticas de 'chuzadas' (interceptaciones ilegales) y de seguimientos a opositores: la JEP, la Corte Constitucional, la Fiscalía y la Procuraduría han recibido o abierto trámites al respecto, y una auditoría forense de la DNI reportada por Semana menciona escuchas, seguimientos y búsquedas en bases de datos a figuras de la oposición [F2][F3][F4][F5]. La formulación es correcta en lo que afirma (denuncias), aunque conviene precisar que se trata de denuncias e investigaciones presuntas, no de hechos aún probados judicialmente.",
+          "context": "Las denuncias actuales provienen de varias instancias: los magistrados de la Corte Constitucional denunciaron ante la fiscal general presuntas interceptaciones contra el magistrado Jorge Enrique Ibáñez; la JEP pidió investigar presuntas chuzadas contra sus magistrados; la Procuraduría abrió indagación preliminar a cargo del procurador Esiquio Manuel Sánchez; la Fiscalía abrió investigaciones y Presidencia investigó internamente a la Secretaría de Prensa y a la Dirección de Tecnologías de Palacio [F2]. El expresidente Duque denunció ante Semana el uso de inteligencia para perseguir y buscar información financiera de opositores, y el director de Inteligencia Carlos Ramón González negó una supuesta 'Operación Orión' contra opositores en un debate de control político [F2]. La auditoría forense ordenada por el gobierno de Abelardo de la Espriella a la DNI habría recabado 147 terabytes de información, 40 equipos y 5 celulares/tabletas, con testimonios de cerca del 20% de los más de 500 funcionarios [F4][F5]. Entre los presuntos afectados figuran el exfiscal Francisco Barbosa y la vicefiscal Martha Mancera, el excontralor Carlos Felipe Córdoba, la exprocuradora Margarita Cabello, los generales retirados Zapateiro, Navarro y Vargas, los expresidentes Uribe y Duque, María Fernanda Cabal, Paloma Valencia, el senador Miguel Uribe Turbay, Ramiro Bejarano y Vicky Dávila [F3][F4][F5]. El abogado de la familia de Miguel Uribe Turbay anunció que pedirá a la Fiscalía una investigación penal para establecer quién ordenó y ejecutó esas actuaciones [F4]. Existe además un precedente histórico de 'chuzadas' atribuidas al Estado: las del DAS durante el gobierno Uribe (interceptaciones a magistrados, periodistas y la exrepresentante Yidis Medina, con procesos que prescribieron o estuvieron por precluyr) y las del Ejército ('Operación Andrómeda' contra los negociadores de La Habana, con seis condenados de bajo rango, y más de 130 perfilamientos de civiles, opositores, periodistas, defensores de DD.HH. y sindicalistas) [F1][F2].",
+          "progressivePerspective": "En el marco de la verdad, la justicia, la la reparación y la no repetición, el hecho de que existan denuncias de chuzadas y seguimientos a opositores es información que abona al esclarecimiento de la verdad siempre que se verifique en el debido proceso y no se utilice para neutralizar críticas legítimas ni para revictimizar a quienes denuncian. El patrón histórico muestra que las 'chuzadas' se han repetido a lo largo de gobiernos distintos con un mismo rasgo: la impunidad de la cadena de mando. En el caso DAS los procesos prescribieron tras doce años y en 'Andrómeda' las condenas recayeron 'exclusivamente sobre mayores y cabos' sin dilucidar a quién iba la información [F1]; en los perfilamientos militares de 2020 se desconoce aún la información solicitada por tutela ni los responsables judiciales [F1]. Desde una lógica de no repeticion, esto obliga a exigir investigaciones que identifiquen a los máximos responsables y no se detengan en ejecutores de bajo rango, así como garantías de independencia judicial y de protección a periodistas y opositores. Las denuncias actuales están en etapa de indagación, auditoría y solicitud de investigación penal [F2][F4], por lo que la afirmación es válida como señalamiento de denuncias pendientes de esclarecimiento, no como hecho consumado ni como veredicto sobre un gobierno específico; el riesgo de no repeticion se reduce en la medida en que las instituciones (Fiscalía, Procuraduría, JEP, controles políticos) mantengan la exigencia de verdad y sanción propias [F2][F4].",
+          "whatTheyOmit": "El video no precisa que se trata de denuncias e investigaciones presuntas —no de hechos judicialmente probados—, ni distingue entre la etapa actual (auditoría forense de la DNI, indagación preliminar de la Procuraduría, investigaciones de la Fiscalía y Presidencia, y una petición de investigación penal aún por presentarse) y sentencias firmes [F2][F4][F5]. Tampoco aporta el dato de que el director de Inteligencia negó en control político una supuesta 'Operación Orión' contra opositores [F2], ni que el propio gobierno atribuyó la denuncia a la oposición radical, contexto que las fuentes registran como parte del disputa política [F2]. Adicionalmente, omite el precedente de chuzadas de administraciones anteriores (DAS bajo Uribe, Ejército con 'Andrómeda' y perfilamientos de 2020), que muestra que el problema trasciende a un solo gobierno y que su característica constante ha sido la impunidad de altos responsables [F1][F2].",
+          "keyFacts": [
+            "Los magistrados de la Corte Constitucional denunciaron a la fiscal general presuntas interceptaciones ilegales contra el magistrado Jorge Enrique Ibáñez, y la JEP pidió investigar presuntas chuzadas contra sus magistrados [F2]",
+            "La Procuraduría abrió indagación preliminar (cargo del procurador Esiquio Manuel Sánchez), la Fiscalía inició investigaciones y Presidencia abrió una investigación interna a la Secretaría de Prensa y la Dirección de Tecnologías de Palacio [F2]",
+            "Una auditoría forense de la DNI habría detectado escuchas, seguimientos y búsquedas selectivas en bases de datos a figuras de la oposición durante el gobierno Petro, incluyendo al exfiscal Francisco Barbosa y a la vicefiscal Martha Mancera [F3][F5]",
+            "El listado de presuntos opositores afectados incluye a Uribe, Duque, Cabello, Córdoba, los generales Zapateiro, Navarro y Vargas, Cabal, Paloma Valencia, Miguel Uribe Turbay, Bejarano y Vicky Dávila [F3][F4][F5]",
+            "El abogado de la familia de Miguel Uribe Turbay anunció que pedirá a la Fiscalía una investigación penal y la preservación de pruebas (órdenes de trabajo, interceptaciones, informes de inteligencia) [F4]",
+            "La auditoría forense habría recabado 147 terabytes de información, 40 equipos de cómputo y 5 celulares/tabletas bajo cadena de custodia, con testimonios de cerca del 20% de los más de 500 funcionarios de la DNI [F4][F5]",
+            "Existe precedente de chuzadas del DAS durante el gobierno Uribe, con procesos que prescribieron tras doce años, y del Ejército: seis condenados de bajo rango en 'Andrómeda' y más de 130 perfilamientos de civiles, opositores, periodistas y sindicalistas [F1]",
+            "El exfiscal Barbosa presentó denuncia penal por presunto espionaje contra él y su familia, calificándolo de vulneración de derechos humanos y posible punta de un iceberg mayor [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/las-chuzadas-van-quedando-impunes/",
+              "note": "Antecedentes históricos de chuzadas: procesos del DAS que prescribieron, 'Operación Andrómeda' con seis condenados de bajo rango y más de 130 perfilamientos del Ejército a civiles, opositores, periodistas y sindicalistas; documenta el patrón de impunidad de altos mandos.",
+              "host": "razonpublica.com",
+              "title": "Las “chuzadas” van quedando impunes - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2021/03/chuzadas-militares-periodistas-hacker-seguridad-militar-ivan-gaitan.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/procuraduria-abre-indagacion-preliminar-por-presuntas-chuzadas/",
+              "note": "Denuncias de chuzadas en la Corte Constitucional y la JEP, apertura de indagación por la Procuraduría, investigaciones de Fiscalía y Presidencia, y el negativo del director de Inteligencia sobre la supuesta 'Operación Orión' a opositores; aporta el contexto de disputa política en torno a las denuncias.",
+              "host": "lasillavacia.com",
+              "title": "Procuraduría abre indagación preliminar por presuntas chuzadas",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/02/Procuraduria.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elpais.com.co/colombia/denuncian-presuntos-seguimientos-de-la-dni-a-opositores-del-gobierno-petro-estos-son-los-nombres-registrados-en-la-denuncia-0300.html",
+              "note": "Detalle de la auditoría forense de la DNI: escuchas, seguimientos y búsquedas en bases de datos a Barbosa y Mancera, y listado de opositores presuntamente vigilados.",
+              "host": "elpais.com.co",
+              "title": "Gobierno Petro habría intervenido en comunicaciones de destacados opositores",
+              "image": "https://www.elpais.com.co/resizer/v2/RIYPHYNADZBSRIJKHJ22LPLKFI.png?auth=0ca0b61fcff71bcbd55cc36eef6c557dfe7d665e64a984c748bb71cba26ab779&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.colombia.com/actualidad/nacionales/gobierno-petro-en-la-mira-por-presuntas-chuzadas-a-miguel-uribe-pediran-investigacion-penal-605606",
+              "note": "Anuncio de solicitud de investigación penal por la familia de Miguel Uribe Turbay; cifras de la auditoría (147 terabytes, 40 equipos) y objetivo de establecer la cadena de decisiones.",
+              "host": "colombia.com",
+              "title": "Gobierno Petro en la mira por presuntas ‘chuzadas’ a Miguel Uribe: pedirán investigación penal",
+              "image": "https://cdn.colombia.com/sdi/2026/10/04/gobierno-petro-en-la-mira-por-presuntas-chuzadas-a-miguel-uribe-pediran-investigacion-penal-1360945.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/exfiscal-francisco-barbosa-denuncia-presunto-espionaje-gobierno-petro-FP41936120",
+              "note": "Denuncia penal del exfiscal Barbosa por presunto espionaje, material bajo cadena de custodia y colaboración del 20% de los funcionarios de la DNI; confirma el carácter presunto de los hechos.",
+              "host": "elcolombiano.com",
+              "title": "Exfiscal Francisco Barbosa denuncia presunto espionaje durante gobierno Petro: âhubo persecuciÃ³nâ",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c0/1280d720/none/11101/IUHU/exfiscal-francisco-barbosa_51805014_20261005140615.jpg"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "politica",
+          "claim": "Se afirma que hubo un intento de obtener el censo (senso) electoral.",
+          "quote": "por el intento de obtener el senso electoral",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes confirman que el censo electoral es una base de datos real administrada por la Registraduría [F4], pero ninguna de ellas documenta un 'intento de obtener el censo electoral'; no existe respaldo en el material entregado para esa afirmación [F4][F1][F2][F3].",
+          "context": "El censo electoral colombiano es la nómina oficial de ciudadanos habilitados para votar, consultable en el visor del Observatorio Electoral de la Registraduría, que publica datos desde 2018 sobre inscritos dentro y fuera del país [F4]. Por otro lado, el antecedente judicialmente confirmado de manipulación electoral en Colombia es otro: la sentencia de la Sección Quinta del Consejo de Estado que halló que en 2014 el software de escrutinio fue manipulado, con inconsistencias en más de 15.355 mesas y la recuperación de cerca de 33.000 votos del partido MIRA [F1]. Ese fallo se refiere a la alteración de resultados de escrutinio (E14/E24), no a un intento de apoderarse del censo electoral [F1]. También existe en el país un fenómeno documentado de cadenas falsas que suplantan entidades de censo, como la falsa alerta sobre un supuesto 'Instituto Nacional de Estadísticas y Censos' —entidad inexistente en Colombia, donde los censos los hace el DANE— [F2][F3].",
+          "progressivePerspective": "En materia de transparencia electoral, la verificación de afirmaciones cobra un valor directo: la única manipulación electoral respaldada judicialmente en las fuentes es el sabotaje al software de escrutinio de 2014, confirmado por el Consejo de Estado [F1], y ese precedente exige precisión en el lenguaje, porque confundir 'escrutinio' con 'censo electoral' diluye tanto la responsabilidad establecida en la sentencia como la capacidad de exigir garantías efectivas para 2026 [F1]. Sostener que existe un 'intento de obtener el censo electoral' sin fuente que lo acredite, en un contexto donde ya circulan cadenas falsas sobre censo [F2], puede erosionar la confianza ciudadana en lugar de fortalecerla; una afirmación sin evidencia no abona a la verdad verificable ni a la rendición de cuentas, y su difusión debería acompañarse de la fuente que la sustente o diferenciarse explícitamente como interpretación personal.",
+          "whatTheyOmit": "El video no aporta —y las fuentes no contienen— ninguna evidencia, investigación, denuncia o decisión que detalle quién, cuándo o cómo habría intentado 'obtener' el censo electoral; tampoco precisa si se refiere a acceder a los datos, alterarlos o suplantar a la entidad responsable [F4][F2]. Se omite también que el caso electoral judicialmente probado corresponde al sabotaje del software de escrutinio de 2014, con fallo del Consejo de Estado [F1], y que en Colombia existe un historial de cadenas falsas sobre censos que usan nombres de entidades inexistentes [F2][F3].",
+          "keyFacts": [
+            "Existe un 'censo electoral' oficial consultable en el visor del Observatorio Electoral de la Registraduría, con datos desde 2018 sobre ciudadanos habilitados para votar dentro y fuera del país [F4]",
+            "Ninguna de las fuentes entregadas documenta un 'intento de obtener el censo electoral' [F4][F1][F2][F3]",
+            "El Consejo de Estado confirmó que en 2014 el software de escrutinio fue manipulado, con inconsistencias en más de 15.355 mesas y recuperación de cerca de 33.000 votos, lo que permitió al partido MIRA superar el umbral y recuperar tres curules [F1]",
+            "El fraude de 2014 se materializó en la discrepancia entre los formularios E14 de mesa y los E24 consolidados por el software de la Registraduría, no en el censo electoral [F1]",
+            "Circulan cadenas falsas en Colombia sobre personas que supuestamente suplantan a entidades de censo; la entidad que hace los censos en el país es el DANE, no un 'Instituto Nacional de Estadísticas y Censos' [F2][F3]",
+            "La Dirección de Censos y Demografía del DANE es la unidad encargada de diseñar y ejecutar las operaciones de censo y demografía del país [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/soberania-electoral-vilo-las-cifras-del-sabotaje-cambiaron-la-historia-del-senado/",
+              "note": "Aporta el antecedente judicialmente confirmado de manipulación electoral: sentencia del Consejo de Estado sobre el sabotaje al software de escrutinio en 2014 (más de 15.355 mesas, ~33.000 votos recuperados). Sirve de contraste: el fraude probado se refiere al escrutinio (E14/E24), no a un intento de obtener el censo electoral.",
+              "host": "razonpublica.com",
+              "title": "Soberanía electoral en vilo: las cifras del sabotaje que cambiaron la historia del Senado",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/03/Escrutinio.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/alerta-de-personas-que-suplantan-al-instituto-nacional-de-estadistica-es-falsa/",
+              "note": "Verificación de una cadena falsa sobre personas que supuestamente suplantan a una entidad de censo inexistente en Colombia; documenta el contexto de desinformación sobre censos y confirma que los censos los hace el DANE.",
+              "host": "lasillavacia.com",
+              "title": "Alerta de personas que suplantan al Instituto Nacional de Estadística es falsa",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/07/Dane.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/acerca-del-dane/informacion-institucional/organigrama/direccion-de-censos-y-demografia",
+              "note": "Confirma que en Colombia la entidad encargada de censos y demografía es el DANE, a través de su Dirección de Censos y Demografía; no menciona ningún intento de acceso indebido al censo.",
+              "host": "dane.gov.co",
+              "title": "Dirección de Censos y Demografía",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://observatorio.registraduria.gov.co/views/electoral/censo.php",
+              "note": "Demuestra que el censo electoral existe como base de datos oficial de la Registraduría (ciudadanos habilitados para votar, datos desde 2018), pero no da cuenta de ningún intento de obtenerlo.",
+              "host": "observatorio.registraduria.gov.co",
+              "title": "Registraduría Nacional del Estado Civil - Observatorio",
+              "image": "https://www.registraduria.gov.co/IMG/jpg/og-rnec-1.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Jaime_Garzón",
+              "note": "Referencia biográfica sobre Jaime Garzón (asesinado en 1999, caso declarado lesa humanidad por la Fiscalía en 2016); no contiene información sobre el censo electoral ni sobre intentos de obtenerlo.",
+              "host": "es.wikipedia.org",
+              "title": "Jaime Garzón - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ilustraci%C3%B3n_de_Jaime_Garz%C3%B3n.JPG/1280px-Ilustraci%C3%B3n_de_Jaime_Garz%C3%B3n.JPG?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "seguridad",
+          "claim": "Se afirma que el helicóptero no tripulado de la DNA quedó sinestrado.",
+          "quote": "por el helicóptero no tripulado de la DNA y sinestrado",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes respalda la existencia de un helicóptero no tripulado de la DNA que haya quedado sinestrado; los incidentes de helicópteros documentados en las fuentes corresponden a aeronaves tripuladas de la Policía Nacional [F2][F4][F5].",
+          "context": "El incidente de helicóptero más grave documentado en las fuentes es el del 21 de agosto de 2025 en Amalfi, Antioquia: un Black Hawk PNC-0634 de la Policía Nacional, que transportaba 17 uniformados (5 de tripulación y 12 del CANCI-PECAT 17, unidad de la Dirección Antinarcóticos) para labores de erradicación de cultivos ilícitos, fue impactado por un artefacto explosivo durante el aterrizaje; murieron 13 personas y 4 sobrevivieron, y las autoridades atribuyen el ataque al Frente 36 de las disidencias de las FARC-EP [F2]. También se documentan otros dos siniestros de aeronaves tripuladas de la Policía: el accidente del Black Hawk PNC 0614 en Caramanta, Antioquia, el 22 de febrero de 2024, que dejó cuatro uniformados muertos [F4][F5], y un accidente de helicóptero militar en Pasaquina, El Salvador, en 2024, con nueve fallecidos [F3]. Ninguna fuente menciona un helicóptero no tripulado de la DNA ni su destrucción.",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, la verificación exige precisión en la identificación de las aeronaves, las unidades y las circunstancias de cada hecho: el derribo del Black Hawk de Amalfi causó 13 muertes y las autoridades lo atribuyeron a un grupo armado [F2], un hecho que, correctamente descrito, sí aporta al esclarecimiento de responsabilidades. Atribuir el hecho a un 'helicóptero no tripulado de la DNA' introduce una imprecisión sobre la naturaleza de la aeronave y la entidad operadora —era una aeronave tripulada de la Policía Nacional con personal del CANCI-PECAT de la Dirección Antinarcóticos [F2]— que puede distorsionar la reconstrucción de lo ocurrido y alejarse del estándar de exactitud que exige el registro verificable de los hechos [F2].",
+          "whatTheyOmit": "El video no aporta, y las fuentes no contienen, evidencia de un helicóptero no tripulado: las aeronaves involucradas en los incidentes documentados eran tripuladas (Black Hawk con 5 tripulantes y 12 pasajeros en Amalfi [F2]; Black Hawk con cuatro uniformados en Caramanta [F4][F5]). Tampoco se identifica en las fuentes una entidad denominada 'DNA'; la unidad mencionada es la Dirección Antinarcóticos a través del CANCI-PECAT 17 [F2]. La fuente [F1] trata sobre violencia de género y es ajena al tema; [F3] corresponde a un accidente en El Salvador, no a Colombia.",
+          "keyFacts": [
+            "El 21 de agosto de 2025 un Black Hawk de la Policía Nacional (PNC-0634) fue impactado por un artefacto explosivo en la vereda Los Toros, Amalfi, Antioquia, durante operaciones de erradicación de cultivos ilícitos; murieron 13 personas [F2]",
+            "La aeronave derribada era tripulada: 5 miembros de tripulación (2 pilotos y 3 técnicos) y 12 integrantes del CANCI-PECAT 17 de la Dirección Antinarcóticos; hubo 4 supervivientes [F2]",
+            "Las autoridades atribuyeron el ataque al Frente 36 de las disidencias de las FARC-EP [F2]",
+            "El 22 de febrero de 2024 un Black Hawk PNC 0614 de la Policía se estrelló en Caramanta, Antioquia, con cuatro uniformados muertos [F4][F5]",
+            "Ninguna fuente documenta un helicóptero no tripulado de la DNA siniestrado [F2][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/ni-con-el-petalo-de-una-rosa/",
+              "note": "Artículo sobre violencia de género y el conflicto armado; no contiene información sobre helicópteros ni la DNA; no aporta a la verificación.",
+              "host": "razonpublica.com",
+              "title": "“…ni con el pétalo de una rosa” - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2012/06/Mario_Figueroa_feminisidios1.gif"
+            },
+            {
+              "ref": "F2",
+              "url": "https://es.wikipedia.org/wiki/Derribo_del_Black_Hawk_de_la_Policía_Nacional_de_Colombia_de_2025",
+              "note": "Documenta el derribo del Black Hawk tripulado de la Policía en Amalfi (21 ago 2025), 13 muertos, unidad CANCI-PECAT 17 de la Dirección Antinarcóticos; fuente central de contraste: la aeronave era tripulada, no no tripulada.",
+              "host": "es.wikipedia.org",
+              "title": "Derribo del Black Hawk de la Policía Nacional de Colombia de 2025 - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Servicio_A%C3%A9reo_de_la_Polic%C3%ADa_Nacional_de_Colombia_%286069839930%29.jpg/1280px-Servicio_A%C3%A9reo_de_la_Polic%C3%ADa_Nacional_de_Colombia_%286069839930%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eldiariodehoy.com/fotogalerias/caso-cosavi-a-dos-anos-del-accidente-aereo-en-el-que-murio-la-cupula-policial/92690/2026/",
+              "note": "Accidente de helicóptero en El Salvador (2024) con la cúpula policial hondureña/salvadoreña; hecho ajeno al caso colombiano revisado.",
+              "host": "eldiariodehoy.com",
+              "title": "A dos años del accidente donde murió la cúpula policial",
+              "image": "https://cdn-pro.eldiariodehoy.com/wp-content/uploads/2026/09/accidente-helicoptero-caso-cosavi-13.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://colombia.as.com/actualidad/accidente-de-helicoptero-de-la-policia-en-antioquia-donde-fue-victimas-y-que-se-sabe-n/",
+              "note": "Accidente del Black Hawk PNC 0614 en Caramanta, Antioquia (22 feb 2024), cuatro muertos; aeronave tripulada.",
+              "host": "colombia.as.com",
+              "title": "Accidente de helicóptero de la Policía en Antioquia: ¿Dónde fue, víctimas y qué se sabe?",
+              "image": "https://img.asmedia.epimg.net/resizer/v2/UTFV4OD5RFFZ3IWQNFDHMFMY3I.jpeg?auth=ebaa96a9b38e489e87614490bb6b383f596d377b725147450074ade93145f07c&width=1472&height=828&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.bluradio.com/regiones/antioquia/helicoptero-de-la-policia-desaparecio-en-el-suroeste-de-antioquia-con-4-tripulantes-rg10",
+              "note": "Confirma el mismo accidente de Caramanta con cuatro uniformados a bordo; contrasta con la afirmación de un helicóptero no tripulado.",
+              "host": "bluradio.com",
+              "title": "Helicóptero de la Policía desapareció en el Suroeste de Antioquia con 4 tripulantes",
+              "image": "https://caracoltv.brightspotcdn.com/dims4/default/88aa892/2147483647/strip/true/crop/510x287+0+26/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fbluradio%2Fimagenes_bluradio%2F120875-helicoptero-afp_0.jpg"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "topic": "politica",
+          "claim": "Se menciona el caso de Nicolás Petro.",
+          "quote": "por el caso de Nicolás Petro",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero a medias",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El caso de Nicolás Petro existe y está documentado: el hijo mayor del presidente de Colombia enfrenta procesos penales por enriquecimiento ilícito, lavado de activos y presunta corrupción en contratos con la Gobernación del Atlántico, además de imputaciones adicionales [F1][F2][F3][F4][F5].",
+          "context": "Nicolás Petro, exdiputado del Atlántico e hijo del presidente Gustavo Petro, fue imputado en agosto de 2023 por enriquecimiento ilícito y lavado de activos por recibir cerca de mil millones de pesos de un exnarco (Samuel Santander Lopesierra) y del hijo del contratista Alfonso Hilsaca, dinero que supuestamente debía destinarse a la campaña presidencial de 2022 pero que habría sido usado en lujos e inmuebles [F1][F2]. En noviembre de 2025 se le imputaron nuevos cargos por hechos vinculados a contratos con la Gobernación del Atlántico a través de la Fundación Conciencia Social (Fucoso), por los cuales se habrían pagado 3.000 millones de pesos sin cumplir los objetivos contractuales: tráfico de influencias, peculado por apropiación, falsedad en documento público y privado, e interés indebido en la celebración de contratos [F3][F4][F5]. El proceso ha tenido múltiples cambios de estrategia jurídica de la defensa, incluyendo intentos de colaboración, preacuerdo y actualmente una estrategia de dilatación hasta después de las elecciones de 2026, según fuentes cercanas al litigio [F2]. El caso se encuentra en etapa suspensiva a la espera de que el Tribunal Superior de Barranquilla resuelva más de 800 apelaciones de pruebas [F3]. También se han producido hechos adicionales: el juez Hugo Carbonó Ariza, que lleva el caso, recibió amenazas confirmadas por la Unidad Nacional de Protección [F3].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repeticion, el caso de Nicolás Petro ilustra la dimensión de la corrupción política que erosiona las instituciones democráticas. La afirmación de que existía financiación ilegal de campañas es un tema de interés público: tanto la acusación como las declaraciones del propio Nicolás Petro apuntan a la existencia de dineros de procedencia dudosa en la política [F1][F2]. El proceso judicial, al estar en curso, representa el ejercicio de la justicia institucional; sin embargo, la estrategia de dilatación reportada por fuentes cercanas al litigio plantea interrogantes sobre garantías procesales frente a la no repetición de prácticas de financiación ilegal de campañas [F2]. La dimensión estructural del problema —el sobrecosto de campañas y la anomia descrita por analistas— trasciende el caso individual y remite a la necesidad de reformas para prevenir la repetición [F1]. Este caso no pertenece al conflicto armado ni a la jurisdicción de la JEP, por lo que se enmarca en el sistema ordinario de justicia colombiano.",
+          "whatTheyOmit": "La mención del caso en el video no aporta datos específicos sobre la naturaleza de los cargos, el estado actual del proceso ni las decisiones judiciales que se han adoptado. Las fuentes muestran que el caso involucra múltiples frentes (campaña 2022 y contratos con la Gobernación del Atlántico), que hay más de 800 apelaciones pendientes que retrasan el juicio, que la defensa ha cambiado estrategia varias veces, y que el fiscal anterior fue separado del caso por la Comisión Nacional de Disciplina Judicial por presuntas irregularidades [F2][F3]. También se omite que el caso incluye imputaciones por hechos adicionales que no se limitan a los delitos originales de enriquecimiento ilícito y lavado de activos [F3][F5].",
+          "keyFacts": [
+            "Nicolás Petro fue imputado por enriquecimiento ilícito y lavado de activos por recibir cerca de mil millones de pesos de un exnarco y del hijo de un contratista, dinero supuestamente destinado a la campaña presidencial de 2022 [F2]",
+            "En noviembre de 2025 se le imputaron nuevos cargos: tráfico de influencias, peculado por apropiación, falsedad en documento público y privado, e interés indebido en la celebración de contratos, por hechos vinculados a contratos con la Gobernación del Atlántico a través de la Fundación Fucoso [F3][F5]",
+            "Los contratos con Fucoso alcanzaron 3.000 millones de pesos destinados a labores sociales que presuntamente no se ejecutaron [F4]",
+            "El proceso se encuentra en etapa suspensiva a la espera de que el Tribunal Superior de Barranquilla resuelva más de 800 apelaciones de pruebas presentadas por las partes [F3]",
+            "La defensa ha cambiado de estrategia jurídica en cuatro ocasiones, y fuentes cercanas al litigio señalan que el objetivo actual es evitar una condena antes de las elecciones de 2026, aunque el abogado lo niega [F2]",
+            "El juez que lleva el caso, Hugo Carbonó Ariza, recibió amenazas confirmadas por la Unidad Nacional de Protección [F3]",
+            "El cargo de falso testimonio fue retirado en noviembre de 2025 por considerar que los hechos quedaban mejor encuadrados en falsedad ideológica en documento público [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/nicolas-petro-dinero-la-etica/",
+              "note": "Análisis del caso de Nicolás Petro como reflejo de problemas estructurales de financiación ilegal de campañas y anomia política; identifica los delitos de enriquecimiento ilícito y lavado de activos.",
+              "host": "razonpublica.com",
+              "title": "Nicolás Petro: el dinero contra la ética | Razón Pública 2023",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/08/Nicolas-Gustavo-degradacion-politica-Ricardo-Garcia.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/la-nueva-estrategia-de-nicolas-petro-evitar-una-condena-antes-de-elecciones/",
+              "note": "Detalle de la estrategia jurídica de la defensa, monto de los dineros recibidos (~mil millones de pesos), cambios de abogados y negociaciones con la Fiscalía.",
+              "host": "lasillavacia.com",
+              "title": "La nueva estrategia de Nicolás Petro: evitar una condena antes de elecciones",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2025/07/Npetroyabogado.jpg?fit=1200%2C900&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.lafm.com.co/orden-publico/proceso-de-nicolas-petro-cronologia-casos-mas-sonados-pais-405112",
+              "note": "Cronología completa del proceso: imputaciones, etapa suspensiva, amenazas al juez, salidas de fiscales y más de 800 apelaciones pendientes.",
+              "host": "lafm.com.co",
+              "title": "Nicolás Petro a la espera de la fecha de juicio",
+              "image": "https://files.lafm.com.co/media/news-images/2026/07/16/194843/proceso-de-nicolas-petro-cronologia-casos-mas-sonados-pais-1200x675.webp?w=400&r=1_1"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/fiscalia-imputa-cargos-nicolas-petro-corrupcion-contratos-gobernacion-atlantico-AK28993003",
+              "note": "Imputación por corrupción en contratos con la Gobernación del Atlántico vía Fucoso por 3.000 millones de pesos; penas aplicables a los delitos.",
+              "host": "elcolombiano.com",
+              "title": "FiscalÃa radicÃ³ imputaciÃ³n de cargos a NicolÃ¡s Petro por presunta corrupciÃ³n en contratos con la GobernaciÃ³n del AtlÃ¡ntico",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/WHIC/diseno-sin-titulo-2025-09-06t12390_48720808_20250906123918.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elpais.com.co/judicial/fiscalia-retira-cargo-de-falso-testimonio-a-nicolas-petro-durante-la-reanudacion-de-audiencia-por-caso-de-presunta-corrupcion-2620.html",
+              "note": "Retiro del cargo de falso testimonio y encuadre en falsedad ideológica; relación de cargos vigentes tras audiencia de noviembre 2025.",
+              "host": "elpais.com.co",
+              "title": "Fiscalía retiró cargo por falso testimonio a Nicolas Petro; estos delitos persisten",
+              "image": "https://www.elpais.com.co/resizer/v2/ROLJHONGBZC6ZDEPKYHYSFMUKY.jpg?auth=630292b66e14635fe0e454b5e3e4d5a360d6a1d0e6a21df8c1bbd4860a427e10&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "topic": "politica",
+          "claim": "Se menciona el 'pacto de la picota' como motivo de protesta.",
+          "quote": "o por el pacto de la picota",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero incompleto",
+          "color": "lime",
+          "confidence": "media",
+          "summary": "El 'pacto de la picota' es un término político real y documentado en Colombia, utilizado desde 2022 y reactivado en 2025. El video lo menciona como motivo de referencia o protesta, lo cual es consistente con la existencia del término y su uso público recurrente [F3][F4][F5]. La confianza es media porque solo se dispone de un fragmento breve del video sin el contexto completo de la frase.",
+          "context": "El término 'Pacto de La Picota' surgió en abril de 2022 cuando Federico Gutiérrez y Sergio Fajardo criticaron la visita del hermano de Gustavo Petro a la cárcel La Picota, donde se reunió con el exsenador Iván Moreno Rojas, condenado por corrupción, en el marco de la discusión sobre el 'perdón social' propuesto por Petro [F3][F4]. En julio de 2025, la columna de Alejandro De Bedout en El Colombiano utilizó la denominación 'Pacto de La Picota 2.0' para referirse a un proyecto de ley del gobierno que incluiría beneficios penales para criminales a cambio de no interferir en las elecciones presidenciales de 2026 [F5]. La cárcel La Picota es un centro penitenciario real donde se han recluido figuras públicas, como el excongresista Wadith Manzur por el escándalo de corrupción de la Ungrd [F2].",
+          "progressivePerspective": "El 'pacto de la picota' como concepto tiene dos lecturas políticas contrastantes. Por un lado, sus promotores lo presentan como evidencia de tratos oscuros entre política y delincuencia [F4][F5]. Por otro lado, la propuesta original de Petro sobre 'perdón social' fue descrita por él mismo como 'justicia reparativa' e incluyó la aclaración de que no implicaba impunidad ni liberación de corruptos [F3]. En el marco de verdad, justicia, reparación y no repetición aplicable al contexto colombiano, la discusión sobre tratamientos penales diferenciales para criminales de guerra y corrupción es legítima y necesaria, siempre que no sacrifique la reparación a víctimas ni la rendición de cuentas. La referencia al 'pacto de la picota' como motivo de protesta ciudadana puede abonar a la exigencia de transparencia y rendición de cuentas, pilares de la no repetición [F1].",
+          "whatTheyOmit": "El fragmento disponible no muestra la totalidad del contexto de la frase, por lo que no es posible determinar con certeza si el video presenta el 'pacto de la picota' como un hecho probado o como una acusación política [F3][F4]. Asimismo, no se incluye la defensa de Petro sobre el 'perdón social', donde aclaró que no implica impunidad sino justicia reparativa [F3], ni el detalle específico del proyecto de ley mencionado como 'Pacto de La Picota 2.0' [F5]. Tampoco se aporta el contexto de la sentencia de la Corte Suprema sobre protesta pacífica que protege el derecho a manifestar [F1].",
+          "keyFacts": [
+            "El 'Pacto de La Picota' es un término político real, acuñado en abril de 2022 por Federico Gutiérrez para criticar la visita del hermano de Petro a la cárcel La Picota [F3][F4]",
+            "El concepto se originó en torno al debate sobre el 'perdón social' propuesto por Gustavo Petro, ligado a la reunión con Iván Moreno Rojas, condenado por el 'carrusel de la contratación' [F3][F4]",
+            "En julio de 2025 se utilizó la denominación 'Pacto de La Picota 2.0' para referirse a un proyecto de ley con beneficios penales para criminales, según columna de opinión de El Colombiano [F5]",
+            "La cárcel La Picota es un centro penitenciario real donde se han recluido figuras públicas como Wadith Manzur por el escándalo de corrupción de la Ungrd [F2]",
+            "El derecho a la protesta pacífica fue protegido por la Corte Suprema de Justicia en fallo del 22 de septiembre, tras las movilizaciones iniciadas el 21 de noviembre de 2019 [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/fallo-la-protesta-una-respuesta-criticos/",
+              "note": "Contexto sobre protección judicial del derecho a la protesta en Colombia y la sentencia de la Corte Suprema sobre manifestaciones pacíficas",
+              "host": "razonpublica.com",
+              "title": "El fallo sobre la protesta: una respuesta a sus críticos - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2020/09/Corte-Suprema-Justicia-Fallo-favor-protesta-Esteban-Hoyos.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/por-orden-de-abelardo-inpec-traslada-a-wadith-manzur-a-la-picota/",
+              "note": "Confirma la existencia de la cárcel La Picota como centro penitenciario real y el traslado de figuras públicas allí",
+              "host": "lasillavacia.com",
+              "title": "Por orden de Abelardo, Inpec traslada a Wadith Manzur a La Picota",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/03/Wadith-Manzur.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://colombia.as.com/actualidad/que-es-el-pacto-en-la-picota-y-por-que-ha-generado-tanta-polemica-n/",
+              "note": "Explica el origen y significado del 'Pacto de La Picota' en 2022, la polémica del 'perdón social' y las posiciones de Petro, Fico Gutiérrez, Fajardo y Betancourt",
+              "host": "colombia.as.com",
+              "title": "Qué es el “Pacto en La Picota” y por qué ha generado tanta polémica",
+              "image": "https://img.asmedia.epimg.net/resizer/v2/7EJX2R2EGZCGZEMGATM2SJFCHY.jpeg?auth=8627b15968b63a8dcfaef0a653993b473f1d45e8ec94860fd0d74b071a5a0ad2&width=1472&height=828&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elespectador.com/politica/elecciones-colombia-2022/el-pacto-de-la-picota-la-dura-referencia-de-fajardo-a-petro/",
+              "note": "Detalla la crítica de Sergio Fajardo al 'pacto de La Picota' como referencia política contra Petro en campaña electoral 2022",
+              "host": "elespectador.com",
+              "title": "El “pacto de La Picota”, la dura referencia de Fajardo a Petro",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/VRTRR2DU4JEBRFENYYAG7G7CZI.jpg?resize=1200,630"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/opinion/columnistas/alejandro-de-bedout-el-pacto-de-la-picota-2-0-PM28359226",
+              "note": "Columna de opinión que reutiliza el término como 'Pacto de La Picota 2.0' para criticar un proyecto de ley de julio 2025; es una postura editorial, no un reportaje neutral",
+              "host": "elcolombiano.com",
+              "title": "El Pacto de La Picota 2.0",
+              "image": "https://estaticos.elcolombiano.com/binrepository/520x254/0c0/0d0/none/11101/KGWD/columnistaselcolombiano-520px-25_48430269_20250728233906.jpg"
             }
           ]
         }
