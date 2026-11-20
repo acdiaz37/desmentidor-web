@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:18:06",
+  "generatedAt": "2026-11-20T17:52:57",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -15005,6 +15005,491 @@
               "host": "infobae.com",
               "title": "Polémica por multimillonario contrato de $5.000 millones que entregó la Armada Nacional para la adquisición de antidrones: esto dijo la Contraloría",
               "image": "https://www.infobae.com/resizer/v2/WSSXNYVM3BFA7GVZI2R44ZQWHI.jpeg?auth=5e9b495898771597321bde6396938b10b4d64b0bfa20405c395a913a637d0672&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "1-5k-views-111-reactions-un-bano-21-actas-y-9-000-millones-asi-se-habr",
+      "title": "1.5K views · 111 reactions | ¡UN BAÑO, 21 ACTAS Y $9.000 MILLONES: ASÍ SE HABRÍAN ESFUMADO LOS RECURSOS EN EL GOBIERNO PETRO! 🚨 El Tigre 🐅 destapó el escándalo de un contrato en el que la Contraloría encontró fotografías repetidas del mismo baño 🚽, coordenadas idénticas y reportes de 217 visitas diarias. ¡Mientras los millones se gastaban en una auditoría cuestionada, los campesinos seguían esperando un techo digno! 🏠 La plata era para el campo, no para informes llenos de irregularidades. 🫵🏻 ¡Firme por la Patria! 🫡 #DeLaEspriellaPresidente #DeLaEspriellaAbogado #PatriaMilagro #izquierdamiserable #corrupción | Abelardo de la Espriella Abogado",
+      "uploader": "Abelardo de la Espriella Abogado",
+      "url": "https://m.facebook.com/watch/?v=3014691335549509&_rdr",
+      "duration": 54.6,
+      "thumbnail": "/media/1-5k-views-111-reactions-un-bano-21-actas-y-9-000-millones-asi-se-habr/thumb.jpg",
+      "conclusion": "## Un escándalo real enmarcado en una historia que los datos no sostienen\n\nEl video construye la narrativa de un desfalco millonario ejecutado por el gobierno Petro: una cifra redonda —9.000 millones de pesos—, un símbolo ridículo —la misma foto de baño repetida en 21 actas— y un enemigo moral —la \"auditoría cuestionada\" que habría dejado a los campesinos sin techo—. La percepción que produce es de un saqueo deliberado, probado y concluido, en el que la plata destinada al campo se habría esfumado en informes fraudulentos.\n\nLos elementos duros de esa narrativa sí tienen base: el Ministerio de Agricultura pagó la totalidad de $9.000 millones al Consorcio Audiviv en tres giros; la Contraloría validó un hallazgo fiscal por ese monto; una misma fotografía de un baño aparece en 21 actas de 10 departamentos; hay 4.509 registros con coordenadas idénticas; y 6.499 de las 12.089 visitas se reportaron en noviembre de 2025, unas 217 diarias. Todo eso está documentado.\n\nEl problema de interpretación empieza en tres desplazamientos. Primero, el video funde hallazgos distintos en una sola acusación: los \"10 departamentos\" corresponden a una sola foto, no al patrón completo de coordenadas repetidas. Segundo, presenta $9.000 millones como plata \"esfumada\", cuando esa cifra es el valor total del contrato de verificación, no una suma ya comprobada como desviada. Y tercero, y más grave, atribuye un propósito que ninguna fuente sustenta: que el montaje habría buscado declarar las casas inservibles, tumbar los contratos y dejar a los campesinos sin vivienda. Esa intención es una inferencia del video, no un hallazgo de la Contraloría.\n\nEl punto de quiebre es preciso: ocurre cuando el video pasa de \"la Contraloría encontró estas irregularidades\" a \"por lo tanto, esto fue un montaje para perjudicar al campo\". Ese salto convierte un expediente en curso —con presuntas incidencias disciplinaria y penal, sin responsables individualizados— en un crimen ejecutado y atribuido a un gobierno.\n\nEl contexto que falta modifica por completo la lectura: el contrato nació en 2025 para auditar subsidios ejecutados entre 2000 y 2017, es decir, gran parte del rezago es previo al periodo en que se contrató; el programa tenía menos del 1% de viviendas entregadas satisfactoriamente, lo que justificaba la verificación; y la propia recomendación del informe era reactivar unas 3.000 viviendas viables, no abandonar a los beneficiarios.\n\nLa interpretación más razonable es que se documentaron irregularidades serias en una consultoría mal ejecutada, que están en investigación y merecen sanción, pero que el video las presenta como una trama con propósito probado dentro de una narrativa política más amplia que los datos no autorizan.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "El Ministerio de Agricultura pagó 9 mil millones de pesos al consorcio AudiViv.",
+          "quote": "El Ministerio de Agricultura de Petro le pagó 9 mil millones al consorcio AudiViv",
+          "figures": [
+            "9 mil millones de pesos"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "Es correcto que el Ministerio de Agricultura pagó al Consorcio Audiviv la totalidad de $9.000 millones por un contrato de auditoría de vivienda rural: la relación de pagos en el SECOP muestra tres giros ($1.800 millones en agosto de 2025, $3.600 millones en octubre de 2025 y $3.600 millones el 27 de enero de 2026), que dejaron el saldo en cero [F2]. Ese es precisamente el monto del hallazgo fiscal que la Contraloría validó por el valor total del contrato [F3][F4][F5].",
+          "context": "El contrato se firmó el 11 de agosto de 2025 con el Consorcio Audiviv (SCP Sociedad Consulta de Proyectos y ATI Internacional) para verificar en terreno 12.089 subsidios de vivienda rural otorgados por el Banco Agrario entre 2000 y 2017, y nació del artículo 295 del Plan Nacional de Desarrollo vigente, que ordenó una auditoría para saber cuántos subsidios siguen sin convertirse en casa [F2]. La Contraloría examinó 9.636 actas y halló 1.105 grupos de fotografías idénticas en 2.571 documentos —incluida una foto de un baño presente en 21 actas de 10 departamentos—, coordenadas coincidentes en 4.509 actas (46,7%), un promedio de 217 visitas diarias en noviembre de 2025 (6.499 de 12.089 reportadas ese mes) y falta de soportes de seguridad social para 63 de 97 personas del equipo [F3][F4][F5]. El último pago se hizo sin la revisión de fondo, que quedó pendiente para la etapa de cierre y liquidación, y el contrato sigue sin liquidar en el SECOP [F2]. Se trata de un hallazgo fiscal con presuntas incidencias disciplinaria y penal que fue trasladado a las autoridades competentes, no de una condena [F3][F4].",
+          "progressivePerspective": "El dato de los $9.000 millones pagados está respaldado por documentos en el SECOP y por la prensa, y el cuestionamiento de la Contraloría aporta a la rendición de cuentas y a la no repetición de contrataciones débiles: la supervisión certificó el 100% de ejecución reconociendo que su revisión se limitó a 'la existencia de los soportes' y sin validación de resultados, con un pago atado a un mínimo de visitas reportadas más que a visitas verificadas [F2]. Al mismo tiempo, el marco de debido proceso exige distinguir entre hallazgo fiscal con 'presuntas' incidencias y responsabilidad probada: la UGPP aún debe determinar si los aportes a seguridad social se pagaron y las autoridades competentes deben establecer las posibles responsabilidades individuales [F3][F4][F5]. Sobre la finalidad del dinero, el contrato no era gasto de obras para campesinos sino una auditoría ordenada por el Plan Nacional de Desarrollo para diagnosticar viviendas rurales sin entregar, cuyo diagnóstico (menos del 1% entregadas en buen estado) descansa en las mismas actas hoy cuestionadas [F2].",
+          "whatTheyOmit": "El video presenta el pago como plata 'para el campo' esfumada en informes, sin precisar que el contrato fue una auditoría de vivienda rural ordenada por el artículo 295 del Plan Nacional de Desarrollo y que su objetivo era verificar subsidios del Banco Agrario de 2000 a 2017, muchos nunca convertidos en casas [F2]. Tampoco aclara que los hallazgos son 'presuntos', que están en trámite ante la UGPP y las autoridades disciplinarias y penales, y no una condena firme [F3][F4][F5]. Omite además los datos de pagos escalonados (dos giros previos sin atado a visitas) y el hecho de que el contrato aún no está liquidado, así como que el diagnóstico sobre las viviendas pendientes depende de estas mismas actas [F2].",
+          "keyFacts": [
+            "El Ministerio de Agricultura pagó al Consorcio Audiviv la totalidad de $9.000 millones, con tres giros: $1.800 millones (29 de agosto de 2025), $3.600 millones (28 de octubre de 2025) y $3.600 millones (27 de enero de 2026) [F2]",
+            "La Contraloría validó un hallazgo fiscal por $9.000 millones, equivalente al valor total del contrato, con presuntas incidencias disciplinaria y penal [F3][F4][F5]",
+            "El contrato (11 de agosto de 2025) buscaba verificar 12.089 subsidios de vivienda rural del Banco Agrario de 2000 a 2017 y nació del artículo 295 del Plan Nacional de Desarrollo [F2]",
+            "Se encontró una fotografía de un baño repetida en 21 actas de 10 departamentos, coordenadas coincidentes en 4.509 actas (46,7%) y 6.499 de 12.089 visitas reportadas solo en noviembre de 2025 (217 diarias) [F3][F4][F5]",
+            "De 97 personas del equipo, 63 carecían de soportes individuales de seguridad social; el caso fue trasladado a la UGPP para determinar si los pagos se hicieron [F3][F4][F5]",
+            "El último pago se autorizó 'sin que ello implique validación, conformidad o pronunciamiento definitivo sobre los resultados' y la revisión de fondo quedó pendiente; el contrato sigue sin liquidar en el SECOP [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/tag/ministerio-de-agricultura/",
+              "note": "Archivo de noticias sobre el Ministerio de Agricultura; aporta contexto general de la cartera pero no contiene datos del contrato Audiviv.",
+              "host": "lasillavacia.com",
+              "title": "Ministerio de Agricultura Archives",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/11/pagado-al-100-y-sin-revision-de-fondo-minagricultura-giro-los-9000-millones-de-la-auditoria-cuestionada-por-la-contraloria",
+              "note": "Reportaje con la relación de pagos del SECOP: confirma el pago total de $9.000 millones, fechas, cronograma del contrato y revisión pendiente; fuente central para verificar la afirmación.",
+              "host": "cambiocolombia.com",
+              "title": "MinAgricultura pagó $9.000 millones de auditoría de vivienda rural sin revisión de fondo",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/COLP_332057_c35238ecdb_full-width.webp"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.larepublica.co/economia/contraloria-detecto-irregularidades-por-mas-de-9-000-millones-en-contrato-de-vivienda-rural-4526236",
+              "note": "Detalle de hallazgos de la Contraloría: actas, fotos repetidas, coordenadas y seguridad social; establece que son presuntas incidencias en trámite.",
+              "host": "larepublica.co",
+              "title": "Contraloría detectó irregularidades de $9.000 millones en contrato de vivienda",
+              "image": "https://img.lalr.co/cms/2026/09/14095053/FOTO-5-3.png?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.minuto60.com/colombia/contraloria-hallazgo-fiscal-9000-millones-vivienda-rural/19074",
+              "note": "Confirma monto del hallazgo, caso de la foto del baño en 21 actas y que la ausencia de soportes no implica por sí sola incumplimiento (UGPP lo verificará).",
+              "host": "minuto60.com",
+              "title": "Contraloría detectó irregularidades por $ 9.000 millones en contrato de vivienda rural",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/contraloria-general-detecto-hallazgos-fiscales-en-contrato-de-vivienda-rural-20261117-093756_20261117_093756_twitter.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.agronegocios.co/agricultura/contraloria-encontro-irregularidades-por-9-000-millones-en-contrato-de-vivienda-rural-4526233",
+              "note": "Resumen de los hallazgos fiscales, porcentajes de actas con coordenadas iguales y traslado a autoridades competentes.",
+              "host": "agronegocios.co",
+              "title": "Contraloría encontró irregularidades por $9.000 millones en contrato de vivienda rural | Agronegocios.co",
+              "image": "https://img.lalr.co/cms/2026/05/05125809/Contraloria-General-de-la-Republica.jpg?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "politica",
+          "claim": "El contrato consistía en revisar casa por casa 12 mil viviendas de campesinos.",
+          "quote": "para revisar casa por casa 12 mil viviendas de campesinos",
+          "figures": [
+            "12 mil viviendas"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "Las fuentes confirman que el objeto del contrato celebrado en 2025 por el Ministerio de Agricultura con el Consorcio AUDIVIV consistía precisamente en verificar en terreno, una por una, las condiciones de entrega de 12.089 viviendas rurales subsidiadas, es decir, revisar casa por casa algo más de 12 mil viviendas de campesinos [F3][F4][F5].",
+          "context": "El contrato fue suscrito en 2025 para auditar subsidios de vivienda rural ejecutados por el Banco Agrario entre 2000 y 2017; en ese periodo se otorgaron 221.457 subsidios (146.772 para vivienda nueva y 74.685 para mejoramientos), con entregas efectivas muy bajas en años recientes (43,4% en 2015, 50,6% en 2016 y 23,5% en 2017 en vivienda nueva) [F3]. La Contraloría validó un hallazgo fiscal por $9.000 millones: de 9.636 actas revisadas, 2.571 tienen fotografías idénticas (una misma foto de un baño aparece en 21 actas de 10 departamentos) y 4.509 (46,7%) tienen coordenadas coincidentes; además, 6.499 de 12.089 visitas reportadas se habrían hecho en un solo mes (noviembre de 2025), unos 217 diarios, y 63 de 97 colaboradores no cuentan con soportes de seguridad social, con presuntas incidencias disciplinarias y penales por establecer [F3][F4][F5]. El rezago del programa de vivienda rural es anterior a 2025: existen beneficiarios en lista de espera desde hace años y hallazgos previos de la Contraloría [F2][F3].",
+          "progressivePerspective": "La afirmación sobre el alcance del contrato es verificable y exacta, por lo que abona al esclarecimiento de la verdad en lo que a ella se refiere [F3][F4][F5]. El análisis ético y político, en cambio, exige distinguir tres planos: (i) el objeto del contrato —diagnosticar qué pasó con viviendas prometidas a campesinos— responde a una necesidad real de información verificable sobre un programa con rezagos de dos décadas [F2][F3]; (ii) los hallazgos de la Contraloría recaen sobre la calidad de los soportes presentados por el contratista, y las incidencias disciplinarias y penales están pendientes de las autoridades competentes, sin decisión definitiva de responsabilidad [F3][F4][F5]; (iii) presentar la verificación misma como el origen del problema desplaza la atención de la causa estructural (el incumplimiento histórico del programa) hacia un episodio de control fiscal en curso. Un marco de verdad y responsabilidad diferenciada obliga a no confundir un hallazgo en investigación con una sentencia, ni a atribuir al diagnóstico los rezagos que motivaron su contratación [F2][F3].",
+          "whatTheyOmit": "El video no señala que el contrato buscaba auditar subsidios ejecutados entre 2000 y 2017, es decir, que los rezagos del programa son previos al periodo en que se contrató la consultoría [F3][F5]. Tampoco precisa que el hallazgo de $9.000 millones está pendiente de determinar responsabilidades y de traslado a las autoridades competentes, con presuntas incidencias aún no resueltas [F3][F4]. Además, omite que la Contraloría advierte que la propia hoja de ruta derivada de ese diagnóstico (liquidar contratos incumplidos y concentrar la reactivación en unas 3.000 viviendas viables) se apoya en las mismas actas cuestionadas [F3][F4].",
+          "keyFacts": [
+            "El contrato de 2025 del Ministerio de Agricultura con el Consorcio AUDIVIV, por $9.000 millones, consistía en verificar en terreno las condiciones de entrega de 12.089 viviendas rurales y cargar sus actas, es decir, revisar casa por casa algo más de 12 mil viviendas [F3][F4][F5]",
+            "El objeto era auditar subsidios de vivienda rural ejecutados por el Banco Agrario entre 2000 y 2017 [F3][F5]",
+            "La Contraloría encontró 1.105 grupos de fotografías idénticas en 2.571 actas (una de cada cuatro) y coordenadas coincidentes en 4.509 actas (46,7%) [F3][F4][F5]",
+            "De 12.089 visitas reportadas, 6.499 se habrían realizado en noviembre de 2025, un promedio de 217 verificaciones diarias en zonas rurales dispersas [F3][F4][F5]",
+            "El hallazgo fiscal por $9.000 millones tiene presuntas incidencias disciplinarias y penales que serán trasladadas a las autoridades competentes; no hay decisión definitiva de responsabilidad [F3][F4][F5]",
+            "El programa de vivienda rural arrastra rezagos desde 2000, con 30.437 campesinos a los que se les prometió casa y no se ha cumplido, según seguimiento de prensa [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/de-sobremesa-desmadre-de-camilo-jimenez-estrada/",
+              "note": "Reseña literaria de la novela Desmadre de Camilo Jiménez Estrada; no contiene información sobre el contrato ni el programa de vivienda rural. No aporta al dato verificado.",
+              "host": "razonpublica.com",
+              "title": "De sobremesa: Desmadre de Camilo Jiménez Estrada - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/11/Portada-_Desmadre_-de-Camilo-Jimenez-Estrada.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/campesinos-pobres-hasta-tumbaron-su-casa-por-la-promesa-incumplida-de-una-nueva/",
+              "note": "Contexto histórico del programa de vivienda rural: rezagos desde 2000, 30.437 promesas incumplidas, politización de la contratación y hallazgos previos de la Contraloría.",
+              "host": "lasillavacia.com",
+              "title": "Campesinos pobres hasta tumbaron su casa por la promesa incumplida de una nueva",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2021/11/fotoviviendarural.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/11/la-consultoria-de-9000-millones-del-gobierno-petro-que-habria-entregado-miles-de-fotos-y-coordenadas-repetidas",
+              "note": "Fuente central: objeto del contrato (verificar casa por casa 12.089 viviendas), cifras de la Contraloría, hallazgo de $9.000 millones y traslado a autoridades.",
+              "host": "cambiocolombia.com",
+              "title": "Contraloría halla presuntas irregularidades por $9.000 millones en consultoría de vivienda rural del Ministerio de Agricultura",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/Entre_2000_y_2017_el_Banco_Agrario_otorgo_221_457_subsidios_de_vivienda_rural_segun_el_Departamento_Nacional_de_Planeacion_Foto_Ministerio_de_Vivienda_b618d66900_full-width.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/11/17/contraloria-detecto-irregularidades-en-programo-de-vivienda-rural-del-gobierno-petro-obras-inconclusas-y-un-desembolso-por-9000-millones/",
+              "note": "Confirma alcance del contrato (12.089 viviendas), actas y fotos repetidas, 217 visitas diarias, reporte del consorcio sobre dificultades de orden público.",
+              "host": "infobae.com",
+              "title": "Hacemos Periodismo",
+              "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/economia/contraloria-detecto-irregularidades-por-mas-de-9-000-millones-en-contrato-de-vivienda-rural-4526236",
+              "note": "Confirma el contrato de 2025 con el Consorcio Audiviv para revisar subsidios ejecutados entre 2000 y 2017 y los hallazgos de la Contraloría.",
+              "host": "larepublica.co",
+              "title": "Contraloría detectó irregularidades de $9.000 millones en contrato de vivienda",
+              "image": "https://img.lalr.co/cms/2026/09/14095053/FOTO-5-3.png?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "Según la Contraloría, la entrega del contrato fue un montaje con la misma foto de baño repetida en 21 actas.",
+          "quote": "Según la Contraloría, un montaje. El mismo baño. En 21 actas.",
+          "figures": [
+            "21 actas"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "El núcleo factual es correcto: la Contraloría encontró una fotografía de un mismo baño repetida en 21 actas de 10 departamentos, dentro de un hallazgo fiscal por $9.000 millones en un contrato de consultoría del Ministerio de Agricultura con el Consorcio AUDIVIV [F3][F4][F5]. Es exagerado o impreciso, en cambio, presentarlo como una frase literal de la Contraloría (\"un montaje\"): las fuentes hablan de hallazgo con inconsistencias en los soportes, no de una declaración de montaje, y el hallazgo no es una condena ni ha establecido responsabilidades individuales [F3][F4][F5].",
+          "context": "La Contraloría Delegada para el Sector Agropecuario anunció el 17 de noviembre de 2026 un hallazgo fiscal por $9.000 millones, equivalente al valor total del contrato de consultoría firmado en 2025 por el Ministerio de Agricultura con el Consorcio AUDIVIV, cuyo objeto era verificar subsidios de vivienda rural del Banco Agrario otorgados entre 2000 y 2017 [F4][F5]. De 9.636 actas revisadas se hallaron 1.105 grupos de fotografías idénticas presentes en 2.571 actas (una de cada cuatro); la foto del baño aparece en 21 actas de diez departamentos; 4.509 actas (46,7%) tenían coordenadas exactamente coincidentes; el consorcio reportó 12.089 visitas, 6.499 de ellas solo en noviembre de 2025, unas 217 diarias; y de 97 personas del equipo faltaban soportes individuales de seguridad social para 63 [F3][F4][F5]. Es un hallazgo con presuntas incidencias disciplinaria y penal que será trasladado a las autoridades competentes; no es una condena ni una decisión que haya fijado responsabilidades individuales [F3][F5].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repetición aplicable a las actuaciones de control, el dato aporta a la verdad en la medida en que expone hallazgos verificables de la Contraloría sobre el uso de recursos públicos [F3][F4][F5]. Sin embargo, la lectura ético-política exige distinguir entre hallazgo y responsabilidad probada: la fuente es explícita en que las responsabilidades deberán definirse en las actuaciones competentes y que el hallazgo no equivale a condena penal [F3][F5]. Presentar la cifra de $9.000 millones como dinero \"esfumado\" y la expresión \"montaje\" como si fuera cita textual de la Contraloría adelanta una conclusión de culpabilidad que las fuentes no respaldan, lo que puede convertir el control fiscal en un instrumento de atribución política de responsabilidades antes de que opere el debido proceso [F3][F4][F5]. El video tampoco precisa que el objeto de la auditoría son subsidios del periodo 2000-2017, cuya ejecución no corresponde al año del contrato cuestionado [F3][F5], matiz relevante para no presentar el hallazgo como prueba única del manejo de recursos de una administración específica [F4][F5].",
+          "whatTheyOmit": "Omite que se trata de un hallazgo fiscal, no de una condena, y que las responsabilidades individuales aún no están determinadas [F3][F5]. Omite que la palabra \"montaje\" es del video y no aparece como cita de la Contraloría en las fuentes, que hablan de \"inconsistencias\" y \"hallazgo\" [F3][F4][F5]. Omite matizar que los $9.000 millones corresponden al valor total del contrato de consultoría [F4], no a una suma ya probada como desviada o desaparecida. Omite que los subsidios verificados corresponden al periodo 2000-2017 y que el Ministerio deberá ajustar su plan de mejoramiento ante el organismo de control [F3][F5].",
+          "keyFacts": [
+            "La Contraloría halló una fotografía de un mismo baño repetida en 21 actas de diez departamentos [F3][F4][F5].",
+            "Se validó un hallazgo fiscal por $9.000 millones, monto equivalente al valor total del contrato de consultoría firmado en 2025 por el Ministerio de Agricultura con el Consorcio AUDIVIV [F4][F5].",
+            "De 9.636 actas revisadas, 2.571 contenían grupos de fotografías idénticas y 4.509 (46,7%) tenían coordenadas exactamente coincidentes [F3][F4][F5].",
+            "El consorcio reportó 12.089 visitas, de las cuales 6.499 se habrían hecho solo en noviembre de 2025, unas 217 diarias en zonas rurales dispersas [F4][F5].",
+            "De 97 personas reportadas en el equipo, 63 no tenían soportes individuales de aportes a la seguridad social; el caso se traslada a la UGPP [F4][F5].",
+            "Es un hallazgo con presuntas incidencias disciplinaria y penal que debe ser examinado por las autoridades competentes; no es una condena ni establece responsabilidades individuales [F3][F5].",
+            "La consultoría debía verificar subsidios de vivienda rural del Banco Agrario otorgados entre 2000 y 2017, periodo distinto al año de firma del contrato [F3][F5]."
+          ],
+          "sources": [
+            {
+              "ref": "F3",
+              "url": "https://www.minuto30.com/vivienda-rural-contraloria/1731419/",
+              "note": "Detalle del hallazgo: 21 actas con la misma foto de baño, 2.571 actas con fotos idénticas, 4.509 con coordenadas coincidentes, 217 visitas diarias; aclara que no es condena ni fija responsabilidades y que los subsidios son de 2000-2017.",
+              "host": "minuto30.com",
+              "title": "Vivienda rural bajo la lupa: un mismo baño apareció en 21 actas de diez departamentos - Minuto30",
+              "image": "https://staticprd.minuto30.com/wp-content/uploads/2026/11/1-vivienda-rural-referencia.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lafm.com.co/economia/contraloria-detecta-irregularidades-contrato-vivienda-rural-minagricultura-417390",
+              "note": "Confirma cifras y aclara que los $9.000 millones son el valor total del contrato; anuncio del 17 de noviembre de 2026; segundo hallazgo sobre seguridad social del personal.",
+              "host": "lafm.com.co",
+              "title": "Contraloría detecta irregularidades por $9.000 millones en contrato de vivienda rural del Ministerio de Agricultura",
+              "image": "https://files.lafm.com.co/media/news-images/2026/08/20/200247/edificio-contraloria-general-1200x675.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://canal1.com.co/noticias/nacional/vivienda-rural-las-inconsistencias-que-hallo-la-contraloria-en-contrato-de-minagricultura/",
+              "note": "Contraste: describe \"inconsistencias\" y un \"hallazgo\" con incidencias presuntas, no una declaración de montaje ni una condena; responsabilidades pendientes de las autoridades competentes.",
+              "host": "canal1.com.co",
+              "title": "Vivienda rural: las inconsistencias que halló la Contraloría en contrato de MinAgricultura",
+              "image": "https://images.canal1.com.co/wp-content/uploads/2026/11/17170807/copia-de-notas-canal-1-2-1.jpg"
+            },
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/las-irregularidades-en-la-licitacion-del-metro-de-bogota/",
+              "note": "Fuente sobre otro caso (licitación del Metro de Bogotá); no aporta datos sobre el contrato de vivienda rural y no permite verificar la afirmación.",
+              "host": "razonpublica.com",
+              "title": "Las irregularidades en la licitación del Metro de Bogotá - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/12/contrato-metro-lupa-Juana-Afanador.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/contraloria-encontro-irregularidades-en-los-contratos-de-guerrero-con-la-uis/",
+              "note": "Fuente sobre otros contratos (Guerrero-UIS); no contiene información sobre el baño, las 21 actas ni los $9.000 millones de vivienda rural.",
+              "host": "lasillavacia.com",
+              "title": "Contraloría encontró irregularidades en los contratos de Guerrero con la UIS",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2025/07/Juliana-Guerrero.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "El montaje abarcó 10 departamentos y 4 mil 500 registros con las mismas coordenadas.",
+          "quote": "10 departamentos. El mismo baño. 4 mil 500 registros. Con las mismas coordenadas.",
+          "figures": [
+            "10 departamentos",
+            "4 mil 500 registros"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Las dos cifras citadas existen en el registro oficial de la Contraloría: una misma foto de baño aparece en 21 actas de 10 departamentos y hay 4.509 registros (≈4.500) con coordenadas exactamente coincidentes; sin embargo, el video funde en una sola afirmación dos hallazgos distintos: los '10 departamentos' corresponden únicamente a esa foto específica en 21 actas, no a la totalidad de los registros con coordenadas repetidas, y las fuentes no establecen que los 4.509 registros se repartan en 10 departamentos [F3][F4][F5].",
+          "context": "En 2025 el Ministerio de Agricultura contrató al Consorcio AUDIVIV por $9.000 millones para verificar en terreno 12.089 viviendas subsidiadas por el Banco Agrario entre 2000 y 2017. La Contraloría validó un hallazgo por el valor total del contrato, con presuntas incidencias fiscal, discipliniana y penal: de 9.636 actas revisadas, 2.571 (una de cada cuatro) repiten fotografías (1.105 grupos idénticos) y 4.509 (46,7%) tienen coordenadas exactamente coincidentes con viviendas y beneficiarios distintos; el consorcio reportó 6.499 de 12.089 visitas en un solo mes (noviembre de 2025), unas 217 diarias, cifra que la Contraloría considera incompatible con la logística rural. El mismo programa mostró que menos del 1% de las viviendas prometidas se entregó satisfactoriamente [F3][F4][F5].",
+          "progressivePerspective": "El dato se enmarca en control fiscal, no en el conflicto armado ni en la JEP, por lo que aplican los estándares generales de transparencia y presunción de inocencia. Los hallazgos son de la Contraloría, órgano de control del Estado, y se califican como 'presuntas' incidencias que deben definir las autoridades competentes; el video los presenta como hecho consumado y como prueba de un 'escamoteo' político, sin distinguir entre hallazgo fiscal validado e investigaciones aún pendientes. Conviene notar que el contrato audité un programa de vivienda rural fallido cuya entrega insatisfactoria es anterior y documentada (menos del 1% cumplimiento, subsidios de 2000-2017), de modo que la verificación buscaba precisamente esclarecer un daño previo a las familias campesinas; señalar las irregularidades del soporte de esa verificación abona al esclarecimiento de la verdad sobre cómo se gastaron los recursos y sobre el estado real de las viviendas, mientras presentar el hallazgo presuntivo como sentencia consumada puede anticipar juicios antes de que se defina la responsabilidad [F3][F4][F5].",
+          "whatTheyOmit": "El video omite que los '10 departamentos' se refieren solo a una foto de baño presente en 21 actas, no a un alcance territorial de todo el patrón de coordenadas repetidas, y fusiona dos hallazgos distintos en una sola frase; omite que los hallazgos son 'presuntas' incidencias disciplinaria y penal en investigación, no decisiones judiciales; omite que el contrato buscaba auditar un programa en el que menos del 1% de las viviendas se entregó satisfactoriamente, es decir, que existía un problema previo que motivó la contratación; y omite que 63 de 97 integrantes del equipo carecían de soportes individuales de seguridad social, dato que sustenta la segunda salida de la Contraloría [F3][F4][F5].",
+          "keyFacts": [
+            "Una misma fotografía de un baño aparece en 21 actas de 10 departamentos, según la Contraloría [F3][F4][F5]",
+            "En 4.509 actas (46,7% de las 9.636 revisadas) las coordenadas coinciden exactamente, atribuidas a viviendas y beneficiarios distintos, cifra equivalente a los '4 mil 500' citados en el video [F3][F4]",
+            "El contrato de consultoría por $9.000 millones fue suscrito en 2025 por el Ministerio de Agricultura con el Consorcio AUDIVIV para verificar 12.089 viviendas rurales subsidiadas entre 2000 y 2017 [F3][F4][F5]",
+            "El consorcio reportó 6.499 visitas en noviembre de 2025, unas 217 diarias en zonas rurales dispersas, cifra que la Contraloría considera incompatible con la logística requerida [F3][F4][F5]",
+            "De 2.571 actas con fotografías repetidas se identificaron 1.105 grupos de imágenes idénticas; 63 de 97 integrantes del equipo no tuvieron soportes individuales de aportes a seguridad social [F3][F5]",
+            "El hallazgo corresponde al valor total del contrato y tiene presunta incidencia fiscal, discipliniana y penal; será remitido a las autoridades competentes [F3][F4][F5]",
+            "Menos del 1% de las viviendas prometidas en el programa original fue entregado de manera satisfactoria, según el informe que sustentó la consultoría [F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-milagro-es-que-departamentos-y-municipios-se-reconstruyan-por-sus-propios-medios/",
+              "note": "Contexto sobre reconstrucción territorial y el Fondo Milagro; no aborda el contrato de la consultoría ni las cifras de actas y coordenadas, por lo que no permite verificar la afirmación.",
+              "host": "razonpublica.com",
+              "title": "El milagro es que departamentos y municipios se reconstruyan por sus propios medios",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/09/6.1-Visita-damnificados-Alcaldia-Manizales-1024x682.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/montaje-usa-articulo-viejo-de-el-pais-para-atacar-a-medios-colombianos/",
+              "note": "Verificación sobre una imagen manipulada de un artículo de El País; aporta el criterio general de que las capturas y montajes pueden descontextualizar información, pero no trata el caso de la consultoría.",
+              "host": "lasillavacia.com",
+              "title": "Montaje usa artículo viejo de El País para atacar a medios colombianos",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/11/Petro-medios.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/11/la-consultoria-de-9000-millones-del-gobierno-petro-que-habria-entregado-miles-de-fotos-y-coordenadas-repetidas",
+              "note": "Detalle completo del hallazgo: 2.571 actas con fotos repetidas, 4.509 con coordenadas coincidentes, la foto de baño en 21 actas de 10 departamentos, 217 visitas diarias y hallazgo por $9.000 millones.",
+              "host": "cambiocolombia.com",
+              "title": "Contraloría halla presuntas irregularidades por $9.000 millones en consultoría de vivienda rural del Ministerio de Agricultura",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/Entre_2000_y_2017_el_Banco_Agrario_otorgo_221_457_subsidios_de_vivienda_rural_segun_el_Departamento_Nacional_de_Planeacion_Foto_Ministerio_de_Vivienda_b618d66900_full-width.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/11/17/contraloria-detecto-irregularidades-en-programa-de-vivienda-rural-del-gobierno-petro-obras-inconclusas-y-un-desembolso-por-9000-millones/",
+              "note": "Confirma las cifras oficiales citadas textualmente por la Contraloría, incluidos 4.509 actas con coordenadas coincidentes, la foto del baño en 10 departamentos y las 217 verificaciones diarias.",
+              "host": "infobae.com",
+              "title": "Contraloría detectó irregularidades en programa de vivienda rural del gobierno Petro: obras inconclusas y un desembolso por $9.000 millones",
+              "image": "https://www.infobae.com/resizer/v2/QSFVT7SWY5HENFR4M4NJH64NTQ.jpg?auth=8581ce630dc720f09a30521fdc1359d2cf80c619063951d83247cf1c82c9c31b&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.noticiasrcn.com/colombia/contrato-de-vivienda-rural-bajo-la-lupa-contraloria-encontro-irregularidades-por-9-000-millones-1082923",
+              "note": "Confirma el hallazgo fiscal por $9.000 millones, las 9.636 actas revisadas, 1.105 grupos de fotos idénticas, la presunta incidencia fiscal, discipliniana y penal y el caso de los 63 aportes de seguridad social.",
+              "host": "noticiasrcn.com",
+              "title": "Contrato de vivienda rural bajo la lupa: Contraloría encontró irregularidades por $9.000 millones | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/ImgNoticias/Contraloria.jpg?w=400&r=1_1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se registraron 217 visitas al día en veredas donde a una sola casa se llega en mula.",
+          "quote": "Y 217 visitas al día. En veredas donde a una sola casa se llega en Mula.",
+          "figures": [
+            "217 visitas al día"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La cifra de 217 visitas diarias está confirmada: el Consorcio AUDIVIV reportó 12.089 visitas, de las cuales 6.499 se habrían realizado en noviembre de 2025, lo que arroja un promedio de 217 verificaciones diarias, dato que la Contraloría consideró incompatible con la logística en zonas rurales dispersas [F3][F4][F5]. La parte sobre llegar 'en mula' a una sola casa es una imagen retórica del video: las fuentes hablan de 'viviendas rurales dispersas' y de dificultades de desplazamiento, sin detallar que el acceso sea exclusivamente en mula [F3][F5].",
+          "context": "El hallazgo recae sobre un contrato de consultoría suscrito en 2025 por el Ministerio de Agricultura con el Consorcio AUDIVIV (integrado por SCP y ATI Internacional) para verificar 12.089 subsidios de vivienda rural ejecutados por el Banco Agrario entre 2000 y 2017 [F3][F5]. La Contraloría revisó 9.636 actas: encontró 1.105 grupos de fotografías idénticas presentes en 2.571 actas (una de cada cuatro), la misma foto de un baño en 21 actas de 10 departamentos, y coordenadas exactamente coincidentes en 4.509 actas (46,7%), incluido un punto repetido en 80 actas de cuatro municipios del Huila y otro en 42 actas de Tolima y Amazonas [F3][F4][F5]. El hallazgo fiscal por $9.000 millones corresponde al valor total del contrato, no a una pérdida equivalente a esa suma [F4]. El consorcio también documentó obstáculos de orden público que impidieron acompañamiento de autoridades locales en varios municipios [F5].",
+          "progressivePerspective": "Los hechos de la auditoría están bien documentados por la Contraloría y varios medios, y el video los presenta de forma esencialmente fiel en lo numérico: la cifra de 217 visitas diarias es real y la propia entidad de control la señaló como inverosímil en zonas dispersas [F3][F4][F5]. Eso abona al esclarecimiento de la verdad sobre la posible defraudación de recursos públicos y al deber de rendición de cuentas, pilares de la transparencia y la no repetición de la corrupción. Ahora bien, la formulación del video 'en veredas donde a una sola casa se llega en mula' añade una imagen que las fuentes no sustentan literalmente, y el encuadre atribuye todo el problema al gobierno vigente sin precisar que el objeto era auditar subsidios ejecutados entre 2000 y 2017 y que el contrato se firmó en 2025 [F3][F5]. Como señalan las fuentes sobre el uso político de las cifras, un dato auténtico puede sostener interpretaciones parciales cuando se selecciona o se contextualiza de forma incompleta [F1]. La fiscalización seria exige distinguir entre el hallazgo fiscal (valor del contrato) y la presunta responsabilidad, que aún debe establecerse en las investigaciones penales y disciplinarias anunciadas [F3][F4].",
+          "whatTheyOmit": "Omite que el contrato de 2025 tenía por objeto auditar subsidios ejecutados entre 2000 y 2017, es decir, cubría gran parte de administraciones anteriores a 2025 [F3][F5]. También omite que el hallazgo de $9.000 millones corresponde al valor total del contrato de consultoría, no a un monto desaparecido o malversado comprobado [F4]. La frase sobre llegar 'en mula' no aparece en las fuentes, que solo describen 'zonas rurales dispersas' y dificultades logísticas de desplazamiento [F3][F5]. Finalmente, no menciona que la actuación de la Contraloría está en curso y que las presuntas incidencias penales y disciplinarias deben ser determinadas por las autoridades competentes [F3][F4].",
+          "keyFacts": [
+            "El Consorcio AUDIVIV reportó 12.089 visitas de verificación, de las cuales 6.499 se habrían realizado en noviembre de 2025, promediando 217 visitas diarias [F3][F4][F5]",
+            "La Contraloría consideró que esa cantidad de visitas no resulta compatible con la logística requerida en zonas rurales dispersas [F3][F4][F5]",
+            "De 9.636 actas revisadas, se hallaron 1.105 grupos de fotografías idénticas en 2.571 actas; la misma foto de un baño aparece en 21 actas de 10 departamentos [F3][F4][F5]",
+            "4.509 actas (46,7%) tenían coordenadas exactamente coincidentes pese a corresponder a viviendas distintas [F3][F4][F5]",
+            "El hallazgo fiscal de $9.000 millones corresponde al valor total del contrato de consultoría suscrito en 2025 con el Consorcio AUDIVIV para verificar subsidios del Banco Agrario ejecutados entre 2000 y 2017 [F3][F4][F5]",
+            "63 de 97 personas del equipo técnico no contaban con soportes individuales de aportes a seguridad social; el caso fue trasladado a la UGPP [F3][F4]",
+            "El consorcio documentó obstáculos de orden público que impidieron el acompañamiento de autoridades locales en varios municipios durante las visitas [F5]",
+            "La contratación se suscribió en 2025 y el objeto era auditar subsidios ejecutados entre 2000 y 2017, período que abarca administraciones anteriores [F3][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/una-realidad-multiples-relatos-el-poder-de-las-cifras-en-la-politica/",
+              "note": "Marco metodológico: un dato auténtico puede sostener interpretaciones parciales si se selecciona o contextualiza de forma incompleta; la verdad de una cifra no garantiza la veracidad del relato derivado de ella.",
+              "host": "razonpublica.com",
+              "title": "Una realidad, múltiples relatos: el poder de las cifras en la política - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/11/Cifras-para-la-toma-de-decisiones.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/las-geografias-invisibles-de-la-violencia-una-agenda-ineludible/",
+              "note": "Fuente sobre geografía rural y gobernanza territorial en Colombia; no aporta datos sobre el contrato AUDIVIV ni la cifra de 217 visitas.",
+              "host": "lasillavacia.com",
+              "title": "Las geografías invisibles de la violencia: una agenda ineludible",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/09/Irina_Cuesta_portada.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.larepublica.co/economia/contraloria-detecto-irregularidades-por-mas-de-9-000-millones-en-contrato-de-vivienda-rural-4526236",
+              "note": "Confirma las 12.089 visitas, las 6.499 en noviembre de 2025, el promedio de 217 diarias, las fotografías idénticas (foto del baño en 21 actas de 10 departamentos), las coordenadas coincidentes y el hallazgo de $9.000 millones sobre el valor del contrato.",
+              "host": "larepublica.co",
+              "title": "Contraloría detectó irregularidades de $9.000 millones en contrato de vivienda",
+              "image": "https://img.lalr.co/cms/2026/09/14095053/FOTO-5-3.png?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lafm.com.co/economia/contraloria-detecta-irregularidades-contrato-vivienda-rural-minagricultura-417390",
+              "note": "Confirma las mismas cifras y aclara explícitamente que el hallazgo de $9.000 millones corresponde al valor total del contrato de consultoría de 2025; detalla el punto repetido en 80 actas del Huila y 42 de Tolima y Amazonas.",
+              "host": "lafm.com.co",
+              "title": "Contraloría detecta irregularidades por $9.000 millones en contrato de vivienda rural del Ministerio de Agricultura",
+              "image": "https://files.lafm.com.co/media/news-images/2026/08/20/200247/edificio-contraloria-general-1200x675.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2026/11/17/contraloria-detecto-irregularidades-en-programa-de-vivienda-rural-del-gobierno-petro-obras-inconclusas-y-un-desembolso-por-9000-millones/",
+              "note": "Confirma las 217 verificaciones diarias y su incompatibilidad logística, el contrato con AUDIVIV (SCP y ATI Internacional), el objeto de auditar 12.089 subsidios del Banco Agrario (2000-2017) y los reportes del consorcio sobre obstáculos de orden público durante las visitas.",
+              "host": "infobae.com",
+              "title": "Contraloría detectó irregularidades en programa de vivienda rural del gobierno Petro: obras inconclusas y un desembolso por $9.000 millones",
+              "image": "https://www.infobae.com/resizer/v2/QSFVT7SWY5HENFR4M4NJH64NTQ.jpg?auth=8581ce630dc720f09a30521fdc1359d2cf80c619063951d83247cf1c82c9c31b&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "El propósito del montaje habría sido declarar que las casas no servían, tumbar los contratos y dejar a los campesinos sin vivienda.",
+          "quote": "Para decir que las casas no servían. Tumbar los contratos. Y dejar al campesino aguantando lluvia en un rancho.",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Las irregularidades documentadas por la Contraloría son reales y están bien respaldadas (fotos repetidas, coordenadas idénticas, 217 visitas diarias, hallazgo por $9.000 millones), pero ninguna fuente sustenta el PROPÓSITO atribuido al 'montaje': declarar que las casas no servían, tumbar los contratos y dejar a los campesinos sin vivienda [F3][F4][F5]. Esa intención es una inferencia del video, no un hallazgo verificado.",
+          "context": "El contrato de consultoría fue suscrito por el Ministerio de Agricultura en 2025 con el Consorcio AUDIVIV para verificar el estado de un programa de subsidios de vivienda rural del Banco Agrario ejecutado entre 2000 y 2017, cubriendo 12.089 viviendas [F4][F5]. La Contraloría validó un hallazgo fiscal por el valor total del contrato ($9.000 millones) al encontrar 1.105 grupos de fotografías idénticas presentes en 2.571 actas (una de cada cuatro), una misma foto de un baño en 21 actas de 10 departamentos, coordenadas exactamente coincidentes en 4.509 actas (46,7%) y un promedio de 217 verificaciones diarias, con 6.499 visitas reportadas solo en noviembre de 2025 [F3][F4][F5]. También se halló que 63 de 97 personas del equipo no tenían soportes de aportes a seguridad social, dato trasladado a la UGPP [F4][F5]. Según el informe de la auditoría, menos del 1% de las viviendas prometidas había sido entregado satisfactoriamente, había obras inconclusas y al menos 100 viviendas requerirían demolición por no cumplir condiciones de sismorresistencia; su recomendación principal fue iniciar la liquidación de los contratos incumplidos y concentrar la reactivación en unas 3.000 unidades viables [F3]. Las presuntas incidencias disciplinaria y penal fueron trasladadas a las autoridades competentes para que establezcan las responsabilidades [F3][F4][F5].",
+          "progressivePerspective": "En términos del marco de verdad, justicia, reparación y no repetición, el núcleo fáctico del video sí abona a la rendición de cuentas: la Contraloría documentó irregularidades en un contrato público y las derivó a las autoridades competentes para que determinen responsabilidades, que es el cauce institucional adecuado y contrario a la impunidad [F3][F4][F5]. Sin embargo, la afirmación verificada —que el propósito del montaje fue declarar inútiles las casas, tumbar los contratos y despojar a los campesinos de vivienda— no está respaldada por ninguna fuente: los hallazgos se refieren a la calidad y consistencia de los soportes de la auditoría pagada, no a una finalidad de desposesión [F3][F4][F5]. Atribuir un ánimo de daño contra los campesinos sin evidencia desvía la conversación desde el esclarecimiento de la verdad hacia la imputación de intenciones no probadas, lo cual puede dificultar el reconocimiento efectivo de responsabilidades y desviar la atención de la reparación a quienes fueron afectados por la precaria ejecución del programa de vivienda rural [F3]. Debe distinguirse con claridad entre el hecho verificado (fraude en los soportes de una consultoría de verificación) y la interpretación sobre la intención, que es opinión y no hallazgo [F3][F4][F5].",
+          "whatTheyOmit": "Omite que la recomendación de la auditoría fue iniciar la liquidación de los contratos incumplidos y concentrar recursos en unas 3.000 unidades viables, es decir, que el objetivo declarado del informe era reactivar viviendas, no dejar a los campesinos sin techo [F3]. Omite que las irregularidades de la Contraloría se centran en los soportes de la consultoría (fotos y coordenadas repetidas) y en los aportes de seguridad social del personal, y que las responsabilidades aún deben ser establecidas por las autoridades competentes [F3][F4][F5]. Omite que los $9.000 millones corresponden al valor total del contrato de verificación, no a recursos entregados a los beneficiarios [F4][F5]. Omite también que las casas señaladas para demolición lo son por incumplimiento de condiciones de sismorresistencia y que había obras inconclusas tras el retiro de contratistas, hallazgos del propio informe de auditoría [F3].",
+          "keyFacts": [
+            "La Contraloría validó un hallazgo fiscal con presuntas incidencias disciplinaria y penal por $9.000 millones sobre el contrato de 2025 con el Consorcio AUDIVIV suscrito por el Ministerio de Agricultura [F3][F4][F5]",
+            "El objeto del contrato era verificar 12.089 viviendas de un programa de subsidios del Banco Agrario ejecutado entre 2000 y 2017 [F4][F5]",
+            "Se hallaron 1.105 grupos de fotografías idénticas en 2.571 actas, incluida una misma foto de un baño en 21 actas de 10 departamentos [F3][F4][F5]",
+            "4.509 actas (46,7% de las 9.636 revisadas) tenían coordenadas exactamente coincidentes, y se reportaron 217 verificaciones diarias, con 6.499 visitas concentradas en noviembre de 2025 [F4][F5]",
+            "El informe de auditoría recomendó iniciar la liquidación de los contratos incumplidos y concentrar la reactivación en unas 3.000 unidades consideradas viables [F3]",
+            "El informe señaló que menos del 1% de las viviendas prometidas fue entregado satisfactoriamente, había obras inconclusas y al menos 100 requerirían demolición por no cumplir condiciones de sismorresistencia [F3]",
+            "Ninguna fuente aportada establece que el propósito del 'montaje' fuera declarar que las casas no servían, tumbar los contratos o dejar a los campesinos sin vivienda [F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/17/contraloria-detecto-irregularidades-en-programa-de-vivienda-rural-del-gobierno-petro-obras-inconclusas-y-un-desembolso-por-9000-millones/",
+              "note": "Detalla el hallazgo por $9.000 millones, fotos y coordenadas repetidas, 217 visitas diarias, y que el informe recomendó liquidar contratos incumplidos y reactivar 3.000 unidades; fuente clave para el contraste entre irregularidad probada e intención atribuida",
+              "host": "infobae.com",
+              "title": "Contraloría detectó irregularidades en programa de vivienda rural del gobierno Petro: obras inconclusas y un desembolso por $9.000 millones",
+              "image": "https://www.infobae.com/resizer/v2/QSFVT7SWY5HENFR4M4NJH64NTQ.jpg?auth=8581ce630dc720f09a30521fdc1359d2cf80c619063951d83247cf1c82c9c31b&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lafm.com.co/economia/contraloria-detecta-irregularidades-contrato-vivienda-rural-minagricultura-417390",
+              "note": "Precisa objeto del contrato (verificación de subsidios del Banco Agrario 2000-2017), desglose de actas y coordenadas, y segundo hallazgo sobre aportes de seguridad social de 63 de 97 personas",
+              "host": "lafm.com.co",
+              "title": "Contraloría detecta irregularidades por $9.000 millones en contrato de vivienda rural del Ministerio de Agricultura",
+              "image": "https://files.lafm.com.co/media/news-images/2026/08/20/200247/edificio-contraloria-general-1200x675.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.minuto60.com/colombia/contraloria-hallazgo-fiscal-9000-millones-vivienda-rural/19074",
+              "note": "Confirma hallazgo por $9.000 millones, 1.105 grupos de fotos idénticas, 217 visitas diarias y traslado a la UGPP y a autoridades competentes para establecer responsabilidades",
+              "host": "minuto60.com",
+              "title": "Contraloría detectó irregularidades por $ 9.000 millones en contrato de vivienda rural",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/contraloria-general-detecto-hallazgos-fiscales-en-contrato-de-vivienda-rural-20261117-093756_20261117_093756_twitter.jpg"
+            },
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/hidroituango-las-implicaciones-del-detrimento-patrimonial/",
+              "note": "Trata del detrimento patrimonial en Hidroituango (4 billones de pesos, 28 imputados); no se refiere al contrato de vivienda rural, por lo que no aporta a la afirmación verificada",
+              "host": "razonpublica.com",
+              "title": "Hidroituango: las implicaciones del detrimento patrimonial - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2020/12/hidroituango-epm-obras-desastre-problemas-contraloria-patricia-durango.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/lo-del-montaje-es-una-version-mininterior-sobre-informe-de-tierralta/",
+              "note": "Se refiere a otra materia (un informe del Ministerio del Interior sobre un presunto montaje en Tierralta) y aclara que una versión sobre un 'montaje' no equivale a una valoración de responsabilidad; sirve solo como contraste metodológico, no como evidencia del caso",
+              "host": "lasillavacia.com",
+              "title": "Lo del montaje es una versión: minInterior sobre informe de Tierralta",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/10/Franklin-Castaneda-1.png?fit=1200%2C900&ssl=1"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Existe un hallazgo fiscal sobre el caso y el presunto responsable del montaje deberá responder por ello.",
+          "quote": "Ya hay hallazgo fiscal. Y con el tigre, el que hizo el montaje va a responder.",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La existencia del hallazgo fiscal de $9.000 millones en el contrato de consultoría de vivienda rural del Ministerio de Agricultura con el Consorcio Audiviv está ampliamente confirmada por tres medios [F3][F4][F5]. La segunda parte de la afirmación —que 'el que hizo el montaje va a responder'— es coherente con lo que informan las fuentes, que señalan presuntas incidencias disciplinarias y penales trasladadas a las autoridades competentes, pero es prospectiva: no se ha identificado aún a ningún responsable individual ni se ha deducido responsabilidad [F3][F4][F5].",
+          "context": "El hallazgo fue validado por la Contraloría Delegada para el Sector Agropecuario y dado a conocer el 17 de noviembre de 2026. Se refiere a un contrato de consultoría suscrito en 2025 por el Ministerio de Agricultura con el Consorcio Audiviv, cuyo objeto era verificar subsidios de vivienda rural ejecutados por el Banco Agrario entre 2000 y 2017 (221.457 subsidios adjudicados en ese periodo). Hallazgos concretos: 12.089 visitas reportadas, 6.499 de ellas concentradas en noviembre de 2025 (≈217 diarias); 1.105 grupos de fotografías idénticas en 2.571 de 9.636 actas revisadas; una foto de un baño presente en 21 actas de 10 departamentos; 4.509 actas (46,7%) con coordenadas coincidentes; y 63 de 97 integrantes del equipo sin soportes de aportes a seguridad social, trasladado a la UGPP. El monto del hallazgo corresponde al valor total del contrato [F3][F4][F5].",
+          "progressivePerspective": "A la luz de los estándares de transparencia y rendición de cuentas, el hallazgo es un ejercicio legítimo de control fiscal: la Contraloría detectó inconsistencias graves en la verificación de un programa que benefició a cientos de miles de familias rurales, y la exigencia de que quienes ejecutaron el contrato respondan es consistente con la preservación de la función pública [F3][F5]. Es igualmente relevante enfatizar que el hallazgo está formulado en términos de 'presuntas incidencias' pendientes de investigación por parte de las autoridades competentes, y que las fuentes no identifican a un responsable individual ni establecen que los recursos se hayan desviado: se trata de inconsistencias en los soportes de verificación. Este caso no corresponde al ámbito de la JEP (que juzga crímenes graves del conflicto armado a los máximos responsables con sanciones restaurativas), sino al control fiscal ordinario; en ese marco, la valoración ética exige distinguir entre una irregularidad documentada y una conclusión de responsabilidad, preservando tanto el deber de investigar como la presunción de inocencia [F3][F4][F5].",
+          "whatTheyOmit": "El video no precisа que ningún responsable ha sido individualizado: las fuentes solo hablan de traslado de 'presuntas incidencias' a autoridades competentes para las investigaciones correspondientes [F3][F4][F5]. Tampoco aclara que el hallazgo cubre el valor total del contrato de consultoría de 2025 y no una cuantía comprobada como malversada, ni que el contrato tenía por objeto verificar subsidios ejecutados entre 2000 y 2017, período distinto al de su suscripción [F3][F5]. Omite además el dato del DNP sobre los bajos porcentajes de entrega de subsidios adjudicados (23,5% en 2017 en vivienda nueva), que da sentido a la necesidad de la verificación contratada [F5], y no distingue entre la irregularidad documentada y cualquier imputación de responsabilidad penal o política [F3][F4].",
+          "keyFacts": [
+            "La Contraloría General de la República identificó un hallazgo fiscal por $9.000 millones en un contrato de consultoría suscrito en 2025 por el Ministerio de Agricultura con el Consorcio Audiviv, para verificar subsidios de vivienda rural del Banco Agrario ejecutados entre 2000 y 2017 [F3][F4][F5]",
+            "El consorcio reportó 12.089 visitas de campo, de las cuales 6.499 se habrían realizado en noviembre de 2025, equivalente a un promedio de 217 verificaciones diarias en zonas rurales dispersas [F3][F4][F5]",
+            "Al examinar 9.636 actas se hallaron 1.105 grupos de fotografías idénticas en 2.571 documentos, incluida una fotografía de un baño presente en 21 actas de 10 departamentos [F3][F4][F5]",
+            "4.509 actas (46,7% de las revisadas) presentaban coordenadas geográficas idénticas pese a corresponder a viviendas distintas [F3][F4][F5]",
+            "De 97 personas reportadas como personal técnico y de apoyo, 63 carecían de soportes individuales de aportes a seguridad social; el caso fue trasladado a la UGPP [F3][F4][F5]",
+            "La Contraloría señaló presuntas incidencias disciplinarias y penales y anunció el traslado a las autoridades competentes para las investigaciones correspondientes, sin identificar hasta el momento a un responsable individual [F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/analisis-juridico-del-caso-alvaro-uribe-velez/",
+              "note": "Análisis del caso penal de Álvaro Uribe Vélez; no contiene información sobre el hallazgo fiscal de vivienda rural, por lo que no aporta a la afirmación verificada.",
+              "host": "razonpublica.com",
+              "title": "Un análisis jurídico del caso contra Álvaro Uribe Vélez",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/10/Alvaro-Uribe.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/estas-son-las-pruebas-de-la-fiscalia-contra-uribe/",
+              "note": "Detalla las pruebas de la Fiscalía contra Uribe; tampoco se refiere al contrato de vivienda rural ni a la Contraloría, por lo que no aporta a esta afirmación.",
+              "host": "lasillavacia.com",
+              "title": "Estas son las pruebas de la Fiscalía contra Uribe",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/06/portada.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.larepublica.co/economia/contraloria-detecto-irregularidades-por-mas-de-9-000-millones-en-contrato-de-vivienda-rural-4526236",
+              "note": "Confirma el hallazgo fiscal de $9.000 millones, las fotografías repetidas, las coordenadas coincidentes, las 217 visitas diarias y el traslado de presuntas incidencias a las autoridades competentes.",
+              "host": "larepublica.co",
+              "title": "Contraloría detectó irregularidades de $9.000 millones en contrato de vivienda",
+              "image": "https://img.lalr.co/cms/2026/09/14095053/FOTO-5-3.png?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.lafm.com.co/economia/contraloria-detecta-irregularidades-contrato-vivienda-rural-minagricultura-417390",
+              "note": "Reproduce el detalle del hallazgo validado por la Contraloría Delegada para el Sector Agropecuario, fechado el 17 de noviembre de 2026, e indica que las incidencias serán objeto de actuaciones de las autoridades competentes.",
+              "host": "lafm.com.co",
+              "title": "Contraloría detecta irregularidades por $9.000 millones en contrato de vivienda rural del Ministerio de Agricultura",
+              "image": "https://files.lafm.com.co/media/news-images/2026/08/20/200247/edificio-contraloria-general-1200x675.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.portafolio.co/economia/gobierno/contraloria-reporta-hallazgo-por-9-000-millones-en-consultoria-contratada-por-el-ministerio-de-agricultura-506508",
+              "note": "Aporta el contexto del programa VISR (221.457 subsidios entre 2000 y 2017) y los bajos porcentajes de entrega reportados por el DNP, útil para el análisis de qué se omite.",
+              "host": "portafolio.co",
+              "title": "Contraloría reporta hallazgo por $9.000 millones en consultoría contratada por el Ministerio de Agricultura",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/02/05/6984b68dcf4cc.r_d.629-335-0.png"
             }
           ]
         }
