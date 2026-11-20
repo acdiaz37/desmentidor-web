@@ -12,6 +12,13 @@
 >   `MEJORAS_DISENO_DESMENTIDOR.md`. De ese documento **siguen vigentes las reglas de
 >   estructura y de conservación de contenido**; la paleta y la tipografía no.
 
+## 0. Web y video comparten sistema
+
+Los videos usan la plantilla **`vt-expediente-v2` "Póster"** de AI_VIDS
+(`AI_VIDS/templates/vt-expediente-v2/README.md`), con los mismos tokens, tipografía,
+escala de veredictos y lenguaje de movimiento que esta web. Si cambias un token aquí,
+cámbialo también en `AI_VIDS/templates/remotion-base/src/expediente2/theme.ts`.
+
 ## 1. Identidad
 
 Sale de la guía de marca de la plantilla de video (`AI_VIDS/templates/vt-desmentidor-v1`):
