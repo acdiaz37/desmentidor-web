@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:38:12",
+  "generatedAt": "2026-11-19T23:23:55",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -13626,6 +13626,277 @@
               "host": "cambiocolombia.com",
               "title": "Carlos Alonso Lucio: la historia del exguerrillero del M-19 que hoy le habla al oído a Abelardo de la Espriella",
               "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/Whats_App_Image_2026_06_26_at_1_13_58_PM_2_da26ac0fda_full-width.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "76k-views-7-1k-reactions-yo-se-lo-digo-por-ti-jerome-guillermo-portoca",
+      "title": "76K views · 7.1K reactions | YO SE LO DIGO POR TI JEROME!! | Guillermo Portocarrero Psi",
+      "uploader": "Guillermo Portocarrero Psi",
+      "url": "https://m.facebook.com/watch/?v=2301532154037689&_rdr",
+      "duration": 42.26,
+      "thumbnail": "/media/76k-views-7-1k-reactions-yo-se-lo-digo-por-ti-jerome-guillermo-portoca/thumb.jpg",
+      "conclusion": "## La defensa que protege con elogio y ataca con etiquetas sin fundamento\n\nEl video construye una narrativa de defensa personal de Jerome Sanabria frente a una periodista, combinando elogios subjetivos hacia la joven con descalificaciones hacia la comunicadora. La percepción que genera es que Jerome es una persona íntegra, educada y digna cuyo perfil no admite cuestionamiento, mientras que quien la critica lo hace desde una postura ideológicamente sesgada que invalida su ejercicio periodístico.\n\nAlgunos elementos de esa narrativa tienen base real: Ana Cristina Restrepo es efectivamente una periodista colombiana con 29 años de trayectoria, reconocida por organismos internacionales y premiada por su labor. Jerome Sanabria sí es una joven con una trayectoria política y académica verificable: personera, consejera de juventud, estudiante de Jurisprudencia e Historia en la Universidad del Rosario e integrante de comités anticorrupción. Estos datos son ciertos y el video los utiliza correctamente como sustento de sus elogios.\n\nEl problema comienza cuando esos mismos datos verdaderos se usan para construir una impresión que no los contiene por completo. Los calificativos «muy educada» y «dama en todo el sentido de la palabra» son valoraciones subjetivas sin criterio verificable, pero su formulación tonal produce la impresión de que son descripciones objetivas. Más problemático aún es la etiqueta «de izquierda» aplicada a la periodista sin evidencia alguna de su filiación ideológica: el efecto de esta presentación es deslegitimar críticas reales —como las sobre la falta de experiencia de Jerome para integrar el Comité Nacional del Empalme— reduciéndolas a sesgo político en lugar de argumentar sobre el fondo.\n\nEl punto de quiebre ocurre en la transición entre «Restrepo es una periodista con trayectoria» (verdadero) y «es de izquierda, por lo tanto sus señalamientos carecen de validez». La afirmación ideológica sin sustento funciona como puente para convertir una opinión en refutación. Es ahí cuando el video pasa de «esto es cierto» a «por lo tanto la crítica es ilegítima».\n\nEl contexto que falta es significativo: el video omite que Jerome publicó un trino sobre el terremoto del 10 de agosto que borró y por el que se disculpó, que circuló un montaje falso atribuido a ella, y que existen críticas documentadas por su falta de experiencia al integrar el comité de empalme. También omite que la alerta de la ONU sobre Restrepo fue por amenazas contra ella, no por sesgo ideológico.\n\nUna interpretación más completa sería: se trata de un video de opinión que defiende a una joven con credenciales reales pero sin apelar a un análisis de sus acciones controvertidas, mientras descalifica a una periodista con etiqueta ideológica no sustentada. Es un intercambio donde conviven datos verdaderos y afirmaciones sin evidencia en proporciones parejas.",
+      "conclusionLabel": "A medias",
+      "conclusionColor": "lime",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "social",
+          "claim": "Se afirma que Jerón Sanabria es una niña muy educada.",
+          "quote": "Jerón Sanabria es una niña muy educada",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "«Jerón Sanabria es una niña muy educada» es una valoración subjetiva y no un hecho verificable: las fuentes confirman datos biográficos de Jerome Sanabria (edad, estudios, trayectoria) pero no contienen ningún juicio sobre su educación o crianza, que depende de la apreciación de quien habla [F4][F5].",
+          "context": "Las fuentes coinciden en que Jerome Sanabria es una joven colombiana de 19 a 20 años, nacida o formada en Bogotá, ex personera de su colegio y consejera de juventud en la localidad de San Cristóbal, estudiante de Jurisprudencia e Historia en la Universidad del Rosario, activista e influenciadora ligada a la plataforma «No con mi ahorro», columnista de La República y, según El Colombiano, integrante del Comité Nacional del Empalme Anticorrupción del gobierno entrante de Abelardo de la Espriella [F4][F5]. También circuló sobre ella una desinformación verificada: una supuesta frase atribuida por un montaje que imitaba a Caracol Radio, que La Silla Vacía calificó de falsa; lo que sí existió fue un trino suyo sobre el terremoto del 10 de agosto, que ella borró y por el que pidió disculpas [F2]. El periodista Rafael Sanabria Díaz y el general Henry Sanabria que aparecen en otras fuentes son personas distintas y no aportan datos sobre ella [F1][F3].",
+          "progressivePerspective": "El marco de verdad, justicia, reparación y no repetición de la JEP no resulta aplicable aquí, porque el video no trata del conflicto armado colombiano ni de procesos de la JEP. En términos de rigor informativo, lo que cabe señalar es que «muy educada» es una cualidad atribuida, no constatable: las fuentes solo respaldan hechos comprobables (su corta edad, su paso por la personería escolar y la consejería de juventud, sus estudios universitarios), y ninguna emite un juicio sobre su educación personal [F4][F5]. El uso del diminutivo «niña» para una adulta de 19 o 20 años que ocupa un cargo en un comité de empalme introduce una carga valorativa adicional que las fuentes no respaldan ni desmienten, y esa misma cualidad puede leerse de modo opuesto según el interés de quien la formula [F4][F5].",
+          "whatTheyOmit": "El video no aporta ningún criterio verificable ni evidencia que sustente el calificativo «muy educada»; las fuentes disponibles solo describen su trayectoria académica y política, sin emitir valoraciones sobre su educación [F4][F5]. También omite que sobre ella ha circulado desinformación verificada como falsa, contexto relevante para evaluar afirmaciones que circulan en su contra o a su favor [F2].",
+          "keyFacts": [
+            "Jerome Sanabria es una joven colombiana de 19 años en 2026, según la biografía consultada [F4]",
+            "Fue personera de su colegio y consejera de juventud en la localidad de San Cristóbal de Bogotá [F4]",
+            "Estudia Jurisprudencia e Historia en la Universidad del Rosario y es columnista de La República [F5]",
+            "Es activista e influenciadora ligada a la plataforma «No con mi ahorro» e integrante del Comité Nacional del Empalme Anticorrupción [F5]",
+            "Una supuesta frase suya sobre el terremoto del 10 de agosto fue verificada como falsa: se trató de un montaje que imitaba a Caracol Radio [F2]",
+            "Las fuentes no registran ningún juicio externo —positivo ni negativo— sobre su educación o crianza, por lo que el calificativo «muy educada» no es verificable [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/libertad-orden-vivir-policia-pensamiento-kuir/",
+              "note": "Artículo de Razón Pública sobre el general Henry Sanabria y el pensamiento cuir; se refiere a una persona distinta y no aporta datos sobre Jerome Sanabria.",
+              "host": "razonpublica.com",
+              "title": "“Libertad y orden”, “vivir en policía” y pensamiento kuir",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/04/general-Sanabria-religion-policia-Elias-Sevilla.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-jerome-sanabria-no-dijo-que-creyo-el-sismo-fue-solo-en-zonas-petristas/",
+              "note": "Verificación de La Silla Vacía: desmiente un montaje atribuido a Jerome Sanabria tras el sismo del 10 de agosto y documenta su trino real y su posterior disculpa. Aporta contexto sobre afirmaciones falsas que circulan sobre ella.",
+              "host": "lasillavacia.com",
+              "title": "Detector: Jerome Sanabria no dijo que creyó el sismo fue solo en zonas petristas",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/08/Jerome-Sanabria.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://elecciones-2026.lasillavacia.com/rafael-sanabria-diaz",
+              "note": "Ficha de Rafael Sanabria Díaz, periodista y exárbitro; no se refiere a Jerome Sanabria.",
+              "host": "elecciones-2026.lasillavacia.com",
+              "title": "Rafael Sanabria Díaz",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.tunota.com/entretenimiento/quien-es-jerome-sanabria-wikipedia-biografia-origen-y-familia-de-la-influencer-2026-07-02",
+              "note": "Biografía de Jerome Sanabria: edad, personería escolar, consejería de juventud, lecturas y aspiración política; no emite juicios sobre su educación.",
+              "host": "tunota.com",
+              "title": "¿Quién es Jerome Sanabria?: Wikipedia, biografía, origen y familia de la influencer",
+              "image": "https://www.tunota.com/wp-content/uploads/2026/07/principal_quien-es-jerome-sanabria-wikipedia-biografia-origen-y-familia-de-la-influencer.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/quien-es-jerome-sanabria-empalme-abelardo-de-la-espriella-CK38455025",
+              "note": "Perfil de El Colombiano: estudios en el Rosario, activismo, participación en el comité de empalme y críticas recibidas; aporta datos biográficos verificables pero no valoraciones sobre su educación.",
+              "host": "elcolombiano.com",
+              "title": "Â¿QuiÃ©n es Jerome Sanabria, la joven de 20 aÃ±os que protagoniza el empalme de De la Espriella y genera polÃ©mica en redes?",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c0/1280d720/none/11101/SBNL/collage-2026-07-03t095930-458_51031015_20260703100028.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "social",
+          "claim": "Se afirma que Jerón Sanabria es una dama en todo el sentido de la palabra.",
+          "quote": "Jerón Sanabria es una dama en todo el sentido de la palabra",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación \"Jerón Sanabria es una dama en todo el sentido de la palabra\" es una valoración subjetiva y de cortesía, no un dato comprobable: no existe en las fuentes ningún criterio objetivo que permita calificar a una persona como \"dama en todo el sentido de la palabra\". Las fuentes solo permiten verificar quién es la persona referida: Jerome Sanabria, activista e influenciadora colombiana [F2][F4][F5].",
+          "context": "Las fuentes describen a Jerome Sanabria como una joven de 20 años, estudiante de Jurisprudencia e Historia en la Universidad del Rosario, activista e influenciadora, columnista de La República, líder del movimiento \"No con mi ahorro\" contra la reforma pensional e integrante del Comité Nacional del Empalme Anticorrupción del gobierno entrante de Abelardo de la Espriella [F5][F4]. También se documenta que publicó un trino sobre el terremoto del 10 de agosto (\"Milei dijo: 'Zurdos hdp, tiemblen', y Colombia tembló\"), lo borró y posteriormente ofreció disculpas en video, poniéndose al servicio de los damnificados; una frase más dura que se le atribuyó fue calificada como montaje falso por el Detector de La Silla Vacía [F2]. El terremoto dejó 181 muertos y 1.310 heridos [F2]. Conviene notar que en las fuentes el nombre aparece como \"Jerome Sanabria\" y que el video lo escribe \"Jerón\", y que no hay fuente que documente el rol, la condición ni el propósito del hablante más allá de la ficha del video.",
+          "progressivePerspective": "Este video no trata del conflicto armado colombiano ni de la JEP, por lo que los ejes de verdad, justicia, reparación y no repetición no resultan aplicables de forma directa. En términos generales, una afirmación como esta aporta al esclarecimiento de hechos verificables solo en la medida en que separa la descripción de la valoración: las fuentes permiten establecer hechos contrastables sobre la trayectoria de Sanabria (su edad, sus estudios, su activismo, su integración al empalme y su disculpa pública tras el trino del sismo) [F5][F4][F2], mientras que el calificativo de \"dama\" es opinión y no evidencia; presentarlo como si fuera un hecho verificable desvía la atención del contenido documentable. Las fuentes no alcanzan para concluir nada sobre el carácter o la trayectoria moral de la persona más allá de lo anteriormente anotado, por lo que la afirmación queda como juicio de valor sin respaldo documental.",
+          "whatTheyOmit": "La frase omite todo dato verificable sobre la persona a la que se refiere: no aporta edad, formación, cargos, hechos concretos ni fuente alguna que sustente el calificativo, que por su naturaleza no es comprobable [F4][F5]. También omite el contexto de controversias documentadas en torno a ella, como el trino sobre el terremoto que borró y por el que se disculpó y el montaje falso que circuló sobre esa misma episode [F2], así como las críticas públicas sobre su falta de experiencia al integrar el comité de empalme [F5].",
+          "keyFacts": [
+            "Jerome Sanabria es una joven activista e influenciadora colombiana, de 20 años, estudiante de Jurisprudencia e Historia en la Universidad del Rosario [F5][F4]",
+            "Integra el Comité Nacional del Empalme Anticorrupción del gobierno entrante de Abelardo de la Espriella, según su propio anuncio recogido por prensa [F5]",
+            "Publicó un trino sobre el terremoto del 10 de agosto que borró y por el que posteriormente ofreció disculpas en video [F2]",
+            "Una frase más dura atribuida a Sanabria sobre el sismo fue verificada como montaje falso que suplantó a Caracol Radio [F2]",
+            "La afirmación \"es una dama en todo el sentido de la palabra\" no es verificable con las fuentes: es una valoración subjetiva [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-policia-nacional-momento-complejo/",
+              "note": "Article about the Police command change (generals Henry Armando Sanabria and Yackeline Navarro); it refers to a different person with the surname Sanabria and does not inform about Jerome Sanabria.",
+              "host": "razonpublica.com",
+              "title": "La Policía Nacional: un momento complejo | Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2022/08/Petro-defensa-policia-humana-Jorge-Hernan-Cardenas.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-jerome-sanabria-no-dijo-que-creyo-el-sismo-fue-solo-en-zonas-petristas/",
+              "note": "Fact-check: identifies Jerome Sanabria as activist linked to Abelardo de la Espriella's team, documents her earthquake tweet, her apology video, and falsifies a attributed quote; also gives earthquake casualty figures.",
+              "host": "lasillavacia.com",
+              "title": "Detector: Jerome Sanabria no dijo que creyó el sismo fue solo en zonas petristas",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/08/Jerome-Sanabria.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://elecciones-2026.lasillavacia.com/rafael-sanabria-diaz",
+              "note": "Profile of Rafael Sanabria Díaz, a journalist and former football referee; a different person, useful only to avoid confusing surnames.",
+              "host": "elecciones-2026.lasillavacia.com",
+              "title": "Rafael Sanabria Díaz",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.tunota.com/entretenimiento/quien-es-jerome-sanabria-wikipedia-biografia-origen-y-familia-de-la-influencer-2026-07-02",
+              "note": "Biographical profile: age, school and youth council background, her leadership of 'No con mi ahorro' and her 2050 presidential aspiration.",
+              "host": "tunota.com",
+              "title": "¿Quién es Jerome Sanabria?: Wikipedia, biografía, origen y familia de la influencer",
+              "image": "https://www.tunota.com/wp-content/uploads/2026/07/principal_quien-es-jerome-sanabria-wikipedia-biografia-origen-y-familia-de-la-influencer.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/quien-es-jerome-sanabria-empalme-abelardo-de-la-espriella-CK38455025",
+              "note": "Biographical profile: student at Universidad del Rosario, columnist, member of the transition committee, and the public criticism she has received about her experience.",
+              "host": "elcolombiano.com",
+              "title": "Â¿QuiÃ©n es Jerome Sanabria, la joven de 20 aÃ±os que protagoniza el empalme de De la Espriella y genera polÃ©mica en redes?",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c0/1280d720/none/11101/SBNL/collage-2026-07-03t095930-458_51031015_20260703100028.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "Se atribuye a Ana Cristina Restrepo la condición de periodista.",
+          "quote": "no le puede decir a Ana Cristina Restrepo ... a la periodista yo le voy a decir",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación atribuye a Ana Cristina Restrepo la condición de periodista, y las fuentes la confirman de forma consistente: es una periodista colombiana con trayectoria publicada en medios nacionales y reconocida como tal por entidades de prensa, premios y organismos internacionales [F2][F3][F4][F5].",
+          "context": "Ana Cristina Restrepo Jiménez es periodista con 29 años de ejercicio profesional; ha escrito más de 180 columnas en medios como El Colombiano y publicó el libro 'Autorretrato, una alegoría al periodismo' (Sílaba Editores, 2022) [F5]. Su perfil profesional está documentado en portales de medios y editoriales [F4]. Días antes de la alerta de la ONU recibió el Premio Alberto Aguirre a la Independencia Periodística [F3]. El contexto del cruce mencionado en el video es un debate en un panel de RCN sobre el Acuerdo de Paz en el que participó Jerome Sanabria, seguido de señalamientos en redes que llevaron a la Oficina de Derechos Humanos de la ONU en Colombia a pedir protección para ella, afirmando que 'ejerce el periodismo y cubre entre otros temas, derechos de las víctimas y paz' [F3]. Anteriormente, en un caso distinto, el entonces alcalde de Medellín Daniel Quintero fue obligado por un juzgado a rectificar señalamientos contra Restrepo, en los que la acusó de recibir pagos y de ser 'operadora política', y terminó reconociendo que no tenía motivos fundados [F2].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repetición aplicable al debate sobre el conflicto armado y la JEP, el reconocimiento de Restrepo como periodista es relevante porque su trabajo se centra en cubrir derechos de las víctimas y el proceso de paz [F3][F5]. La ONU ha establecido que ningún periodista debe ver amenazada su seguridad o su labor por ejercer su profesión o expresar opiniones, y que la crítica legítima no debe convertirse en agresiones, estigmatización ni desinformación [F3]. Un debate que parte del reconocimiento del rol periodístico y de la exigencia de reportería, documentación y verificación —como señaló Restrepo en el cruce [F3]— abona al esclarecimiento de la verdad y a la no repetición, en tanto privilegia el hecho verificado sobre la imputación sin sustento [F2][F3].",
+          "whatTheyOmit": "El video no aporta, en la cita revisada, evidencia sobre el contenido de la controversia ni sobre quién es Jerome Sanabria ni el origen del cruce; las fuentes muestran que el episodio fue un debate en un panel de RCN sobre el Acuerdo de Paz que derivó en señalamientos personales sin sustento, motivo de la intervención de la ONU [F3]. Tampoco se menciona el precedente judicial de rectificación ordenada a Daniel Quintero por señalamientos contra la misma periodista, ni que Restrepo recibió un premio a la independencia periodística un día antes de la alerta de la ONU [F2][F3]. La fuente [F1] corresponde a una autora distinta (Ana María Restrepo de Razón Pública) y no sirve para verificar esta afirmación.",
+          "keyFacts": [
+            "La cita del video ('a la periodista yo le voy a decir') atribuye a Ana Cristina Restrepo la condición de periodista, condición confirmada por múltiples fuentes [F2][F3][F4][F5]",
+            "Ana Cristina Restrepo tiene 29 años de ejercicio periodístico y publicó más de 180 columnas en medios colombianos, incluido El Colombiano [F5]",
+            "La Oficina de Derechos Humanos de la ONU en Colombia afirmó que 'ejerce el periodismo y cubre entre otros temas, derechos de las víctimas y paz' [F3]",
+            "Restrepo fue panelista en un programa de Blu Radio según La Silla Vacía [F2]",
+            "Días antes de la alerta de la ONU recibió el Premio Alberto Aguirre a la Independencia Periodística [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/author/anamr/",
+              "note": "Página de la autora 'Ana María Restrepo' en Razón Pública; corresponde a una persona distinta de Ana Cristina Restrepo y no aporta datos para verificar esta afirmación específica.",
+              "host": "razonpublica.com",
+              "title": "Ana María Restrepo, autor en Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2020/01/Ana_Maria_Restrepo_Razonpublica.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/quintero-ya-se-rectifico-por-senalamientos-contra-ana-cristina-restrepo/",
+              "note": "Confirma que Ana Cristina Restrepo es periodista y panelista de Blu Radio; documenta la orden judicial de rectificación a Daniel Quintero por señalamientos contra ella.",
+              "host": "lasillavacia.com",
+              "title": "Quintero ya rectificó los señalamientos contra Ana Cristina Restrepo",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/11/Quintero.jpeg?fit=1200%2C720&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.colombia.com/entretenimiento/noticias/quien-es-ana-cristina-restrepo-la-periodista-que-recibio-una-alerta-de-la-onu-613157",
+              "note": "Perfil de la periodista, contexto del cruce con Jerome Sanabria en un panel de RCN sobre el Acuerdo de Paz, intervención de la ONU y premio recibido; aporta el marco del debate.",
+              "host": "colombia.com",
+              "title": "Ana Cristina Restrepo: el encontronazo con una activista que terminó en alerta de la ONU",
+              "image": "https://cdn.colombia.com/sdi/2026/11/18/quien-es-ana-cristina-restrepo-la-periodista-que-recibio-una-alerta-de-la-onu-1366849.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://silaba.com.co/ana-cristina-restrepo/",
+              "note": "Perfil biográfico en el que se declara: 'Amo mi carrera en el periodismo'; confirma su condición de periodista.",
+              "host": "silaba.com.co",
+              "title": "Perfil de Ana Cristina Restrepo - Sílaba Editores",
+              "image": "https://silaba.com.co/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-9.45.44-AM.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/cultura/autorretrato-una-alegoria-al-periodismo-el-nuevo-libro-de-ana-cristina-restrepo-PG17558632",
+              "note": "Detalla su trayectoria de 29 años en el periodismo, su libro sobre el oficio y su compromiso con las víctimas; confirma y da magnitud a su condición de periodista.",
+              "host": "elcolombiano.com",
+              "title": "Ana Cristina Restrepo y el libro que le dedicÃ³ a las mujeres de su vida",
+              "image": "https://estaticos.elcolombiano.com/binrepository/580x365/0c0/0d0/none/11101/VUBV/collage-sin-titulo-1_40025197_20220523162050.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Se afirma que la periodista mencionada es de izquierda.",
+          "quote": "usted es una periodista una malparidad izquierda",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes entregadas no identifican a la periodista aludida ni aportan dato alguno sobre su orientación ideológica, de modo que la afirmación de que 'es de izquierda' no puede verificarse con la evidencia disponible; en el material solo aparece una caracterización subjetiva acompañada de un insulto [F3][F5][F4].",
+          "context": "Como marco general, las encuestas disponibles sitúan a la mayoría de los colombianos en el centro: 45 % de centro frente a 32 % de derecha y 22 % de izquierda (encuesta Polimétrica de Cifras y Conceptos, 27 de octubre–4 de noviembre, 3.361 personas) [F5]; el Barómetro de las Américas 2016 reportaba 56 % de centro, 23 % de derecha y 21 % de izquierda, y concluía que la polarización colombiana no se produce por distancias ideológicas sino por el eje uribismo vs. no uribismo [F4]. En el ciclo electoral 2025-2026 se registró la consolidación de la izquierda como opción de poder con la candidatura de Iván Cepeda al mismo tiempo que el ascenso de un outsider de derecha radical [F1]. Ninguno de estos datos permite atribuir una ideología a una persona concreta sin evidencia documental de sus declaraciones o filiaciones.",
+          "progressivePerspective": "El análisis de fondo distingue dos planos: (1) el HECHO verificable, que aquí no existe: ninguna fuente identifica a la periodista ni documenta su posición ideológica [F3][F5][F4]; y (2) la CALIFICACIÓN, que es opinión del hablante, reforzada por un adjetivo insultante que descalifica a la persona en lugar de discutir sus argumentos. Desde la lógica de la verdad y la no repetición de la desinformación —aplicable también al debate público sobre el conflicto y la JEP—, etiquetar periodistas sin evidencia reproduce el patrón documentado por verificadores: las etiquetas ideológicas circulan y se atribuyen sin respaldo, como ocurrió con la frase falsamente atribuida a Jaime Garzón, verificada por un fact-checker de la IFCN [F2]. La atribución infundada de lealtades ideológicas a comunicadores deteriora la posibilidad de un debate basado en argumentos y verificación, que es la base de la garantía de no repetición de la desinformación; no abona, por tanto, al esclarecimiento de la verdad, sino a la descalificación personal.",
+          "whatTheyOmit": "Omite (1) el nombre o cualquier elemento que permita identificar a la periodista mencionada, sin lo cual la afirmación es inverificable [F3]; (2) cualquier evidencia —declaraciones, filiación partidista, votos, escritos— que sustente la etiqueta de 'izquierda'; (3) que en Colombia la autoidentificación ideológica mayoritaria es el centro y que las etiquetas izquierda/derecha explican menos la polarización que los liderazgos [F4][F5]; y (4) que la descalificación insultante sustituye el argumento por el ataque a la persona [F2].",
+          "keyFacts": [
+            "La encuesta Polimétrica de Cifras y Conceptos (27 oct–4 nov, 3.361 personas) reporta 45 % de colombianos de centro, 32 % de derecha y 22 % de izquierda [F5]",
+            "El Barómetro de las Américas 2016 (Observatorio de la Democracia, Universidad de los Andes) sitúa a 56 % en el centro, 23 % en la derecha y 21 % en la izquierda, y concluye que la polarización se da por el eje uribismo/no uribismo, no por la ideología [F4]",
+            "En el ciclo 2025-2026 se registra la consolidación de la izquierda como opción de poder y el ascenso de un outsider de derecha radical [F1]",
+            "Un caso verificado por fact-checker de la IFCN muestra que atribuciones ideológicas falsas circulan ampliamente en redes (frase falsamente atribuida a Jaime Garzón) [F2]",
+            "Las fuentes no contienen información sobre la identidad ni la orientación ideológica de la periodista aludida en el video [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/especial-outsider-la-izquierda-fin-del-uribismo/",
+              "note": "Contexto electoral colombiano 2025-2026: ascenso de un outsider de derecha radical, consolidación de la izquierda con Iván Cepeda y debilitamiento del uribismo. Aporta el mapa político general, no información sobre la periodista.",
+              "host": "razonpublica.com",
+              "title": "Especial: el outsider, la izquierda y el fin del uribismo",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/06/9.1.-registraduria.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-garzon-no-dijo-que-las-personas-de-izquierda-son-pobres-ignorantes/",
+              "note": "Verificación de un fact-checker de la IFCN: atribución ideológica falsa a Jaime Garzón; sirve como contraste sobre la circulación sin evidencia de etiquetas y frases políticas.",
+              "host": "lasillavacia.com",
+              "title": "De nuevo, Garzón no dijo que las personas de izquierda son “pobres ignorantes”",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/04/Jaime-Garzon.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.youtube.com/@GuillermoPsico77",
+              "note": "Canal asociado al autor del video; solo contiene datos de la plataforma, sin información sobre la periodista mencionada ni sobre su ideología.",
+              "host": "youtube.com",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://especiales.semana.com/big-data-electoral/colombia-polarizada/index.html",
+              "note": "Datos de identificación ideológica (Barómetro de las Américas 2016) y análisis de la polarización colombiana; contraste sobre el uso de las etiquetas izquierda/derecha.",
+              "host": "especiales.semana.com",
+              "title": "Â¿Colombia de Izquierda, centro o derecha? polarizaciÃ³n segÃºn bÃºsquedas",
+              "image": "https://especiales.semana.com/big-data-electoral/colombia-polarizada/index.html"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2025/11/05/el-45-de-los-colombianos-se-declara-de-centro-pero-no-hay-candidato-que-los-represente-segun-encuesta-polimetrica-de-cifras-y-conceptos/",
+              "note": "Encuesta Polimétrica de Cifras y Conceptos (3.361 personas) sobre autoidentificación ideológica; aporta la magnitud real de las identificaciones de izquierda, centro y derecha en Colombia.",
+              "host": "infobae.com",
+              "title": "Ni a la izquierda ni a la derecha: una gran mayoría de los colombianos siente que no hay un candidato que los represente, según encuesta Polimétrica de Cifras y Conceptos",
+              "image": "https://www.infobae.com/resizer/v2/BLFWK5AQERFQFCAIGBXJHZMWCY.png?auth=7c9a6af7d8e61d7476a34e81c8c38986417d0cc83a44ed65e6836a8f0a640845&smart=true&width=1200&height=630&quality=85"
             }
           ]
         }
