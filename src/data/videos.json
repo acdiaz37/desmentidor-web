@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:23:55",
+  "generatedAt": "2026-11-19T23:56:49",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -13897,6 +13897,356 @@
               "host": "infobae.com",
               "title": "Ni a la izquierda ni a la derecha: una gran mayoría de los colombianos siente que no hay un candidato que los represente, según encuesta Polimétrica de Cifras y Conceptos",
               "image": "https://www.infobae.com/resizer/v2/BLFWK5AQERFQFCAIGBXJHZMWCY.png?auth=7c9a6af7d8e61d7476a34e81c8c38986417d0cc83a44ed65e6836a8f0a640845&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "38k-views-3-8k-reactions-en-el-gobierno-de-abelardo-de-la-espriella-tr",
+      "title": "38K views · 3.8K reactions | En el Gobierno de Abelardo De La Espriella trabajamos en equipo, nos ponemos metas desafiantes y las logramos por Colombia 🇨🇴 Cerramos la Milagro Week en Nueva York con US$43.205 millones en compromisos de inversión: más del doble de la meta. Y lo más importante: es inversión para 11 sectores de la economía, que llegará a 24 departamentos del país y generará más de 55.000 empleos. Es el resultado de un equipo que trabajó sin descanso, con entrega, pasión y amor por Colombia. Cada campanazo fue de todos. Y no paramos aquí: la próxima parada de la Milagro Week es Madrid, en marzo de 2027. ¡Firmes por la Patria! | José Manuel Restrepo Abondano",
+      "uploader": "José Manuel Restrepo Abondano",
+      "url": "https://m.facebook.com/watch/?v=1439054431738371&_rdr",
+      "duration": 118.8,
+      "thumbnail": "/media/38k-views-3-8k-reactions-en-el-gobierno-de-abelardo-de-la-espriella-tr/thumb.jpg",
+      "conclusion": "## Una celebración construida sobre datos reales pero sin contexto de ejecución\n\nEl video de José Manuel Restrepo Abondano presenta la primera Milagro Week como un triunfo rotundo del equipo de gobierno: US$43.205 millones en compromisos que duplicaron la meta, presencia en 24 departamentos, más de 55.000 empleos proyectados y una próxima sede en Madrid. La narrativa construida produce la impresión de un impacto económico inmediato y transformador, donde Colombia ya se beneficia de estos anuncios. La retórica de \"logramos por Colombia\", \"sin descanso, con entrega\" refuerza la idea de un logro consumado y medible.\n\nLo que sí tiene base real es el conjunto de cifras centrales: los US$43.205 millones en compromisos efectivamente se registraron, la meta de US$20.000 millones se superó por más del doble, los compromisos cubren 11 sectores y 24 departamentos, y Madrid será la próxima sede en marzo de 2027. Estos datos están respaldados por fuentes independientes y el balance oficial del evento.\n\nEl problema de interpretación surge en el salto de \"anuncio de inversión\" a \"inversión que llega y empleos que genera\". El video presenta los US$43.205 millones como un logro consolidado, sin distinguir que se trata de compromisos y anuncios pendientes de ejecución, no de capital desembolsado. Además, más de la mitad del total (US$21.400 millones) proviene de la banca multilateral —IFC, BID Invest, CAF— destinada al sector privado, no de inversión empresarial directa. La cifra de 55.000 empleos es presentada como un resultado, cuando el propio video la enmarca como estimación. Y el dato de 24 departamentos, aunque consistente con el balance oficial, no informa cuánto pesa cada proyecto en cada territorio ni si existen compromisos vinculantes con las gobernaciones.\n\nEl punto de quiebre exacto es el momento en que el video dice \"generará más de 55.000 empleos\". Hasta ese punto, los anuncios de inversión y la cobertura territorial son descripciones verificables de lo que ocurrió en el evento. Pero al presentar proyecciones laborales como un efecto ya determinado, el video pasa de \"esto ocurrió y es cierto\" a \"por lo tanto, la realidad económica del país cambiará\", sin reconocer que los proyectos están en distintas etapas, varios requieren permisos ambientales, y 88 de los 101 proyectos privados presentados ya existían antes de la Milagro Week.\n\nEl contexto que falta es crucial para la interpretación: no todo proyecto anunciado se ejecutará en los plazos estimados, el financiamiento multilateral tiene condiciones y plazos plurianuales, y parte de la cartera presentada corresponde a iniciativas preexistentes. Esta ausencia no invalida el evento como logro diplomático y de articulación, pero sí produce una percepción exagerada del impacto económico real. La interpretación más completa es que la Milagro Week logró una cifra impresionante de compromisos de inversión en un marco de relaciones internacionales, pero que su materialización económica dependerá de la ejecución concreta de cada proyecto, el cumplimiento de condiciones regulatorias y el seguimiento a largo plazo. El mérito real está en la articulación y la negociación, no en un resultado económico ya consumado.",
+      "conclusionLabel": "Con matices",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se alcanzó un monto de 43.000 millones de dólares en Milagro Week, el doble de la meta establecida.",
+          "quote": "43.000 millones de dólares, el doble de la meta lo acabamos haciendo",
+          "figures": [
+            "43.000 millones de dólares",
+            "el doble de la meta"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero incompleto",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El balance de la primera Milagro Week en Nueva York fue de US$43.205 millones en compromisos de inversión y financiación, frente a una meta previa de US$20.000 millones, por lo que la cifra efectivamente supera el doble de la meta [F2][F3][F4][F5].",
+          "context": "La cifra citada en el video (43.000 millones) corresponde alredondeo del monto preciso, US$43.205 millones, reportado por el vicepresidente José Manuel Restrepo, quien entregó el balance del encuentro [F2][F3]. De ese total, US$21.805 millones corresponden a iniciativas empresariales y privadas y US$21.400 millones a compromisos de banca multilateral (IFC/Banco Mundial US$10.000 millones, BID Invest US$6.000 millones y CAF US$5.400 millones) dirigidos al sector privado [F4][F5]. La meta original declarada antes del viaje fue de US$20.000 millones, de modo que US$43.205 millones representa más del doble [F3][F4]. La cartera abarca 11 sectores, 24 departamentos y una proyección de más de 55.000 empleos [F3][F4][F5]. Las fuentes advierten que se trata de anuncios y compromisos en distintas etapas de desarrollo, no de recursos ya desembolsados ni inversiones ejecutadas, y que la materialización requiere seguimiento posterior [F4][F5].",
+          "progressivePerspective": "El emisor de la afirmación es un funcionario de gobierno —el vicepresidente— presentando el balance de una actividad de promoción de inversiones de su propia administración, por lo que la cifra es un autorreporte oficial ampliamente replicado por medios de distinto perfil [F2][F3][F4][F5]. En términos de rendición de cuentas, la distinción clave es entre compromisos anunciados e inversiones efectivamente ejecutadas: las propias fuentes señalan que los montos no representan desembolsos realizados y que el siguiente paso es verificar la materialización, la generación de empleo y los resultados concretos en las regiones antes de la próxima edición en Madrid en marzo de 2027 [F4][F5]. Una lectura orientada a la no repetición de promesas sin cumplimiento exige, por tanto, acompañar el dato con su tasa de ejecución futura, dato que estas fuentes aún no aportan, por lo que la afirmación es verificable en su monto pero incompleta en su alcance real [F4][F5].",
+          "whatTheyOmit": "El video presenta la cifra como logro consolidado sin precisar que se trata de anuncios y compromisos pendientes de ejecución, no de capital desembolsado o proyectos en marcha [F4][F5]. También omite que más de la mitad del total (US$21.400 millones) proviene de compromisos de banca multilateral para el sector privado [F2][F4], y que varios anuncios están condicionados, como el de AngloGold Ashanti, sujeto a la obtención de permisos ambientales [F3][F5]. Adicionalmente no se menciona que algunos proyectos abarcan plazos plurianuales, por ejemplo Addi US$2.000 millones en 24 meses y Parex US$2.500 millones en cuatro años [F5].",
+          "keyFacts": [
+            "La primera Milagro Week, realizada en Nueva York, cerró con anuncios de inversión por US$43.205 millones para Colombia, cifra reportada por el vicepresidente José Manuel Restrepo [F2][F3][F4]",
+            "La meta declarada antes del encuentro fue de US$20.000 millones, por lo que el resultado superó el doble de esa meta [F3][F4][F5]",
+            "US$21.400 millones provienen de la banca multilateral (IFC US$10.000 millones, BID Invest US$6.000 millones y CAF US$5.400 millones) y US$21.805 millones de iniciativas empresariales y privadas [F2][F4]",
+            "Los compromisos abarcan 11 sectores de la economía, llegan a 24 departamentos y proyectan generar más de 55.000 empleos [F3][F4][F5]",
+            "Los montos anunciados no representan recursos ya desembolsados ni inversiones ejecutadas: los proyectos están en distintas etapas y requieren seguimiento para su materialización [F4][F5]",
+            "Está prevista una nueva edición de la Milagro Week en Madrid, España, en marzo de 2027 [F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/quien-es-quien/este-es-jose-manuel-restrepo-la-formula-de-abelardo-de-la-espriella/",
+              "note": "Perfil del emisor: economista, exministro de Comercio y de Hacienda del gobierno de Iván Duque, actual fórmula vicepresidencial; aporta su rol e itinerario profesional, no la cifra.",
+              "host": "lasillavacia.com",
+              "title": "Este es José Manuel Restrepo, la fórmula de Abelardo de la Espriella",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/05/Jose-Manuel-Restrepo.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/gobierno/milagro-week-logro-reunir-us-43-205-millones-en-compromisos-de-inversion-para-colombia-estos-son-los-proyectos-506641",
+              "note": "Confirma el monto de US$43.205 millones, el detalle de anuncio por empresa y el aporte de la banca multilateral; advierte que la materialización es el siguiente aspecto a seguir.",
+              "host": "portafolio.co",
+              "title": "Milagro Week logró reunir US$43.205 millones en compromisos de inversión para Colombia: estos son los proyectos",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/11/17/6afc3b8f52d73.r_d.1084-559-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.larepublica.co/empresas/la-milagro-week-cierra-con-compromisos-de-inversion-por-us-43-205-millones-4527834",
+              "note": "Cita directa de Restrepo con la meta de US$20.000 millones declarada antes del viaje, 11 sectores, 24 departamentos y 55.000 empleos; lista detallada de compromisos y condiciones.",
+              "host": "larepublica.co",
+              "title": "La Milagro Week cierra con compromisos de inversión por US$43.205 millones",
+              "image": "https://img.lalr.co/cms/2026/11/18135534/WEB_Emp_Milagro_Week_v2_1080x900.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://amchamcolombia.co/noticias-observatorio-estados-unidos/colombia-cierra-la-milagro-week-con-us43-205-millones-en-compromisos-de-inversion-y-financiacion/",
+              "note": "Confirma el total, la división empresa/banca multilateral, la meta de US$20.000 millones y matiza que los montos no son desembolsos ejecutados; 223 reuniones con inversionistas.",
+              "host": "amchamcolombia.co",
+              "title": "Colombia Cierra La Milagro Week Con US$43.205 Millones En Compromisos De Inversión Y Financiación - AmCham Colombia",
+              "image": "https://amchamcolombia.co/wp-content/uploads/2026/11/milagro-week-4.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://forbes.co/economia-y-finanzas/cierra-la-milagro-week-con-la-promesa-de-us43-205-millones-en-inversion-extranjera",
+              "note": "Desagrega compromisos por empresa y sector, indica plazos plurianuales de algunos anuncios y subraya que el Gobierno deberá garantizar la traducción de los recursos en desarrollo y empleo.",
+              "host": "forbes.co",
+              "title": "Cierra la \"Milagro Week\" con la promesa de US$43.205 millones en inversión extranjera",
+              "image": "https://cdn.forbes.co/2026/11/HXcZD6tWcAApkUk-1.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se trabajó en 11 sectores de la economía en el marco de Milagro Week.",
+          "quote": "no solamente 11 sectores de la economía",
+          "figures": [
+            "11 sectores"
+          ],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero engañoso",
+          "color": "lime",
+          "confidence": "media",
+          "summary": "La cifra de 11 sectores de la economía está respaldada por el balance oficial de la Milagro Week, recogido por múltiples medios: los compromisos de US$43.205 millones abarcan 11 sectores, 24 departamentos y Bogotá, con más de 55.000 empleos potenciales [F2][F3][F4][F5]. Se verifica como dato oficial consistente, aunque procede de cifras auto reportadas por el Gobierno [F1].",
+          "context": "La primera Milagro Week fue una feria de tres días en la sede del Citi en Nueva York, con más de 700 asistentes en la inauguración, cinco mesas sectoriales (tecnología e infraestructura digital, infraestructura y transporte, agroindustria, energía y minería, farmacéutica) y cuatro mesas redondas adicionales (minerales críticos, ecoturismo, capital privado y regiones) [F1]. El balance oficial suma US$43.205 millones, de los cuales US$21.400 millones corresponden a financiación de banca multilateral (Banco Mundial/IFC US$10.000M, BID Invest US$6.000M, CAF US$5.400M) y US$21.805 millones a anuncios de empresas privadas, contra una meta inicial de US$20.000 millones; se realizaron 223 reuniones individuales con inversionistas, con interés declarado en el 73% de ellas [F2][F5]. La próxima edición será en Madrid en marzo de 2027 [F2][F3].",
+          "progressivePerspective": "Desde el ángulo de rendición de cuentas, el dato de 11 sectores es verificable como cifra oficial, pero conviene separar el hecho (el catálogo de sectores presentados) del alcance real: se trata de anuncios y compromisos, no de inversión ejecutada. El propio medio que reconstruyó el evento señala que la feria mostró \"el estilo de mercadeo de la Patria Milagro, que agranda los anuncios y los vuelve espectáculo\", y que los compromisos fueron \"en su mayoría a proyectos distintos a los de la oferta inicial del gobierno\" [F1]. Además, los asistentes consultados describieron que el gobierno \"no estaba negociando nada\" sino promocionando proyectos, y que \"la negociación vendrá proyecto por proyecto\" [F1]. El Gobierno anunció seguimiento a cada campanazo para convertirlos en obras [F2][F5], de modo que la verificación definitiva dependerá de la ejecución, no del anuncio.",
+          "whatTheyOmit": "El video no distingue entre anuncios de inversión, financiación multilateral y compromisos de empresas privadas, ni precisa que US$21.400 millones de los US$43.205 millones provienen de la banca multilateral destinada al sector privado y no de inversión directa nueva [F2]. Tampoco menciona que la cifra incluye proyectos no contemplados en la oferta inicial de 132 proyectos de ProColombia [F1], ni que la generación de empleo es una proyección potencial, no un hecho: 32.000 puestos provienen del transporte ferroviario y 15.000 de infraestructura y energía [F4].",
+          "keyFacts": [
+            "El balance oficial de la Milagro Week reporta compromisos por US$43.205 millones en 11 sectores de la economía, 24 departamentos y Bogotá, con potencial de más de 55.000 empleos [F2][F3][F4][F5]",
+            "La meta inicial era US$20.000 millones y el resultado la superó en más del doble [F2][F4]",
+            "Los US$43.205 millones se dividen en US$21.400 millones de banca multilateral y US$21.805 millones de anuncios de empresas privadas [F2]",
+            "Durante la agenda se realizaron 223 reuniones individuales con inversionistas, con interés en avanzar en el 73% de los casos [F2][F5]",
+            "Los sectores mencionados incluyen infraestructura, transporte, energía, minería, agroindustria, salud, inclusión financiera, conservación ambiental, tecnología, comercio e industria [F2][F4][F5]",
+            "El evento se realizó en tres días en la sede del Citi en Nueva York, con cinco mesas sectoriales y cuatro mesas redondas [F1]",
+            "El medio que reconstruyó el evento señala que los compromisos fueron en su mayoría a proyectos distintos a los de la oferta inicial del gobierno, y que el estilo del gobierno \"agrandan los anuncios y los vuelve espectáculo\" [F1]",
+            "La próxima Milagro Week será en Madrid en marzo de 2027 [F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/asi-fue-la-milagro-week-show-ministros-y-una-meta-inversion-superada/",
+              "note": "Reconstrucción periodística independiente del evento a partir de asistentes, videos oficiales y documentos; aporta el contraste: cifras oficiales, naturaleza promocional de la feria y proyectos distintos a la oferta inicial.",
+              "host": "lasillavacia.com",
+              "title": "Así fue la Milagro Week: show, ministros y una meta de inversión superada",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/11/FotoJet-3-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.rtvcnoticias.com/politica/gobierno/milagro-week-cerro-inversiones-por-us43205-millones-en-nueva-york",
+              "note": "Balance oficial con desglose de la cifra en banca multilateral y anuncios privados, 11 sectores, 24 departamentos, 55.000 empleos y 223 reuniones.",
+              "host": "rtvcnoticias.com",
+              "title": "Milagro Week cerró con compromisos de inversión por US$43.205 millones para Colombia",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2026-11/milagro-week-cerro-inversiones-por-us-43.205-millones-en-nueva-york.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/milagro-week-vicepresidente-jose-manuel-restrepo-reporto-us-43-200-millones-en-proyectos-y-anuncios-de-inversion-acordo-nuevas-reuniones-en-colombia-3602252",
+              "note": "Minuto a minuto del cierre que confirma 11 sectores, 24 departamentos, 55.000 empleos y la próxima edición en Madrid; reproduce comunicados oficiales.",
+              "host": "eltiempo.com",
+              "title": "Milagro Week: el cierre de la jornada dejó más de 43.200 millones de dólares en compromisos de inversión para Colombia en 11 sectores de la economía",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/18/6afdcc862e3b5.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/negocios/milagro-week-duplico-meta-inversiones-colombia-cuanto-es-el-monto-OH43773841",
+              "note": "Desglose de anuncios empresariales por sector y proyecciones de empleo por rubro (32.000 en transporte ferroviario, 15.000 en infraestructura y energía, 6.000 en minería).",
+              "host": "elcolombiano.com",
+              "title": "Milagro Week doblÃ³ su meta y anunciÃ³ inversiones por US$43.205 millones en Colombia",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c0/1280d720/none/11101/YRDR/hxczcqbwkaeuyc8_52172518_20261119071312.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.agenciapi.co/noticia/gobierno/milagro-week-en-nueva-york-cierra-con-us43205-millones-en-compromisos-de-inversion-para-colombia",
+              "note": "Confirma 11 sectores, 24 departamentos, 55.000 empleos, 223 reuniones y el seguimiento comprometido por el Gobierno a los compromisos.",
+              "host": "agenciapi.co",
+              "title": "Milagro Week en Nueva York cierra con US$43.205 millones en compromisos de inversión para Colombia",
+              "image": "https://www.agenciapi.co/sites/default/files/2026-11/Milagro_0.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "social",
+          "claim": "Se llegó a 24 departamentos de Colombia.",
+          "quote": "llegamos a 24 departamentos de este país",
+          "figures": [
+            "24 departamentos"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación coincide con el balance oficial de la Milagro Week, reportado por varios medios: los proyectos anunciados abarcan 24 departamentos y Bogotá, en 11 sectores [F2][F3][F5]. Sin embargo, se trata de compromisos y anuncios, no de inversiones ya desembolsadas ni obras ejecutadas, y la cifra proviene de la propia delegación gubernamental que lideró el evento [F3][F4].",
+          "context": "La Milagro Week de Nueva York cerró con US$43.205 millones en compromisos de inversión y financiación, con proyectos en 24 departamentos y Bogotá, distribuidos en 11 sectores, y un potencial estimado de más de 55.000 empleos [F2][F3]. De ese total, US$21.400 millones corresponden a financiación de la banca multilateral (Banco Mundial/IFC US$10.000 millones, BID Invest US$6.000 millones, CAF US$5.400 millones) destinada al sector privado, y US$21.805 millones a anuncios de empresas privadas [F2][F5]. La distribución geográfica se informó como '24 departamentos y Bogotá' [F2][F5]. Los medios advierten que son compromisos y anuncios, no desembolsos: algunos proyectos esperan permisos o licencias y el financiamiento multilateral está previsto para un plazo de cuatro años [F3][F4]. Historicamente, la discusión sobre la distribución del gasto y los recursos entre el centro y las regiones es un tema central en Colombia, con un largo ciclo de centralismo y descentralización que ha condicionado la desigualdad territorial [F1].",
+          "progressivePerspective": "La afirmación es verificable como dato del balance oficial difundido por la Presidencia y la Vicepresidencia y recogido por medios [F2][F3][F5]. El análisis de fondo no está en la cifra en sí, sino en su alcance: anunciar proyectos con 'presencia' en 24 departamentos no equivale a que la inversión haya llegado a esos territorios; los propios medios subrayan que la verificación dependerá de la materialización de los compromisos y del seguimiento prometido [F3][F4]. Desde la perspectiva del desarrollo regional, la cobertura territorial declarada conecta con una tensión histórica no resuelta en Colombia: cada vez que el centro ha fiscalmente limitado a las regiones, el costo en desigualdad y atraso ha sido alto [F1]. Que un anuncio se distribuya en 24 departamentos solo adquiere valor si se traduce en ejecución sostenida y en cierre de brechas territoriales, no sólo en un resultado de gestión comunicacional [F1][F3][F4]. Este video no trata del conflicto armado ni de la JEP, por lo que los objetivos de verdad, justicia, reparación y no repetición no resultan aplicables a esta afirmación.",
+          "whatTheyOmit": "El video presenta la cifra como logro consolidado ('llegamos a 24 departamentos') sin precisar que se trata de anuncios y compromisos, no de desembolsos ni obras en marcha [F3][F4]. Tampoco aclara el peso desigual entre sectores ni que casi la mitad del total (US$21.400 millones) corresponde a financiación multilateral sujeta a un plazo de cuatro años y a condiciones, y no a inversión directa de empresas [F2][F3][F5]. Se omite que algunos proyectos dependen de autorizaciones pendientes, como el proyecto minero Quebradona, 'sujeto a las autorizaciones correspondientes' [F5], y no se entrega detalle de cuáles son los 8 departamentos no cubiertos ni el monto por departamento, dato que las fuentes no aportan [F2][F5].",
+          "keyFacts": [
+            "El balance oficial de la Milagro Week informa proyectos en 24 departamentos y Bogotá, en 11 sectores de la economía [F2][F3][F5]",
+            "Los compromisos suman US$43.205 millones, de los cuales US$21.400 millones provienen de la banca multilateral y US$21.805 millones de anuncios de empresas privadas [F2][F5]",
+            "Se estima un potencial de generación superior a 55.000 empleos, concentrados en transporte férreo (32.000), infraestructura y energía (15.000), minería responsable (6.000) y energías renovables (≈2.300) [F2][F5]",
+            "Los montos son compromisos y anuncios, no desembolsos: algunos proyectos esperan permisos o licencias y el financiamiento multilateral está previsto para cuatro años [F3][F4]",
+            "La agenda incluyó 223 reuniones individuales con inversionistas, con interés manifestado en el 73% de ellas [F2][F3]",
+            "La distribución territorial fue anunciada por la propia delegación gubernamental que lideró el evento y difundida por medios a partir del balance oficial, sin verificación independiente del desembolso por departamento [F2][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-ley-competencias-la-historia-la-descentralizacion-colombia/",
+              "note": "Aporta el contexto histórico de la relación centro-regiones en Colombia: ciclos de centralismo y descentralización y el costo en desigualdad cuando el centro limita fiscalmente a las regiones. No contiene la cifra de departamentos.",
+              "host": "razonpublica.com",
+              "title": "La Ley de competencias y la Historia de la descentralización en Colombia",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/04/Ley-de-competencias.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.rtvcnoticias.com/politica/gobierno/milagro-week-cerro-inversiones-por-us43205-millones-en-nueva-york",
+              "note": "Confirma la cifra de US$43.205 millones, los 24 departamentos y Bogotá, 11 sectores y más de 55.000 empleos, según balance de la Presidencia; detalla composición multilateral y privada.",
+              "host": "rtvcnoticias.com",
+              "title": "Milagro Week cerró con compromisos de inversión por US$43.205 millones para Colombia",
+              "image": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2026-11/milagro-week-cerro-inversiones-por-us-43.205-millones-en-nueva-york.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.cablenoticias.com/noticias/milagro-week-nueva-york-jose-manuel-restrepo-43200-millones-inversion",
+              "note": "Confirma los 24 departamentos y Bogotá, y aporta el contraste clave: son compromisos y anuncios, no desembolsos; parte importante no es inversión directa de empresas.",
+              "host": "cablenoticias.com",
+              "title": "Milagro Week cierra con US$43.200 millones, dice Restrepo",
+              "image": "https://www.cablenoticias.com/media/img/61230585-f68e-44c5-b47e-6f9f77291f88"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.pulzo.com/economia/colombia-logra-compromisos-de-inversion-por-us-43-205-millones-en-la-milagro-week-de-nueva-york-PP5359251A",
+              "note": "Confirma la cifra total y señala que el impacto real depende de la materialización de los compromisos; matiza el carácter de anuncio de los resultados.",
+              "host": "pulzo.com",
+              "title": "Milagro Week en Nueva York concluye con anuncios de inversión por más de US$43.000 millones para Colombia",
+              "image": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5359251A-h-o.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/economia/macroeconomia/articulo/doblamos-la-meta-que-nos-propusimos-milagro-week-cierra-con-us43200-millones-en-inversiones-para-colombia/202615/",
+              "note": "Confirma presencia en Bogotá y 24 departamentos, la desagregación por sectores y empresas, la meta inicial de US$20.000 millones y que algunos proyectos están sujetos a autorizaciones.",
+              "host": "semana.com",
+              "title": "“Doblamos la meta que nos propusimos”: ‘Milagro Week’ cierra con US$43.200 millones en inversiones para Colombia",
+              "image": "https://www.semana.com/resizer/v2/JEM45MIG6ZGMFDBXQNQKJ4AKYU.png?auth=74899d8e82a5bc66e1fa90efbeefde804d0b6731b099a07f642ba2cb5317b4a0&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "economia",
+          "claim": "Se estiman más de 55.000 empleos derivados de Milagro Week.",
+          "quote": "Estimamos más de 55.000 empleos que se podrían derivar de aquí",
+          "figures": [
+            "más de 55.000 empleos"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La cifra de más de 55.000 empleos derivados de Milagro Week no puede verificarse de forma independiente con las fuentes proporcionadas. El propio video la presenta como una estimación ('estimamos... que se podrían derivar'), no como un hecho consumado [F2].",
+          "context": "La Milagro Week en Nueva York presentó 132 proyectos de inversión por un total de US$60.900 millones, más del doble del presupuesto anual de inversión del gobierno nacional, liderado por el vicepresidente José Manuel Restrepo [F2]. De esos 132 proyectos, la gran mayoría (88 de 101 proyectos privados) ya habían sido propuestos antes del 7 de agosto de 2025, lo que sugiere que la generación de empleo depende de la materialización de proyectos con larga trayectoria de estructuración [F2]. Para poner la cifra en perspectiva, Colombia tenía una tasa de desocupación de 8,0% en septiembre de 2026 [F3], y las cifras de empleo del DANE provienen de la GEIH, que ofrece información oficial y comparable [F3][F4]. El reporte del Banco de la República sobre el mercado laboral (julio 2026) no fue accesible para contraste [F5].",
+          "progressivePerspective": "La cifra de 55.000 empleos es una proyección gubernamental, no un resultado verificado. El propio verbo usado ('estimamos', 'se podrían derivar') reconoce que es una estimación aspiracional [F2]. En el marco de una evaluación rigurosa, distinguir entre compromisos de inversión anunciados y empleos efectivamente creados es fundamental: muchos de los 132 proyectos llevaban años sin avanzar, con licencias ambientales pendientes, rechazos de la ANI revocados o decisiones sectoriales en disputa [F2]. Presentar la cifra como si fuera un resultado alcanzado —como ocurre en el texto del video, donde se dice que 'generará más de 55.000 empleos' en lugar de 'estimamos que podría generar'— puede crear una expectativa desproporcionada respecto a lo que las fuentes respaldan. No existe en las fuentes un mecanismo de seguimiento que permita verificar si esos empleos se materializarán, y el propio contexto de los proyectos muestra alta incertidumbre en su ejecución [F2].",
+          "whatTheyOmit": "El video no aclara que la cifra de empleos es una estimación del propio gobierno, sin validación independiente de organismos como el DANE o el Banco de la República [F2][F3]. Tampoco menciona que 88 de los 101 proyectos privados ya existían antes del 7 de agosto de 2025, es decir, que no son proyectos nuevos generados por la Milagro Week [F2]. Omite asimismo que varios proyectos presentados tienen licencias ambientales en proceso, factibilidad rechazada o dependen de decisiones pendientes, lo que reduce la probabilidad de materialización de los empleos proyectados [F2].",
+          "keyFacts": [
+            "La Milagro Week en Nueva York presentó 132 proyectos de inversión por US$60.900 millones, más del doble del presupuesto anual de inversión del gobierno [F2]",
+            "88 de los 101 proyectos privados presentados ya habían sido propuestos antes del 7 de agosto de 2025 [F2]",
+            "Varios proyectos tienen licencias ambientales pendientes, factibilidad rechazada o dependen de decisiones sectoriales en disputa [F2]",
+            "La cifra de 55.000 empleos es presentada por el propio video como una estimación ('estimamos... que se podrían derivar'), no como un dato confirmado [F2]",
+            "El DANE produce estadísticas oficiales de mercado laboral mediante la GEIH, siguiendo estándares de la OIT [F3][F4]",
+            "La tasa de desocupación nacional fue de 8,0% en septiembre de 2026 [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-problema-de-drogas-que-estados-unidos-no-quiere-ver/",
+              "note": "Artículo sobre opioides en Estados Unidos. No guarda relación con la afirmación sobre empleos de Milagro Week.",
+              "host": "razonpublica.com",
+              "title": "El problema de drogas que Estados Unidos no quiere ver - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/10/drogas-EEUU-ricardo-vargas.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/correccion-ahora-si-la-lista-completa-de-los-132-proyectos-de-la-milagro-week/",
+              "note": "Análisis detallado de los 132 proyectos de Milagro Week, su monto (US$60.900 millones), antigüedad y estado de los proyectos. Confirma el contexto del evento pero no menciona la cifra de 55.000 empleos ni ofrece verificación independiente de ella.",
+              "host": "lasillavacia.com",
+              "title": "Corrección: Ahora sí, la lista completa de los 132 proyectos de la Milagro Week",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/10/Restrepo_Gomez-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/empleo-y-desempleo",
+              "note": "Estadísticas oficiales del DANE sobre mercado laboral: tasa de desocupación de 8,0% en septiembre de 2026. Aporta contexto para dimensionar la cifra de empleos, pero no verifica la cifra de 55.000.",
+              "host": "dane.gov.co",
+              "title": "Gran encuesta integrada de hogares (GEIH) Mercado laboral - Empleo y desempleo",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://microdatos.dane.gov.co/index.php/catalog/853",
+              "note": "Catálogo de microdatos GEIH 2025 del DANE. Aporta antecedentes metodológicos de la medición laboral en Colombia, pero no contiene información sobre la cifra de empleos de Milagro Week.",
+              "host": "microdatos.dane.gov.co",
+              "title": "Gran Encuesta Integrada de Hogares - GEIH - 2025",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.banrep.gov.co/es/publicaciones-investigaciones/reporte-mercado-laboral/julio-2026",
+              "note": "Reporte del Banco de la República sobre mercado laboral (julio 2026). No fue accesible por protección anti-bot, por lo que no pudo aportar contraste.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "La próxima edición de Milagro Week se realizará en Madrid, en la Unión Europea.",
+          "quote": "nos vemos en Milagro Week en Madrid, allí en la Unión Europea",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La afirmación está confirmada por fuentes independientes: el vicepresidente José Manuel Restrepo anunció que Madrid, España, será sede de la próxima Milagro Week en marzo de 2027, lo que la convertirá en la primera edición en Europa [F4][F5].",
+          "context": "La Milagro Week es una estrategia de promoción de inversiones del Gobierno Nacional. La primera edición se realizó en Nueva York (16-19 de noviembre), presentando 132 proyectos por US$60.900 millones [F2]. Madrid será la tercera sede internacional contemplada en la estrategia, tras Nueva York y una posible jornada en Venezuela, y la primera en Europa; España es el segundo mayor inversionista de Colombia en el país [F4][F5]. El anuncio se produjo durante una visita oficial del vicepresidente a España, con más de 400 empresarios e inversionistas reunidos y más de 14 reuniones con potenciales inversores [F4][F5]. Además se confirmó una instancia en Barranquilla con cerca de 400 empresarios internacionales antes de finalizar 2026 [F4].",
+          "progressivePerspective": "El hecho de que la próxima sede sea Madrid es verificable y relevante para el debate sobre la estrategia de atracción de inversión del gobierno: la primera edición en Nueva York reunió anuncios por más de US$25.900 millones, de los cuales US$21.400 millones correspondieron a financiación de organismos multilaterales y solo US$4.500 millones a anuncios empresariales, y una promesa de financiación no equivale a un desembolso ni la financiación multilateral es inversión extranjera directa por definición [F1]. El anuncio de una sede europea amplía el alcance geográfico de la estrategia, pero el dato sobre la futura sede no informa por sí mismo sobre el monto, la calidad ni el desembolso efectivo de la inversión comprometida, cuya magnitud real aún debe medirse con el tiempo [F1]. El anuncio tampoco está ligado al marco de verdad, justicia, reparación y no repetición aplicable al conflicto armado: se trata de una iniciativa económica del ejecutivo, evaluada aquí solo en su dimensión fáctica.",
+          "whatTheyOmit": "La afirmación sobre Madrid es exacta, pero en el contexto del video se presenta junto a cifras de compromisos de inversión (US$43.205 millones, más del doble de la meta) que las fuentes matizan: una promesa de financiación no equivale a un desembolso, y una parte mayoritaria de los anuncios de la primera edición correspondió a financiación de organismos multilaterales y no a inversión empresarial [F1]. También se omite que la mayoría de los 132 proyectos presentados en la primera edición (88 de 101 en el sector privado) ya existían antes del 7 de agosto y varios arrastraban trámites, licencias o rechazos pendientes [F2].",
+          "keyFacts": [
+            "Madrid, España, será sede de la próxima edición de la Milagro Week en marzo de 2027, según confirmó el vicepresidente José Manuel Restrepo [F4][F5]",
+            "Será la primera edición de la Milagro Week realizada en Europa [F4][F5]",
+            "Madrid será la tercera sede internacional contemplada en la estrategia, tras Nueva York y una posible jornada en Venezuela [F4]",
+            "El anuncio se produjo durante una visita oficial del vicepresidente a España, con más de 400 empresarios e inversionistas reunidos y más de 14 reuniones [F4][F5]",
+            "España es el segundo mayor inversionista de Colombia en el país [F4][F5]",
+            "La primera edición, en Nueva York, presentó 132 proyectos por US$60.900 millones [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F4",
+              "url": "https://www.valoraanalitik.com/milagro-week-llegara-a-europa-madrid-sera-sede-en-marzo-de-2027/",
+              "note": "Confirma directamente que Madrid será sede en marzo de 2027, primera edición en Europa; aporta el contexto de la visita a España y las cifras de reuniones con inversionistas",
+              "host": "valoraanalitik.com",
+              "title": "Milagro Week llegará a Europa: Madrid será sede en marzo de 2027",
+              "image": "https://www.valoraanalitik.com/wp-content/uploads/2026/10/Vicepresidente-Jose-Manuel-Restrepo-2.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://es-us.noticias.yahoo.com/milagro-week-llegará-europa-madrid-162000220.html",
+              "note": "Reproducción del mismo reportaje que F4, confirma la fecha y sede",
+              "host": "es-us.noticias.yahoo.com",
+              "title": "Milagro Week llegará a Europa: Madrid será sede en marzo de 2027",
+              "image": "https://s.yimg.com/lo/mysterio/api/dfb416f26dcccfcff7c5e0824e7b8102c4869a536c85f9fd775e9a8aab3b859b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fvalora_628%2F01c6090de7cb7c655305e0b1217afa15.jpg"
+            },
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/miracle-week-como-atraer-inversiones-sin-hipotecar-las-reglas-del-futuro/",
+              "note": "Contraste: matiza los anuncios de inversión de la primera edición (promesa vs. desembolso, financiación multilateral vs. IED) y analiza los proyectos de ley de estabilidad de inversiones",
+              "host": "razonpublica.com",
+              "title": "Miracle Week: ¿Cómo atraer inversiones sin hipotecar las reglas del futuro?",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/08/Marcela-anzola-news.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/correccion-ahora-si-la-lista-completa-de-los-132-proyectos-de-la-milagro-week/",
+              "note": "Contraste: detalla los 132 proyectos de la primera edición y su antigüedad, incluida la cartera de proyectos y al vicepresidente Restrepo al frente de la estrategia",
+              "host": "lasillavacia.com",
+              "title": "Corrección: Ahora sí, la lista completa de los 132 proyectos de la Milagro Week",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/10/Restrepo_Gomez-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.banrep.gov.co/es/como-encontrar-datos-datos-inversion-extranjera-directa-o-inversion-directa-colombia-exterior",
+              "note": "Fuente inaccesible (bloqueo anti-bot del Banco de la República); no aporta datos verificables",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
             }
           ]
         }
