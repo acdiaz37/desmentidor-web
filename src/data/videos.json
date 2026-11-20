@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:56:49",
+  "generatedAt": "2026-11-20T09:15:21",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -14247,6 +14247,343 @@
               "host": "banrep.gov.co",
               "title": "Nos disculpamos por los inconvenientes...",
               "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "7-3k-views-1-1k-reactions-guillermo-andres-lozano-rengifo-on-reels",
+      "title": "7.3K views · 1.1K reactions | Guillermo Andres Lozano Rengifo on Reels",
+      "uploader": "Guillermo Andres Lozano Rengifo",
+      "url": "https://m.facebook.com/watch/?v=1542054271086412&_rdr",
+      "duration": 90.022,
+      "thumbnail": "/media/7-3k-views-1-1k-reactions-guillermo-andres-lozano-rengifo-on-reels/thumb.jpg",
+      "conclusion": "## Del diagnóstico legítimo a la narrativa que no se sostiene\n\nEl video construye una narrativa de colapso sistémico: un país donde la salud dejó de funcionar, los jóvenes quedan relegados, los profesionales no encuentran trabajo y las instituciones cobran sueldos millonarios sin cumplir su función, mientras quienes se afilian a la izquierda avanzan sin mérito. El efecto de esta presentación es generar una percepción de desgobierno total, donde el fracaso es omnígenérico e indiferenciado.\n\nVarios elementos tienen base real. La desigualdad efectivamente limita el acceso a la educación superior en Colombia, la deserción y la informalidad juvenil son problemas documentados, y la impunidad en la Fiscalía alcanza cifras alarmantes: 95% en varios delitos y solo una condena por cada cuatro homicidios. También es cierto que las escalas salariales de la Procuraduría existen y se actualizan por decreto, y que en 2025 se presentaron 312.500 tutelas de salud, lo que evidencia fallas reales del sistema.\n\nEl problema surge cuando esos datos se ensamblan en una causalidad que no les corresponde. El punto de quiebre ocurre en la afirmación categórica de que el sistema de salud «no brinda servicios a la ciudadanía». Ahí el video pasa de «existen fallas documentadas» a «el servicio dejó de existir», lo cual contradice la cobertura de aseguramiento cercana al 99% y el hecho de que la reforma de Petro era una propuesta en trámite ante el Congreso, no un sistema ya aplicado. De manera similar, la Procuraduría proyectó cerrar 2024 con 100.000 decisiones disciplinarias, dato que matiza la alegación de que «no sancionan».\n\nEl contexto ausente es decisivo: sin cifras salariales concretas que sustenten el calificativo «millonario», sin estadísticas sobre el tiempo real de espera de profesionales en su campo, y sin reconocer que Colombia invierte apenas 1,2% del PIB en justicia —con un déficit histórico superior a 4 billones de pesos—, la ineficacia institucional se presenta como voluntad o corrupción estructural en lugar de también ser un problema presupuestal. Y la afirmación sobre una «graduación acelerada» por afiliarse a la izquierda carece de cualquier respaldo documental: no hay nombres, instituciones ni casos verificables.\n\nLa interpretación más completa es que Colombia enfrenta problemas serios y verificables en salud, educación, empleo e impunidad, pero que el sistema sigue operando, con deficiencias medibles y causas múltiples —presupuestales, macroeconómicas e institucionales—. Presentar esos problemas como una falla absoluta y atribuirles una dimensión partidista sin evidencia produce una representación que excede lo que los propios datos permiten sostener.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "salud",
+          "claim": "Se afirma que el pacto anpónico no brinda servicios de salud a la ciudadanía.",
+          "quote": "el pacto anpónico no brinda servicios de salud a la ciudadanía",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes no respaldan que 'el pacto anpónico (histórico) no brinda servicios de salud a la ciudadanía': por el contrario, documentan que en 2025 la cobertura de aseguramiento alcanzó ~99% de la población bajo el sistema de Ley 100 con EPS en funcionamiento, y que la reforma del Gobierno Petro era aún una propuesta en trámite ante el Congreso, no un sistema ya aplicado que hubiera dejado de prestar servicios [F1][F2].",
+          "context": "El sistema colombiano se organiza desde la Ley 100 de 1993 sobre separación entre financiación y aseguramiento: las EPS reciben una UPC por afiliado para organizar la atención; la cobertura pasó de menos del 25% hace tres décadas a ~99% en 2025, con gasto de bolsillo relativamente bajo, aunque persisten tiempos de espera, tutelas (≈312.500 en 2025) y reclamos por barreras de acceso (1,9 millones) [F1]. La propuesta de reforma (Fondo Único de Salud, Adres como administrador) se tramitaba en el Congreso al momento del análisis, con críticos que advierten riesgos de centralización y de desfinanciación de los Fondos Locales de Salud [F2]. Las fuentes F3, F4 y F5 corresponden a personas homónimas o con apellidos similares en México (políticos y funcionarios distintos del autor del video) y no aportan información sobre el sistema de salud colombiano [F3][F4][F5].",
+          "progressivePerspective": "Como el video no concierne al conflicto armado ni a la JEP, no aplica el marco de verdad, justicia, reparación y no repetición; aplica el criterio genérico de verificación de datos. En términos de rigor, afirmar que un gobierno 'no brinda servicios de salud' exige distinguir entre (a) la crítica documentada al desmonte de la arquitectura del aseguramiento y a la debilitación de mecanismos del sistema [F1], (b) los defectos reales de acceso (tutelas y reclamos) que revelan fallos de los mecanismos administrativos ordinarios [F1], y (c) la imposibilidad factual de que un gobierno no preste servicios mientras existen EPS operando con cobertura cercana al 99% [F1][F2]. La afirmación del video combina un diagnóstico legítimo de crítica a la reforma con una conclusión categórica que las fuentes no sustentan, lo cual la ubica en el terreno de la opinión o la exageración antes que del hecho verificable [F1][F2].",
+          "whatTheyOmit": "Omite cifras de cobertura y funcionamiento vigente del sistema (99% de aseguramiento en 2025; 99% de colombianos con EPS), omite que la reforma era una propuesta en trámite y no un sistema ya impuesto que retirara servicios, y omite los datos sobre problemas reales de acceso (312.500 tutelas y 1,9 millones de reclamos en 2025), que matizan la crítica sin sustentar la afirmación categórica [F1][F2]. También omite distinguir que varias fuentes disponibles sobre personas con apellidos parecidos se refieren a figuras políticas mexicanas sin relación con el tema [F3][F4][F5].",
+          "keyFacts": [
+            "La cobertura de aseguramiento en Colombia llegó a aproximadamente el 99% de la población en 2025, bajo un sistema en el que las EPS organizan la atención con UPC por afiliado [F1]",
+            "El 99% de los colombianos cuenta con una EPS que debe garantizar su atención, según los críticos de la reforma [F2]",
+            "En 2025 se presentaron alrededor de 312.500 tutelas de salud y 1,9 millones de reclamos por barreras de acceso, lo que indica fallos de los mecanismos administrativos ordinarios [F1]",
+            "La reforma del Gobierno Petro (Fondo Único de Salud, administración centralizada en Adres) era un proyecto en trámite ante el Congreso, con advertencias de peligros para la arquitectura institucional y las finanzas públicas [F2]",
+            "El Gobierno acertó al priorizar prevención, atención primaria y zonas rurales, pero convirtió esas prioridades en argumentos para debilitar mecanismos esenciales del aseguramiento [F1]",
+            "Las fuentes sobre Andrés Lozano Lozano y Guillermo Lozano Lozano corresponden a políticos mexicanos (Morena y PAN de Querétaro) sin relación con el sistema de salud colombiano [F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-salud-bajo-el-gobierno-petro-problemas-reales-diagnostico-equivocado/",
+              "note": "Análisis del sistema de salud bajo Petro: reconoce aciertos (prevención, atención rural) y crítica el debilitamiento de la arquitectura del aseguramiento; aporta cifras de cobertura (99% en 2025), tutelas y reclamos, y matiza la afirmación categórica del video.",
+              "host": "razonpublica.com",
+              "title": "La salud bajo el gobierno Petro: problemas reales, diagnóstico equivocado - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/7.1.-Alcaldia_salud.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-social/reforma-a-la-salud-lo-que-no-se-ha-dicho-del-proyecto/",
+              "note": "Columna crítica a la reforma: describe el sistema de aseguramiento de la Ley 100, el papel de las EPS, el financiamiento parafiscal y los riesgos del Fondo Único de Salud; confirma que la reforma era una propuesta en trámite y que la cobertura es del 99%.",
+              "host": "lasillavacia.com",
+              "title": "Reforma a la salud: lo que no se ha dicho del proyecto",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2025/03/jesus_cotes_portada.jpg?fit=1200%2C900&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Lozano_Lozano",
+              "note": "Biografía de un político mexicano (Morena); no aporta información sobre el tema de salud en Colombia; útil solo para descartar homonimia.",
+              "host": "es.wikipedia.org",
+              "title": "Andrés Lozano Lozano - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://pulsoslp.com.mx/nacional/andres-lozano-lozano-nombrado-contralor-interno-en-san-lazaro/1856087",
+              "note": "Nombramiento de Andrés Lozano Lozano como contralor interno de la Cámara de Diputados de México; sin relación con la afirmación verificada.",
+              "host": "pulsoslp.com.mx",
+              "title": "Nombramiento de Andrés Lozano Lozano como Contralor Interno en San Lázaro",
+              "image": "https://blobcore.pulsoslp.com.mx/images/2024/10/10/nombramiento-de-andres-lozano-lozano-como-contralor-interno-en-san-lazaro-focus-0-0-600-315.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://elqueretano.info/trafico/asume-guillermo-lozano-presidencia-estatal-del-pan/",
+              "note": "Guillermo Lozano Lozano, presidente interino estatal del PAN en Querétaro; persona distinta del autor del video y sin relación con el sistema de salud colombiano.",
+              "host": "elqueretano.info",
+              "title": "Asume Guillermo Lozano presidencia estatal del PAN - El Queretano",
+              "image": "https://elqueretano.info/wp-content/uploads/2021/09/PAN-1.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "social",
+          "claim": "Se afirma que en Colombia muchos jóvenes han tenido que pasar grandes dificultades para lograr una carrera universitaria, trabajando y estudiando al mismo tiempo.",
+          "quote": "cuántos muchachos en Colombia han tenido que pasar por las de San Quintín para hacer una carrera universitaria. Trabajar y estudiar al mismo tiempo",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación general —que en Colombia muchos jóvenes enfrentan grandes dificultades para acceder y completar una carrera universitaria— está respaldada por las fuentes: la desigualdad social limita el acceso a la educación superior, especialmente en hogares de bajos ingresos, y existen millones de jóvenes que ni estudian ni trabajan [F1][F2]. Sin embargo, la parte específica de 'trabajar y estudiar al mismo tiempo' no está documentada cuantitativamente en las fuentes entregadas, que no aportan datos sobre trabajo simultáneo de estudiantes universitarios; además, la expresión 'pasar por las de San Quintín' es una metáfora coloquial de esfuerzo extremo, no un dato verificable [F1][F2].",
+          "context": "Según datos del DANE citados por La Silla Vacía, en 2024 cerca del 22 % de los jóvenes de 14 a 28 años en Colombia no estaban ni estudiando ni trabajando, equivalente a más de 2,7 millones de personas [F2]. Razón Pública reporta que Colombia tiene la proporción más alta de jóvenes 'ninis' entre los países de la OCDE, con una tasa de desempleo juvenil del 11,2 % frente a un promedio OCDE del 5,17 %, y que 17 de cada 100 jóvenes de 15 a 24 años ya no buscan empleo ni tienen motivación para estudiar, casi el triple del promedio OCDE (5,6 %) [F1]. Las causas estructurales señaladas incluyen la desigualdad social que limita el acceso a la educación superior, la baja calidad educativa, un mercado laboral que ofrece escasas oportunidades a los jóvenes sin experiencia y empleos informales y precarios [F2]. Entre 2018 y 2021 hubo una caída considerable en las matrículas de universidades privadas acreditadas, mientras las no acreditadas crecieron un 166 % en quince años, lo que sugiere que muchos jóvenes eligen opciones más baratas y de menor inversión en tiempo y dinero [F1]. El DANE mantiene series trimestrales oficiales sobre el mercado laboral de la juventud de 14 a 28 años [F3].",
+          "progressivePerspective": "La afirmación abona a la visibilidad de una brecha social real: las fuentes describen un problema estructural de acceso y permanencia en la educación superior ligado a la desigualdad, no a deficiencias individuales, lo cual es consistente con la noción de derecho a la educación como política de inclusión [F2]. Al enfatizar que 'muchos jóvenes' deben esforzarse enormemente —incluso trabajando mientras estudian— el mensaje pone el acento en la responsabilidad de las condiciones sociales y del Estado más que en el mérito individual, lo que puede impulsar demandas de becas, programas de permanencia y educación dual [F2]. Ese mismo enfoque, sin embargo, corre el riesgo de normalizar el sacrificio como vía legítima de movilidad social si no se acompaña de datos concretos y de propuestas verificables de política pública, y de convertir la metáfora carcelaria en un recurso retórico que diluya la magnitud precisa del fenómeno [F1][F2]. Las fuentes sí coinciden en que las intervenciones estatales han sido fragmentadas y sin continuidad, lo que respalda la crítica de fondo aunque no la formulación exacta de 'trabajar y estudiar al mismo tiempo' [F2].",
+          "whatTheyOmit": "Las fuentes entregadas no contienen estadísticas sobre la proporción de estudiantes universitarios colombianos que trabajan mientras estudian, por lo que esa parte de la afirmación queda sin respaldo cuantitativo en el material disponible [F1][F2][F5]. También se omite la magnitud y las tendencias matriculares de la educación superior (series del SNIES/Mineducación), aunque las fuentes las ofrecen como consulta disponible [F5]. No se mencionan los datos específicos de deserción universitaria ni las políticas de becas y subsidios existentes, que las fuentes señalan como fragmentadas pero presentes [F1][F2]. Finalmente, no se aporta la diferencia entre jóvenes que ni estudian ni trabajan y quienes sí laboran para costearse los estudios, dos fenómenos distintos que las fuentes tratan por separado [F1][F2].",
+          "keyFacts": [
+            "En 2024, cerca del 22 % de los jóvenes colombianos de 14 a 28 años no estudiaban ni trabajaban, más de 2,7 millones de personas, según datos del DANE [F2]",
+            "Colombia tiene la proporción más alta de jóvenes que ni estudian ni trabajan entre los países miembros de la OCDE [F1]",
+            "La desigualdad social limita las posibilidades de acceso a la educación superior, especialmente para jóvenes de hogares de bajos ingresos [F2]",
+            "Entre 2018 y 2021 hubo una caída considerable en las matrículas de universidades privadas acreditadas, mientras las no acreditadas crecieron un 166 % en quince años, reflejando la elección de opciones más baratas [F1]",
+            "El mercado laboral colombiano ofrece escasas oportunidades a los jóvenes sin experiencia, con empleos informales, precarios y de baja remuneración [F2]",
+            "El DANE publica boletines trimestrales sobre el mercado laboral de la juventud de 14 a 28 años como fuente oficial para verificar estos fenómenos [F3]",
+            "Las fuentes no aportan cifras sobre estudiantes universitarios que trabajan simultáneamente mientras estudian [F1][F2][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-crisis-los-jovenes-construir-proyecto-vida-colombia/",
+              "note": "Documenta la crisis juvenil, la mayor proporción de 'ninis' de la OCDE en Colombia, la caída en universidades acreditadas y el crecimiento del 166 % en las no acreditadas; no cuantifica el trabajo simultáneo de estudiantes universitarios.",
+              "host": "razonpublica.com",
+              "title": "La crisis de los jóvenes | Fundación Razón Pública 2024",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/03/jovenes-cesped-proyecto-vida-Laura-Leon.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-social/27-millones-de-ninis-son-el-espejo-incomodo-de-colombia/",
+              "note": "Aporta el dato DANE del 22 % y los 2,7 millones de jóvenes 'ninis' en 2024, y detalla las causas estructurales (desigualdad, precariedad laboral) del acceso a la educación superior; no mide el trabajo simultáneo de estudiantes.",
+              "host": "lasillavacia.com",
+              "title": "2,7 millones de Ninis son el espejo incómodo de Colombia",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2025/09/Cudris-y-penaPortada.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/mercado-laboral-de-la-juventud/mercado-laboral-de-la-juventud?highlight=WyJzZXJpZSIsInNlcmllcyJd",
+              "note": "Serie oficial del DANE sobre mercado laboral de jóvenes de 14 a 28 años, útil para verificar la dimensión laboral, pero sin datos de trabajo simultáneo con estudio.",
+              "host": "dane.gov.co",
+              "title": "Mercado laboral de la juventud - Históricos",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://siep.dane.gov.co/estadisticas-e-indicadores",
+              "note": "Visualizador de datos de economía popular del DANE; no aporta información directa sobre el acceso juvenil a la educación superior.",
+              "host": "siep.dane.gov.co",
+              "title": "Estadísticas e indicadores",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://snies.mineducacion.gov.co/1778/w3-propertyvalue-67251.html?_noredirect=1",
+              "note": "Portal de estadísticas de educación superior del SNIES/Mineducación, donde podrían consultarse matrículas y deserción; la página entregada solo enuncia la disponibilidad de datos, sin cifras.",
+              "host": "snies.mineducacion.gov.co",
+              "title": "ESTADÍSTICAS",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "social",
+          "claim": "Se afirma que hay profesionales esperando meses o años una oportunidad laboral en su campo de formación.",
+          "quote": "Cuántos profesionales, sentados por meses, por años esperando una oportunidad",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación de que hay profesionales esperando meses o años una oportunidad laboral en su campo es cualitativamente coherente con los datos disponibles: el DANE reconoce como razón válida de desocupación 'no encontrar trabajo apropiado en su oficio o profesión', y las fuentes describen un mercado laboral con desempleo, informalidad y desalentamiento. Sin embargo, las fuentes entregadas no contienen una medición específica del tiempo de espera de profesionales formados, por lo que la magnitud temporal ('meses o años') queda respaldada solo de forma indirecta [F1][F3][F5].",
+          "context": "Las fuentes sitúan el problema en un mercado laboral concreto: la tasa de desempleo nacional pasó de 12,9% a 11,4% entre febrero de 2022 y febrero de 2023, con una tasa de ocupación de 56,5% en febrero de 2023; se registraron más de 355 mil retiros netos del mercado laboral en febrero de 2023, atribuibles probablemente a personas desalentadas que dejaron de buscar empleo [F1]. Además, en 2023 solo 368.754 de 1.276.175 aprendices del SENA en programas titulados lograron asegurar un contrato de aprendizaje, en un contexto de 'altos niveles de informalidad y desempleo juvenil' [F2]. El subempleo y las condiciones de empleo inadecuado (trabajo temporal, insuficiencia de horas) son categorías oficiales del DANE, y entre las razones válidas de desocupación figura 'no encuentra trabajo apropiado en su oficio o profesión' [F3]. El bloqueo de la fuente del BanRep impide contrastar series históricas de largo plazo [F4].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición aplicable al análisis de demandas sociales, la afirmación abona al esclarecimiento de una condición estructural verificable: el desajuste entre formación profesional y oferta laboral, reconocida oficialmente por el DANE como causa de desocupación y acompañada de fenómenos como la desocupación y el retiro desalentado del mercado [F1][F3]. Reconocer esta realidad sin cifras verificadas de duración del desempleo profesional puede, sin embargo, simplificar un fenómeno multifactorial (informalidad, deserción, demanda agregada, condiciones macroeconómicas), de modo que la afirmación, si bien respaldada en su existencia, requiere precisión en su magnitud para no convertirse en una generalización no verificable [F1][F2].",
+          "whatTheyOmit": "Se omite la magnitud exacta: ninguna fuente entregada cuantifica cuántos profesionales ni durante cuánto tiempo esperan empleo en su campo, por lo que 'meses o años' no puede medirse con estos insumos [F1][F3][F5]. También se omiten los factores macroeconómicos que las fuentes señalan como causantes del deterioro laboral (inflación, tasas de interés, reforma tributaria de 2022, guerra en Ucrania) y el hecho de que parte del alivio estadístico se debió a personas que salieron del mercado laboral en lugar de conseguir empleo [F1], así como la discusión en curso sobre el contrato de aprendizaje del SENA, donde empresarios y técnicos advierten que mayor rigidez podría reducir las oportunidades para los jóvenes [F2].",
+          "keyFacts": [
+            "El DANE reconoce como razón válida de desocupación el hecho de 'no encontrar trabajo apropiado en su oficio o profesión' [F3]",
+            "Entre febrero de 2022 y febrero de 2023 la tasa de desempleo nacional bajó de 12,9% a 11,4% y la de ocupación subió de 55,9% a 56,5% [F1]",
+            "En febrero de 2023 se registraron más de 355 mil retiros netos del mercado laboral, atribuibles probablemente a población desalentada por no conseguir empleo [F1]",
+            "En 2023, de 1.276.175 aprendices del SENA en programas titulados, solo 368.754 aseguraron un contrato de aprendizaje [F2]",
+            "Las fuentes entregadas no contienen una cifra sobre el tiempo promedio de espera de profesionales por un empleo en su campo [F1][F3][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/mercado-laboral-la-demografia-nos-esta-ayudando/",
+              "note": "Análisis del mercado laboral colombiano con cifras DANE: desempleo, ocupación, retiros desalentados y factores macroeconómicos; aporta el contexto de deterioro y el fenómeno del desánimo en la búsqueda de empleo.",
+              "host": "razonpublica.com",
+              "title": "Mercado laboral: la demografía nos está ayudando",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/04/mujer-fabrica-mercado-laboral-Stefano-Farne.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/reforma-laboral-continua-la-puja-por-el-contrato-de-aprendizaje-del-sena/",
+              "note": "Muestra la brecha entre formación y primer empleo: solo 368.754 de 1.276.175 aprendices SENA tuvieron contrato en 2023, y documenta la disputa política sobre el contrato de aprendizaje; incluye posturas opuestas (gobierno/sindicatos vs. empresarios/técnicos).",
+              "host": "lasillavacia.com",
+              "title": "Reforma laboral: continúa la puja por el contrato de aprendizaje del Sena",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2025/05/Petro_Sena_Aprendices_Consulta_Popular.jpg?fit=1200%2C900&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral",
+              "note": "Definiciones oficiales del DANE: PEA, ocupados, desocupados, subempleo y condiciones inadecuadas; reconoce 'no encontrar trabajo apropiado en su oficio o profesión' como razón válida de desocupación.",
+              "host": "dane.gov.co",
+              "title": "Estadísticas por tema: Mercado Laboral",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.banrep.gov.co/es/estadisticas-economicas/series-historicas/mercado-laboral",
+              "note": "Fuente bloqueada (detección de bot): no aporta datos; impide contrastar series históricas de largo plazo sobre el mercado laboral.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://observatoriodefamilia.dnp.gov.co/Sistema-de-monitoreo/Indicadores-sociodemográficos/Empleo-y-generación-de-ingresos/Paginas/desempleo-de-jovenes.aspx",
+              "note": "Portal del DNP con indicador de desempleo juvenil basado en DANE (ECV); confirma la existencia del indicador pero no aporta cifras de espera para profesionales en el fragmento disponible.",
+              "host": "observatoriodefamilia.dnp.gov.co",
+              "title": "Desempleo de jóvenes",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Se afirma que quienes se afilian a la izquierda son graduados rápidamente sin cumplir los requisitos habituales.",
+          "quote": "resulta que no era sino ponerse a militar para la izquierda, ahí los graduan en un abrir y cerrar de ojos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes disponibles documenta que afiliarse a la izquierda conlleve una 'graduación' rápida ni el incumplimiento de requisitos académicos o administrativos habituales; la afirmación queda sin respaldo verificable en el material entregado [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes aportan contexto político electoral y de corrientes internas, no datos sobre procesos de formación o promoción condicionados a la afiliación partidista. F1 y F2 describen el ascenso electoral de la izquierda colombiana y su evolución programática; F3 y F4 tratan denuncias de clientelismo y burocracia en torno a un concejal de la Alianza Verde en Barranquilla, con versión del implicado que desmiente los cargos; F5 no cargó contenido verificable. Ninguna referencia acreditó un mecanismo de 'graduación' rápida por afiliación [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, una acusación genérica de que 'a la izquierda gradúan en un abrir y cerrar de ojos' sin identificar hechos, instituciones, fechas o víctimas concretas no aporta al esclarecimiento de la verdad ni permite contrastar responsabilidades; corre el riesgo de sustituir la verificación de hechos por la descalificación por asociación. La única fuente con material verificable sobre prácticas cuestionables en un partido de la Alianza Verde muestra, además, una controversia con contradicciones entre la denuncia y la versión del concejal señalado, lo que ilustra la necesidad de pruebas y el derecho de réplica antes de generalizar [F3][F4].",
+          "whatTheyOmit": "La afirmación omite nombres de instituciones, procesos específicos, fechas, requisitos incumplidos y casos documentados; tampoco indica en qué 'graduación' se refiere (académica, militar, administrativa o de carrera política). Las fuentes disponibles no cubren el tema, por lo que no es posible contrastar ni descartar la afirmación con el material entregado [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Ninguna fuente entregada respalda la existencia de una 'graduación' acelerada por afiliarse a la izquierda [F1][F2][F3][F4][F5]",
+            "F3 documenta denuncias de reparto de contratos a personas cercanas a un concejal de la Alianza Verde en Barranquilla, y F4 recoge la refutación de dicho concejal, quien calificó las acusaciones de 'meramente políticas' [F3][F4]",
+            "F1 y F2 describen el fortalecimiento electoral y la evolución programática de la izquierda colombiana, sin referirse a procesos de formación o promoción [F1][F2]",
+            "F5 no cargó contenido legible, por lo que no aporta datos verificables [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/especial-outsider-la-izquierda-fin-del-uribismo/",
+              "note": "Análisis electoral sobre el ascenso de la izquierda y un outsider de derecha; contexto político, sin datos sobre 'graduaciones' por afiliación.",
+              "host": "razonpublica.com",
+              "title": "Especial: el outsider, la izquierda y el fin del uribismo",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/06/9.1.-registraduria.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-transformacion-de-la-izquierda/",
+              "note": "Columna de opinión sobre la evolución de la izquierda colombiana; aporta marco discursivo, no hechos verificables sobre promoción condicionada.",
+              "host": "lasillavacia.com",
+              "title": "La transformación de la izquierda",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/06/Nestor-Correa-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.pares.com.co/andres-rengifo-el-manguito-de-la-alianza-verde-en-el-atlantico/",
+              "note": "Informe con denuncias de burocracia y contratos a cercanos de un concejal de la Alianza Verde; único material sobre prácticas cuestionables, no sobre 'graduación'.",
+              "host": "pares.com.co",
+              "title": "Andrés Rengifo, el ‘Manguito’ de la Alianza Verde en el Atlántico",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/america/colombia/2022/12/11/concejal-andres-rengifo-se-defiende-tras-acusaciones-de-burocracia-en-barranquilla-es-claro-que-es-un-tema-meramente-politico/",
+              "note": "Versión y refutación del concejal señalado en F3; muestra contradicción de hechos y derecho de réplica.",
+              "host": "infobae.com",
+              "title": "Concejal Andrés Rengifo se defiende tras acusaciones de burocracia en Barranquilla: “es claro que es un tema meramente político”",
+              "image": "https://www.infobae.com/resizer/v2/6R3FWGIWVRDYZO6DSXLJBB3OVI.png?auth=3c1ffbe321178038709aa62d26774ff86e56c472443dc76d1398a26ae40c1164&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.scribd.com/document/850509883/Renuncia-Andres-Rengifo-Al-Comite-Ejecutivo-Partido-Alianza-Verde",
+              "note": "Documento no accesible; no aportó contenido verificable.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se afirma que la Procuraduría y la Fiscalía cobran sueldos elevados mientras no cumplen efectivamente su función de sancionar delitos.",
+          "quote": "procuraduría, fiscalía, cobrando sueltos millonarios por sentarse ahí en una silla a calentar culo",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Los datos respaldan que la eficacia de estos órganos es baja —la impunidad en la Fiscalía llega al 95% en varios delitos y solo se condena 1 de cada 4 homicidios [F1]—, pero el carácter 'millonario' de los sueldos no se cuantifica en las fuentes [F3], y la Procuraduría proyectó cerrar 2024 con 100 mil decisiones disciplinarias, lo que matiza la alegación de que 'no sancionan' [F5].",
+          "context": "La Fiscalía recibió 1.370.995 denuncias en 2018, pero la impunidad puede llegar al 95% en hurto, violencia intrafamiliar, lesiones personales, amenazas y estafas; en homicidio solo 1 de cada 4 casos termina en condena [F1]. Entre 2014 y 2018 la Contraloría solo recuperó el 2% de los procesos de responsabilidad fiscal [F1]. La Procuraduría proyectaba cerrar 2024 con 100.000 decisiones disciplinarias, un incremento del 22,23% frente al mismo periodo de 2023 y del 41,41% respecto a 2020 [F5]. Las escalas salariales de la PGN existen y se actualizan por decreto, con incrementos atados a los de congresistas en algunos cargos, pero las fuentes no cuantifican el monto exacto [F3].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repetición que enmarca el análisis institucional, la impunidad masiva documentada por la Fiscalía [F1] constituye una falla estructural que afecta a víctimas de delitos comunes y de violencia armada: si solo 1 de cada 4 homicidios se condena [F1], las víctimas no acceden a verdad judicial ni a reparación. Sin embargo, el argumento de que estos órganos 'no cumplen' requiere matices: la Procuraduría proyectó 100.000 sanciones disciplinarias en 2024 [F5] y la Fiscalía ha adelantado procesos de alto perfil como el juicio contra Álvaro Uribe [F2]. La crítica presupuestaria es legítima —Colombia invierte solo 1,2% del PIB en justicia frente a un déficit histórico de 4 billones de pesos [F1]— y sugiere que la falla no es solo de voluntad sino de recursos. Para la no repeticion, resulta más constructivo señalar las deficiencias con datos y exigir reformas que deslegitimar por completo el aparato de control, ya que su existencia es condición de la rendición de cuentas [F5].",
+          "whatTheyOmit": "Omite que la Procuraduría proyectó cerrar 2024 con 100.000 decisiones disciplinarias, con incrementos significativos respecto a años anteriores [F5]. No cuantifica los salarios a pesar de calificarlos como 'millonarios' [F3]. Omite que la Fiscalía ha sostenido procesos penales de gran impacto, como el juicio contra el ex-presidente Uribe [F2], ni que la ineficacia se debe en parte a un déficit presupuestal histórico del sistema de justicia [F1].",
+          "keyFacts": [
+            "En 2018 la Fiscalía recibió 1.370.995 denuncias y la impunidad llegó al 95% en hurto, violencia intrafamiliar, lesiones personales, amenazas y estafas [F1]",
+            "Solo 1 de cada 4 homicidios termina en condena según las estadísticas de eficacia judicial [F1]",
+            "La Procuraduría proyectó cerrar 2024 con 100.000 decisiones disciplinarias contra funcionarios, con 49.964 en el primer semestre [F5]",
+            "Las escalas salariales de la Procuraduría existen y se actualizan por decreto, con incrementos en ciertos cargos atados a los de congresistas [F3]",
+            "Colombia invierte 1,2% del PIB en justicia, por debajo del 1,5% recomendado, con un déficit histórico superior a 4 billones de pesos [F1]",
+            "La Fiscalía ha adelantado procesos penales de alto perfil como el juicio contra Álvaro Uribe por soborno y fraude procesal [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-corrupcion-de-la-justicia-y-los-organismos-de/",
+              "note": "Datos de impunidad de la Fiscalía, eficacia de la Contraloría y déficit presupuestal del sistema de justicia en Colombia.",
+              "host": "razonpublica.com",
+              "title": "La corrupción de la justicia y los organismos de control - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/01/fiscal-contralor-procurador-control-felipe-jimenez.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/fiscalia-vs-uribe-velez-los-argumentos-finales-del-juicio/",
+              "note": "Muestra un proceso penal de alto perfil adelantado por la Fiscalía contra el ex-presidente Uribe, matizando la idea de inacción total.",
+              "host": "lasillavacia.com",
+              "title": "Fiscalía vs. Álvaro Uribe: los argumentos finales del juicio",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2025/07/Uriberesenado1.jpeg?fit=1200%2C900&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.procuraduria.gov.co/procuraduria/conozca-entidad/Pages/escalas-salariales.aspx",
+              "note": "Confirma la existencia de escalas salariales oficiales de la PGN, sin cuantificar montos específicos.",
+              "host": "procuraduria.gov.co",
+              "title": "Documentos de Escalas Salariales",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://es.scribd.com/document/601453064/Escalas-salariales",
+              "note": "Documento de escalas salariales que no pudo cargarse; no aporta información verificable.",
+              "host": "es.scribd.com",
+              "title": "Client Challenge",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://laopinion.co/politica/procuradura-proyecta-100-mil-sanciones-disciplinarias-en-2024-funcionarios",
+              "note": "La Procuraduría proyectó 100.000 sanciones disciplinarias en 2024, con incrementos del 22,23% vs 2023, contrarrestando la afirmación de inacción total.",
+              "host": "laopinion.co",
+              "title": "Procuradura proyecta 100 mil sanciones disciplinarias en 2024 a funcionarios",
+              "image": "https://media.laopinion.co/sites/default/files/2024-09/Margarita-Cabello-Blanco.jpg"
             }
           ]
         }
