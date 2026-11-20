@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:15:21",
+  "generatedAt": "2026-11-20T16:18:06",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -14584,6 +14584,427 @@
               "host": "laopinion.co",
               "title": "Procuradura proyecta 100 mil sanciones disciplinarias en 2024 a funcionarios",
               "image": "https://media.laopinion.co/sites/default/files/2024-09/Margarita-Cabello-Blanco.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "95k-views-7-8k-reactions-satelites-o-exceso-de-cafe-de-leche-colombia",
+      "title": "95K views · 7.8K reactions | Satélites o exceso de café de leche?🤣📡☕️🦜 #colombia #politica #sarcasmo #firmesporlapatria | Cris Sin Pelos En La Lengua",
+      "uploader": "Cris Sin Pelos En La Lengua",
+      "url": "https://m.facebook.com/watch/?v=1431687442279554&_rdr",
+      "duration": 81.71,
+      "thumbnail": "/media/95k-views-7-8k-reactions-satelites-o-exceso-de-cafe-de-leche-colombia/thumb.jpg",
+      "conclusion": "## Una sátira que ensambla hechos verificados en una cadena causal inexistente\n\nEl video construye, con tono sarcástico, una narrativa muy concreta: el gobierno colombiano habría destinado 40 millones de dólares, dinero que Jeffrey Epstein entregó a Peter Thiel, a un contrato de vigilancia que permitiría observar individualmente a cada colombiano desde satélites israelíes, con un costo simbólico de unos 2.500 pesos por habitante. La percepción que produce es la de una operación opaca, extranjera y casi ridículamente barata para controlar a toda la población.\n\nVarios elementos de esa narrativa tienen base real y conviene reconocerlos. La relación financiera Epstein-Thiel está documentada: unos 40 millones invertidos en Valar Ventures entre 2015 y 2016, según el House Oversight Committee, el WSJ y el NYT. Tampoco es invento que Colombia mantiene contratos con empresas israelíes de vigilancia: el acuerdo de 9 mil millones de pesos con Elbit Systems C4I para el sistema Target 360, o la adquisición del software Pegasus por unos 11 millones de dólares. La cifra poblacional de 54 millones es una aproximación razonable frente a las proyecciones del DANE, y las críticas a los contratos de Inravisión con creadores de contenido son reales.\n\nEl problema aparece cuando esos hechos, verdaderos por separado, se conectan. El video los presenta como partes de una misma operación, pero ninguna fuente vincula la inversión de Epstein en Valar Ventures con un contrato de vigilancia en Colombia. Ahí está el punto de quiebre: en la frase que une \"le dio 40 millones a Peter Thiel\" con \"para que nos vigilen a todos desde los satélites de Netanyahu\". De \"esto ocurrió y es cierto\" se pasa, sin puente probatorio, a \"por lo tanto, la realidad es esta\".\n\nEl contexto que falta modifica por completo la lectura. Los sistemas documentados no son satélites de cobertura universal sino interceptación de comunicaciones selectiva: 26.000 números en 16 meses, no 54 millones de personas vigiladas en simultáneo. No existe licitación, contrato ni declaración oficial sobre \"satélites de Netanyahu\"; el único contrato de artillería israelí es de 18 obuses ATMOS. Sobre Pegasus persisten vacíos probatorios sobre quién ordenó la compra. Los montos reales están en pesos colombianos, no en 40 millones de dólares destinados a influencers, y el cálculo por habitante es un promedio, no un cobro individual.\n\nLa interpretación más completa es que existen temas legítimos y documentados —contratación directa sin licitación, posible intermediación de Codaltec, opacidad en sistemas de interceptación, relación con empresas israelíes pese a la ruptura diplomática—, pero el video los funde en una conspiración de vigilancia satelital masiva financiada por el dinero de Epstein. Los datos son en su mayoría reales; la conclusión que se construye con ellos no se sostiene.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se afirma que se destinaron 40 millones de dólares a unos dueños de redes.",
+          "quote": "le dio 40 millones de dólares a los reños de las redes",
+          "figures": [
+            "40 millones de dólares"
+          ],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes respalda la cifra de 40 millones de dólares destinados a dueños de redes o creadores de contenido. Los montos documentados en las fuentes están expresados en pesos colombianos y son significativamente menores: contratos individuales de ~15,9 y ~16,8 millones de pesos COP a dos influenciadoras [F4], 7.255 millones de pesos COP en contratos de contenido digital [F5], y 100.000 millones de pesos COP en contratos de Inravisión en 2026 [F5], cifra que equivaldría a unos 20-25 millones de dólares al tipo de cambio aproximado, no a 40 millones de dólares.",
+          "context": "Las fuentes documentan un caso real de contratación pública de creadores de contenido afines al gobierno en Inravisión: Stefany Forero Amaya firmó un contrato por $15.906.053 COP y Alejandra Montes Rojas por $16.816.163 COP, ambos en septiembre de 2026 [F4]. El MinTIC denunció 7.255 millones de pesos COP en contratos con recursos del Mineducación y Dapre para 'pauta, plan o contenido digital' [F5]. También se identificaron más de 1.051 contratos por encima de 100.000 millones de pesos COP en Inravisión durante 2026 [F5]. Estas cifras, aunque generan crítica pública legítima [F4], no equivalen a 40 millones de dólares.",
+          "progressivePerspective": "El marco de verdad exige distinguir entre lo verificable y lo exagerado. Las fuentes sí documentan un problema real: contratación estatal de creadores de contenido afines al gobierno, generando críticas transversales de oposición y aliados del gobierno [F4], y desvío de recursos de entidades misionales hacia propaganda digital [F5]. Sin embargo, afirmar '40 millones de dólares' sin respaldo documental distorsiona la magnitud real y puede confundir pesos con dólares. La honestidad informativa —tanto de quien critica como de quien gobierna— requiere que las cifras sean verificables. El dato real (contratos de decenas de millones de pesos COP, no de millones de dólares) es lo suficientemente significativo como para sostener la crítica sin necesidad de inflarlo [F4][F5].",
+          "whatTheyOmit": "El video no aclara la moneda de la cifra citada ni ofrece fuente verificable. Las fuentes muestran montos en pesos colombianos, no en dólares, y las cantidades documentadas son muy inferiores a 40 millones de dólares. También se omite que las críticas a estos contratos provienen de sectores de derecha, oposición y aliados del gobierno por igual [F4], lo que sugiere un consenso transversal en la crítica más allá de la narrativa partidista del video.",
+          "keyFacts": [
+            "Stefany Forero Amaya firmó un contrato con Inravisión por $15.906.053 COP en septiembre de 2026 [F4]",
+            "Alejandra Montes Rojas firmó un contrato con Inravisión por $16.816.163 COP en septiembre de 2026 [F4]",
+            "El MinTIC denunció 7.255 millones de pesos COP en contratos de Inravisión para contenido digital con recursos del Mineducación y Dapre [F5]",
+            "Se identificaron más de 1.051 contratos por encima de 100.000 millones de pesos COP en Inravisión durante 2026 [F5]",
+            "Inravisión tenía un déficit fiscal reportado de $148.391 millones de pesos COP al momento de la contratación [F4]",
+            "Las críticas a estos contratos provinieron de sectores de derecha, oposición y aliados del gobierno por igual [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/detector-de-humo-contra-el-desorden-informativo-75-antes-durante-y-despues-del-clic/",
+              "note": "Análisis sobre regulación de plataformas digitales (Meta, TikTok); no menciona cifras de 40 millones de dólares a creadores de contenido",
+              "host": "razonpublica.com",
+              "title": "Antes, durante y después del clic",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/07/8.1.-Alvaro-duque.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/recircula-video-hecho-con-ia-que-usa-la-imagen-del-presidente-para-estafar/",
+              "note": "Verificación de deepfakes e imágenes manipuladas con IA; no aborda la cifra de 40 millones de dólares",
+              "host": "lasillavacia.com",
+              "title": "Recircula video hecho con IA que usa la imagen del presidente para estafar",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/08/Abelardo-de-la-Espriella-Entrevista-Youtube.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.fiscalia.gov.co/",
+              "note": "Noticias de la Fiscalía General; no contiene información sobre contratación de creadores de contenido ni cifras de 40 millones de dólares",
+              "host": "fiscalia.gov.co",
+              "title": "Fiscalia General de la Nación",
+              "image": "https://www.fiscalia.gov.co/media-portalweb-prd/logo_fisc.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/colombia/2026/10/07/inravision-recibio-criticas-por-contratos-de-mas-de-30-millones-a-dos-creadoras-de-contenido-cercanas-al-gobierno/",
+              "note": "Contratos de ~15,9 y ~16,8 millones de pesos COP a dos influenciadoras; críticas transversales; déficit de $148.391 millones COP; contraste clave: montos en pesos, no en dólares, y muy inferiores a 40 millones de dólares",
+              "host": "infobae.com",
+              "title": "Inravisión recibió críticas por contratos de más de $30 millones a dos creadoras de contenido cercanas al Gobierno",
+              "image": "https://www.infobae.com/resizer/v2/NNH5T5X4LFEEHCEQELZ4ZRRB3A.png?auth=f74dbea516f174589f6e141a62bc519f0c88141aa235018c78958054035827fc&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/politica/articulo/usaron-la-plata-de-la-educacion-para-propaganda-mintic-denuncia-que-7255-millones-de-pesos-fueron-utilizados-para-pagar-contenido-digital/202609/",
+              "note": "7.255 millones de pesos COP en contratos de contenido digital; 100.000 millones de pesos COP en total contratos Inravisión 2026; montos en pesos, no en dólares; contraste: cifras reales documentadas menores a lo afirmado",
+              "host": "semana.com",
+              "title": "MinTIC denuncia que 7.255 millones de pesos en contratos fueron utilizados para pagar contenido digital” durante meses de campaña presidencial",
+              "image": "https://www.semana.com/resizer/v2/3AEGGNHKQZF3ZEXKNROXGAPZIQ.png?auth=b5eef27ea1c2d0d7d05cd7422fa0f2d52eee26852a8f3fc5bdbbde6ad1433f2e&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "seguridad",
+          "claim": "Se afirma que ese dinero se usó para firmar un contrato de vigilancia individual de cada colombiano desde un satélite israelí.",
+          "quote": "con el que acaban de firmar un contrato que es parantil para que nos vigilen individualmente a cada colombiano desde un satélite irradilí",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "No existe en las fuentes ningún respaldo para la existencia de un contrato que permita 'vigilar individualmente a cada colombiano desde un satélite israelí'. Lo que sí está documentado son contratos y acuerdos con empresas israelíes de vigilancia e inteligencia: un acuerdo de 9 mil millones de pesos firmado en abril de 2025 por la Policía Nacional (Dijin) con Elbit Systems C4I para soporte y mantenimiento del sistema de interceptación y análisis de comunicaciones Target 360 [F1], y la denuncia —aún sin pruebas concluyentes de quién ordenó la compra ni del origen de los fondos— sobre la adquisición del software espía Pegasus de NSO Group por 11 millones de dólares [F3]. Ninguna de esas fuentes menciona satélites israelíes ni cobertura individual universal sobre toda la población; por el contrario, los sistemas descritos operan sobre interceptación de comunicaciones y monitoreo selectivo [F1][F3].",
+          "context": "El contrato de abril de 2025 con Elbit Systems C4I es por 9 mil millones de pesos y cubre 'soporte y mantenimiento' de Target 360, herramienta de propiedad intelectual de la empresa israelí, cuyo licenciamiento anterior venció en diciembre de 2021 y se renovó en 2023 y 2024; se trata de uno de 14 acuerdos comerciales firmados por el Ministerio de Defensa y la Dijin con esa empresa en los últimos ocho años, los cuatro más recientes por contratación directa con 'único oferente' por inexistencia de pluralidad de oferentes [F1]. La magnitud real de su uso reportada: en los últimos 16 meses la institución registró la interceptación de más de 26.000 números telefónicos, además de 38 armas y 38 vehículos incautados y al menos 11 capturas [F1]. Respecto de Pegasus, el acuerdo denunciado sería de 11 millones de dólares con la Dirección de Inteligencia Policial (Dipol), con dos pagos de 5,5 millones en 2021; la empresa NSO confirmó que hubo negocio ('todas las transacciones se hicieron de acuerdo con la ley'), pero ni el presidente Petro ni los medios ni la propia empresa aportaron pruebas de que la compra fuera ordenada por funcionarios del gobierno de la época, ni de que los recursos provinieran de incautaciones al narcotráfico, tesis que las propias cifras de incautación registradas hacen inverosímil [F3]. En paralelo, el contrato de 101,71 millones de dólares con Elbit Systems corresponde a 18 obuses autopropulsados ATMOS para el Ejército (artillería, no vigilancia) [F4], y el listado de tratados vigentes entre Colombia e Israel incluye un TLC de 2013 y convenios de cooperación [F5]. Sobre la expresión 'ese dinero': la cita del video no permite identificar a qué monto se refiere, y las fuentes manejan cifras distintas (9 mil millones de pesos, 11 millones de dólares, 101,71 millones de dólares), sin que ninguna se vincule a un satélite de vigilancia [F1][F3][F4].",
+          "progressivePerspective": "El marco de verificación exige separar lo comprobable de la extrapolación. Resulta respaldado por las fuentes que Colombia mantiene y ha renovado contratos de inteligencia y vigilancia con empresas israelíes incluso durante el rompimiento de relaciones diplomáticas, que la contratación se ha hecho sin pluralidad de oferentes y que la empresa en cuestión concentra la propiedad intelectual del sistema, lo cual es un dato de interés público sobre control estatal, soberanía tecnológica y protección de datos [F1]. También es respaldado que existió un negocio con NSO Group por 11 millones de dólares, denunciado públicamente, con vacíos probatorios pendientes de esclarecimiento [F3]. Lo que no abona a la verdad es convertir eso en la afirmación de vigilancia satelital individual de cada colombiano: ese salto no está sostenido por ninguna fuente y desvía la atención desde el escrutinio verificable del contrato (alcance, garantías, marco legal de las interceptaciones, control judicial) hacia una imagen imposible de comprobar, lo que dificulta más que facilita la rendición de cuentas [F1][F3]. En una lógica de verdad, reparación y no repetición aplicable a abusos de inteligencia y seguimiento a ciudadanos, la exigencia útil es precisamente documentar con precisión qué se contrató, con qué dinero, bajo qué autorización y con qué controles, para que no se repitan prácticas de vigilancia indebida; una descripción exagerada del hecho erosiona esa función. Los hechos ya graves por sí mismos —contratación directa con único oferente y continuidad de vínculos militares en medio de la ruptura diplomática— no requieren de la amplificación satelital para ser materia de debate público [F1][F5]. Las fuentes disponibles no contienen elementos que permitan enmarcar el asunto en causas o actuaciones específicas de la JEP, por lo que la valoración se limita al estándar general de veracidad y contexto.",
+          "whatTheyOmit": "Se omite la naturaleza técnica y el alcance real del contrato: mantenimiento y soporte de un sistema de interceptación y análisis de comunicaciones (Target 360), no un dispositivo satelital de cobertura total sobre la población [F1]. Se omite la magnitud efectiva documentada —26.000 números interceptados en 16 meses— que contradice la idea de vigilancia universal individualizada [F1]. Se omite el monto exacto (9 mil millones de pesos) y la fecha (30 de abril de 2025), así como el dato de que es uno de 14 acuerdos con esa empresa en ocho años, cuatro de ellos por contratación directa con único oferente [F1]. Se omite que sobre Pegasus persisten vacíos probatorios: no está demostrado quién ordenó la compra ni el origen de los dineros, y la cifra de 11 millones de dólares no coincide con la de 13 millones citada por otro medio [F3]. También se omite que otro de los grandes contratos con Elbit Systems en Colombia es de artillería (18 obuses ATMOS por 101,71 millones de dólares), no de vigilancia [F4], y que la relación bilateral incluye un TLC y convenios de cooperación vigentes [F5].",
+          "keyFacts": [
+            "En abril de 2025 la Policía Nacional (Dijin) firmó con Elbit Systems C4I un contrato por 9 mil millones de pesos para soporte y mantenimiento del sistema de interceptación y análisis de comunicaciones Target 360 [F1]",
+            "Elbit Systems es la única facultada para modificar o actualizar Target 360, lo que impide a otros fabricantes acceder a su arquitectura y base de datos [F1]",
+            "En los últimos 16 meses la institución reportó la interceptación de más de 26.000 números telefónicos mediante esa herramienta, además de 38 armas, 38 vehículos incautados y al menos 11 capturas [F1]",
+            "De los 14 acuerdos con Elbit Systems en los últimos ocho años, los cuatro más recientes (desde 2021) se registraron por contratación directa sin más oferentes, por 'inexistencia de pluralidad de oferentes en el mercado' [F1]",
+            "El contrato de 2023 se renovó un mes después de que el presidente Petro anunciara la suspensión de compras de material militar a empresas israelíes [F1]",
+            "Existe denuncia de un acuerdo de 11 millones de dólares entre NSO Group (Pegasus) y la Dirección de Inteligencia Policial, con dos pagos de 5,5 millones en 2021, sin pruebas concluyentes de quién ordenó la compra ni del origen de los fondos [F3]",
+            "La empresa NSO Group confirmó que hubo un negocio y declaró que 'todas las transacciones se hicieron de acuerdo con la ley' [F3]",
+            "Un contrato de 101,71 millones de dólares con Elbit Systems corresponde a 18 obuses autopropulsados ATMOS para el Ejército, no a un sistema de vigilancia [F4]",
+            "Entre los tratados vigentes entre Colombia e Israel hay un TLC firmado el 30 de septiembre de 2013 y convenios de cooperación en turismo e investigación y desarrollo [F5]",
+            "Ninguna fuente menciona un satélite israelí de vigilancia ni un contrato de seguimiento individual de cada colombiano [F1][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://voragine.co/sin-categoria/el-contrato-de-la-policia-con-el-mayor-fabricante-de-armas-de-israel/",
+              "note": "Aporta el dato central: contrato de 9 mil millones de pesos (abril de 2025) con Elbit Systems C4I para mantenimiento del sistema de interceptación Target 360, cifras de uso (26.000 números en 16 meses), contratación con único oferente y contexto de relaciones Colombia-Israel. Es la fuente que mejor permite contrastar la afirmación: describe interceptación de comunicaciones, no vigilancia satelital individual.",
+              "host": "voragine.co",
+              "title": "Policía firma contrato con empresa israelí Elbit Systems",
+              "image": "https://voragine.co/wp-content/uploads/2025/07/h2-El-contrato-de-la-Policia-Colombia-con-el-mayor-fabricante-de-armas-de-Israel-Elbit-Systems.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/odebrecht-demando-a-colombia-el-derecho-internacional-protege-la-corrupcion/",
+              "note": "Trata de la demanda de Odebrecht por 3,8 billones de pesos y el derecho internacional de inversiones; no guarda relación con contratos de vigilancia israelí. Sirve como contraste negativo: no aporta evidencia sobre la afirmación verificada.",
+              "host": "razonpublica.com",
+              "title": "Odebrecht demandó a Colombia: ¿el derecho internacional protege la corrupción? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2018/12/Demanda-Odebrecht-Prieto-Urena.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.lasillavacia.com/silla-nacional/lo-que-se-sabe-y-lo-que-no-en-las-denuncias-de-petro-sobre-pegasus/",
+              "note": "Documenta la denuncia sobre Pegasus (NSO Group, 11 millones de dólares) y, sobre todo, el balance probatorio: qué está comprobado (hubo negocio, aviones corroborados por rastreo) y qué no (quién ordenó la compra, origen de los dineros). Permite separar hecho de hipótesis.",
+              "host": "lasillavacia.com",
+              "title": "Pegasus en Colombia: lo que se sabe del software espía",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T182121.456.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.zona-militar.com/2026/11/08/llegaran-los-atmos-a-colombia-que-se-sabe-del-contrato-con-elbit-tras-la-reanudacion-de-relaciones-entre-colombia-e-israel/",
+              "note": "Describe el contrato de 101,71 millones de dólares con Elbit Systems por 18 obuses ATMOS y el contexto de suspensión y reanudación de relaciones con Israel. Aporta contraste: otros contratos con la misma empresa son de material bélico, no de vigilancia satelital.",
+              "host": "zona-militar.com",
+              "title": "¿Llegarán los ATMOS a Colombia? Qué se sabe del contrato con Elbit tras la reanudación de relaciones con Israel",
+              "image": "https://www.zona-militar.com/wp-content/uploads/2025/10/Elbit-ATMOS-Filipinas-Artilleria-Ejercito-nucleo-de-modernidad-1.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/politica/gobierno/colombia-e-israel-estos-son-los-tratados-convenios-y-contratos-que-hay-con-ese-pais-816776",
+              "note": "Inventario de tratados y convenios vigentes entre Colombia e Israel (TLC de 2013, cooperación, contratos de defensa como repuestos Kfir y fusiles Galil). Nota: parte del contenido de la página está tras muro de suscripción; el texto accesible no menciona satélites de vigilancia.",
+              "host": "eltiempo.com",
+              "title": "Colombia-Israel: estos son los tratados, acuerdos diplomáticos y contratos que hay",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/10/10/65254c6874798.png"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "Se afirma que la persona a la que se le entregaron los 40 millones de dólares es Peter Thiel.",
+          "quote": "ese Thal Einstein le dio 40 millones de dólares a un tal Peter Thiel, que para que nos vigilen a todos los colombianos",
+          "figures": [
+            "40 millones de dólares"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La parte central de la afirmación —que Jeffrey Epstein entregó 40 millones de dólares vinculados a Peter Thiel— tiene respaldo documental en las fuentes: se trata de unos 40 millones invertidos en Valar Ventures, fondo cofundado por Thiel, entre 2015 y 2016, según documentos del House Oversight Committee, el WSJ y el NYT. Sin embargo, la segunda parte de la frase (que el dinero se dio 'para que nos vigilen a todos los colombianos') no tiene respaldo en ninguna fuente entregada [F4][F3].",
+          "context": "Según la fuente, la relación financiera entre Epstein y Thiel está 'verificada' y se remonta a alrededor de 2014: el calendario de Epstein muestra al menos tres reuniones con Thiel en su residencia de Manhattan en septiembre de 2014 y un almuerzo el 27 de noviembre de 2017; los correos filtrados documentan además que Epstein promoció la startup israelí Reporty (hoy Carbyne) a Valar Ventures en 2016, propuesta que fue rechazada como 'prematura', y que en 2018 Founders Fund (otra firma de Thiel) invirtió 15 millones en Carbyne [F4]. El monto de 40 millones corresponde, en la fuente, a dinero 'invertido en Valar Ventures (2015-2016)', es decir, una inversión a través de un fondo de capital de riesgo de Thiel, no un pago directo ni una transacción destinada a un contrato con Colombia [F4]. Peter Thiel es presentado como fundador de PayPal y Palantir, y Thiel Macro LLC aparece como fondo suyo que cotiza acciones ante la SEC [F5]. No existe en las fuentes entregada ninguna evidencia de un contrato Palantir-satélite israelí para vigilar a colombianos; la única pieza que lo afirma es la propia declaración atribuida a Gustavo Petro en una publicación de X, que es la proposición en disputa y no una verificación independiente [F3].",
+          "progressivePerspective": "En términos de verdad verificable, la afirmación se sostiene solo en su núcleo fáctico: los 40 millones sí están documentados como vinculados al ecosistema de inversión de Thiel [F4]. El rigor exige separar ese hecho de la atribución de propósito ('para que nos vigilen a todos los colombianos'), que ninguna fuente respalda [F3][F4]. Presentar como hecho consumado una finalidad espía sin evidencia reproducible corre el riesgo de sustituir la verificación por la confirmación de sospechas previas, dinámica que la literatura señala como el verdadero obstáculo para la verdad pública: no el algoritmo, sino la disposición a creer lo que conviene creer [F1]. El ecosistema en el que circula este tipo de contenido es el mismo que ya ha producido engaños masivos con inteligencia artificial y clonación de voces en Colombia, lo que obliga a un estándar alto de trazabilidad documental antes de compartir una acusación grave [F2]. Decir la verdad sobre lo verificable (los 40 millones) y señalar explícitamente lo no verificable (la finalidad) es lo que abona a una conversación pública con hechos compartidos; lo contrario alimenta la degradación del debate en la que se discute si los hechos existen [F1].",
+          "whatTheyOmit": "Omite que los 40 millones fueron una inversión en Valar Ventures (2015-2016) y no un pago directo a la persona de Peter Thiel, matiz que cambia el sentido de 'le dio 40 millones' [F4]. Omite toda evidencia que vincule esa inversión con un contrato de vigilancia sobre Colombia: las fuentes solo documentan reuniones, correos e inversiones en Carbyne/Valar/Founders Fund, sin conexión con Colombia [F4][F3]. Omite también que la versión original de la acusación circula como afirmación de Gustavo Petro en redes, no como resultado de una investigación periodística o judicial [F3]. Y no distingue entre el hecho verificable (la relación financiera Epstein-Thiel) y la inferencia de propósito, justo el punto donde la ausencia de hechos compartidos degrada la deliberación [F1].",
+          "keyFacts": [
+            "Jeffrey Epstein mantuvo una relación financiera con Peter Thiel que incluyó 40 millones invertidos en Valar Ventures en 2015-2016, según documentos del House Oversight Committee, WSJ y NYT [F4]",
+            "El calendario de Epstein registra al menos tres reuniones con Thiel en Manhattan en septiembre de 2014 y un almuerzo el 27 de noviembre de 2017 [F4]",
+            "Epstein promovió la startup israelí Reporty (Carbyne) a Valar Ventures en 2016; la propuesta fue rechazada como 'prematura', y en 2018 Founders Fund invirtió 15 millones en Carbyne [F4]",
+            "Carbyne fue cofundada por veteranos de la Unidad 8200 y ofrece acceso a cámara y GPS desde el celular que llama al 911 [F4]",
+            "Peter Thiel es fundador de PayPal y Palantir; su fondo Thiel Macro LLC declaró ante la SEC una participación de 123,3 millones de dólares en la petrolera Vista [F5]",
+            "Ninguna fuente entregada respalda que el dinero se hubiera entregado 'para vigilar a los colombianos'; esa finalidad solo aparece como la afirmación de Gustavo Petro en una publicación de X [F3][F4]",
+            "En Colombia circulan videos falsos creados con inteligencia artificial que usan la imagen de medios y empresarios para estafar, un contexto de desinformación que exige verificación documental [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-insoportable-dificultad-de-aceptar-los-hechos/",
+              "note": "Marco epistemológico: la dificultad para aceptar hechos que contradicen creencias, sesgo de confirmación y la necesidad de hechos verificables para la deliberación democrática; aporta el criterio para separar hecho de inferencia.",
+              "host": "razonpublica.com",
+              "title": "La insoportable dificultad de aceptar los hechos - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2024/08/Marcela-anzola-news.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/detector-de-mentiras/con-desinformacion-e-ia-asi-opera-un-nuevo-modelo-de-estafa-en-facebook/",
+              "note": "Contexto colombiano de desinformación: 30 páginas coordinadas, 34 videos falsos con 1,8 millones de vistas, voces clonadas con IA; evidencia el ecosistema en el que circula el contenido analizado.",
+              "host": "lasillavacia.com",
+              "title": "Sarmiento, Jorge Alfredo y Petro: la estafa que circula en Facebook con rostros hechos con inteligencia artificial",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2024/06/portada-desinformacion.ia_.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://x.com/movimientocol/status/2121082388314820675",
+              "note": "Registro de la afirmación original atribuida a Gustavo Petro (Epstein-Thiel-Palantir-satélite israelí); es la proposición en disputa, no una verificación independiente.",
+              "host": "x.com",
+              "title": "Movimiento Colombia (@movimientocol) on X",
+              "image": "https://pbs.twimg.com/amplify_video_thumb/2121082343523778560/img/cZHxQb5tpejBDuSV?format=webp&name=large"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.diario-red.com/internacional/red-oculta-como-epstein-conecto-peter-thiel-palantir-complejo-ciber-espionaje-israeli/20260216223411064041.html",
+              "note": "Principal respaldo del núcleo fáctico: 40 millones en Valar Ventures (2015-2016), reuniones y correos documentados, inversión en Carbyne; no establece vínculo con Colombia ni con vigilancia de colombianos.",
+              "host": "diario-red.com",
+              "title": "La red oculta: cómo Epstein conectó a Peter Thiel de Palantir con el complejo de ciber espionaje israelí",
+              "image": "https://www.diario-red.com/media/diariored/images/2026/02/16/2026021622323937484.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/america/agencias/2026/11/18/magnate-peter-thiel-redobla-apuesta-por-vaca-muerta-con-mas-acciones-en-la-petrolera-vista/",
+              "note": "Contexto biográfico y patrimonial de Peter Thiel (fundador de PayPal y Palantir, fondo Thiel Macro LLC ante la SEC); no aporta información sobre los 40 millones ni sobre Colombia.",
+              "host": "infobae.com",
+              "title": "Magnate Peter Thiel redobla apuesta por Vaca Muerta con más acciones en la petrolera Vista",
+              "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "seguridad",
+          "claim": "Se afirma que la vigilancia se haría con satélites israelíes, específicamente los satélites de Netanyahu.",
+          "quote": "que con satélites israelíes, sí, los satélites de Netanyahu",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las fuentes aportadas respalda que Colombia vaya a realizar vigilancia con satélites israelíes, ni mucho menos que existan 'satélites de Netanyahu': no hay licitación, contrato o declaración oficial de tal naturaleza en los documentos disponibles [F2][F3][F5].",
+          "context": "Lo que sí está documentado es un contrato de defensa entre Colombia e Israel: en abril de 2023 Elbit Systems anunció un contrato de ~102 millones de dólares (adjudicado por 101,71 millones) para 18 obuses autopropulsados ATMOS de 155 mm, cuya ejecución se mantuvo vigente pese a la suspensión de compras de armamento anunciada por el gobierno el 1 de marzo de 2024 y a la ruptura de relaciones diplomáticas dos meses después, y que quedaría favorecida por el restablecimiento pleno de vínculos acordado para el 7 de agosto de 2026 [F2]. Existe además un contrato satelital de ImageSat International (ISI) por 9,1 millones de dólares con la constelación EROS-C, pero el cliente es 'un cliente de defensa en Asia', no Colombia [F5]. La única aparición de 'satélites' en una fuente es la licitación del Fondo Rotatorio del DAS de 2014 por vigilancia y seguridad privada en sedes y 'puestos satélites', es decir, puestos físicos de guardia, terminada anormalmente por revocatoria [F3]. En cuanto a Netanyahu, la fuente disponible se refiere a las órdenes de arresto emitidas en mayo de 2024 por el Fiscal de la CPI por posibles crímenes de guerra y de lesa humanidad en Gaza [F1].",
+          "progressivePerspective": "En términos de verdad, la afirmación no abona al esclarecimiento de los hechos: el nombre 'satélites de Netanyahu' no designa ningún sistema verificable —los satélites son activos estatales o comerciales, no patrimonio personal de un jefe de gobierno— y no se encuentra respaldo documental en las fuentes sobre un sistema de vigilancia israelí contratado por Colombia [F5][F2]. Desde la reparación y la no repetición, el uso sarcástico de la figura de Netanyahu —a quien la CPI investiga por posibles crímenes graves en Gaza [F1]— para satirizar un posible contrato de vigilancia puede desviar la atención del debate sustantivo: quién vigila, bajo qué autorización legal, con qué control democrático y con qué garantías para los derechos fundamentales de la población colombiana. Presentar como hecho un dato sin fuente, aunque sea en clave de humor, dificulta el escrutinio público de los contratos de defensa y de inteligencia, que es precisamente lo que permite la rendición de cuentas y la no repetición de abusos [F2][F3].",
+          "whatTheyOmit": "Omite cualquier documento, licitación o declaración oficial que sustente la compra o uso de satélites israelíes para vigilancia en Colombia: las fuentes solo dan cuenta de un contrato de artillería terrestre ATMOS y de un contrato satelital de ImageSat con un cliente asiático [F2][F5]. Omite también que el único contrato con la palabra 'satélites' en las fuentes es de puestos físicos de guardia del DAS de 2014, terminado anormalmente [F3], y no aporta indicio de que 'los satélites de Netanyahu' correspondan a una entidad real, presentándolo en cambio como una afirmación categórica [F1].",
+          "keyFacts": [
+            "Elbit Systems anunció en abril de 2023 un contrato cercano a 102 millones de dólares (adjudicado en 101,71 millones) para suministrar 18 obuses autopropulsados ATMOS a Colombia, con plazo de ocho años [F2].",
+            "El gobierno anunció el 1 de marzo de 2024 la suspensión de compras de armamento a Israel y rompió relaciones diplomáticas dos meses después, pero los contratos ya firmados, como el de los ATMOS, siguieron vigentes según el entonces ministro de Defensa [F2].",
+            "Ninguna fuente documenta un contrato o proyecto colombiano de vigilancia con satélites israelíes [F2][F3][F5].",
+            "ImageSat International obtuvo un contrato de 9,1 millones de dólares por servicios de la constelación EROS-C, pero el cliente es 'un cliente de defensa en Asia', no Colombia [F5].",
+            "La licitación del Fondo Rotatorio del DAS de 2014 se refería a vigilancia y seguridad privada en sedes y 'puestos satélites' (puestos físicos), y fue terminada anormalmente por revocatoria [F3].",
+            "En mayo de 2024 el Fiscal de la CPI emitió órdenes de arresto contra el primer ministro de Israel, Benjamin Netanyahu, y su ministro de Defensa, Yoav Gallant, por posibles crímenes de guerra y de lesa humanidad en Gaza [F1]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/gaza-guerra-la-humanidad/",
+              "note": "Columna sobre Gaza: contexto de las órdenes de arresto de la CPI contra Netanyahu (mayo 2024). Aporta el único dato verificable sobre Netanyahu; no habla de satélites ni de Colombia.",
+              "host": "razonpublica.com",
+              "title": "Gaza: Guerra contra la humanidad | Columna | Armando José Mercado",
+              "image": "https://razonpublica.com/wp-content/uploads/2025/03/Armando-Jose-Mercado.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.zona-militar.com/2026/11/08/llegaran-los-atmos-a-colombia-que-se-sabe-del-contrato-con-elbit-tras-la-reanudacion-de-relaciones-entre-colombia-e-israel/",
+              "note": "Contrato colombiano con Elbit Systems por obuses ATMOS (artillería terrestre, no satélites) y reanudación de relaciones Colombia-Israel en 2026. Es la fuente principal sobre vínculos de defensa; no menciona satélites de vigilancia.",
+              "host": "zona-militar.com",
+              "title": "¿Llegarán los ATMOS a Colombia? Qué se sabe del contrato con Elbit tras la reanudación de relaciones con Israel",
+              "image": "https://www.zona-militar.com/wp-content/uploads/2025/10/Elbit-ATMOS-Filipinas-Artilleria-Ejercito-nucleo-de-modernidad-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://colombialicita.com/licitacion/3835875",
+              "note": "Licitación del DAS (2014) por vigilancia en sedes y 'puestos satélites': evidencia que 'satélite' en contratación colombiana designa puestos físicos, no sistemas espaciales. Proceso terminado anormalmente.",
+              "host": "colombialicita.com",
+              "title": "$127,591,337 - FONDO ROTATORIO DEL DAS",
+              "image": "https://colombialicita.com/img/fb2.png"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.tiktok.com/@cristina_gav",
+              "note": "Perfil del autor del video; no aporta datos verificables sobre la afirmación.",
+              "host": "tiktok.com",
+              "title": "",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.delphosmagazine.com/en/imagesat-international-obtiene-contrato-de-91-millones-por-servicios-satelitales-eros-c/",
+              "note": "Contrato satelital de ImageSat (EROS-C, 9,1 millones de dólares) con un cliente de defensa en Asia. Muestra que contratos satelitales israelíes existen, pero no con Colombia y no para la vigilancia descrita.",
+              "host": "delphosmagazine.com",
+              "title": "ImageSat International obtiene contrato de 9,1 millones por servicios satelitales EROS-C",
+              "image": "https://www.delphosmagazine.com/wp-content/uploads/2025/11/Image-captured-by-EROS-C3-satellite-ImageSat-International-1.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "social",
+          "claim": "Se afirma que la población colombiana es de aproximadamente 54 millones de personas.",
+          "quote": "somos como 54 millones de colombianos",
+          "figures": [
+            "54 millones"
+          ],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La cifra de 'como 54 millones de colombianos' es una aproximación razonable pero algo por encima de la proyección oficial disponible: el DANE proyecta 52.613.753 habitantes para 2024, y el Censo 2018 arrojó 48.258.494 personas [F5][F1]. Con un crecimiento neto anual cercano a 460.000 personas según las estadísticas vitales citadas, llegar a 54 millones exigiría extrapolarse unos años más allá de 2024, de modo que la afirmación no es falsa pero anticipa una cifra aún no certificada [F1].",
+          "context": "El dato debe leerse contra el reciente y problemático histórico censal colombiano: sobre la base del Censo de 2005 (41.468.384 habitantes) el DANE proyectó que en 2018 el país superaría los 50 millones, pero los primeros conteos de 2018 dieron cifras imposibles (41,5 y 42,6 millones) y el informe final del 4 de julio de 2019 fijó 48.258.494 personas, con una omisión estimada del 8,5% (4.094.077 personas) sujetas a ajustes [F1]. El DANE sostiene hoy proyecciones oficiales 2018-2070 y retroproyecciones elaboradas con base en el CNPV 2018, además de una certificación de población para fines administrativos y legales (Decreto 1652 de 2021) [F3]. Sobre esa base, las proyecciones para 2024 dan 52.613.753 habitantes [F5]. El crecimiento neto se calcula en el orden de 460.000 personas adicionales por año según la aritmética de nacimientos, defunciones y migración neta que describe la fuente [F1]; con esa magnitud, la cifra de 54 millones correspondería a un momento posterior a 2024 (extrapolación propia a partir de [F1] y [F5]).",
+          "progressivePerspective": "Como el video no trata del conflicto armado ni de la JEP, el marco aplicable es el de la rigoridad estadística y la transparencia informativa. La afirmación es una redondeo coloquial ('somos como 54 millones') que, leída con los datos, queda entre la proyección oficial de 52,6 millones para 2024 [F5] y el crecimiento neto anual de cientos de miles de personas que describe la fuente [F1]: es compatible con la tendencia, pero anticipa como presente una cifra que las fuentes disponibles aún no certifican para 2024. En materia de política pública la diferencia importa: el propio DANE puso en marcha una certificación oficial de población para usos administrativos y legales precisamente porque de esa cifra dependen la asignación de recursos, el diseño de políticas y la planeación territorial [F3]. La historia del censo colombiano —con errores de censura, omisión del 8,5% y correcciones sucesivas— muestra por qué conviene distinguir entre una aproximación de conversación y una cifra oficial, sin que eso invalide el orden de magnitud que el video maneja [F1][F3].",
+          "whatTheyOmit": "El video no precisa a qué año se refiere la cifra ni cita fuente oficial: las fuentes disponibles dan 52.613.753 habitantes para 2024 según proyecciones del DANE, no 54 millones [F5]. Tampoco menciona que la cifra certificada con base en el Censo 2018 es 48.258.494 personas y que estuvo sujeta a ajustes por una omisión censal del 8,5% [F1], ni que el DANE ofrece proyecciones oficiales 2018-2070 y una certificación de población de uso legal [F3]. La afirmación se enuncia como dato consumado sin señalar la incertidumbre metodológica que rodea la demografía colombiana [F1].",
+          "keyFacts": [
+            "El informe final del Censo 2018 entregado por el DANE el 4 de julio de 2019 fijó la población en 48.258.494 personas, cifra sujeta a ajustes [F1]",
+            "Según proyecciones del DANE, en 2024 Colombia tenía 52.613.753 habitantes: 26.836.155 mujeres y 25.777.598 hombres [F5]",
+            "El DANE sustenta sus proyecciones y retroproyecciones 1950-2070 en el Censo Nacional de Población y Vivienda (CNPV) 2018 [F3]",
+            "La aritmética de estadísticas vitales descrita en la fuente da un neto poblacional de aproximadamente 460.000 personas adicionales por año [F1]",
+            "Ninguna de las fuentes entregadas registra una cifra oficial de 54 millones de habitantes para Colombia [F1][F5][F3]",
+            "El censo de 2005 contó 41.468.384 habitantes, y las primeras cifras del censo de 2018 (41,5 y 42,6 millones) fueron calificadas como imposibles [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/censo-de-poblacion-al-fin-en-una-cifra-que-sigue/",
+              "note": "Da el histórico y los problemas del Censo 2018 (48.258.494 con omisión del 8,5%), el Censo 2005 (41.468.384) y la aritmética de crecimiento neto de ~460.000 personas/año; permite medir el orden de magnitud y la trayectoria hacia 54 millones.",
+              "host": "razonpublica.com",
+              "title": "Censo de población, al fin en una cifra: ¿qué sigue? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2019/07/director-dane-Ricardo-Bonilla.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-envejecio-sin-enriquecerse/",
+              "note": "Aporta contexto demográfico actual (nacimientos de 445.011 en 2024, fecundidad en torno a 1,6) que condiciona el ritmo de crecimiento poblacional, sin cifra total de población.",
+              "host": "lasillavacia.com",
+              "title": "Colombia envejeció sin enriquecerse",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/08/Harold_Cardona_trujillo.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion",
+              "note": "Portal oficial del DANE con las proyecciones 2018-2070 basadas en el CNPV 2018 y la certificación de población (Decreto 1652 de 2021) para usos administrativos y legales; contrasta con la cifra aproximada del video.",
+              "host": "dane.gov.co",
+              "title": "Proyecciones de población",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://microdatos.dane.gov.co/index.php/catalog/DEM-Microdatos",
+              "note": "Catálogo de microdatos demográficos del DANE (estadísticas vitales, migración); confirma la existencia de series oficiales, sin aportar una cifra total de población.",
+              "host": "microdatos.dane.gov.co",
+              "title": "Demografía y población.",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://telencuestas.com/censos-de-poblacion/colombia/2024",
+              "note": "Reproduce las proyecciones del DANE: 52.613.753 habitantes en 2024, dato central para contrastar la cifra de 54 millones.",
+              "host": "telencuestas.com",
+              "title": "Población de Colombia 2024 | DANE",
+              "image": "https://telencuestas.com/img/telencuestas-promo.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "economia",
+          "claim": "Se afirma que el costo de vigilancia por colombiano sería de unos 2500 pesos (cagados), derivado de dividir los 40 millones de dólares entre la población.",
+          "quote": "nos van a vigilar a cada uno como por 2500 cagados besos",
+          "figures": [
+            "40 millones de dólares",
+            "54 millones",
+            "2500"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El dato exacto de '40 millones de dólares' y el cálculo de '2500 pesos por colombiano' no aparecen en ninguna de las fuentes entregadas; las fuentes registran cifras distintas: al menos 57 millones de dólares en 13 contratos antidrones entre 2022 y noviembre de 2026 [F4] y una inversión anunciada de 6,2 billones de pesos para el 'Escudo Nacional Antidrones' que, según el Ministerio de Defensa, carecía de financiación y contratos [F5]. Es decir, el orden de magnitud de la inversión sí está respaldado (decenas de millones de dólares), pero ni la cifra de 40 millones ni el resultado de 2500 pesos por habitante son verificables con estas fuentes [F4][F5].",
+          "context": "La división entre un costo total y la población es un promedio aritmético: no significa que cada colombiano 'pague' esa suma ni que el gasto se reparta en efectivo entre los ciudadanos. Las proyecciones de población oficial las elabora el DANE con base en el Censo 2018 para el periodo 2018-2070 [F3], lo que permite cualquier cálculo per cápita, pero las fuentes no contienen el número específico usado en el video. Además, la cifra real de gasto reportada es de 230.000 millones de pesos (~57 millones de dólares) en al menos 13 contratos, en su mayoría adjudicados sin proceso competitivo [F4], y el propio Ministerio de Defensa señaló que el anunciado 'Escudo Nacional Antidrones' de 6,2 billones de pesos no tenía recursos consolidados, viabilidad técnica ni contratos adjudicados [F5]. La fuente sobre fotomultas en Cali documenta, en otro ámbito, concesiones privadas de vigilancia electrónica con reparto de recaudo desigual entre municipios y concesionarios [F1].",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición, la afirmación tiene un núcleo útil y un núcleo débil. El núcleo útil: las fuentes confirman un gasto de decenas de millones de dólares en sistemas de vigilancia antidrones adjudicados en su mayoría 'a dedo', sin procesos competitivos, con una empresa cuestionada por la Contraloría como intermediaria sin experiencia y con equipos que no funcionaron en Catatumbo [F4][F5]; el esclarecimiento de cómo se contrató, quién decidió y con qué resultados abona a la verdad y a la rendición de cuentas, condiciones de la no repetición. El núcleo débil: convertir un promedio aritmético en un supuesto precio de vigilancia 'por colombiano' es un recurso retórico, no un hecho [F3][F4], y presentar la cifra de 40 millones cuando las fuentes registran 57 millones o un anunciado de 6,2 billones sin fondos introduce imprecisión en un tema donde la precisión es justamente lo que exige la transparencia [F4][F5]. También conviene no perder de vista que los sistemas antidrones responden a ataques con aeronaves cargadas de explosivos atribuidos al ELN y a otros grupos que han afectado a militares y población civil [F5]: cuestionar la opacidad contractual es legítimo, y ello no equivale a negar la amenaza que motivó la compra.",
+          "whatTheyOmit": "Omite la cifra que sí está documentada: 57 millones de dólares en 13 contratos entre 2022 y 2026, no 40 millones [F4]. Omite que la inversión anunciada en el 'Escudo Nacional Antidrones' fue de 6,2 billones de pesos y que el Ministerio de Defensa la calificó de sin financiación ni contratos [F5]. Omite el motivo declarado de las compras (ataques con drones del ELN y otros grupos armados) [F5] y omite aclarar que dividir un gasto entre la población da un promedio, no un cobro individual por ciudadano [F3][F4]. También deja fuera el dato de que el problema documentado es la adjudicación sin licitación y la posible intermediación de Codaltec, cuestionada por la Contraloría [F4][F5], que es el eje real de la controversia contractual.",
+          "keyFacts": [
+            "Colombia gastó al menos 57 millones de dólares (230.000 millones de pesos) en al menos 13 contratos de sistemas antidrones entre 2022 y noviembre de 2026 [F4]",
+            "La mayoría de esos contratos se adjudicó sin proceso competitivo, es decir, 'a dedo' según la investigación [F4]",
+            "El Ministerio del Interior firmó en diciembre de 2024 un contrato de cerca de 91.000 millones de pesos con CODALTEC para un sistema antidrones del Ejército, empresa señalada por la Contraloría de intermediar sin experiencia [F4]",
+            "El 'Escudo Nacional Antidrones' fue anunciado con una inversión de 6,2 billones de pesos, pero el Ministerio de Defensa sostiene que no tenía financiación, viabilidad técnica ni contratos adjudicados [F5]",
+            "La Armada adjudicó a Codaltec un contrato de 5.000 millones de pesos para sistemas antidrones en Bogotá y Puerto Leguízamo [F5]",
+            "El DANE publica proyecciones oficiales de población 2018-2070 con base en el Censo 2018, base para cualquier cálculo per cápita [F3]",
+            "Las fuentes entregadas no contienen la cifra de 40 millones de dólares ni el cálculo de 2500 pesos por colombiano [F4][F5]",
+            "Las fotomultas muestran un precedente de vigilancia electrónica con concesiones privadas: en Cali el municipio se queda con el 56% del recaudo y el consorcio con cerca del 9-34%, y en Villa del Rosario el concesionario recibía el 64% [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-nacional/pacifico/los-duenos-de-las-fotomultas-de-cali-que-por-ahora-no-saldran-golpeados/",
+              "note": "Antecedente de vigilancia electrónica con concesiones privadas y reparto desigual del recaudo; aporta contexto de contratación de vigilancia, no la cifra del video",
+              "host": "lasillavacia.com",
+              "title": "Los dueños de las fotomultas de Cali que por ahora no saldrán golpeados",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2021/03/califotomulta.jpg?fit=1000%2C625&ssl=1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://webstories.lasillavacia.com/kale-el-piloto-de-fracking-en-colombia/",
+              "note": "Contenido sobre fracking en Kalé; no aporta información sobre gasto en vigilancia ni población, por lo que es ajeno a la afirmación",
+              "host": "webstories.lasillavacia.com",
+              "title": "KalÃ©: El piloto de Fracking en Colombia",
+              "image": "https://cdn2.storyasset.link/1e9c24f8-fb9e-454a-b17f-596395b8ba27/ms-vusdbypnll.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion",
+              "note": "Fuente oficial de proyecciones de población 2018-2070 con base en el CNPV 2018; permite el cálculo per cápita pero no contiene la cifra usada en el video",
+              "host": "dane.gov.co",
+              "title": "Proyecciones de población",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://caracol.com.co/2026/11/13/colombia-ha-gastado-57-millones-de-dolares-en-sistemas-antidrones-en-los-ultimos-anos/",
+              "note": "Cifra real documentada: 57 millones de dólares en 13 contratos antidrones 2022-2026, mayoría adjudicados sin licitación; contraste directo con los 40 millones alegados",
+              "host": "caracol.com.co",
+              "title": "Colombia ha gastado 57 millones de dólares en sistemas antidrones en los últimos años",
+              "image": "https://caracol.com.co/resizer/v2/BVERW27GKRHM7GBVQETRRJADIA.jpg?auth=239de46c6a5a34ec7ebdf04fd039a8241ab261f2e1013485bad54f8b6a1f363d&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.infobae.com/colombia/2026/11/10/polemica-por-multimillonario-contrato-de-5000-millones-que-entrego-la-armada-nacional-para-la-adquisicion-de-antidrones-esto-dijo-la-contraloria/",
+              "note": "Contraloría sobre Codaltec; anuncio de 6,2 billones de pesos sin financiación; motivo declarado de las compras (ataques con drones); contraste de magnitud y contexto",
+              "host": "infobae.com",
+              "title": "Polémica por multimillonario contrato de $5.000 millones que entregó la Armada Nacional para la adquisición de antidrones: esto dijo la Contraloría",
+              "image": "https://www.infobae.com/resizer/v2/WSSXNYVM3BFA7GVZI2R44ZQWHI.jpeg?auth=5e9b495898771597321bde6396938b10b4d64b0bfa20405c395a913a637d0672&smart=true&width=1200&height=630&quality=85"
             }
           ]
         }
