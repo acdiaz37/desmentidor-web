@@ -1,77 +1,36 @@
 import Link from "next/link";
-import type { VerdictColor, Video } from "@/lib/types";
-import { colorStyle, videoOverall, videoVerdictColor } from "@/lib/verdicts";
-import VerdictBadge from "./VerdictBadge";
+import type { Video } from "@/lib/types";
+import { countClaims, formatDuration, videoOverall } from "@/lib/verdicts";
+import Matrix from "./Matrix";
 
-const BORDER: Record<VerdictColor, string> = {
-  green: "border-emerald-300 hover:border-emerald-400",
-  lime: "border-lime-300 hover:border-lime-400",
-  orange: "border-amber-300 hover:border-amber-400",
-  red: "border-rose-300 hover:border-rose-400",
-};
-
+/** Tarjeta de video de la portada. Todas pesan igual (ver DISENO.md). */
 export default function VideoCard({ video }: { video: Video }) {
-  const counts = { green: 0, lime: 0, orange: 0, red: 0 } as Record<string, number>;
-  for (const c of video.claims) counts[c.color] += 1;
-  const vc = colorStyle(videoVerdictColor(video));
+  const counts = countClaims(video.claims);
   const overall = videoOverall(video);
+  const dur = formatDuration(video.duration);
+  const fallback = video.claims.find((c) => c.quote)?.quote;
 
   return (
-    <Link
-      href={`/video/${video.slug}`}
-      className={`group flex flex-col overflow-hidden rounded-2xl border bg-white transition hover:-translate-y-0.5 hover:shadow-md ${
-        BORDER[overall.color] ?? "border-zinc-200 hover:border-zinc-300"
-      }`}
-    >
-      <div className="relative aspect-square w-full overflow-hidden bg-zinc-100">
-        {video.thumbnail ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={video.thumbnail}
-            alt={video.title}
-            className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.03]"
-          />
-        ) : (
-          <div className="flex h-full w-full items-center justify-center text-xs text-zinc-400">
-            sin miniatura
-          </div>
-        )}
-        <div className="absolute left-2 top-2 flex gap-0.5 rounded-full bg-black/45 px-2 py-1 backdrop-blur">
-          {video.claims.map((c) => (
-            <span key={c.id} className={`h-1.5 w-1.5 rounded-full ${colorStyle(c.color).dot}`} />
-          ))}
+    <Link className="card" href={`/video/${video.slug}`}>
+      {video.thumbnail ? (
+        <div className="thumb">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={video.thumbnail} alt="" loading="lazy" />
+          <span className="stamp" data-v={overall.color}>{overall.label}</span>
         </div>
-        <div className="absolute bottom-2 right-2 rounded-full bg-black/55 px-2 py-0.5 text-[10px] font-semibold text-white backdrop-blur">
-          {video.claims.length} datos
+      ) : (
+        <div className="thumb noimg">
+          <span>{fallback ? `«${fallback}»` : video.title}</span>
+          <span className="stamp" data-v={overall.color}>{overall.label}</span>
         </div>
-        <div className="absolute right-2 top-2">
-          <VerdictBadge label={overall.label} color={overall.color} />
-        </div>
-      </div>
-
-      <div className="flex flex-1 flex-col p-3">
-        <h3 className={`line-clamp-2 text-sm font-semibold leading-snug ${vc.text}`}>
-          {video.title}
-        </h3>
-        <p className="mt-0.5 text-[11px] text-zinc-500">
+      )}
+      <div className="info">
+        <h3>{video.title}</h3>
+        <div className="meta">
           @{video.uploader}
-          {video.duration ? ` · ${Math.round(video.duration)}s` : ""}
-        </p>
-
-        <div className="mt-3 flex flex-wrap gap-1.5 text-[10px] font-medium">
-          <span className="rounded-full bg-emerald-500/15 px-2 py-0.5 text-emerald-700">
-            {counts.green} mayormente
-          </span>
-          <span className="rounded-full bg-lime-500/15 px-2 py-0.5 text-lime-700">
-            {counts.lime} a medias
-          </span>
-          <span className="rounded-full bg-amber-500/15 px-2 py-0.5 text-amber-700">
-            {counts.orange} con matices
-          </span>
-          <span className="rounded-full bg-rose-500/15 px-2 py-0.5 text-rose-700">
-            {counts.red} falsos
-          </span>
+          {dur ? ` · ${dur}` : ""} · {video.claims.length} datos
         </div>
+        <Matrix counts={counts} />
       </div>
     </Link>
   );

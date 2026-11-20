@@ -1,40 +1,78 @@
-import SiteHeader from "@/components/SiteHeader";
 import VideoCard from "@/components/VideoCard";
 import data from "@/data/videos.json";
 import type { SiteData } from "@/lib/types";
+import { CATEGORIES, countClaims } from "@/lib/verdicts";
 
 export default function Home() {
   const site = data as SiteData;
-  // Orden invertido: los videos más nuevos (últimos incorporados) aparecen primero.
+  // Los más nuevos (últimos incorporados) primero.
   const videos = [...site.videos].reverse();
+  const counts = countClaims(site.videos.flatMap((v) => v.claims));
+  const totalClaims = site.videos.reduce((n, v) => n + v.claims.length, 0);
+  const collage = videos.filter((v) => v.thumbnail).slice(0, 4);
 
   return (
-    <div className="mx-auto w-full max-w-5xl px-4 pb-16 pt-8 sm:px-6">
-      <SiteHeader data={site} />
+    <>
+      <section className="hero">
+        <div>
+          <h1 className="hero-t slant">
+            <span className="ln"><span>Desmintiendo</span></span>
+            <br />
+            <span className="blk"><span className="ln"><span>lo viral</span></span></span>
+          </h1>
+          <div className="bars slant" aria-hidden="true"><i /><i /></div>
+          <p className="tagline">Que sea viral no significa que sea cierto.</p>
+          <p className="lede">
+            Millones de vistas no convierten un dato en verdad. Revisamos videos de TikTok,
+            Instagram, Facebook, YouTube y X, y contrastamos cada cifra con fuentes y contexto.
+          </p>
+        </div>
+        {collage.length > 0 && (
+          <div className="photo" aria-hidden="true">
+            <div className="collage">
+              {collage.map((v) => (
+                <div key={v.slug}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={v.thumbnail} alt="" />
+                </div>
+              ))}
+            </div>
+            <span className="tag">
+              <small>VIDEOS REVISADOS</small>
+              <span data-n={site.videos.length} data-delay={900}>{site.videos.length}</span>
+            </span>
+          </div>
+        )}
+      </section>
 
-      <div className="mb-3 flex items-center justify-between px-1">
-        <h2 className="text-xs font-semibold uppercase tracking-wide text-zinc-400">
-          Videos desmentidos ({site.videos.length})
-        </h2>
-        <span className="text-[11px] text-zinc-400">Elige un video para ver los datos</span>
-      </div>
-
-      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {videos.map((video) => (
-          <VideoCard key={video.slug} video={video} />
+      <div className="stats">
+        <div className="dark" style={{ "--i": 0 } as React.CSSProperties}>
+          <b data-n={site.videos.length}>{site.videos.length}</b>
+          <span>Videos</span>
+        </div>
+        <div className="dark" style={{ "--i": 1 } as React.CSSProperties}>
+          <b data-n={totalClaims}>{totalClaims}</b>
+          <span>Datos</span>
+        </div>
+        {CATEGORIES.map((cat, k) => (
+          <div key={cat.key} data-v={cat.key} style={{ "--i": k + 2 } as React.CSSProperties}>
+            <b data-n={counts[cat.key]}>{counts[cat.key]}</b>
+            <span>{cat.label}</span>
+          </div>
         ))}
       </div>
 
-      <footer className="mt-10 border-t border-zinc-200 pt-4 text-[11px] leading-relaxed text-zinc-400">
-        <p>
-          Cada dato se contrasta con fuentes verificables y se clasifica en{" "}
-          <span className="font-medium text-emerald-600">mayormente verdadero</span>,{" "}
-          <span className="font-medium text-lime-600">verdadero, pero le falta contexto</span>,{" "}
-          <span className="font-medium text-amber-600">con matices / exagerado</span> o{" "}
-          <span className="font-medium text-rose-600">falso</span>. Un dato puede ser cierto y aun
-          así estar fuera de contexto: lo ponemos en su justa medida.
-        </p>
-      </footer>
-    </div>
+      <div className="sec-h rv">
+        <h2><span>Los videos</span></h2>
+        <p>Más recientes primero</p>
+      </div>
+      <div className="grid">
+        {videos.map((video, i) => (
+          <div key={video.slug} className="rv" style={{ "--d": `${(i % 2) * 90}ms` } as React.CSSProperties}>
+            <VideoCard video={video} />
+          </div>
+        ))}
+      </div>
+    </>
   );
 }

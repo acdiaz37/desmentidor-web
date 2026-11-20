@@ -7,3 +7,10 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
 
 <!-- END:nextjs-agent-rules -->
+
+# Diseño de la web
+
+Antes de tocar cualquier cosa visual (componentes, `globals.css`, colores, textos de
+cabecera), lee **`DISENO.md`**: es la fuente de verdad del sistema de diseño "Póster"
+(colores de marca y de veredictos, tipografía, estructura, animaciones, responsive y
+checklist). Si cambias una regla, actualiza `DISENO.md` en el mismo commit.

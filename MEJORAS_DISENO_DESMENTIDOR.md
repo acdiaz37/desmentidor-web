@@ -1,5 +1,10 @@
 # Especificación de mejoras de diseño — Desmentidor
 
+> **Actualización 2026-11-20:** la dirección visual vigente es **"Póster"** y está en
+> [`DISENO.md`](DISENO.md). De este documento siguen valiendo las reglas de **estructura**
+> y de **conservación de contenido**; la paleta "Revista" (marfil, rojo ladrillo, serif)
+> quedó reemplazada por la de la marca (tinta, amarillo #FFC700, azul #0077FF, Bebas Neue + Inter).
+
 Este documento reúne las decisiones, preferencias y requisitos visuales acordados durante la revisión de Desmentidor. Sirve como referencia para seguir iterando y, más adelante, aplicar el diseño definitivo al sitio.
 
 ## Objetivo
