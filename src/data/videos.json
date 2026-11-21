@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:52:57",
+  "generatedAt": "2026-11-20T21:11:52",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -15490,6 +15490,674 @@
               "host": "portafolio.co",
               "title": "Contraloría reporta hallazgo por $9.000 millones en consultoría contratada por el Ministerio de Agricultura",
               "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/02/05/6984b68dcf4cc.r_d.629-335-0.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "1-3k-views-74-reactions-y-la-patria-milagro-sigue-dandole-palo-a-los-z",
+      "title": "1.3K views · 74 reactions | Y la patria milagro sigue dándole palo a los zurdopatas. Mientras los mamertos andan perdidos sin saber que más inventar para salir a marchar, Abelardo De La Espriella y la patria milagro sigue trabajando y haciendo que las cosas pasen. Sarmiento Dona 200 mil millones de pesos al departamento del chocó 🙏🏾🇨🇴 primer gobierno en ponerle interés al desarrollo del Choco. #colombia #IzquierdaNuncaMas | Felipe Espinosa Gongola",
+      "uploader": "Felipe Espinosa Gongola",
+      "url": "https://m.facebook.com/watch/?v=2379842279447235&_rdr",
+      "duration": 144.833,
+      "thumbnail": "/media/1-3k-views-74-reactions-y-la-patria-milagro-sigue-dandole-palo-a-los-z/thumb.jpg",
+      "conclusion": "## De una donación real a una narrativa de milagro\n\nEl video construye una narrativa de hito histórico: un gobierno recién llegado lograría lo que nunca antes se logró en Chocó, convocando por primera vez a los grandes empresarios del país y recibiendo de ellos cientos de miles de millones para desarrollar un departamento supinamente abandonado. Esa narrativa genera la percepción de un antes y un después nítido, donde la atribución política (\"la patria milagro\", \"Abelardo De La Espriella\") aparece como causa directa de un beneficio concreto y ya entregado.\n\nGran parte de los datos que la sostienen son ciertos. La reunión del 7 de septiembre en Quibdó existió, la lista de empresarios asistentes (Gilinski, Santo Domingo, Sarmiento Angulo, Vélez, Char, entre otros) es correcta, la donación de 200 mil millones de la familia Sarmiento es real, existe un plan vial para Chocó con corredores identificados, y De La Espriella sí convocó públicamente a los empresarios a invertir en el departamento. El anhelo histórico de conectividad vial también tiene respaldo documental, y el abandono estructural de Chocó es un hecho ampliamente reconocido.\n\nEl problema aparece en cómo se articulan esos datos. La primera y más grave distorsión es aritmética: los 200 mil millones se presentan como donación \"al departamento del Chocó\" o como aporte \"para la construcción de vías\", cuando en realidad solo 50 mil millones —una cuarta parte— corresponden al Chocó; el resto se destinó a Valle del Cauca y Risaralda para hospitales, colegios y acueducto. Además, la donación responde a la emergencia sísmica del 10 de agosto, no a una política vial desvinculada de una tragedia.\n\nEl punto de quiebre se produce justo ahí: en el salto de \"la familia Sarmiento donó 200 millones para Chocó y sus vías\" a \"por lo tanto, este gobierno hizo lo que ningún otro pudo\". Ese salto exige ignorar la distribución real de los recursos, el carácter privado y reactivo de la donación, y el hecho de que las obras ni siquiera están ejecutadas: los montos están en fase de estructuración y contratación. Sobre esto se agregan omisiones relevantes: los anuncios de la cumbre rondan los 2 billones en aportes privados totales, el paquete vial de 1 billón es una hoja de ruta, y existen compromisos presupuestarios previos de gobiernos anteriores en la misma vía Quibdó-Medellín. También se atribuye al gobierno una novedad inverificable (\"primera vez\", \"ningún gobierno anterior\") sin serie presupuestaria alguna que lo sustente, cuando el registro histórico muestra patrones de promesas recurrentes desde 1908 y 1966.\n\nEl contexto que falta —distribución de la donación, emergencia sísmica como origen, fase de ejecución, antecedentes históricos— cambia radicalmente la lectura. Una interpretación más completa sería: existe un esfuerzo real y documentado de articulación público-privada para la reconstrucción del Chocó tras el terremoto, con compromisos concretos pero todavía no materializados, en un departamento cuyo abandono es estructural y anterior a cualquier administración. Presentar eso como un milagro atribuible a un solo gobierno, sobre una cifra que no corresponde al departamento, es donde la representación deja de corresponder a la realidad.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se afirma que se recibieron 200 mil millones de pesos de la familia Sarmiento",
+          "quote": "hoy recibimos generosamente 200 mil millones de la familia Sarmiento",
+          "figures": [
+            "200 mil millones"
+          ],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La cifra de 200.000 millones de pesos como donación de la familia Sarmiento es correcta, pero el video y su descripción atribuyen ese monto íntegro al departamento del Chocó, cuando en realidad de ese total solo 50.000 millones se destinaron a Chocó; el resto fue para Valle del Cauca (87.000 millones) y Risaralda (50.000 millones). La cita textual \"hoy recibimos generosamente 200 mil millones de la familia Sarmiento\" refleja el monto total donado, no la asignación a Chocó [F4][F5].",
+          "context": "Luis Carlos Sarmiento Angulo y su esposa Fanny Gutiérrez de Sarmiento donaron 200.000 millones de pesos para atender la emergencia y reconstrucción tras el terremoto del 10 de agosto. El presidente Abelardo De La Espriella anunció el compromiso. La distribución fue de 87.000 millones al Valle del Cauca, 50.000 millones a Risaralda y 50.000 millones al Chocó, destinados a vías departamentales. Los 200.000 millones forman parte de una movilización empresarial que sumó 550.000 millones en compromisos de grandes familias empresarias [F4][F5][F3].",
+          "progressivePerspective": "El marco de verdad, justicia, reparación y no repetición exige distinguir con precisión qué recursos llegan a cada territorio. En Chocó, uno de los departamentos más golpeados por el conflicto armado, la reconstrucción de vías es un tema de reparación territorial relevante. Atribuir al Chocó los 200.000 millones completos distorsiona la magnitud real del aporte al departamento (50.000 millones) y puede inflar la percepción de un beneficio que no corresponde a la realidad documentada. También resulta relevante señalar que el donante es uno de los grupos económicos con mayor concentración de poder en Colombia, controlando cerca de un tercio de la banca privada y con intereses en múltiples sectores, incluido el de los medios de comunicación [F1][F2]. El contexto de donación privada tras desastres naturales no sustituye la responsabilidad del Estado en la garantía de derechos y reparación integral en territorios históricamente abandonados como el Chocó [F3][F5].",
+          "whatTheyOmit": "Omite que de los 200.000 millones solo 50.000 millones corresponden al Chocó; el resto fue a Valle del Cauca y Risaralda [F5]. Omite también el contexto de que la donación fue para la emergencia sísmica del 10 de agosto, no un aporte desvinculado a la tragedia. No menciona que la familia Sarmiento es parte del grupo económico más poderoso de Colombia, con activos equivalentes a cerca del 25% del PIB y extensos intereses en banca, medios, energía e infraestructura, lo cual plantea preguntas sobre concentración de poder y posibles conflictos de interés [F1][F2].",
+          "keyFacts": [
+            "Luis Carlos Sarmiento Angulo y su esposa donaron 200.000 millones de pesos para la emergencia y reconstrucción tras el terremoto del 10 de agosto [F4]",
+            "De ese total, 50.000 millones se destinaron al Chocó, 87.000 al Valle del Cauca y 50.000 a Risaralda [F5]",
+            "Los recursos al Chocó se enfocan en infraestructura vial, incluyendo corredores Istmina-Puerto Meluk y Riosucio-Belén de Bajirá [F5]",
+            "Los 200.000 millones forman parte de una movilización empresarial que sumó 550.000 millones de grandes familias empresarias [F4]",
+            "El Grupo Aval de Sarmiento Angulo maneja activos equivalentes a cerca del 25% del PIB colombiano y controla aproximadamente un tercio de la banca privada [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/la-organizacion-luis-carlos-sarmiento-angulo-el-verdadero-estado-colombiano/",
+              "note": "Analiza el poderío económico del Grupo Aval y la influencia de la familia Sarmiento en múltiples sectores de la economía colombiana, incluyendo banca, medios e infraestructura.",
+              "host": "razonpublica.com",
+              "title": "La Organización Luis Carlos Sarmiento Angulo: ¿el verdadero Estado colombiano? - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2018/12/luis-carlos-sarmiento-aval-aurelio-suarez.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/detector-a-video-de-petro-sobre-sarmiento-angulo-2/",
+              "note": "Detector de La Silla Vacía que confirma la información sobre las empresas de Sarmiento y su control de medios, así como sus donaciones a partidos políticos.",
+              "host": "lasillavacia.com",
+              "title": "Detector a video de Petro sobre Sarmiento Ángulo",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2023/07/280723sarmientodetector1-1.jpg?fit=640%2C480&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://pluralidadz.com/nacion/luis-carlos-sarmiento-angulo-dona-50-mil-millones-de-pesos-para-carreteras-del-choco/",
+              "note": "Confirma que de la donación total de 200.000 millones, 50.000 millones se destinaron al Chocó para vías departamentales.",
+              "host": "pluralidadz.com",
+              "title": "Luis Carlos Sarmiento Angulo dona 50 mil millones de pesos para carreteras del Chocó",
+              "image": "https://pluralidadz.com/wp-content/uploads/2026/11/sarmiento-angulo-dona-200-000-millones-para-reconstruir.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/negocios/empresas/luis-carlos-sarmiento-angulo-dono-200-000-millones-para-atender-emergencia-por-el-terremoto-dijo-de-la-espriella-500685",
+              "note": "Confirma la donación total de 200.000 millones por la familia Sarmiento y la movilización empresarial de 550.000 millones en total.",
+              "host": "portafolio.co",
+              "title": "Luis Carlos Sarmiento Angulo donó $200.000 millones para atender la emergencia por el terremoto",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84dc8e92296.r_d.531-370-0.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://proclamadelpacifico.com/donacion-50-mil-millones-vias-choco/",
+              "note": "Detalle de la distribución de los 200.000 millones: 87.000 al Valle del Cauca, 50.000 a Risaralda y 50.000 al Chocó.",
+              "host": "proclamadelpacifico.com",
+              "title": "Donación de $50.000 millones para vías del Chocó",
+              "image": "https://proclamadelpacifico.com/wp-content/uploads/2026/11/Donacion-de-50.000-millones-para-fortalecer-las-vias-del-departamento-del-Choco.webp"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se afirma que desde 1933 existe el anhelo de un plan vial en Chocó",
+          "quote": "Porque desde 1933 tenemos el anhelo de un plan vial",
+          "figures": [
+            "1933"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación de que 'desde 1933 tenemos el anhelo de un plan vial' en Chocó no puede confirmarse con las fuentes entregadas: ninguna menciona el año 1933. Lo que sí queda respaldado es que existe un anhelo histórico de conectividad vial en Chocó, documentado en un informe titulado 'Plan vial del Chocó' de la Escuela Nacional de Minas publicado en DYNA, y en la larga reclamación de desarrollo del territorio recogida desde 1908 [F3][F1]. La fecha exacta de 1933 queda sin evidencia en el corpus proporcionado [F3][F1][F2].",
+          "context": "Las fuentes confirman que el reclamo de infraestructura y desarrollo en Chocó es centenario: en 1908 el periódico El Chocó ya denunciaba el abandono del territorio por parte de los gobiernos anteriores, y tras el incendio de Quibdó de octubre de 1966 el presidente Carlos Lleras Restrepo prometió 'remediar los males' del departamento, patrón de promesas que se repite tras cada crisis [F1]. Existe efectivamente un documento histórico titulado 'Plan vial del Chocó' (informe de Benjamín Ferrer y Bernardo Naranjo a la Escuela Nacional de Minas), pero el extracto de la fuente no indica el año de elaboración, por lo que no permite fijar 1933 como fecha [F3]. En la actualidad, la respuesta al terremoto del 10 de agosto de 2025 incluye ocho proyectos, entre ellos vías, y una hoja de ruta para cinco corredores viales, con el Fondo Milagro operando desde el 15 de octubre [F2]. El contexto estructural: Chocó tenía la pobreza monetaria más alta del país, 65,3% en 2025 según el DANE, con décadas de rezagos en conectividad [F2].",
+          "progressivePerspective": "A la luz de los principios de verdad y no repetición, la afirmación contiene un núcleo verificable (el anhelo vial en Chocó es histórico y documentado) pero amarra esa verdad histórica a una fecha (1933) que las fuentes no respaldan, lo que debilita su valor como dato [F3][F1]. El riesgo analítico es de doble filo: por un lado, señalar la antigüedad del anhelo puede contribuir al esclarecimiento de la verdad sobre el abandono estatal centenario de Chocó, tal como lo documentan las fuentes (reclamaciones desde 1908, promesas presidenciales recurrentes tras desastres como las de 1966) [F1]; por otro, presentar el plan vial actual como la culminación de ese anhelo puede convertir una promesa política en un acto de legitimation que oculta que las condiciones estructurales —pobreza de 65,3%, extracción histórica de recursos, presencia estatal selectiva— persisten y que el patrón de 'prometer tras la crisis' se ha repetido durante un siglo [F1][F2]. Las fuentes subrayan además que una vía no es neutral: puede acercar servicios o facilitar la salida de minerales y madera, y que la participación de las comunidades chocoanas es decisiva para que la reconstrucción no reproduzca la desigualdad [F2]. Una afirmación histórica verificada con rigor, sin fechas inventadas y con reconocimiento de las condiciones previas al plan, abona más a la verdad y a la no repetición que una cifra no contrastada [F1][F2][F3].",
+          "whatTheyOmit": "El video no aporta fuente para la fecha de 1933, que ninguna de las fuentes entregadas menciona [F3][F1][F2]. Omite igualmente que el anhelo de desarrollo de Chocó es previo a cualquier administración actual: las reclamaciones de abandono datan de 1908 y las promesas presidenciales de 'remediar los males' se repiten tras cada crisis, como en 1966 [F1]. Tampoco se mencionan las condiciones estructurales del territorio —pobreza monetaria de 65,3% en 2025 según el DANE, décadas de rezagos en infraestructura [F2]— ni las condiciones del plan (régimen de estabilidad jurídica y tributaria, financiación de la mitad del paquete vial con obras por impuestos) que definen quién invierte y con qué beneficios [F2]. Se omite además el debate sobre el uso de las vías (servicios vs. extracción) y la exigencia comunitaria de participación en la formulación e implementación del plan [F2].",
+          "keyFacts": [
+            "Existe un informe histórico titulado 'Plan vial del Chocó', elaborado por Benjamín Ferrer y Bernardo Naranjo para la Escuela Nacional de Minas, lo que confirma que la formulación de planes viales para Chocó es un anhelo documentado, aunque el extracto no indica el año [F3]",
+            "Ninguna fuente entregada menciona el año 1933, por lo que la fecha específica no puede ser verificada con el corpus disponible [F3][F1][F2]",
+            "El reclamación por el abandono de Chocó es anterior a 1933: en 1908 el periódico El Chocó ya denunciaba que el territorio había sido 'casi abandonado por los anteriores gobiernos' [F1]",
+            "Tras el incendio de Quibdó de octubre de 1966, el presidente Carlos Lleras Restrepo prometió colaboración para remediar los males del departamento, patrón de promesas que las fuentes califican de recurrente tras cada crisis [F1]",
+            "El plan vigente tras el terremoto del 10 de agosto de 2025 incluye ocho proyectos y una hoja de ruta para cinco corredores viales, con una gerencia de la reconstrucción y el Fondo Milagro operando desde el 15 de octubre [F2]",
+            "Chocó presentaba la pobreza monetaria más alta del país, 65,3% en 2025 según el DANE, con décadas de rezagos en infraestructura y conectividad [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-plan-marshall-y-la-entrada-de-choco-a-la-agenda-de-de-la-espriella/",
+              "note": "Aporta el contexto histórico de promesas recurrentes de desarrollo en Chocó: texto de 1908 en El Chocó sobre el abandono, discurso de Carlos Lleras Restrepo tras los incendios de Quibdó de 1966, y crítica al patrón de 'plan Marshall' anunciado tras el terremoto. Contrasta la retórica de abandono con el centralismo real.",
+              "host": "razonpublica.com",
+              "title": "El “Plan Marshall” y la entrada de Chocó a la agenda de De la Espriella",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/5.1.-barrios-Quibdo.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/el-plan-marshall-del-choco-debe-hacerse-con-sus-comunidades/",
+              "note": "Aporta magnitud actual: ocho proyectos, cinco corredores viales, Fondo Milagro desde el 15 de octubre, pobreza de 65,3% (DANE 2025), condiciones del financiamiento (obras por impuestos) y el debate sobre si las vías benefician a la comunidad o a la extracción. Contrasta el optimismo del video con la exigencia de participación comunitaria.",
+              "host": "lasillavacia.com",
+              "title": "El Plan Marshall del Chocó debe hacerse con sus comunidades",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/08/Lizeth_Sinisterra.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://revistas.unal.edu.co/index.php/dyna/article/view/107583",
+              "note": "Única fuente que confirma la existencia de un 'Plan vial del Chocó' documentado históricamente (informe de Ferrer y Naranjo a la Escuela Nacional de Minas), pero sin año en el extracto: sirve como soporte parcial del anhelo histórico, no de la fecha 1933.",
+              "host": "revistas.unal.edu.co",
+              "title": "Plan vial del Chocó",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S2215-41752022000100310",
+              "note": "Estudio sobre construcción de caminos en Costa Rica en el siglo XIX; no corresponde a Chocó ni a Colombia, por lo que no aporta evidencia para la afirmación. Se registra por completitud.",
+              "host": "scielo.sa.cr",
+              "title": "Análisis de la acción colectiva en la construcción de caminos en Costa Rica durante el siglo XIX. El caso de la ruta entre el Valle Central y la costa del Pacífico",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-215X2025000100154",
+              "note": "Historia del metro de Bogotá y sistemas de transporte masivo; no trata de Chocó ni de planes viales chocoanos, por lo que no aporta evidencia para la afirmación. Se registra por completitud.",
+              "host": "scielo.org.co",
+              "title": "El metro de Bogotá: una historia contradictoria de la movilidad en el espacio urbano (1951-1990)",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Se afirma que hay una inversión específica destinada al plan vial del departamento de Chocó",
+          "quote": "tenemos una inversión específica destinada por parte de amarte quien no tiene la obligación de hacerlo",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "La afirmación central es verdadera: existe una inversión específica y identificable destinada al plan vial del Chocó proveniente de la donación privada de la familia Sarmiento ($50.000 millones de los $200.000 millones donados), pero la formulación del video (y su pie) amplía o desdibuja la magnitud real al presentar los $200.000 millones como donación 'al departamento del Chocó', cuando esa cifra corresponde a la donación total repartida entre tres departamentos [F5].",
+          "context": "Tras el terremoto del 10 de agosto, el empresario Luis Carlos Sarmiento Angulo y su esposa Fanny Gutiérrez de Sarmiento anunciaron una donación de $200.000 millones, distribuida en $87.000 millones para el Valle del Cauca, $50.000 millones para Risaralda y $50.000 millones para el Chocó; en Chocó los recursos se concentran en infraestructura vial (corredores Istmina-Puerto Meluk y Riosucio-Belén de Bajirá), aunque su ejecución depende de la estructuración técnica y los mecanismos de contratación [F5]. Paralelamente, el Gobierno Nacional anunció un paquete vial cercano a $1 billón para el Chocó (cinco vías y el aeropuerto de Bahía Solano) financiado con recursos de la Nación, Obras por Impuestos y aportes privados, que según las propias fuentes corresponde todavía a una hoja de ruta de inversión y estructuración, no a obras ejecutadas [F3] [F4]. El contexto más amplio es la reconstrucción post-sismo, con más de 33 mil viviendas afectadas y un 'Plan Marshall' del Chocó en construcción, con hoja de ruta vial apenas iniciada y el Fondo Milagro operando desde el 15 de octubre [F2].",
+          "progressivePerspective": "La afirmación de una inversión privada específica y voluntaria para las vías del Chocó es verificable y se sostiene con las fuentes [F5]. El análisis de fondo conviene situarlo en la lógica de la transparencia y la rendición de cuentas sobre la reconstrucción: los datos muestran que el componente vial chocoano de la donación Sarmiento asciende a $50.000 millones —no a los $200.000 millones totales que incluyen Valle del Cauca y Risaralda [F5]— y que el anuncio de un paquete de $1 billón sigue en fase de estructuración, con financiación mixta y 50% a cargo de empresarios y Obras por Impuestos [F3] [F4]. La propia literatura sobre la reconstrucción del Chocó advierte que los anuncios y la agenda nacional no bastan: lo decisivo es la ejecución, la participación comunitaria en la definición de proyectos y que la reconstrucción no reproduzca la desigualdad histórica del departamento, cuya pobreza monetaria alcanzó 65,3% en 2025 según el Dane [F2]. Desde esa perspectiva, presentar una donación privada como logro del 'plan vial' sin precisar montos, fuentes de financiación y estado de ejecución aporta menos a la verdad y a la garantía de seguimiento que una rendición de cuentas detallada.",
+          "whatTheyOmit": "El video omite que los $200.000 millones es la donación total de la familia Sarmiento a tres departamentos (Valle del Cauca, Risaralda y Chocó), de los cuales solo $50.000 millones corresponden al Chocó [F5]. También omite que la ejecución de esos recursos depende de estructuración técnica y contratación [F5], y que el paquete vial gubernamental de $1 billón es una hoja de ruta en fase de estructuración y no obras ejecutadas, financiada 50% con empresarios y Obras por Impuestos [F3] [F4]. No se mencionan tampoco las condiciones y visión de desarrollo que la literatura especializada plantea para los proyectos viales del Chocó, cuya definición ha sido señalada como pendiente de participación comunitaria [F2].",
+          "keyFacts": [
+            "La familia Sarmiento donó $200.000 millones para la reconstrucción tras el terremoto del 10 de agosto, repartidos en $87.000 millones para el Valle del Cauca, $50.000 millones para Risaralda y $50.000 millones para el Chocó [F5]",
+            "Los $50.000 millones asignados al Chocó están destinados al fortalecimiento del plan vial departamental, con corredores como Istmina-Puerto Meluk y Riosucio-Belén de Bajirá [F5]",
+            "La donación es del sector privado y su ejecución depende de la estructuración técnica y los mecanismos de contratación y seguimiento [F5]",
+            "El Gobierno anunció un paquete vial de cerca de $1 billón para el Chocó (cinco vías y aeropuerto de Bahía Solano) con recursos de la Nación, Obras por Impuestos y aportes privados, incluido apoyo de Bancolombia a la estructuración [F3] [F4]",
+            "El anuncio del paquete de $1 billón corresponde a una hoja de ruta de inversión y estructuración; no significa que las obras hayan sido ejecutadas [F3]",
+            "Tras el sismo, más de 33 mil viviendas resultaron afectadas y existe un plan de ocho proyectos con hoja de ruta vial apenas iniciada y un Fondo Milagro operando desde el 15 de octubre [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-choco-reconstruccion-y-construccion-una-adenda/",
+              "note": "Contexto de la reconstrucción del Chocó tras el sismo y la deuda histórica del departamento; aporta el marco general, no datos sobre la donación Sarmiento.",
+              "host": "razonpublica.com",
+              "title": "El Chocó: reconstrucción y construcción + una adenda - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/10/4.1-Terremoto-10-de-agosto-Choco--1024x683.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/el-plan-marshall-del-choco-debe-hacerse-con-sus-comunidades/",
+              "note": "Cifras de afectación, hoja de ruta vial en fase inicial, Fondo Milagro y debate sobre financiación (50% con obras por impuestos) y participación comunitaria en el plan.",
+              "host": "lasillavacia.com",
+              "title": "El Plan Marshall del Chocó debe hacerse con sus comunidades",
+              "image": "https://i0.wp.com/www.lasillavacia.com/wp-content/uploads/2026/08/Lizeth_Sinisterra.jpg?fit=1200%2C900&quality=80&strip=all&ssl=1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/09/14/gobierno-propone-paquete-vial-de-cerca-de-1-billon-para-choco-con-apoyo-de-empresarios/",
+              "note": "Paquete vial de ~$1 billón: seis proyectos, fuentes de financiación y advertencia de que es hoja de ruta, no ejecución.",
+              "host": "infobae.com",
+              "title": "Abelardo de la Espriella propone paquete vial de cerca de $1 billón para Chocó con apoyo de empresarios",
+              "image": "https://www.infobae.com/resizer/v2/4SRT3T3EQNFTHOLUB6FZQQUKBY.jpg?auth=a8e0be9c3a9fd5200767183365f59a9628e604448048b02877a96a3333293fb4&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/infraestructura/de-la-espriella-anuncia-paquete-de-1-billon-para-cinco-grandes-vias-y-un-aeropuerto-en-choco-501990",
+              "note": "Confirma el paquete de $1 billón, los cinco corredores viales, el aeropuerto y el esquema 50% empresarios/Obras por Impuestos.",
+              "host": "portafolio.co",
+              "title": "Paquete de infraestructura: De La Espriella anuncia $1 billón para cinco grandes vías y un aeropuerto en Chocó",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9f1afc3c616.r_d.876-520-0.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://proclamadelpacifico.com/donacion-50-mil-millones-vias-choco/",
+              "note": "Fuente central: $50.000 millones de la donación de $200.000 millones de los Sarmiento van al plan vial del Chocó; distribución entre tres departamentos y condicionamiento de ejecución.",
+              "host": "proclamadelpacifico.com",
+              "title": "Donación de $50.000 millones para vías del Chocó",
+              "image": "https://proclamadelpacifico.com/wp-content/uploads/2026/11/Donacion-de-50.000-millones-para-fortalecer-las-vias-del-departamento-del-Choco.webp"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Se atribuye al presidente Abelardo de la Espiella haber convocado a los empresarios y grupos empresariales más importantes de Colombia a sentarse por primera vez en esta región alrededor de una misma mesa",
+          "quote": "El presidente Abelardo de la Espiella ha convocado a los empresarios y grupos empresariales más importantes de Colombia para sentarse por primera vez en estas circunstancias y en esta región alrededor de una misma mesa",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Las fuentes confirman que Abelardo de la Espriella es presidente de Colombia desde el 7 de agosto de 2026 y que se reunió con grandes empresarios (la reunión de 'los cacaos' en Barranquilla, organizada por Gabriel Gilinski), pero NINGUNA fuente respalda que esa reunión haya ocurrido 'en esta región' (Chocó), ni que haya sido 'por primera vez', ni que el convocado fuera el conjunto de los empresarios más importantes del país en esa región [F2][F5]. El dato tal como se enuncia no puede verificarse con las fuentes entregadas.",
+          "context": "De la Espriella asumió la presidencia el 7 de agosto de 2026, sucediendo a Gustavo Petro, tras una campaña centrada en 'mano dura' contra la delincuencia, libre mercado y reducción del tamaño del Estado [F5]. La única reunión presidencial con grandes empresarios documentada por las fuentes ocurrió en Barranquilla (atlántico), no en Chocó: reemplazó un almuerzo con 300 miembros de la Andi que fue cancelado abruptamente, y fue organizada por Gabriel Gilinski, hijo del empresario Jaime Gilinski [F2]. Sobre Chocó, el Banco de la Reserva documenta tres siglos de dependencia extractiva, debilidad institucional, baja competitividad y brechas socioeconómicas persistentes, sin que las fuentes registren una mesa empresarial presidencial en el departamento [F3]. El texto de La Silla sobre el tema empresarial está incompleto en la fuente entregada y no alcanza a detallar el alcance exacto de esa reunión [F2].",
+          "progressivePerspective": "En términos de verificación, la afirmación mezcla un hecho parcialmente documentado (De la Espriella sí convocó a grandes empresarios) con dos elementos no respaldados por fuente alguna: el lugar ('esta región', entendiéndose Chocó según el título del video) y la novedad histórica ('por primera vez'). El único encuentro presidencial-empresarial registrado está en Barranquilla y con motivaciones que las fuentes asocian a la decisión de vetar a la dirección de la Andi y a la relación con el grupo Gilinski, no con el desarrollo del Chocó [F2]. Además, el propio contexto empresarial documentado muestra tensión, no armonía: el gobierno habría intentado vetar a Bruce Mac Master al frente de la Andi, el gremio empresarial más poderoso del país, poniendo a prueba la autonomía de los gremios garantizada por el artículo 39 de la Constitución, y la interlocución empresarial del gobierno quedó descrita como una 'apuesta mutua' [F2]. Desde la perspectiva de desarrollo territorial, el estudio del Banco de la Reserva muestra que el problema estructural del Chocó —dependencia extractiva, debilidad institucional, conflictividad— no se resuelve con una sola reunión de alto nivel, de modo que la afirmación aporta más relato promocional que evidencia de transformación regional [F3]. El tema no concierne al conflicto armado ni a la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no resulta aplicable aquí; lo verificable es el dato, y el dato no está respaldado en su forma completa [F1][F2].",
+          "whatTheyOmit": "Omite que la única reunión presidencial con empresarios documentada fue en Barranquilla y fue organizada por Gabriel Gilinski, no en Chocó ni en el marco de un plan de desarrollo del Chocó [F2]. Omite que esa reunión reemplazó un almuerzo cancelado con 300 miembros de la Andi, y que el gobierno de De la Espriella mantiene una disputa con el principal gremio empresarial por el intento de vetar a Bruce Mac Master, lo que cuestiona el relato de una convocatoria armónica y sin precedentes [F2]. Omite también que no existe en las fuentes evidencia de la afirmación 'por primera vez' ni de la cifra de 200 mil millones de pesos que el título del video atribuye a una donación al Chocó, y omite el diagnóstico estructural de tres siglos de subdesarrollo y dependencia extractiva del departamento [F3]. La fuente [F4] no pudo consultarse (bloqueo anti-bot) y [F1] es una etiqueta de archivo sin contenido verificable sobre el hecho [F4][F1].",
+          "keyFacts": [
+            "Abelardo de la Espriella es presidente de Colombia desde el 7 de agosto de 2026, sucesor de Gustavo Petro [F5]",
+            "La Silla documentó una reunión del presidente con los grandes empresarios ('los cacaos') en Barranquilla, organizada por Gabriel Gilinski, que reemplazó un almuerzo cancelado con 300 miembros de la Andi [F2]",
+            "Esa reunión se da en un contexto de tensión: el gobierno habría intentado vetar a Bruce Mac Master al frente de la Andi, presionando la autonomía de los gremios garantizada por el artículo 39 de la Constitución [F2]",
+            "Ninguna fuente entregada registra una reunión de empresarios presidencial en Chocó ni la novedad de ser 'la primera vez' [F1][F2][F3]",
+            "El Banco de la Reserva documenta para Chocó tres siglos de dependencia de recursos naturales, debilidad institucional y bajo progreso socioeconómico [F3]",
+            "La fuente [F4] no fue accesible (bloqueo por comportamiento anti-bot) y [F1] solo aporta una etiqueta de archivo sin contenido sobre el hecho [F4][F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/tag/abelardo-de-la-espriella/",
+              "note": "Página de etiqueta/archivo con contenido de cookies y política de privacidad; no aporta información verificable sobre la convocatoria empresarial.",
+              "host": "razonpublica.com",
+              "title": "Abelardo de la Espriella archivos - Razón Pública",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/silla-nacional/abelardo-va-por-la-cabeza-de-la-andi-y-pone-a-prueba-a-los-empresarios/",
+              "note": "Aporta la única reunión presidencial con grandes empresarios documentada (Barranquilla, organizada por Gilinski), el contexto de disputa con la Andi y la autonomía de los gremios; es la fuente principal de contraste. Texto incompleto en su final.",
+              "host": "lasillavacia.com",
+              "title": "Abelardo va por la cabeza de la Andi y pone a prueba a los empresarios",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/08/Bruce_MacMaster_Andi-1.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://investiga.banrep.gov.co/es/content/donde-se-fue-la-fortuna-historia-economica-y-social-del-choco-colombia",
+              "note": "Estudio del Banco de la Reserva sobre la historia económica y social de Chocó: dependencia extractiva, debilidad institucional y bajo progreso socioeconómico; da la magnitud real del problema territorial.",
+              "host": "investiga.banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.banrep.gov.co/es/publicaciones/documento-de-trabajo-economia-regional-y-urbana-270",
+              "note": "Inaccesible: el sitio bloqueó la consulta por comportamiento anti-bot; no aporta información.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://es.wikipedia.org/wiki/Abelardo_de_la_Espriella",
+              "note": "Confirma identidad, cargo presidencial desde el 7 de agosto de 2026, trayectoria y orientación política del mandatario; no menciona la convocatoria empresarial en Chocó.",
+              "host": "es.wikipedia.org",
+              "title": "Abelardo de la Espriella - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/960px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se afirma que estuvieron presentes empresarios como los Giliski, los Santo Domingo, Sarmiento Angulo, Juan Carlos Mora, Fuachar, César Caicedo, Cristian Daes, David Vélez, la Organización Ardila Lule y Miguel Cortés Cotano",
+          "quote": "Por eso están en Tipto, los Giliski, los Santo Domingo, Sarmiento Angulo, Juan Carlos Mora, Fuachar, César Caicedo, Cristian Daes, David Vélez La Organización Ardila Lule y Miguel Cortés Cotano",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero a medias",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "La lista de empresarios que el video afirma presentes coincide con la cobertura de la visita del 7 de septiembre a Quibdó: Jaime y Gabriel Gilinski, Alejandro Santo Domingo, Luis Carlos Sarmiento Angulo, Fuad Char, Juan Carlos Mora, César Caicedo, Miguel Cortés Kotal, Christian Daes, David Vélez y un representante de la Organización Ardila Lülle figuran en la delegación empresarial [F5], y un medio adicional confirma los grupos corporativos asistentes (Gilinski, Santo Domingo, Aval, Olímpica, Bancolombia, Colombina, Tecnoglass, Nubank, Ardila Lülle, Bolívar) [F4]. Solo hay errores de escritura en los nombres (\"Fuachar\", \"Cortés Cotano\", \"Ardila Lule\"), sin que cambie el sentido del dato [F5].",
+          "context": "La reunión se realizó el lunes 7 de septiembre en Quibdó, tras el terremoto del 10 de agosto, con el objetivo de articular Gobierno Nacional y sector privado para la reconstrucción [F5]. De ella salieron 14 anuncios, entre ellos el malecón gastronómico de Quibdó, COP 5.000 millones para 1.000 emprendedores, un paquete de COP 1 billón en infraestructura, régimen especial minero, régimen especial de atracción de inversión, 100 becas y una gerencia especial en el Fondo Milagro a cargo de José Leonidas Tobón [F4]. Los aportes privados anunciados para la emergencia y reconstrucción rondan los $2 billones, con anuncios de Sarmiento Angulo, Gilinski, Vélez y la familia Santo Domingo [F5]. Varias de las 14 propuestas (canal interoceánico, incentivos tributarios, parte de la estrategia energética) apenas están en etapa de estudio [F4]. Varias de estas figuras empresariales ya integraban el entorno que financió la campaña presidencial del ahora mandatario [F5]. Las fuentes [F2] y [F3], sobre historia económica del Chocó, no pudieron consultarse (bloqueo antiprobot), por lo que no aportan datos verificables en esta verificación.",
+          "progressivePerspective": "La afirmación puntual —la presencia de esos empresarios— se sostiene con las fuentes y no hay motivo para darla por falsa [F5][F4]. El análisis de fondo no está en la lista, sino en lo que la lista implica y el video no desarrolla: la reconstrucción de Chocó, uno de los departamentos con mayores brechas históricas del país, queda planteada como un esquema mixto donde la definición de prioridades (minería formalizada, régimen tributario de estabilidad, conexión interoceánica) se estructura en una mesa con los grandes grupos económicos, varios de los cuales apoyaron la campaña [F5][F4]. Desde la lógica de verdad, reparación y no repetición aplicable a políticas públicas, lo que aporta a la verdad es precisamente hacer explícita esa composición y el estado real de los compromisos: los propios medios advierten que la prueba será cuántos anuncios pasan de la mesa a recursos ejecutados y obras [F4], y que varios puntos están apenas en fase de estructuración [F4]. Reconocer ese dato sin adornos es lo que permite exigir rendición de cuentas y que la reparación de las víctimas del sismo no quede en anuncio; el video, en cambio, presenta la asistencia como logro del gobierno sin distinguir entre asistencia, anuncio y ejecución [F4][F5].",
+          "whatTheyOmit": "El video omite que la presencia de empresarios no equivale a desembolso: el propio medio señala que la verdadera prueba será cuántos anuncios pasan de la mesa de Quibdó a recursos ejecutados y que propuestas como el canal interoceánico y los incentivos tributarios apenas inician estudio [F4]. También omite el contexto de origen de varios de esos actores en el círculo financista de la campaña presidencial [F5], y el monto agregado real de los aportes privados anunciados (~$2 billones), distinto de la cifra de 200 mil millones que el título atribuye a Sarmiento, cifra que ninguna fuente entregada confirma de forma específica [F5]. Finalmente, omite el marco histórico de precariedad del Chocó, materia que correspondía a [F2] y [F3] pero que no pudo consultarse por bloqueo de acceso [F2][F3].",
+          "keyFacts": [
+            "De La Espriella llegó el 7 de septiembre a Quibdó acompañado de Jaime y Gabriel Gilinski, Alejandro Santo Domingo, Luis Carlos Sarmiento Angulo, Fuad Char, Juan Carlos Mora, César Caicedo, Miguel Cortés Kotal, Christian Daes, David Vélez y un representante de la Organización Ardila Lülle [F5]",
+            "La cumbre reunió representantes de Gilinski, Santo Domingo, Aval, Olímpica, Bancolombia, Colombina, Tecnoglass, Nubank, Ardila Lülle y Bolívar [F4]",
+            "El encuentro buscaba definir una hoja de ruta de reconstrucción tras el terremoto del 10 de agosto [F5]",
+            "De la reunión salieron 14 anuncios, incluidos COP 5.000 millones para 1.000 emprendedores, COP 1 billón en infraestructura, 100 becas y una gerencia especial en el Fondo Milagro [F4]",
+            "Los aportes privados anunciados para la emergencia y la reconstrucción rondan los $2 billones [F5]",
+            "Varios de estos empresarios ya habían participado en el entorno que financió la campaña del entonces candidato De La Espriella [F5]",
+            "El nombre correcto es Fuad Char, Miguel Cortés Kotal y Christian Daes; el video los escribe \"Fuachar\", \"Cortés Cotano\" y \"Cristian Daes\" [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/",
+              "note": "Portada del medio; no contiene información sobre la lista de empresarios en Chocó, no aporta a la verificación.",
+              "host": "lasillavacia.com",
+              "title": "La Silla Vacía - Política y poder en Colombia",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.banrep.gov.co/es/publicaciones-investigaciones/cuadernos-historia-economica/donde-fue-fortuna-historia-economica-2019",
+              "note": "Acceso bloqueado por antibot; no se pudo extraer contenido sobre la historia económica del Chocó.",
+              "host": "banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://investiga.banrep.gov.co/en/content/donde-se-fue-la-fortuna-historia-economica-y-social-del-choco-colombia",
+              "note": "Acceso bloqueado por antibot; no aporta datos verificables en esta revisión.",
+              "host": "investiga.banrep.gov.co",
+              "title": "Nos disculpamos por los inconvenientes...",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.publimetro.co/noticias/2026/09/07/que-acordaron-de-la-espriella-y-los-empresarios-mas-poderosos-en-choco-estas-son-las-apuestas-que-dejaron-sobre-la-mesa/",
+              "note": "Confirma los grupos empresariales presentes y detalla los 14 anuncios; advierte que varios están solo en fase de estudio y que falta medir la ejecución real.",
+              "host": "publimetro.co",
+              "title": "¿Qué acordaron De La Espriella y los empresarios más poderosos en Chocó? Estas son las 14 apuestas que dejaron sobre la mesa",
+              "image": "https://www.publimetro.co/resizer/v2/5SOM5LK2ENBCZLQY3MWHN7JS4A.jpg?smart=true&auth=f6f2696b97eb2b53dc78a31f802cbe7e41c45b7b1a89cd9f62aba3c79a7b5ff0&width=1200&height=630"
+            },
+            {
+              "ref": "F5",
+              "url": "https://cwmas.com.co/politica/2026/09/07/estos-son-los-empresarios-que-acompanan-al-presidente-al-choco-para-la-reconstruccion/",
+              "note": "Fuente principal: lista nominal de la delegación empresarial, monto agregado de aportes (~$2 billones) y vínculo previo de varios de estos empresarios con la campaña presidencial.",
+              "host": "cwmas.com.co",
+              "title": "Estos son los empresarios que acompañan al presidente al Chocó",
+              "image": "https://cwmas.com.co/wp-content/uploads/2026/09/Abelardo-y-empresarios.webp"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "economia",
+          "claim": "Se afirma que esos empresarios representan un sector que reúne una enorme capacidad financiera, industrial, tecnológica y operativa",
+          "quote": "entre otros representantes de un sector empresarial que reúne una enorme capacidad financiera, industrial, tecnológica y operativa",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación de que esos empresarios representan un sector con 'una enorme capacidad financiera, industrial, tecnológica y operativa' es una caracterización cualitativa y elogiosa que ninguna de las fuentes entregadas cuantifica ni sustenta: la única fuente específica sobre el sector empresarial (Confecámaras) aporta únicamente el menú de navegación de la página, sin cifras ni indicadores [F2].",
+          "context": "La única fuente con datos concretos sobre la capacidad económica de los empresarios mencionados en el video indica lo contrario a una capacidad 'enorma': las empresas de Abelardo de la Espriella cerraron 2025 con pérdidas netas pese a los resultados positivos de su firma de abogados, y Dominio De la Espriella registró pérdidas por 3.884 millones de pesos colombianos entre 2020 y 2025, además de cerrar su operación en Estados Unidos [F3]. Sobre el sector empresarial en general, la fuente disponible (Confecámaras, 'Sector Empresarial en Cifras') no aporta en el texto recopilado ningún dato cuantitativo, por lo que la magnitud real del sector no puede establecerse con estas fuentes [F2]. Como contrapunto de contexto léxico, el gobierno en funciones ha ordenado reemplazar el término 'campesinos' por 'pequeños empresarios del campo' y 'productores rurales' en entidades públicas, un cambio que amplía retóricamente la denominación de 'empresarios' sin cambiar condiciones materiales [F1].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, el énfasis en la 'enorme capacidad financiera, industrial, tecnológica y operativa' de un sector empresarial alineado con el gobierno funciona como elogio político y no como dato verificable: abona a una narrativa de mérito y poderío que omite cifras, mientras fuentes documentadas muestran pérdidas en las empresas del propio presidente [F3][F5]. Además, la reconfiguración discursiva de quién es 'empresario' —incluyendo a campesinos renombrados como 'pequeños empresarios del campo'— ilustra cómo el lenguaje institucional puede usarse para reencuadrar realidades, una práctica que, según la fuente consultada, se articula en un paquete de medidas ideologizadas que incluye 'propiciar el fin de la JEP' [F1]. Desde la lógica de no repetición, presentar capacidad y éxito sin respaldo cuantitativo debilita el estándar de verdad sobre el que deben sustentarse los discursos públicos de rendición de cuentas [F1][F2].",
+          "whatTheyOmit": "Omite cifras, nombres de empresas, sectores concretos o indicadores que permitan medir esa supuesta 'enorme capacidad' financiera, industrial, tecnológica y operativa [F2]. Omite también que las empresas del propio mencionado como empresario exitoso cerraron con pérdidas netas en 2025 y acumularon pérdidas de 3.884 millones de pesos entre 2020 y 2025 [F3]. Omite el contexto de que el apelativo 'empresario' se ha extendido retóricamente incluso a campesinos por instrucción gubernamental, según lo documentado [F1].",
+          "keyFacts": [
+            "La afirmación de 'enorme capacidad financiera, industrial, tecnológica y operativa' es cualitativa y no tiene respaldo cuantitativo en las fuentes entregadas [F2]",
+            "Las empresas de Abelardo de la Espriella cerraron 2025 con pérdidas netas, y Dominio De la Espriella registró pérdidas por 3.884 millones de pesos entre 2020 y 2025, cerrando su operación en EE.UU. [F3]",
+            "De la Espriella declara manejar decenas de compañías en sectores diversos —inmobiliaria, comercio, alimentos, bebidas, ropa, ganadería y su firma de abogados— y usó sus beneficios y créditos personales para financiar su campaña [F5]",
+            "El gobierno en funciones instruyó cambiar 'campesinos' por 'pequeños empresarios del campo' y 'productores rurales' en entidades públicas [F1]",
+            "La fuente de Confecámaras sobre 'Sector Empresarial en Cifras' no aporta, en el texto disponible, indicadores ni magnitudes del sector [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/en-vivo/no-son-campesinos-sino-pequenos-empresarios-del-campo-minagricultura/",
+              "note": "Documenta el cambio de léxico gubernamental ('pequeños empresarios del campo') y un paquete de medidas que incluye, según la fuente, 'propiciar el fin de la JEP'. Aporta el contraste sobre cómo se usa el término 'empresario'.",
+              "host": "lasillavacia.com",
+              "title": "No son campesinos, sino pequeños empresarios del campo: MinAgricultura",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/minagrocongreso-1.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://confecamaras.org.co/sector-empresarial-en-cifras/",
+              "note": "Fuente nominal sobre cifras del sector empresarial, pero el texto recopilado solo contiene el menú de navegación del sitio, sin datos. No permite cuantificar la capacidad del sector.",
+              "host": "confecamaras.org.co",
+              "title": "Sector Empresarial en Cifras - Confecámaras",
+              "image": "https://confecamaras.org.co/wp-content/uploads/2026/03/graficas-investigaciones-economicas-2025-v-2026-1-552x1024.webp"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es.wikipedia.org/wiki/Abelardo_de_la_Espriella",
+              "note": "Biografía en español: trayectoria empresarial con pérdidas documentadas (3.884 millones de pesos 2020-2025; cierre en EE.UU.; pérdidas netas del conjunto de empresas en 2025). Contraste con la narrativa de 'enorme capacidad'.",
+              "host": "es.wikipedia.org",
+              "title": "Abelardo de la Espriella - Wikipedia, la enciclopedia libre",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/960px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/Abelardo_de_la_Espriella",
+              "note": "Biografía en inglés con datos electorales y perfil político; no aporta cifras sobre la capacidad financiera del sector empresarial aludido.",
+              "host": "en.wikipedia.org",
+              "title": "Abelardo de la Espriella - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/960px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.bbc.com/mundo/articles/ce8pn4zlrd7o",
+              "note": "Perfil de BBC: empresario con decenas de compañías, autofinanciación de campaña con beneficios empresariales y créditos personales. Aporta escala real de su actividad empresarial.",
+              "host": "bbc.com",
+              "title": "Quién es Abelardo de la Espriella, el empresario que gobernará Colombia prometiendo \"mano de hierro\" e inspirado en Bukele y Trump - BBC News Mundo",
+              "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3bdf/live/276308f0-6dc6-11f1-99a1-adc31e23373a.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Se atribuye a Abelardo de la Espiella la idea de llevar a los empresarios a Chocó para que inviertan en ese departamento",
+          "quote": "Porque Abelardo de la Espiella no se le hubiera ocurrido esa idea de llevar a todos los empresarios y sentarlos allá en Chocó para que invirtiera",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "alta",
+          "summary": "Sí está respaldado que Abelardo de la Espriella convocó y llamó públicamente a empresarios a invertir en Chocó: el 7 de septiembre de 2026 se reunió en Quibdó con diez empresarios y altos ejecutivos (Gillinski, Santodomingo, David Vélez) y les ofreció protección física y jurídica, régimen tributario especial y obras financiadas [F2]. Lo que es opinión o exageración es la atribución exclusiva y novedosa de la idea: el discurso de promesas de rescate para Chocó tiene antecedentes de más de un siglo y el 'Plan Marshall' fue solo un anuncio de magnitud incierta al momento de la crónica [F1].",
+          "context": "El 10 de agosto de 2026 un terremoto afectó a Chocó y De la Espriella visitó Quibdó el 14 de agosto proponiendo un 'plan Marshall' [F1]. El 7 de septiembre de 2026 anunció con empresarios obras como el malecón de Quibdó (40 mil millones de pesos), un paquete vial de 1 billón de pesos, impuestos especiales y energía; además ordenó evaluar el corredor interoceánico, cuyos estudios de prefactibilidad dejó listos en mayo el MinTransporte del gobierno anterior, para un tramo de 222,3 kilómetros [F2]. El DNP proyecta una inversión indicativa cercana a 7 billones de pesos con recursos públicos, privados y de cooperación, dentro de una bolsa nacional de 334 iniciativas por 535,1 billones [F3]. Antecedente histórico: tras los incendios de Quibdó de 1966, el presidente Carlos Lleras Restrepo prometió similarly 'remediar los males' de la región, y en 1908 ya se hablaba del 'abandono' de Chocó [F1].",
+          "progressivePerspective": "El hecho de convocar empresarios a Chocó está verificado [F2], pero el video lo presenta como idea exclusiva y novedosa de un funcionario, cuando el patrón de anuncios de rescate para Chocó se repite desde hace más de cien años y el 'Plan Marshall' era, al momento de las crónicas, un término sin enfoque definido [F1]. En clave de desarrollo territorial, la lectura crítica señala que un plan pensado desde fuera, con inversión privada y protección ofrecida por el presidente, puede reproducir la relación asimétrica centro-territorio en lugar de fortalecer la autonomía de la población chocoana, que debería ser la que escribe la historia de su territorio con apoyo de la Nación [F1]. Además, parte del financiamiento anunciado proviene de fuentes públicas y de regalías, no solo de capital privado, como reconoce el propio DNP [F3], y el corredor interoceánico fue estudiado por el gobierno anterior [F2].",
+          "whatTheyOmit": "Omite que el anuncio de 'impuestos especiales' y la mayoría de las obras involucran recursos públicos (presupuesto de la Nación, regalías, obras por impuestos) y no solo inversión privada espontánea [F3]. Omite que los estudios de prefactibilidad del corredor interoceánico que el gobierno presenta como parte de su plan ya los dejó listos el MinTransporte del gobierno anterior en mayo de 2026 [F2]. Omite el antecedente histórico de promesas similares para Chocó (Lleras Restrepo en 1966 y discursos desde 1908) y la crítica sobre si el plan fortalece o debilita la autonomía chocoana [F1]. El contraste con 'los zurdopatas' es opinión y no dato verificable; ninguna fuente permite evaluar la afirmación sobre donaciones millonarias al Chocó mencionadas en el título del video [F1][F2][F3].",
+          "keyFacts": [
+            "De la Espriella se reunió el 7 de septiembre de 2026 en Quibdó con diez empresarios y altos ejecutivos (Jaime y Gabriel Gillinski, Alejandro Santodomingo de Valorem, David Vélez de Nu Bank) y les ofreció protección física y jurídica para invertir en Chocó [F2]",
+            "El mandatario convocó públicamente a los empresarios con el llamado 'Vengan más, conozcan sus posibilidades, inviertan' [F2]",
+            "Entre los anuncios de esa reunión figuran el malecón de Quibdó (40 mil millones de pesos), un paquete vial de 1 billón de pesos, un régimen de impuestos especiales para Chocó y un plan energético [F2]",
+            "El DNP proyecta una inversión indicativa cercana a 7 billones de pesos para la reconstrucción del Chocó con recursos públicos, privados, regalías y cooperación [F3]",
+            "El discurso de rescate para Chocó tiene antecedentes: tras los incendios de 1966, Carlos Lleras Restrepo prometió remediar los males de Quibdó, y textos de 1908 ya denunciaban el abandono del departamento [F1]",
+            "El presidente llamó a su propuesta 'Plan Marshall' para Chocó, pero al momento de la crónica no se sabía si era un término rimbombante o un plan con enfoque definido [F1]",
+            "El corredor interoceánico de 222,3 kilómetros que el gobierno incluye en su plan dejó estudios de prefactibilidad listos en mayo de 2026, bajo el MinTransporte del gobierno anterior [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/el-plan-marshall-y-la-entrada-de-choco-a-la-agenda-de-de-la-espriella/",
+              "note": "Análisis de Razon Pública: contexto histórico del 'Plan Marshall' de De la Espriella, antecedentes de promesas de rescate para Chocó desde 1908 y 1966, y crítica sobre centralismo y autonomía territorial. Aporta el contraste sobre la novedad de la idea.",
+              "host": "razonpublica.com",
+              "title": "El “Plan Marshall” y la entrada de Chocó a la agenda de De la Espriella",
+              "image": "https://razonpublica.com/wp-content/uploads/2026/08/5.1.-barrios-Quibdo.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lasillavacia.com/en-vivo/junto-a-los-cacaos-abelardo-anuncia-un-plan-de-reconstruccion-para-choco/",
+              "note": "Crónica de La Silla Vacía: confirma la reunión con empresarios el 7 de septiembre de 2026, las obras anunciadas, el llamado a invertir y el origen de los estudios del corredor interoceánico en el gobierno anterior. Respaldafundamentalmente la afirmación verificada.",
+              "host": "lasillavacia.com",
+              "title": "Junto a los cacaos, Abelardo anuncia un plan de reconstrucción para Chocó",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2026/09/Abelardo-de-la-Espriella-Nubia-Carolina-Cordoba.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dnp.gov.co/Prensa_/Noticias/Paginas/inversion-de-7-billones-para-la-reconstruccion-del-choco.aspx",
+              "note": "Comunicado oficial del DNP: proyección de inversión de 7 billones para Chocó mezclando fuentes públicas, privadas y de cooperación, dentro de una bolsa nacional de 334 iniciativas por 535,1 billones. Aporta la magnitud real.",
+              "host": "dnp.gov.co",
+              "title": "DNP proyecta inversión de $7 billones para el Chocó y prioriza la reconstrucción territorial en la segunda jornada de los Encuentros Regionales",
+              "image": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/Noticias/2026/Octubre/reconstruccion_choco_dnp.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.dane.gov.co/",
+              "note": "Portal institucional del DANE: no contiene información específica sobre la afirmación ni sobre Chocó; se incluye solo por ser parte de las fuentes entregadas.",
+              "host": "dane.gov.co",
+              "title": "Portal DANE - Contenido principal",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://microdatos.dane.gov.co/",
+              "note": "Catálogo de microdatos del DANE: no contiene datos sobre la afirmación; no aporta al veredicto.",
+              "host": "microdatos.dane.gov.co",
+              "title": "Metadatos y Microdatos Anonimizados",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "politica",
+          "claim": "Se afirma que ningún gobierno anterior ha puesto su mirada en Chocó",
+          "quote": "en ese departamento que todavía ningún gobierno ha puesto su mirada",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes respaldan que Chocó ha sufrido un abandono histórico y estructural del Estado central, pero ninguna de ellas permite afirmar de forma categórica que 'ningún gobierno haya puesto su mirada' en el departamento: se trata de una hipérbole. La fuente que más directamente trata el tema [F2] describe causas coloniales y brechas desde 1851 y una 'indiferencia del Estado central', lo cual sugiere negligencia sostenida, no inexistencia total de atención estatal en toda la historia [F2].",
+          "context": "Chocó tiene 47 años de vida institucional como departamento y presenta brechas económicas, educativas, materiales, de infraestructura y de representación política que, según sus analistas citados, no se superan desde 1851, con una economía de enclave que impide la formación de capital local; el rezago se atribuye a la herencia colonial, al saqueo de recursos, a la corrupción y a la indiferencia del Estado central [F2]. El Plan Nacional de Desarrollo 2022-2026 incluye entre sus cinco grandes transformaciones la 'Convergencia regional' y el ordenamiento territorial, con indicadores étnicos y de actores diferenciales [F3][F4]. El DANE reporta cifras oficiales de pobreza monetaria y multidimensional que permiten dimensionar la magnitud del rezago social [F5]. Las fuentes disponibles no contienen series presupuestarias específicas de inversión en Chocó por gobierno, por lo que no es posible cuantificar con estos insumos cuánto invirtieron los gobiernos anteriores allí [F1].",
+          "progressivePerspective": "Desde la óptica del esclarecimiento de la verdad y la no repetición —aplicable aquí en su sentido social de garantizar condiciones de igualdad territorial—, el diagnóstico de abandono estructural de Chocó está bien documentado: la literatura atribuye el rezago a la esclavitud, al saqueo colonial, a la economía de enclave y a la indiferencia estatal sostenida [F2]. Sin embargo, la afirmación absoluta de que 'ningún gobierno ha puesto su mirada' convierte un problema estructural de siglos en una atribución totalizante al pasado inmediato, sin datos presupuestarios que la sostengan [F1][F2]. Esa generalización puede servir para visibilizar el reclamo de priorización del territorio, pero debilita el estándar de verdad cuando se usan datos concretos en el mismo mensaje (una donación de 200 mil millones de pesos) sin contrastarlos con la inversión histórica acumulada; el reconocimiento de responsabilidad sobre el abandono exige series y no absolutos [F1][F2].",
+          "whatTheyOmit": "Omite toda cifra de inversión histórica en Chocó por gobierno, sin la cual la afirmación de que 'ningún gobierno' atendió el departamento no puede verificarse ni refutarse con las fuentes disponibles [F1]. También omite que el abandono descrito es estructural y atribuible tanto a la clase dirigente local como al Estado central, según los propios analistas chocoanos citados, no solo a los gobiernos nacionales previos [F2]. No aporta documentación de la donación de 200 mil millones de pesos ni la compara con montos similares de administraciones anteriores [F1].",
+          "keyFacts": [
+            "Chocó tiene 47 años de vida institucional como departamento y arrastra brechas económicas, educativas, materiales, de infraestructura y de representación política que, según sus analistas, no se superan desde 1851 [F2]",
+            "Los problemas del departamento se explican por la herencia colonial, el saqueo de recursos, la economía de enclave y la 'corrupción e indiferencia del Estado central', según los voceros chocoanos consultados [F2]",
+            "El PND 2022-2026 incluye la transformación de 'Convergencia regional' y un enfoque en actores diferenciales e indicadores étnicos, lo que institucionaliza la priorización territorial en el gobierno actual [F3][F4]",
+            "Las fuentes disponibles no incluyen series presupuestarias de inversión en Chocó por administración, por lo que la afirmación absoluta de que 'ningún gobierno ha puesto su mirada' no es verificable con estos insumos [F1]",
+            "El DANE provee las cifras oficiales de pobreza monetaria y multidimensional con base en la ENPH 2016-2017 y el Censo 2018, que permiten dimensionar la pobreza en la región [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.lasillavacia.com/silla-datos/comparativo-del-presupuesto-general-nacional-entre-petro-santos-y-duque/",
+              "note": "Comparativo del Presupuesto General Nacional entre Santos, Duque y Petro; aporta el marco de comparación presupuestaria pero sin desglose de Chocó, por lo que no permite verificar la inversión histórica en el departamento",
+              "host": "lasillavacia.com",
+              "title": "Comparativo del Presupuesto General Nacional entre Petro, Santos y Duque",
+              "image": "https://www.lasillavacia.com/wp-content/uploads/2023/05/lasilladatos-thumbnail.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://razonpublica.com/las-transformaciones-necesita-choco/",
+              "note": "Análisis del abandono estructural de Chocó (causas coloniales, brechas desde 1851, indiferencia del Estado central); respaldan el diagnóstico de rezago pero describen negligencia sostenida, no ausencia total de toda acción estatal",
+              "host": "razonpublica.com",
+              "title": "Las transformaciones que necesita el Chocó - Razón Pública",
+              "image": "https://razonpublica.com/wp-content/uploads/2020/09/choco-quibdo-necesidades-daryl-palacios.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.dnp.gov.co/plan-nacional-desarrollo/pnd-2022-2026",
+              "note": "PND 2022-2026 con cinco transformaciones, incluida la Convergencia regional; contexto de la priorización actual",
+              "host": "dnp.gov.co",
+              "title": "Plan Nacional de Desarrollo 2022-2026",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://sinergia.dnp.gov.co/pnd",
+              "note": "Plataforma de seguimiento del PND 2022-2026 con indicadores sectoriales y étnicos; permite contrastar metas y avances del gobierno actual",
+              "host": "sinergia.dnp.gov.co",
+              "title": "Inicio",
+              "image": "https://sinergia.dnp.gov.co/pnd"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-y-desigualdad",
+              "note": "Cifras oficiales de pobreza monetaria y multidimensional del DANE; sirven para dimensionar la magnitud social del rezago, sin desglose departamental en la fuente",
+              "host": "dane.gov.co",
+              "title": "Pobreza y desigualdad",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "economia",
+          "claim": "Se afirma que en tres meses de este gobierno uno de los empresarios más grandes de Colombia aportó 200 mil millones de pesos para la construcción de vías",
+          "quote": "en este gobierno en tan solo tres meses ya uno de los empresarios más grandes de Colombia Hace 200 mil millones de pesos para la construcción de unas vías",
+          "figures": [
+            "tres meses",
+            "200 mil millones de pesos"
+          ],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Sí, Luis Carlos Sarmiento Angulo donó $200.000 millones de pesos, pero ese monto NO fue para la construcción de vías: fue para la reconstrucción tras el terremoto del 10 de agosto de 2026, distribuido en tres departamentos (Valle del Cauca $87.000M, Risaralda $50.000M y Chocó $50.000M). Solo la porción de Chocó ($50.000M) está destinada al plan vial [F2][F3][F5].",
+          "context": "El terremoto del 10 de agosto de 2026 dejó 304 fallecidos, 426 desaparecidos, 4.548 heridos, 29.554 viviendas destruidas y 134.342 averiadas, con 15 departamentos y 472 municipios afectados [F4]. La donación de Sarmiento se sumó a un total que alcanzó $1 billón de pesos en aportes del sector privado, junto con la familia Santo Domingo ($100.000M), Jaime Gilinski ($150.000M) y David Vélez ($100.000M) [F4]. La distribución específica de los $200.000M fue: Valle del Cauca para hospitales y colegio ($87.000M), Risaralda para salud, educación y acueducto ($50.000M) y Chocó para plan vial ($50.000M) [F2][F5].",
+          "progressivePerspective": "La afirmación mezcla el monto total de la donación ($200.000M) con una destinación específica (vías), cuando solo $50.000M —es decir, una cuarta parte— se destina al componente vial del Chocó [F2][F5]. Además, la narrativa atribuye el crédito al gobierno en curso sin señalar que la donación fue un gesto del sector privado en respuesta a una emergencia sísmica, y que la ejecución de las obras dependerá de la estructuración técnica y los mecanismos de contratación y seguimiento [F5]. El video enmarca la donación como logro gubernamental en tres meses, lo que contrasta con la magnitud de la tragedia y la complejidad de la reconstrucción que aún está en curso [F3][F4].",
+          "whatTheyOmit": "Omite que solo $50.000 millones (una cuarta parte) de los $200.000 millones se destinan a vías en el Chocó; el resto va a hospitales, colegios y acueducto en Valle del Cauca y Risaralda [F2][F5]. También omite que la donación es del sector privado en respuesta a una emergencia sísmica, no una política gubernamental, y que la ejecución de las obras aún no ha comenzado, dependiendo de la estructuración técnica y contratación [F5]. Tampoco menciona que otros empresarios aportaron montos similares (Gilinski $150.000M, Santo Domingo $100.000M, Vélez $100.000M) [F4].",
+          "keyFacts": [
+            "Luis Carlos Sarmiento Angulo y su esposa Fanny Gutiérrez de Sarmiento donaron $200.000 millones de pesos para la reconstrucción tras el terremoto del 10 de agosto de 2026 [F4]",
+            "La distribución de los $200.000M fue: $87.000M para Valle del Cauca (hospitales y colegio), $50.000M para Risaralda (salud, educación y acueducto) y $50.000M para Chocó (plan vial) [F2][F5]",
+            "Solo $50.000 millones, una cuarta parte de la donación total, se destina a la construcción de vías en el Chocó [F5]",
+            "Los proyectos viales del Chocó incluyen los corredores Istmina-Puerto Meluk y Riosucio-Belén de Bajirá [F5]",
+            "La ejecución de los proyectos dependerá de su estructuración técnica y de los mecanismos de contratación y seguimiento [F5]",
+            "Con la donación de Sarmiento, el total recaudado de aportes del sector privado alcanzó $1 billón de pesos [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://razonpublica.com/plan-nacional-desarrollo-la-estabilidad-fiscal/",
+              "note": "Contexto del Plan Nacional de Desarrollo del gobierno Petro y su marco financiero; no se refiere directamente a la donación.",
+              "host": "razonpublica.com",
+              "title": "El Plan Nacional de Desarrollo y la estabilidad fiscal",
+              "image": "https://razonpublica.com/wp-content/uploads/2023/02/gobierno-PND-politica-fiscal-Villar-Campo.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/gobierno/hospitales-colegios-y-vias-asi-se-distribuyen-los-200-000-millones-que-dono-sarmiento-angulo-tras-el-terremoto-506341",
+              "note": "Detalle de la distribución de los $200.000M: $87.000M Valle, $50.000M Risaralda, $50.000M Chocó. Chocó recibe específicamente para plan vial.",
+              "host": "portafolio.co",
+              "title": "Hospitales, colegios y vías: así se distribuyen los $200.000 millones que donó Sarmiento Angulo tras el terremoto",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/11/13/6af78b0c1e286.r_d.1023-374-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/economia/sectores/asi-se-convertiran-en-obras-los-recursos-donados-por-la-fundacion-sarmiento-angulo-para-reconstruir-valle-risaralda-y-choco-3600972",
+              "note": "Proyectos específicos que recibirán los recursos, incluidos tres corredores viales en Chocó.",
+              "host": "eltiempo.com",
+              "title": "Así se convertirán en obras los recursos donados por la Fundación Sarmiento Angulo para reconstruir Valle, Risaralda y Chocó tras el terremoto",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/14/6af8591bb4e7f.r_d.607-399-0.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/donacion-luis-carlos-sarmiento-angulo-200-000-millones-terremoto-colombia-PB40058337",
+              "note": "Anuncio oficial de la donación por el presidente Abelardo de la Espriella; balance del terremoto y otros donantes.",
+              "host": "elcolombiano.com",
+              "title": "Luis Carlos Sarmiento Angulo y su esposa donan $200.000 millones para reconstruir las zonas afectadas por el terremoto",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x790/0c0/1280d720/none/11101/TNPS/luis-carlos-sarmiento-angulo_51399944_20260818174540.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://proclamadelpacifico.com/donacion-50-mil-millones-vias-choco/",
+              "note": "Confirma que Chocó recibe $50.000M de los $200.000M totales, específicamente para el plan vial departamental.",
+              "host": "proclamadelpacifico.com",
+              "title": "Donación de $50.000 millones para vías del Chocó",
+              "image": "https://proclamadelpacifico.com/wp-content/uploads/2026/11/Donacion-de-50.000-millones-para-fortalecer-las-vias-del-departamento-del-Choco.webp"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "social",
+          "claim": "Se atribuye a la gobernadora haber preguntado desde qué año vienen los chocuanos con el anhelo de que la vía se implementara",
+          "quote": "Y usted escuchó la gobernadora de de qué año vienen los chocuanos con el anhelo de que esta vía se implementara",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Las fuentes no registran la cita atribuida a la gobernadora sobre preguntar 'desde qué año' viene el anhelo chocuano por la vía, por lo que la atribución concreta no puede verificarse con la evidencia disponible; sin embargo, el contenido sustantivo de esa frase —un anhelo histórico y prolongado de la población del Chocó por vías dignas— sí queda respaldado por el registro documental de promesas incumplidas y movilizaciones desde al menos 2016 [F5].",
+          "context": "El registro periodístico disponible describe un patrón de promesas y incumplimiento en infraestructura vial del Chocó que se remonta por lo menos a 2016, cuando un deslave en la vía Quibdó-Medellín dejó 10 muertos y desencadenó un paro cívico que terminó en un acuerdo de 10 puntos con el Gobierno Nacional; ese acuerdo tenía un cumplimiento del 37% según el Comité Cívico, y en enero de 2024 otro alud dejó 40 víctimas fatales en la misma vía [F5]. En el presente, el DNP anuncia una inversión indicativa cercana a 7 billones de pesos para el Chocó dentro del Plan Nacional de Desarrollo 2026-2030, cifra descrita explícitamente como proyección de fuentes públicas, privadas, regalías y cooperación, no como ejecución ya realizada [F1]. Las fuentes disponibles no incluyen transcripción, acta ni cobertura periodística del acto donde la gobernadora habría formulado la pregunta atribuida, ni identifican a la funcionaria ni la fecha [F1][F4].",
+          "progressivePerspective": "Desde la óptica de la verdad y la no repetición, la afirmación apunta a un hecho cuya dirección fáctica es verificable y relevante: la demanda vial del Chocó es antigua y estructural, no un capricho reciente. El propio material periodístico documenta que tras cada tragedia se abrieron mesas de negociación y se formularon compromisos que luego se cumplieron 'a cuentagotas', con un 37% de cumplimiento en el acuerdo de 10 puntos [F5]. El problema ético-político no es que se reivindique una obra, sino que la atribución a la gobernadora se use como pieza retórica para sostener que 'es el primer gobierno' que se interesa por el Chocó, cuando las fuentes muestran una sucesión de gobiernos que anunciaron y parcialmente ejecutaron obras en el departamento [F5], y cuando la cifra de 7 billones citada es una proyección y no inversión ejecutada [F1]. El principio de no repetición exige rendir cuentas sobre por qué las promesas viales históricas no se cumplieron y quién responde por ello, lo cual la afirmación no aborda; tampoco hay aquí material del conflicto armado colombiano ni de la JEP que permita aplicar el marco de verdad, justicia, reparación y no repeticion en sentido estricto [F5].",
+          "whatTheyOmit": "Se omite que ninguna fuente disponible contiene la declaración atribuida a la gobernadora, por lo que su existencia y formulación exacta quedan sin respaldo documental [F1][F4]. También se omite el histórico de incumplimiento que da sentido a la pregunta: 10 compromisos firmados en 2016 con solo 37% de cumplimiento, movilizaciones cívicas en 2016 y 2017, y tragedias viales en 2016 y 2024 [F5]. Se omite, además, que la cifra de 7 billones es una proyección indicativa de inversión con múltiples fuentes de financiación y no un desembolso ya realizado [F1], y que existen compromisos presupuestales previos de gobiernos anteriores en la misma vía Quibdó-Medellín, como los 735.000 millones anunciados para tres años [F5].",
+          "keyFacts": [
+            "Desde 2016 existen 10 compromisos entre el Gobierno y el Comité Cívico del Chocó con un cumplimiento calculado en 37% [F5]",
+            "En 2016 un alud en la vía Quibdó-Medellín causó 10 muertes y desencadenó un paro cívico que derivó en un acuerdo de 10 puntos; en enero de 2024 otro alud dejó 40 víctimas fatales en la misma vía [F5]",
+            "El DNP proyecta una inversión indicativa cercana a 7 billones de pesos para el Chocó en el marco del PND 2026-2030, proveniente de fuentes públicas, privadas, regalías y cooperación internacional [F1]",
+            "Las fuentes disponibles no contienen registro, transcripción o cobertura de la declaración que se atribuye a la gobernadora sobre el anhelo histórico de los chocuanos por la vía [F1][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.dnp.gov.co/Prensa_/Noticias/Paginas/inversion-de-7-billones-para-la-reconstruccion-del-choco.aspx",
+              "note": "Aporta la cifra de inversión proyectada (7 billones) para el Chocó y confirma que es proyección indicativa con múltiples fuentes de financiación; no contiene la cita atribuida a la gobernadora.",
+              "host": "dnp.gov.co",
+              "title": "DNP proyecta inversión de $7 billones para el Chocó y prioriza la reconstrucción territorial en la segunda jornada de los Encuentros Regionales",
+              "image": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/Noticias/2026/Octubre/reconstruccion_choco_dnp.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/informacion-regional/informacion-estadistica-desagregada-con-enfoque-territorial-y-diferencial/informacion-estadistica-para-la-planeacion-territorial?highlight=WyJkZXJlY2hvcyIsImRlcmVjaG8iLCJkZXJlY2hhIl0=",
+              "note": "Portal estadístico territorial del DANE sin contenido sobre la declaración atribuida; aporta solo contexto general de información territorial.",
+              "host": "dane.gov.co",
+              "title": "Información estadística para la planeación territorial",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://geoportal.dane.gov.co/geovisores/territorio/estadisticas-territoriales-sen/",
+              "note": "Geovisor de estadísticas territoriales del DANE; no aporta información sobre la cita ni sobre la vía del Chocó.",
+              "host": "geoportal.dane.gov.co",
+              "title": "Geovisor de EstadÃsticas Territoriales del SEN",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.youtube.com/shorts/NZF4JZOH7_k",
+              "note": "Compilación de shorts sobre acciones del gobierno en Chocó; no contiene transcripción de la declaración atribuida a la gobernadora.",
+              "host": "youtube.com",
+              "title": "Abelardo De La Espriella anuncia un nuevo cargo, el gerente del departamento del Chocó",
+              "image": "https://i.ytimg.com/vi/NZF4JZOH7_k/oar2.jpg?sqp=-oaymwEdCMAEENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBJWBaMrbi1wxXs_N2ZIHzZKHPxSg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/colombia/medellin/la-vida-en-el-choco-transcurre-de-promesa-en-promesa-que-no-cumplen-3325826",
+              "note": "Aporta el contexto histórico de promesas y incumplimiento vial en el Chocó desde 2016, con cifras de cumplimiento y de presupuesto anunciado; es la fuente que respalda el carácter histórico del anhelo vial, pero no la cita específica de la gobernadora.",
+              "host": "eltiempo.com",
+              "title": "Las promesas incumplidas al Chocó que podrían causar un nuevo paro cívico",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/09/10/613ae82406157.r_d.1444-585-0.jpeg"
             }
           ]
         }
