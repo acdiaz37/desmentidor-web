@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T21:11:52",
+  "generatedAt": "2026-11-21T09:47:17",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -16158,6 +16158,762 @@
               "host": "eltiempo.com",
               "title": "Las promesas incumplidas al Chocó que podrían causar un nuevo paro cívico",
               "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/09/10/613ae82406157.r_d.1444-585-0.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "55k-views-2-6k-reactions-la-infraestructura-es-protagonista-del-crecim",
+      "title": "55K views · 2.6K reactions | ¡La infraestructura es protagonista del crecimiento de Colombia! 🇨🇴 Nuevas inversiones en la Milagro Week. Estamos dando pasos decisivos para transformar el sector transporte: - 2.400 millones de dólares para la vía férrea La Dorada - Chiriguaná y obras anexas. Más conexión férrea e integración con puertos fluviales y marítimos para hacer realidad la multimodalidad y reducir costos logísticos. - 3 mil millones de dólares para nueva flota de Avianca, que representa más capacidad para conectar al país, impulsar el turismo y dinamizar el comercio. Estos resultados, se suman a los 1.500 millones de dólares para transformar cinco aeropuertos, incluido Rionegro, y fortalecer la conectividad regional. Estamos construyendo un sistema de transporte más integrado, eficiente y competitivo. ¡Somos el sector número uno de la Patria Milagro! | Elsa Noguera",
+      "uploader": "Elsa Noguera",
+      "url": "https://m.facebook.com/watch/?v=1439420504463924&_rdr",
+      "duration": 139.166,
+      "thumbnail": "/media/55k-views-2-6k-reactions-la-infraestructura-es-protagonista-del-crecim/thumb.jpg",
+      "conclusion": "## La narrativa de éxito construida sobre anuncios y proyecciones\n\nEl video presenta un relato de éxito absoluto: la infraestructura como motor del crecimiento colombiano, con inversiones multimillonarias que \"estamos\" construyendo y resultados que se están entregando. La percepción que genera es la de un gobierno que ha materializado transformaciones concretas del sistema de transporte nacional. En su conjunto, el mensaje es claro: aquí hay logros tangibles y el futuro está asegurado.\n\nLo que sí tiene base real es la existencia de los proyectos mencionados: la vía férrea La Dorada–Chiriguaná es un corredor logístico real en Colombia, Avianca es efectivamente la aerolínea más grande del país, y la Milagro Week en Madrid fue un evento genuino donde se hicieron anuncios de inversión. Los montos citados —2.400, 3.000 y 1.500 millones de dólares— pueden corresponder a cifras anunciadas en dicho evento.\n\nEl problema comienza en la forma en que se articulan esos datos. En primer lugar, la suma aritmética propia del video no cierra: 2.400 + 3.000 + 1.500 suman 6.900 millones, no los 7.950 millones que aparecen en la transcripción. Esta discrepancia interna revela falta de rigor en la presentación de las propias cifras. En segundo lugar, el video mezcla categorías distintas como si fueran equivalentes: los 3.000 millones para la flota de Avianca corresponden a una inversión de una empresa privada —que en 2020 atravesó un proceso de quiebra Capítulo 11— presentada como logro gubernamental. La infraestructura aeroportuaria con fondos públicos y la renovación de flota de una aerolínea privada no son el mismo tipo de inversión ni responden a la misma lógica de financiación.\n\nEl punto de quiebre es preciso: el video pasa de \"hicimos estos anuncios\" a \"estamos construyendo un sistema más integrado, eficiente y competitivo\" y \"la infraestructura será la gran protagonista del crecimiento.\" Ninguna de esas afirmaciones se sostiene con los datos presentados. Son proyecciones y promesas disfrazadas de resultados. Cuando el video dice \"estamos dando pasos decisivos\" y \"estamos construyendo,\" produce la impresión de ejecución en curso, cuando en realidad solo documenta anuncios de compromisos cuyo estado real de ejecución, plazos y condiciones no se especifica.\n\nEl contexto que falta es determinante: no se distingue entre compromisos anunciados, contratos firmados y recursos efectivamente desembolsados; no hay plazos ni indicadores de avance; no se define qué significa ser \"el sector número uno\" (¿por inversión, crecimiento o empleo?); y no se señala que el PIB colombiano no depende exclusivamente de este tipo de anuncios. Con ese contexto, la interpretación cambia: lo que el video presenta como un logro consumado es, en realidad, un conjunto de anuncios promocionales de distintas naturalezas —públicos y privados— sin evidencia de ejecución, presentados con un optimismo que los datos disponibles no respaldan.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se afirma que durante la Milagro Week se consiguieron tres acuerdos por un total de 7.950 millones de dólares.",
+          "quote": "tres campanasos lograste tú en esta Milagro Week, 7.950 millones de dólares",
+          "figures": [
+            "7.950 millones de dólares",
+            "tres"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las FUENTES entregadas [F1]-[F5] trata sobre Colombia, la Milagro Week, inversiones en transporte o la cifra de 7.950 millones de dólares; las fuentes corresponden a instrucciones de Windows [F1], teléfonos Nokia y WhatsApp [F2] y listados de destinos turísticos de verano [F3][F4][F5]. Por tanto, la afirmación no puede verificarse ni confirmarse ni refutarse con la evidencia disponible, y el veredicto es sin_evidencia [F1][F2][F3][F4][F5].",
+          "context": "La cifra de 7.950 millones de dólares correspondería, según la propia ficha del video, a la suma de tres anuncios atribuidos a la Milagro Week: 2.400 millones para la vía férrea La Dorada–Chiriguaná, 3.000 millones para una nueva flota de Avianca y 1.500 millones para transformar cinco aeropuertos; esa suma aritmética da 6.900 millones, no 7.950, diferencia que las FUENTES entregadas no permiten explicar ni contrastar con ningún registro oficial, comunicado o base de datos pública [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "Al no existir ninguna FUENTE relacionada con el tema, no es posible evaluar a la luz de los estándares de verdad, verificación y no distorsión si la cifra es exacta, exagerada o si se trata de anuncios de intención (memorandos de entendimiento) presentados como ejecución efectiva; cualquier juicio al respecto quedaría como opinión y no como verificación. Sí puede señalarse como observación metodológica que la afirmación se enmarca en un video promocional de gestión pública, cuya naturaleza es presentar resultados a favor del propio relato, lo que hace especialmente necesario el contraste con registros oficiales que las FUENTES entregadas no contienen [F1][F2][F3][F4][F5].",
+          "whatTheyOmit": "Las FUENTES entregadas omiten por completo cualquier información sobre Colombia, la Milagro Week, inversiones ferroviarias, aeronáuticas o aeroportuarias, por lo que no se puede determinar si el video omite el desglose de la cifra, la diferencia entre compromisos anunciados y recursos efectivamente desembolsados, o el plazo de ejecución de las inversiones; tampoco se puede aclarar el desfase entre los 6.900 millones sumados en la descripción y los 7.950 millones mencionados en la cita textual [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Las FUENTES entregadas [F1]-[F5] no contienen información sobre la Milagro Week, Colombia ni la cifra de 7.950 millones de dólares, por lo que la afirmación queda sin verificar [F1][F2][F3][F4][F5]",
+            "La propia descripción del video enumera montos de 2.400, 3.000 y 1.500 millones de dólares, cuya suma aritmética es 6.900 millones, cifra distinta a los 7.950 millones citados en el video, sin que las FUENTES permitan resolver la diferencia [F1][F2][F3][F4][F5]",
+            "La afirmación proviene de la persona que presenta el video, en calidad de promoción de resultados de gestión pública, no de una fuente independiente o de contraloría verificadora [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://support.microsoft.com/es-es/windows/apps/uninstall-or-remove-apps-and-programs-in-windows",
+              "note": "Guía de Microsoft para desinstalar aplicaciones en Windows; no aporta información sobre la afirmación verificada.",
+              "host": "support.microsoft.com",
+              "title": "Desinstalar o quitar aplicaciones y programas en Windows",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.answers.com/telecommunications/List_of_nokia_phones_supporting_whatsapp_messenger",
+              "note": "Página sobre compatibilidad de WhatsApp en teléfonos Nokia; no aporta información sobre la afirmación verificada.",
+              "host": "answers.com",
+              "title": "List of nokia phones supporting whatsapp messenger? - Answers",
+              "image": "https://st.answers.com/html_test_assets/Answers_Blue.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://gowanderly.com/best-summer-travel-destinations/",
+              "note": "Listado de destinos turísticos de verano; no aporta información sobre la afirmación verificada.",
+              "host": "gowanderly.com",
+              "title": "14 Best Summer Travel Destinations for Your Bucket List (2026)",
+              "image": "https://gowanderly.com/site-content/uploads/2025/04/Villefranche-sur-Mer-on-the-French-Riviera.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.cntraveler.com/story/underrated-summer-travel-ideas",
+              "note": "Artículo de viajes sobre destinos infravalorados; no aporta información sobre la afirmación verificada.",
+              "host": "cntraveler.com",
+              "title": "19 Underrated Places to Travel This Summer, From Kosovo to Quebec",
+              "image": "https://media.cntraveler.com/photos/65f8ade6e605ad433ce98965/16:9/w_1280,c_limit/GettyImages-516444345.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.wander.com/article/summer-vacation-ideas",
+              "note": "Listado de ideas de vacaciones de verano; no aporta información sobre la afirmación verificada.",
+              "host": "wander.com",
+              "title": "The 20 Best Summer Vacation Ideas for This Year | Wander",
+              "image": "https://wander.com/article/summer-vacation-ideas/opengraph-image-18co6c?42753c2c41f0678c"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "Se menciona un proyecto denominado dorada Chiriguaná relacionado con desarrollo de estaciones, desarrollo urbano de negocios y comercio, y se señala que es importante por transfer port.",
+          "quote": "el de la dorada chiriguaná, que es todo ese desarrollo de las estaciones, todo ese desarrollo urbano de negocios, de comercio, es muy importante transfer port",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación se refiere a un proyecto ferroviario La Dorada–Chiriguaná descrito como desarrollo de estaciones, desarrollo urbano de negocios y comercio y como 'transfer port'. Las fuentes entregadas (Wikipedia de Los Angeles, LA Explained, LA Times, un complejo de apartamentos en Alabama y una guía de viajes de la BBC) no contienen ninguna información sobre Colombia, ferrocarriles, la vía La Dorada–Chiriguaná o terminales de transfer port, por lo que no es posible verificar ni confirmar ni refutar el dato [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes disponibles no aportan contexto sobre el proyecto. No hay en ellas cifras de inversión, trazado, estaciones previstas, integración portuaria ni antecedentes normativos o contractuales de la vía férrea La Dorada–Chiriguaná [F1][F3][F5]. La única fuente con contenido parcialmente relacionado con transporte es una guía de destinos turísticos de la BBC que no menciona infraestructura ferroviaria en Colombia [F5].",
+          "progressivePerspective": "Al no existir fuentes sobre el tema, no es posible evaluar si la afirmación abona o no al esclarecimiento de la verdad, a la reparación o a la no repetición; se trata de una promoción de inversión en infraestructura, no de un asunto del conflicto armado o de la JEP. Cualquier juicio sobre si el proyecto beneficia realmente a las comunidades afectadas, si las estaciones generan desarrollo local o si el 'transfer port' está contratado y financiado quedaría sin sustento con las fuentes provistas y debe calificarse como sin_evidencia [F1][F2][F4].",
+          "whatTheyOmit": "Las fuentes entregadas omiten por completo el objeto de la verificación: no incluyen información sobre el monto de 2.400 millones de dólares, el alcance urbano-comercial del proyecto, ni la conexión con puertos fluviales y marítimos mencionados en la ficha del video [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Las fuentes entregadas no mencionan el proyecto La Dorada–Chiriguaná, por lo que la afirmación no puede verificarse con el material disponible [F1][F3][F5]",
+            "F1, F2, F3 y F4 tratan de Los Angeles, medios de comunicación estadounidenses y un complejo de apartamentos en Alabama, sin relación con infraestructura ferroviaria colombiana [F1][F2][F3][F4]",
+            "F5 es una guía de destinos de viaje para 2026 sin datos sobre corredores logísticos o terminales portuarios en Colombia [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://en.m.wikipedia.org/wiki/Los_Angeles",
+              "note": "Artículo enciclopédico de Los Angeles; sin información sobre Colombia o ferrocarriles. Usado para descartar como fuente del dato.",
+              "host": "en.m.wikipedia.org",
+              "title": "Los Angeles - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/1280px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.laexplained.com/",
+              "note": "Sitio turístico de Los Angeles con recorridos a pie; sin relación con el proyecto mencionado.",
+              "host": "laexplained.com",
+              "title": "LA Explained",
+              "image": "https://shop.laexplained.com/cdn/shop/files/Black_And_White_Streetwear_Astronaut_T-Shirt_copy_2_a638df6c-a122-47f8-b3b2-b73559cd7557.png?height=628&pad_color=ffffff&v=1737577377&width=1200"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.latimes.com/",
+              "note": "Portal de noticias de California; no contiene información sobre la vía La Dorada–Chiriguaná.",
+              "host": "latimes.com",
+              "title": "Ritz-Carlton rooms and a $665 steak dinner: Chad Bianco’s security detail cost taxpayers millions",
+              "image": "https://ca-times.brightspotcdn.com/dims4/default/64e287b/2147483647/strip/true/crop/2400x1260+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2F45%2F57d858144a2a88575fa2b03080bb%2Flatlogo-ss.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://summerplaceal.com/",
+              "note": "Sitio de un complejo de apartamentos en Alabama; sin relación con el tema.",
+              "host": "summerplaceal.com",
+              "title": "Welcome to Summer Place",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.bbc.com/travel/article/20251209-the-20-best-places-to-travel-in-2026",
+              "note": "Guía de destinos turísticos de la BBC; única fuente con contenido latinoamericano (Chile, Argentina), pero sin datos sobre infraestructura ferroviaria colombiana.",
+              "host": "bbc.com",
+              "title": "The 20 best places to travel in 2026",
+              "image": "https://ychef.files.bbci.co.uk/624x351/p0mmm3vn.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "Se afirma que el acuerdo relacionado con la flota de aviones de Avianca es de 3.000 millones de dólares.",
+          "quote": "Los aviones de avianca, la flota, 3.000 millones",
+          "figures": [
+            "3.000 millones"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las fuentes entregadas confirma ni desmiente que exista un acuerdo de 3.000 millones de dólares relacionado con la flota de Avianca: F1 (ficha de Avianca en Wikipedia) no menciona tal inversión ni ningún acuerdo de esa magnitud, y F2, F3 y F4 son listas de destinos turísticos sin relación con el tema [F1][F2][F3][F4]. Por falta de fuentes pertinentes, la afirmación queda como no verificable con el material disponible.",
+          "context": "La única fuente sobre la empresa, la ficha de Wikipedia de Avianca, aporta datos generales: Avianca es la aerolínea más grande de Colombia, con sede en Bogotá, hub en el aeropuerto El Dorado, tamaño de flota de 102 aeronaves, 74 destinos, alianza Star Alliance, ingreso operativo de COP 100.300 millones en el tercer trimestre del año fiscal 2019, y que presentó quiebra Capítulo 11 el 10 de mayo de 2020 por la crisis de la COVID-19. Ninguno de estos datos corresponde al monto de 3.000 millones de dólares citado en el video, y la fuente no contiene información sobre anuncios de inversión recientes en flota [F1].",
+          "progressivePerspective": "Desde el marco de valoración de la información pública, la afirmación corresponde a una cifra promocional de un funcionario que presenta resultados de gestión en un evento (Milagro Week), sin que las fuentes disponibles permitan contrastar su monto, su naturaleza (si es inversión directa, financiación, valor de pedidos o de una alianza) ni si se trata de un compromiso firme. El video se enmarca en una narrativa de logro institucional; sin documentación de respaldo, la cifra de 3.000 millones debe tratarse como dato no verificado y no como hecho establecido, dado que no permite evaluar su magnitud real ni su grado de ejecución [F1][F2][F3][F4].",
+          "whatTheyOmit": "El video no precisa de qué tipo de acuerdo se trata (compra de aeronaves, financiación, alianza comercial), no indica plazos, firmantes ni estado de ejecución, y no aporta fuentes que permitan contrastar el monto de 3.000 millones; las fuentes disponibles no contienen ninguna referencia a ese monto ni a un acuerdo de flota con Avianca [F1][F2][F3][F4].",
+          "keyFacts": [
+            "Avianca es la aerolínea más grande de Colombia, con hub en el aeropuerto El Dorado, flota de 102 aeronaves y 74 destinos [F1]",
+            "Avianca presentó quiebra Capítulo 11 en Nueva York el 10 de mayo de 2020 debido a la crisis de la COVID-19 [F1]",
+            "Ninguna de las fuentes entregadas menciona un acuerdo de 3.000 millones de dólares relacionado con la flota de Avianca [F1][F2][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://en.m.wikipedia.org/wiki/Avianca",
+              "note": "Ficha general de Avianca: historia, tamaño de flota, alianza y quiebra de 2020; no contiene información sobre el monto de 3.000 millones ni acuerdos recientes de inversión en flota.",
+              "host": "en.m.wikipedia.org",
+              "title": "Avianca - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Avianca_N792AV_Boeing_787_Dreamliner_London_Heathrow_Airport_%28EGLL%29_%28cropped%29.jpg/1280px-Avianca_N792AV_Boeing_787_Dreamliner_London_Heathrow_Airport_%28EGLL%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.bbc.com/travel/article/20251209-the-20-best-places-to-travel-in-2026",
+              "note": "Lista de destinos turísticos para 2026; no aporta información sobre Avianca ni sobre acuerdos de inversión en flota.",
+              "host": "bbc.com",
+              "title": "The 20 best places to travel in 2026",
+              "image": "https://ychef.files.bbci.co.uk/624x351/p0mmm3vn.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://holidays.tripfactory.com/blogs/summer-tourist-places/",
+              "note": "Guía de destinos de verano; no aporta información sobre Avianca ni sobre el monto mencionado.",
+              "host": "holidays.tripfactory.com",
+              "title": "25 Best Summer Tourist Places to Visit This Year",
+              "image": "https://holidays.tripfactory.com/blogs/wp-content/uploads/sites/6/2025/03/Summer-Tourist-Places-to-Visit-This-Year.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.celebritycruises.com/blog/best-countries-to-visit-in-the-summer",
+              "note": "Listado de países para viajar en verano; no aporta información sobre Avianca ni sobre acuerdos de flota.",
+              "host": "celebritycruises.com",
+              "title": "15 Best Countries to Visit in the Summer | Celebrity Cruises",
+              "image": "https://www.celebritycruises.com/blog/content/uploads/2024/05/best-countries-to-visit-in-the-summer-zealand-hero.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "infraestructura",
+          "claim": "Se afirma que el anuncio sobre aeropuertos permite realizar mejoramientos en Corozal, Montería, Río Negro y Carepa, por 1.500 millones de dólares.",
+          "quote": "la gente de los aeropuertos de azul que va a permitir que lleguemos con mejoramientos en Corozal, en Montería, en Río Negro, en Carepa, 1.500 millones de dólares",
+          "figures": [
+            "1.500 millones de dólares"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las cinco fuentes entregadas trata sobre aeropuertos colombianos, inversiones en Corozal, Montería, Río Negro o Carepa, ni sobre un monto de 1.500 millones de dólares: F1 es un portal de apartamentos en Alabama [F1], F2 y F3 corresponden al Instituto Nacional Sanmartiniano de Argentina [F2][F3], F4 es el sitio de una fundación universitaria colombiana con ofertas laborales [F4] y F5 es la página 'acerca de' de un canal de YouTube [F5]. Con este material no es posible verificar ni desmentir la afirmación; el veredicto queda en 'sin_evidencia' respecto de las fuentes provistas, no como afirmación sobre la falsedad del dato.",
+          "context": "No existe en las fuentes ningún dato de contexto: ni montos de inversión en transporte aéreo colombiano, ni cronogramas de mejoramiento de aeropuertos regionales, ni antecedentes presupuestales que permitan dimensionar la cifra de 1.500 millones de dólares ni la participación de Corozal, Montería, Río Negro y Carepa en ella [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "El marco de la JEP (verdad, justicia, reparación y no repetición) resulta aquí inaplicable: la afirmación corresponde a un anuncio de inversión en infraestructura de transporte y no involucra hechos del conflicto armado, responsabilidades penales ni decisiones judiciales, y las fuentes aportadas no contienen ningún elemento que permita evaluar si el anuncio contribuye al esclarecimiento de la verdad, a la reparación o a la no repetición [F1][F2][F3][F4][F5]. Lo único procedimentalmente verificable es que el ejercicio de contrastación no puede sostenerse con fuentes ajenas al tema, por lo que cualquier lectura —positiva o crítica— sobre la cifra quedaría sin sustento documental en este expediente [F1][F2][F3][F4][F5].",
+          "whatTheyOmit": "Las fuentes omiten toda información pertinente: no aportan la cifra de 1.500 millones de dólares, ni la lista de aeropuertos mencionados, ni el detalle de los mejoramientos previstos, ni evidencia sobre el origen de los fondos o el estado de ejecución de la inversión [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "F1 consiste en la descripción de apartamentos en Huntsville, Alabama, sin relación con aviación o Colombia [F1]",
+            "F2 y F3 describen el Instituto Nacional Sanmartiniano, institución cultural argentina dedicada a José de San Martín [F2][F3]",
+            "F4 corresponde al sitio oficial de la Fundación Universitaria San Martín de Bogotá, con convocatorias de personal [F4]",
+            "F5 es la sección 'Acerca de' de YouTube, sin contenido informativo sobre el tema [F5]",
+            "Ninguna fuente menciona los aeropuertos de Corozal, Montería, Río Negro o Carepa, ni una inversión de 1.500 millones de dólares [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://summerplaceal.com/",
+              "note": "Portal de apartamentos en Alabama; no aporta información sobre el tema, sirve como evidencia de la ausencia de fuentes pertinentes [F1]",
+              "host": "summerplaceal.com",
+              "title": "Welcome to Summer Place",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://en.wikipedia.org/wiki/San_Martín_National_Institute",
+              "note": "Instituto cultural argentino; ajeno a la afirmación sobre aeropuertos colombianos [F2]",
+              "host": "en.wikipedia.org",
+              "title": "San Martín National Institute - Wikipedia",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://sanmartiniano.cultura.gob.ar/",
+              "note": "Sitio del Instituto Nacional Sanmartiniano; sin relación con la inversión anunciada [F3]",
+              "host": "sanmartiniano.cultura.gob.ar",
+              "title": "Instituto Nacional Sanmartiniano",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://sanmartin.edu.co/",
+              "note": "Sitio de una fundación universitaria en Colombia; contiene ofertas laborales y no datos de inversión en transporte [F4]",
+              "host": "sanmartin.edu.co",
+              "title": "Fundación Universitaria San Martín | Sitio Oficial",
+              "image": "https://sanmartin.edu.co/wp-content/uploads/2026/01/naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.youtube.com/watch?v=jnDbVIJRm1E",
+              "note": "Página institucional de YouTube; no contiene información verificable sobre la afirmación [F5]",
+              "host": "youtube.com",
+              "title": "How to Get Help in Windows 11 (10 Easy Ways)",
+              "image": "https://i.ytimg.com/vi/jnDbVIJRm1E/maxresdefault.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "infraestructura",
+          "claim": "Se afirma que la inversión de transfer port no solo incluye rieles y vagones de un sistema ferroviario, sino también inversión en puertos fluviales y marítimos.",
+          "quote": "no es solamente los rieles y los vagones de un sistema ferreo... sino que también incluye inversión en puertos fluviales y marítimos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las fuentes proporcionadas corresponde al tema de la afirmación: [F1], [F2] y [F3] tratan sobre Los Ángeles (California) y [F4] y [F5] sobre el pago de facturas de gas natural de Vanti en Bogotá. Por lo tanto, no hay evidencia disponible en las fuentes para verificar ni refutar que la inversión asociada a la vía férrea La Dorada - Chiriguaná incluya también inversión en puertos fluviales y marítimos.",
+          "context": "El contexto provisto en el propio video (ficha de contexto) menciona una inversión de 2.400 millones de dólares para la vía férrea La Dorada - Chiriguaná y obras anexas, con el objetivo declarado de mayor conexión férrea e integración con puertos fluviales y marítimos para lograr multimodalidad y reducir costos logísticos. Sin embargo, esa mención procede del mismo video que se pretende verificar y no puede usarse como fuente independiente; las FUENTES entregadas no contienen información sobre el corredor La Dorada - Chiriguaná, el Sistema Ferroviario Regional de Carga del Magdalena Medio ni el programa Portuario de la administración.",
+          "progressivePerspective": "La afirmación en cuestión es una descripción del alcance de una inversión pública en infraestructura de transporte (riel + puertos), formulada por quien presenta los resultados de una cartera gubernamental. El análisis ético-político aplicable al marco de verdad, justicia, reparación y no repetición no es pertinente aquí: no se trata de conflicto armado ni de la JEP, sino de una comunicación institucional sobre inversión en infraestructura. En todo caso, el estándar de transparencia exigible a cualquier anuncio de inversión pública es que las cifras y el desglose de rubros (qué parte corresponde a rieles, vagones, obras anexas, puertos fluviales y marítimos) puedan contrastarse con fuentes oficiales independientes; con las fuentes entregadas esa contrastación no es posible, por lo que la afirmación queda sin_evidencia.",
+          "whatTheyOmit": "Las fuentes omiten cualquier dato sobre el corredor La Dorada - Chiriguaná, sobre la descomposición del monto entre rieles/vagones y puertos fluviales y marítimos, y sobre montos de inversión en infraestructura portuaria colombiana; no es posible determinar si el video exagera, acierta o tergiversa el alcance de la inversión [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Las fuentes [F1], [F2] y [F3] se refieren exclusivamente a Los Ángeles, California (geografía, historia, medios locales) y no contienen información sobre infraestructura ferroviaria o portuaria en Colombia [F1][F2][F3]",
+            "Las fuentes [F4] y [F5] tratan sobre la descarga y el pago de facturas de gas natural de Vanti en Bogotá, sin relación con el tema [F4][F5]",
+            "No existe en las fuentes entregadas evidencia que confirme ni desmienta que la inversión incluya puertos fluviales y marítimos además de rieles y vagones [F1][F2][F3][F4][F5]",
+            "La única mención al alcance de la inversión (integración con puertos fluviales y marítimos) proviene de la ficha del propio video y no de una fuente independiente"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://en.m.wikipedia.org/wiki/Los_Angeles",
+              "note": "Artículo de Wikipedia sobre Los Ángeles: geografía, historia y economía de la ciudad. No aporta información sobre el corredor La Dorada - Chiriguaná ni sobre puertos colombianos; sirve como contraste de que la fuente es ajena al tema.",
+              "host": "en.m.wikipedia.org",
+              "title": "Los Angeles - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/1280px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.laexplained.com/",
+              "note": "Sitio de turismo e historia de Los Ángeles (recorridos a pie, artículos). Sin relación con infraestructura ferroviaria o portuaria de Colombia.",
+              "host": "laexplained.com",
+              "title": "LA Explained",
+              "image": "https://shop.laexplained.com/cdn/shop/files/Black_And_White_Streetwear_Astronaut_T-Shirt_copy_2_a638df6c-a122-47f8-b3b2-b73559cd7557.png?height=628&pad_color=ffffff&v=1737577377&width=1200"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.latimes.com/",
+              "note": "Portal de noticias del Los Angeles Times. No contiene cobertura sobre el sector transporte ni inversión portuaria en Colombia en el material provisto.",
+              "host": "latimes.com",
+              "title": "Ritz-Carlton rooms and a $665 steak dinner: Chad Bianco’s security detail cost taxpayers millions",
+              "image": "https://ca-times.brightspotcdn.com/dims4/default/64e287b/2147483647/strip/true/crop/2400x1260+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2F45%2F57d858144a2a88575fa2b03080bb%2Flatlogo-ss.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://bogota.gov.co/mi-ciudad/habitat/como-puedo-descargar-el-duplicado-de-la-factura-de-gas-natural-vanti",
+              "note": "Guía del portal de la Alcaldía de Bogotá para descargar duplicado de la factura de gas Vanti. Ajena al tema de la afirmación.",
+              "host": "bogota.gov.co",
+              "title": "Así puedes descargar el duplicado de la factura de gas natural Vanti ¡Pasos!",
+              "image": "https://bogota.gov.co/sites/default/files/2023-11/vanti.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.grupovanti.com/paga-tu-factura-b2b",
+              "note": "Página de pago en línea de facturas de gas de Grupo Vanti. Ajena al tema de la afirmación.",
+              "host": "grupovanti.com",
+              "title": "Paga tu factura de gas natural fácilmente | Grupo Vanti",
+              "image": "https://images.ctfassets.net/3brzg7q3bvg1/5qkqIbzB1VpZ1DapXhIMho/30e84d821498ebe49b89e1f32597e7c1/vanti-logo-og.png"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "infraestructura",
+          "claim": "Se afirma que el sistema ferroviario se está conectando además con Fenógua para poder llevarlo a Siena.",
+          "quote": "lo estamos conectando además con fenógo para poderlo llevar a Siena",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las cinco fuentes entregadas trata sobre el sistema ferroviario colombiano, sobre 'Fenógua' ni sobre 'Siena': tres son fichas de juegos de mesa Parchís/Ludo [F1][F2][F3] y dos son registros mercantiles y normativa de identificación empresarial en Francia [F4][F5]. Con el material disponible no es posible confirmar ni desmentir la afirmación transcrita del video.",
+          "context": "La afirmación corresponde a un segmento del video en el que se presentan anuncios de inversión en transporte (vía férrea La Dorada-Chiriguaná, flota aérea y aeropuertos), enunciados por la autora del video en condición de promoción de resultados del sector [F1][F2][F3]. Las fuentes disponibles no contienen información sobre obras ferroviarias, corredores multimodales, ni sobre topónimos como 'Fenógua' o 'Siena': [F1], [F2] y [F3] describen reglas y características del juego Parchís; [F4] y [F5] describen el registro mercantil francés (SIREN/SIRET) y la empresa DNV France [F1][F2][F3][F4][F5]. Por tanto, la magnitud, ubicación y alcance real de la conexión descrita quedan sin acreditar en el expediente de fuentes.",
+          "progressivePerspective": "Desde la perspectiva de verificación, una proposición verificable —una conexión física del sistema férreo con un nodo llamado 'Fenógua' para llevar la carga a 'Siena'— requiere al menos una fuente institucional o técnica que confirme el trazado, el nodo y la fecha; ninguna de las cinco fuentes aporta esos elementos [F1][F2][F3][F4][F5]. El análisis ético-político aplicable aquí es el de la transparencia publicitaria: el video opera como comunicación de resultados de un actor que presenta cifras y proyectos propios, de modo que la carga probatoria de la afirmación recae en quien la enuncia, y el escepticismo metodológico exige no darla por cierta ni por falsa en ausencia de evidencia pertinente. Se deja constancia explícita de que el veredicto es de falta de evidencia, no de falsedad, porque las fuentes entregadas son temáticamente ajenas al tema ferroviario [F1][F2][F3][F4][F5].",
+          "whatTheyOmit": "No se puede determinar qué omite el video, porque no existe ninguna fuente sobre el tema en el expediente: las fuentes [F1], [F2] y [F3] tratan del juego Parchís y [F4] y [F5] del registro de empresas en Francia, sin referencia alguna a 'Fenógua', 'Siena' o a la red ferroviaria [F1][F2][F3][F4][F5]. Además, la cita textual ('lo estamos conectando además con fenógo para poderlo llevar a Siena') procede de una transcripción automática, por lo que la grafía de los topónimos no está confirmada [F1][F2][F3].",
+          "keyFacts": [
+            "Ninguna de las fuentes menciona la expresión 'Fenógua' ni 'Siena' en el contexto ferroviario [F1][F2][F3][F4][F5]",
+            "Las fuentes [F1], [F2] y [F3] corresponden a descripciones de juegos de mesa en línea (Parchís/Parchisi), no a infraestructura de transporte [F1][F2][F3]",
+            "Las fuentes [F4] y [F5] corresponden a información societaria y normativa francesa (SIREN/SIRET), sin relación con corredores férreos [F4][F5]",
+            "No hay evidencia en las fuentes para confirmar ni para refutar la conexión ferroviaria descrita en el video [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://play.google.com/store/apps/details?id=com.superking.parchisi.star&hl=es",
+              "note": "Ficha de la app Parchís STAR: reglas y características del juego; no aporta información sobre infraestructura ferroviaria ni sobre los topónimos citados.",
+              "host": "play.google.com",
+              "title": "Parchis STAR - Aplicaciones en Google Play",
+              "image": "https://play-lh.googleusercontent.com/IFdnk7shr-ATlux1Sdj4qR-ZWIagnbeMlzmnFDVtftl21k37BMIyYxa5ZH6Y65gwY1R3oF7ol-JfJaZ2ZY4zrw=s0-br30"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.playspace.com/es-es/jugar/parchis-online",
+              "note": "Descripción del Parchís online en Playspace; no contiene datos sobre el sistema férreo colombiano.",
+              "host": "playspace.com",
+              "title": "Parchís - Juega gratis online",
+              "image": "https://d29v67onoz09dn.cloudfront.net/pro/images/logos/parchis.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://arcadino.com/game/parchisi/",
+              "note": "Guía del juego Parchisi (Gameberry Labs); sin relación con el tema de la afirmación.",
+              "host": "arcadino.com",
+              "title": "Parchisi | Play Online for Free!",
+              "image": "https://arcadino.com/wp-content/uploads/2026/06/Parchisi.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.societe.com/societe/dnv-france-309610061.html",
+              "note": "Ficha societaria de DNV France en París; registro mercantil sin vínculo con la afirmación.",
+              "host": "societe.com",
+              "title": "Société DNV FRANCE (309610061) à PARIS (75013).",
+              "image": "https://www.societe.com/og-image/309610061.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://eurocompta.eu/fr/en/siret-siren-lookup/",
+              "note": "Explicación de los números SIREN/SIRET franceses; sin contenido sobre transporte o corredores multimodales.",
+              "host": "eurocompta.eu",
+              "title": "SIRET / SIREN Lookup â France Â· EuroCompta",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "economia",
+          "claim": "Se afirma que la inversión permitirá que sea una realidad el transporte multimodal en Colombia y mayor competitividad.",
+          "quote": "ahora sí será una realidad el transporte multimodal en Colombia y vamos a ser mucho más competitivos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación de que la inversión hará 'realidad el transporte multimodal en Colombia' y aumentará la competitividad es una proyección promocional: ninguna de las cinco fuentes entregadas evalúa el proyecto férreo La Dorada-Chiriguaná, la flota de Avianca, los aeropuertos ni el estado real del transporte multimodal colombiano, por lo que no es posible verificarla con el material disponible [F1][F2][F3][F4][F5].",
+          "context": "La única fuente con contenido temáticamente relacionado es la ficha académica de un historiador económico de la Universidad de los Andes cuya investigación estudia, entre otros temas, cómo las reducciones en costos de transporte afectan la productividad y la asignación de factores, así como el crecimiento de largo plazo; esto aporta el marco general de que bajar costos de transporte puede impulsar productividad, pero no da datos sobre Colombia, sobre el multimodal ni sobre los montos citados en el video [F1]. Las demás fuentes tratan de temas ajenos: un complejo de apartamentos en Huntsville, Alabama [F2], un atentado suicida en Islamabad en noviembre de 2025 [F3] y ataques con bomba a mezquitas chiitas en Kandahar y Kunduz en Afganistán [F4][F5], none de las cuales arroja información sobre la infraestructura de transporte colombiana.",
+          "progressivePerspective": "El video no corresponde a la temática del conflicto armado colombiano ni a la JEP, por lo que no es aplicable el marco de verdad, justicia, reparación y no repetición; la evaluación se reduce a la exigencia de verificabilidad de una promesa pública. Desde una lectura de rendición de cuentas, una declaración de que el transporte multimodal 'será una realidad' constituye una afirmación prospectiva y promocional que, para ser verificable, requeriría cronogramas, montos ejecutados, fuentes de financiación y resultados medibles, elementos que las fuentes entregadas no contienen [F1][F2][F3][F4][F5]. Al mismo tiempo, la premisa económica subyacente —que reducir costos de transporte favorece la productividad y el crecimiento— sí tiene respaldo general en la literatura reflejada en la fuente académica disponible [F1].",
+          "whatTheyOmit": "Las fuentes no documentan si los 2.400 millones de dólares de la vía férrea La Dorada-Chiriguaná, los 3.000 millones para la flota de Avianca o los 1.500 millones para aeropuertos están contratados, financiados o en ejecución, ni cuantifican la competitividad que se alega; tampoco existe en el material ningún indicador de costos logísticos, tiempos de traslado o comparación internacional que permita medir el supuesto salto multimodal [F1][F2][F3][F4][F5]. Se omite igualmente cualquier plazo, condicionalidad o contraparte que permita convertir la promesa en un hecho comprobable [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "La afirmación revisada es una proyección futura del video (que el transporte multimodal 'será una realidad' y que se será 'mucho más competitivo'), no un hecho consumado verificable con el material disponible [F1][F2][F3][F4][F5]",
+            "La única fuente temáticamente afín sostiene, de manera general, que las reducciones en costos de transporte han sido un motor importante del desarrollo y afectan la productividad y la asignación de factores [F1]",
+            "Ninguna fuente entregada aporta datos sobre el proyecto férreo La Dorada-Chiriguaná, la nueva flota de Avianca o la transformación de aeropuertos en Colombia [F1][F2][F3][F4][F5]",
+            "Tres de las cinco fuentes (una vivienda en Alabama, un atentado en Pakistán y ataques en Afganistán) son ajenas al tema y no permiten contrastar la afirmación [F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://economia.uniandes.edu.co/es/profesores/uribe-castro-mateo",
+              "note": "Ficha académica de un historiador económico de la Universidad de los Andes; aporta el marco general de que reducir costos de transporte impulsa productividad y crecimiento, pero no datos sobre Colombia ni sobre los proyectos citados.",
+              "host": "economia.uniandes.edu.co",
+              "title": "Uribe-Castro, Mateo | Universidad de los Andes",
+              "image": "https://economia.uniandes.edu.co/sites/economia/files/descripcion-facultad-de-economia.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://summerplaceal.com/",
+              "note": "Sitio de un complejo de apartamentos en Huntsville, Alabama; sin relación con el tema: no aporta evidencia para ni contra la afirmación.",
+              "host": "summerplaceal.com",
+              "title": "Welcome to Summer Place",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://en.wikipedia.org/wiki/2025_Islamabad_suicide_bombing",
+              "note": "Artículo sobre un atentado suicida en Islamabad (Pakistán) en noviembre de 2025; ajeno al tema: no permite verificar la afirmación.",
+              "host": "en.wikipedia.org",
+              "title": "2025 Islamabad suicide bombing - Wikipedia",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/2025_Islamabad_suicide_bombing.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.vice.com/en/article/second-suicide-bombing-in-a-week-afghanistan/",
+              "note": "Reportaje sobre ataques con bomba a mezquitas chiitas en Afganistán; ajeno al tema: no aporta información sobre transporte multimodal en Colombia.",
+              "host": "vice.com",
+              "title": "Afghans Bury Loved Ones in Mass Graves After Second Suicide Bombing in a Week",
+              "image": "https://www.vice.com/wp-content/uploads/sites/2/2021/10/1634560867249-ap21289446829932.jpeg?resize=2000,1334"
+            },
+            {
+              "ref": "F5",
+              "url": "https://develop.vice.com/en/article/second-suicide-bombing-in-a-week-afghanistan/",
+              "note": "Versión duplicada del reportaje de VICE sobre Afganistán; tampoco aporta evidencia sobre la afirmación.",
+              "host": "develop.vice.com",
+              "title": "Afghans Bury Loved Ones in Mass Graves After Second Suicide Bombing in a Week",
+              "image": "https://develop.vice.com/wp-content/uploads/sites/2/2021/10/1634560867249-ap21289446829932.jpeg?resize=2000,1334"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "economia",
+          "claim": "Se afirma que la nueva flota para Avianca representa más competitividad y permite fortalecer el turismo y el comercio.",
+          "quote": "nueva flota para avianca, eso es más competitividad, nos permite fortalecer tanto el turismo como el comercio",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes entregadas no contienen ninguna referencia a una inversión de 3.000 millones de dólares en una nueva flota de Avianca ni a sus efectos sobre turismo y comercio; solo confirman que Avianca es la aerolínea más grande de Colombia con 102 aeronaves y 74 destinos, por lo que la cifra de inversión y la relación causal afirmada quedan sin respaldo documental en el material disponible [F1].",
+          "context": "Avianca S.A. es la aerolínea de bandera de Colombia, fundada el 5 de diciembre de 1919 como SCADTA, con sede en Bogotá, hub principal en El Dorado, alianza Star Alliance, tamaño de flota de 102 aeronaves y 74 destinos; es la aerolínea más grande de Colombia y la segunda de Sudamérica después de LATAM [F1]. La empresa atravesó un proceso de bancarrota capítulo 11 en Nueva York el 10 de mayo de 2020 a raíz de la pandemia de COVID-19, contexto relevante para evaluar cualquier anuncio de renovación de flota [F1]. Ninguna de las fuentes entregadas menciona el monto de 3.000 millones de dólares, el carácter de anuncio de inversión público o privado, ni datos de tráfico turístico o comercial colombiano asociados a la operación aérea [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "La afirmación se enmarca en un comunicado promocional del sector transporte, no en un proceso de verdad, justicia, reparación ni no repeticion, por lo que el marco de la JEP no resulta aplicable aquí [F1]. En términos de verificación, la proposición contiene dos partes distintas: (a) la existencia de una inversión de 3.000 millones de dólares en nueva flota, hecho no respaldado por las fuentes disponibles [F1][F2][F3][F4][F5]; y (b) el efecto causal «más competitividad → fortalecer turismo y comercio», que es una predicción o valoración política-económica, no un hecho comprobado en el material [F1][F2][F3]. Las fuentes sobre destinos de verano describen tendencias de viaje internacionales sin vincularlas con la capacidad aérea colombiana, por lo que no permiten acreditar ni desacreditar el efecto turístico alegado [F2][F3][F4]. Una lectura rigurosa exige distinguir el anuncio de inversión (no verificable con estas fuentes) de la valoración de impacto (opinión), evitando presentar una proyección como resultado alcanzado [F1][F2][F3].",
+          "whatTheyOmit": "El video no indica la fuente del monto de 3.000 millones de dólares, si se trata de un compromiso firmado, de una carta de intenciones o de una intención de inversión, ni plazos, condiciones o contrapartidas públicas [F1][F5]. Tampoco aporta indicadores que permitan medir el efecto sobre turismo y comercio (llegadas internacionales, carga aérea, empleo), ni matiza que el fortalecimiento del comercio y el turismo depende de muchos factores ajenos a la flota de una sola aerolínea [F2][F3][F4]. Omite además el contexto societario de Avianca, incluido su proceso de bancarrota capítulo 11 en 2020, que condiciona la magnitud y sostenibilidad de cualquier renovación de flota [F1].",
+          "keyFacts": [
+            "Avianca es la aerolínea más grande de Colombia y la segunda de Sudamérica, después de LATAM de Chile [F1]",
+            "Avianca reporta una flota de 102 aeronaves y 74 destinos, con hub principal en el aeropuerto El Dorado de Bogotá [F1]",
+            "Avianca es la aerolínea de bandera de Colombia desde el 5 de diciembre de 1919, cuando se registró originalmente como SCADTA [F1]",
+            "El 10 de mayo de 2020 Avianca solicitó la protección de bancarrota capítulo 11 en un tribunal de Nueva York debido a la crisis de la pandemia de COVID-19 [F1]",
+            "Ninguna de las fuentes entregadas menciona la cifra de 3.000 millones de dólares para la nueva flota de Avianca ni su impacto en turismo y comercio [F1][F2][F3][F4][F5]",
+            "Las fuentes sobre destinos de verano describen tendencias globales de viaje sin vincularlas con la capacidad aérea de Colombia o de Avianca [F2][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://en.m.wikipedia.org/wiki/Avianca",
+              "note": "Perfil de Avianca: flota de 102 aeronaves, 74 destinos, aerolínea más grande de Colombia, hub en El Dorado, bancarrota capítulo 11 en 2020. Aporta el único dato verificable sobre la empresa, pero no menciona la inversión de 3.000 millones de dólares ni sus efectos en turismo y comercio.",
+              "host": "en.m.wikipedia.org",
+              "title": "Avianca - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Avianca_N792AV_Boeing_787_Dreamliner_London_Heathrow_Airport_%28EGLL%29_%28cropped%29.jpg/1280px-Avianca_N792AV_Boeing_787_Dreamliner_London_Heathrow_Airport_%28EGLL%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.lonelyplanet.com/articles/where-to-go-in-summer",
+              "note": "Lista de destinos de verano a nivel mundial (Croacia, Portugal, Grecia, etc.). No contiene información sobre Avianca, Colombia ni inversión en flota; sirve solo como contraste para mostrar la ausencia de evidencia sobre el efecto turístico alegado.",
+              "host": "lonelyplanet.com",
+              "title": "21 Best Summer Destinations - Lonely Planet",
+              "image": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_e045h5m5lp73h96tdkm5ivff61/-FWEBP-Ro:5,w:1200,h:630,n:default"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.journeyfinder.net/trip-ideas/summer-vacation-ideas",
+              "note": "Guía de ideas de vacaciones de verano con comparativa de precios y temporadas. Sin relación con la aviación colombiana; no respalda ni desmiente la afirmación.",
+              "host": "journeyfinder.net",
+              "title": "10 Best Summer Vacation Ideas (2026): Spots That Deliver",
+              "image": "https://www.journeyfinder.net/og/p/trip-ideas/summer-vacation-ideas.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://horizonxplorer.com/best-places-to-visit-in-summer-in-the-world/",
+              "note": "Recomendaciones de destinos de verano (Santorini, Bali, Banff, etc.). No aporta datos sobre capacidad aérea, turismo a Colombia o inversión en flota.",
+              "host": "horizonxplorer.com",
+              "title": "The 10 Best Places to Visit in Summer Around the World",
+              "image": "https://horizonxplorer.com/wp-content/uploads/2026/02/summer-destinations.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.withallo.com/blog/best-phone-systems-for-smbs",
+              "note": "Comparativa de sistemas telefónicos para pequeñas empresas; fuente sin relación con el tema de la afirmación, presente en el material entregado.",
+              "host": "withallo.com",
+              "title": "Best Phone Systems for Small Business in 2026",
+              "image": "https://allo-cms-media-production.s3.eu-west-3.amazonaws.com/media/allo-mockup02.png"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "politica",
+          "claim": "Se afirma que los alcaldes están felices por el anuncio realizado.",
+          "quote": "los alcaldes están felices por el anuncio que hiciste",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación de que 'los alcaldes están felices por el anuncio' no es verificable con las fuentes entregadas: ninguna de ellas trata sobre alcaldes, anuncios de inversión en Colombia, la Milagro Week o la recepción municipal de los proyectos mencionados [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes disponibles corresponden a un canal de Telegram [F1], un complejo de apartamentos en Huntsville, Alabama [F2], y artículos sobre el Rally de Montecarlo y el barrio de Montecarlo en Mónaco [F3][F4][F5]. Ninguna aporta datos sobre la reacción de alcaldes colombianos frente a los anuncios de inversión en vía férrea La Dorada-Chiriguaná, flota de Avianca o aeropuertos, de modo que no es posible aportar magnitud, precedente o contraste documental sobre este punto específico [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "Se trata de una valoración subjetiva y de tono celebratorio en un video de promoción institucional del propio sector, dirigido por quien presenta los anuncios, sin pronunciamientos municipales, actas o declaraciones de alcaldes que la respalden en el material disponible [F1][F2][F3][F4][F5]. En términos de estándares de verificación, afirmar la felicidad de un colectivo (los alcaldes) sin mostrar su fuente directa corresponde a una atribución de estado de ánimo no sustentada. Las fuentes entregadas no permiten concluir ni desmentir, por lo que el veredicto queda como sin_evidencia [F1][F2][F3][F4][F5]. El marco de verdad, justicia, reparación y no repetición no resulta aplicable a este contenido, que no versa sobre el conflicto armado ni sobre la JEP [F1][F2][F3][F4][F5].",
+          "whatTheyOmit": "No se identifica quién pronuncia la frase, en qué condición (funcionario, empresario, periodista) ni en qué momento del video, lo que impide valorar si es una opinión personal, una lectura institucional o una cita de terceros [F1][F2][F3][F4][F5]. Tampoco se incluyen manifestaciones de alcaldes, comunicados municipales o reacciones oficiales que permitan comprobar el supuesto estado de ánimo colectivo [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "La frase citada en el video es 'los alcaldes están felices por el anuncio que hiciste', formulada en segunda persona hacia la autora del video [F1][F2][F3][F4][F5]",
+            "Ninguna de las cinco fuentes entregadas contiene información sobre alcaldes colombianos ni sobre su reacción a anuncios de inversión en transporte [F1][F2][F3][F4][F5]",
+            "Las fuentes disponibles tratan de un canal de Telegram [F1], apartamentos en Alabama [F2] y el Rally y el barrio de Montecarlo en Mónaco [F3][F4][F5], sin relación con el tema de la afirmación"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://t.me/grupovanti",
+              "note": "Canal de Telegram sin contenido relacionado con alcaldes, anuncios de inversión o Colombia; no aporta evidencia sobre la afirmación",
+              "host": "t.me",
+              "title": "Telegram: Contact @grupovanti",
+              "image": "https://telegram.org/img/t_logo_2x.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://summerplaceal.com/",
+              "note": "Página de apartamentos en Huntsville, Alabama; sin relación con el tema; no aporta evidencia sobre la afirmación",
+              "host": "summerplaceal.com",
+              "title": "Welcome to Summer Place",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://en.wikipedia.org/wiki/Monte_Carlo_Rally",
+              "note": "Artículo sobre el Rally de Montecarlo; sin relación con alcaldes o anuncios en Colombia; no aporta evidencia sobre la afirmación",
+              "host": "en.wikipedia.org",
+              "title": "Monte Carlo Rally - Wikipedia",
+              "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/2011_monte_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+            },
+            {
+              "ref": "F4",
+              "url": "https://es.wikipedia.org/wiki/Montecarlo",
+              "note": "Artículo sobre el barrio de Montecarlo en Mónaco; sin relación con el tema; no aporta evidencia sobre la afirmación",
+              "host": "es.wikipedia.org",
+              "title": "Montecarlo - Wikipedia, la enciclopedia libre",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://de.wikipedia.org/wiki/Monte-Carlo",
+              "note": "Artículo en alemán sobre Montecarlo, Mónaco; sin relación con el tema; no aporta evidencia sobre la afirmación",
+              "host": "de.wikipedia.org",
+              "title": "Monte-Carlo – Wikipedia",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "economia",
+          "claim": "Se afirma que en adelante la infraestructura será la gran protagonista del crecimiento de Colombia.",
+          "quote": "aquí en adelante la infraestructura va a ser la gran protagonista del crecimiento de Colombia",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación 'la infraestructura va a ser la gran protagonista del crecimiento de Colombia' es una declaración prospectiva y promocional, no un hecho verificable. Ninguna de las fuentes entregadas permite contrastarla con datos de crecimiento económico colombiano, por lo que su contenido factual no puede confirmarse ni refutarse [F1][F2][F3][F4][F5].",
+          "context": "La única fuente con contenido mínimamente pertinente es la de Avianca, que confirma que es la aerolínea más grande de Colombia, con sede en Bogotá y principal hub en El Dorado; también registra su quiebra bajo el Capítulo 11 en mayo de 2020 por la pandemia de COVID-19. Estos datos permiten confirmar la existencia y escala de la empresa mencionada en el video, pero no verifican la cifra de 3.000 millones de dólares de inversión anunciada ni el efecto de esa inversión sobre el crecimiento económico del país [F2]. Las demás fuentes corresponden a un sitio web estatal de Indiana, a reseñas de la película 'Jingle Jangle: A Christmas Journey' y a su disponibilidad de streaming, y no aportan información sobre infraestructura, inversión o crecimiento en Colombia [F1][F3][F4][F5].",
+          "progressivePerspective": "La afirmación enmarca un anuncio institucional de inversión como un logro transformador, sin distinguir entre compromisos anunciados, contratos firmados y obras ejecutadas. Desde el marco de verdad y rendición de cuentas, una declaración de este tipo exige separar el hecho verificable (la existencia de anuncios de inversión) de la proyección (que la infraestructura será 'la gran protagonista del crecimiento'), ya que la segunda es una expectativa y no un dato medido [F2]. La única fuente con evidencia real sobre una de las empresas mencionadas documenta además un episodio de quiebra y reestructuración en 2020, contexto que una narrativa exclusivamente optimista no incorpora [F2]. Dado que el video no se refiere al conflicto armado ni a la JEP, no aplican los criterios de verdad, justicia, reparación y no repetición; corresponde sí a la evaluación de si el mensaje distingue hechos de proyecciones, algo que las fuentes disponibles no permiten resolver con datos económicos colombianos [F1][F3][F4][F5].",
+          "whatTheyOmit": "Se omite toda cifra verificable sobre el comportamiento reciente del PIB de Colombia, la participación de la inversión en infraestructura en ese crecimiento, el estado de ejecución presupuestaria de los anuncios mencionados y el impacto histórico de proyectos similares. Las fuentes entregadas no contienen información alguna que permita evaluar estas omisiones [F1][F3][F4][F5]. También se omite el contexto financiero de una de las empresas beneficiarias, documentado en las fuentes como un proceso de quiebra en 2020 [F2].",
+          "keyFacts": [
+            "La afirmación es una proyección o expectativa ('en adelante... va a ser'), no un hecho constatable con datos disponibles en las fuentes [F1][F2][F3][F4][F5]",
+            "Avianca es la aerolínea más grande de Colombia, fundada el 5 de diciembre de 1919, con sede en Bogotá y hub principal en El Dorado; flota de 102 aviones y 74 destinos según la ficha disponible [F2]",
+            "Avianca presentó quiebra bajo el Capítulo 11 en Nueva York en mayo de 2020 y liquidó su filial Avianca Perú debido a la crisis de la pandemia de COVID-19 [F2]",
+            "Ninguna de las fuentes entregadas contiene datos de inversión en infraestructura, de las cantidades de 2.400, 3.000 o 1.500 millones de dólares anunciadas, ni de crecimiento económico colombiano [F1][F3][F4][F5]",
+            "Tres de las cinco fuentes corresponden a contenidos sin relación con el tema del video: un sitio web del estado de Indiana y reseñas de una película de Netflix [F1][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.in.gov/idoa/proc/bids/20-008/008Att+K+-+Example+Delivery+Locations.xlsx",
+              "note": "Página de aviso del sitio web del estado de Indiana; no aporta información sobre infraestructura ni crecimiento en Colombia. Sirve para evidenciar que las fuentes entregadas no cubren el tema.",
+              "host": "in.gov",
+              "title": "IDOA: Error - Page Not Found",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://en.m.wikipedia.org/wiki/Avianca",
+              "note": "Ficha de Avianca: confirma su condición de aerolínea más grande de Colombia, fundación en 1919, hub en El Dorado, flota de 102 aviones y quiebra bajo Capítulo 11 en mayo de 2020 por la pandemia. Única fuente con datos pertinentes a una empresa mencionada en el video, pero no verifica las cifras de inversión ni el efecto en el crecimiento.",
+              "host": "en.m.wikipedia.org",
+              "title": "Avianca - Wikipedia",
+              "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Avianca_N792AV_Boeing_787_Dreamliner_London_Heathrow_Airport_%28EGLL%29_%28cropped%29.jpg/1280px-Avianca_N792AV_Boeing_787_Dreamliner_London_Heathrow_Airport_%28EGLL%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.commonsensemedia.org/movie-reviews/jingle-jangle-a-christmas-journey",
+              "note": "Reseña de la película 'Jingle Jangle: A Christmas Journey'; sin relación con la afirmación. Incluida para demostrar la falta de fuentes pertinentes.",
+              "host": "commonsensemedia.org",
+              "title": "Jingle Jangle: A Christmas Journey - Parents' Guide & Movie Review",
+              "image": "https://www.commonsensemedia.org/sites/default/files/styles/social_share_image/public/screenshots/csm-movie/jinglejanglescene1.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://meaww.com/jingle-jangle-christmas-journey-netflix-musical-release-date-plot-cast-first-look-john-legend-usher",
+              "note": "Artículo sobre el lanzamiento de la película 'Jingle Jangle: A Christmas Journey'; sin relación con la afirmación.",
+              "host": "meaww.com",
+              "title": "'Jingle Jangle: A Christmas Journey': Release date, plot, cast and all you need to know about Netflix's holiday musical",
+              "image": "https://d2a0gza273xfgz.cloudfront.net/487424/uploads/ec761810-02e9-11eb-a546-77ada29108f9_800_420.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.justwatch.com/uk/movie/jingle-jangle-a-christmas-journey",
+              "note": "Disponibilidad de streaming de 'Jingle Jangle: A Christmas Journey'; sin relación con la afirmación.",
+              "host": "justwatch.com",
+              "title": "Jingle Jangle: A Christmas Journey - streaming",
+              "image": "https://images.justwatch.com/poster/238465631/s718/jingle-jangle-a-christmas-journey.jpg"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "economia",
+          "claim": "Se afirma que el sector de infraestructura es el número uno de todos los sectores.",
+          "quote": "Tu sector es el número uno de todos los sectores",
+          "figures": [
+            "número uno"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las tres fuentes entregadas trata sobre infraestructura, inversión en Colombia, ranking sectorial del PIB o desempeño del sector transporte; las fuentes F1 y F2 corresponden a contenido de sitios web para adultos y F3 a un anuncio de un complejo de apartamentos en Alabama, por lo que no es posible verificar ni refutar la afirmación de que el sector de infraestructura es \"el número uno de todos los sectores\" con la evidencia disponible [F1][F2][F3].",
+          "context": "No existe en las fuentes suministradas ningún dato cuantitativo (participación en el PIB, inversión pública/privada, crecimiento sectorial, ranking intersectorial en Colombia) que permita establecer la magnitud real de la inversión anunciada ni comparar el sector de infraestructura con otros sectores de la economía. Tampoco hay referencia a las cifras mencionadas en la ficha del video (2.400 millones de dólares para la vía férrea La Dorada-Chiriguaná, 3.000 millones para nueva flota de Avianca, 1.500 millones para cinco aeropuertos). La verificación queda pendiente de fuentes especializadas (DANE, Mintransporte, planeación) [F1][F2][F3].",
+          "progressivePerspective": "En el marco de la verdad, la justicia, la reparación y la no repetición, la afirmación estudiada corresponde a un comunicado promocional de una funcionaria sobre logros de gestión, no a una declaración sobre el conflicto armado o la JEP, por lo que el marco de la JEP resulta aquí inaplicable. Desde una lectura ética de la rendición de cuentas, tratar \"ser el sector número uno\" como un hecho verificable —cuando en realidad es una valoración subjetiva de gestión— exige contrastarlo con datos oficiales independientes antes de aceptarlo; la ausencia de fuentes pertinentes impide determinar si la afirmación abona a un esclarecimiento verificable de la gestión pública o si es simplemente retórica promocional [F1][F2][F3].",
+          "whatTheyOmit": "Las fuentes no contienen ningún dato sobre el tema; por tanto, no es posible señalar omisiones del video contrastando con ellas. Lo que sí puede observarse es que la propia afirmación carece de un criterio definido en la cita (¿número uno por inversión, por crecimiento, por empleo, por PIB?), y ninguna de las tres fuentes aporta ese criterio ni la evidencia para medirlo [F1][F2][F3].",
+          "keyFacts": [
+            "La fuente F1 no trata de infraestructura ni de economía colombiana: es un blog de contenido para adultos sobre juegos parodia de Pokémon [F1]",
+            "La fuente F2 tampoco trata del tema: es un catálogo de juegos para adultos, sin relación con inversión o sectores económicos [F2]",
+            "La fuente F3 es la página web de un complejo de apartamentos en Huntsville, Alabama, sin relación con el sector de infraestructura de Colombia [F3]",
+            "No hay evidencia en las fuentes entregadas que respalde ni refute que el sector de infraestructura sea \"el número uno de todos los sectores\" [F1][F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://steamygamer.com/es/blog/juegos-porno-de-pokemon-prohibidos-por-nintendo",
+              "note": "Blog de contenido para adultos sobre juegos parodia de Pokémon. No aporta información sobre infraestructura, economía colombiana ni ranking sectorial; sirve únicamente para descartarla como evidencia relevante.",
+              "host": "steamygamer.com",
+              "title": "Juegos porno Pokemon (prohibidos por Nintendo) | Steamy Gamer",
+              "image": "https://dbk7a2fsiqg8m.cloudfront.net/steamygamer/games/_1200x630_crop_center-center_none/social-picture.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://mysexgamer.com/t/pokemon",
+              "note": "Catálogo de juegos para adultos. No contiene datos sobre inversión, transporte ni sectores económicos; sin valor probatorio para la afirmación.",
+              "host": "mysexgamer.com",
+              "title": "Pokemon Porn Games",
+              "image": "https://cdn.mysexgamer.com/assets/px.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://summerplaceal.com/",
+              "note": "Página de un complejo de apartamentos en Huntsville, Alabama. No guarda relación con el tema; sin valor probatorio para la afirmación.",
+              "host": "summerplaceal.com",
+              "title": "Welcome to Summer Place",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "politica",
+          "claim": "Se afirma que en Oragüena se iban a llevar más proyectos a la Patria Milagro durante la Milagro Week en Madrid.",
+          "quote": "en Oragüena íbamos a llevar más proyectos a la Patria Milagro, allí en Milagro Week, en Madrid",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación —que en Oragüena se iban a llevar más proyectos de la 'Patria Milagro' durante la Milagro Week en Madrid— no puede verificarse con las fuentes entregadas: F1 y F2 son portales de noticias sobre la empresa Vanti y F3, F4 y F5 son páginas de ayuda técnica de Windows; ninguna menciona Oragüena, Milagro Week ni el programa Patria Milagro [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes disponibles no aportan contexto sobre el supuesto evento 'Milagro Week' en Madrid ni sobre proyectos en Oragüena: F1 corresponde a un portal de noticias de EL TIEMPO orientado a contenidos y suscripciones [F1], F2 es un portal de noticias económicas de La República centrado en la empresa Vanti y su regulatorio de tarifas de gas [F2], y F3, F4 y F5 son recursos de soporte de Microsoft y guías sobre cómo obtener ayuda en Windows 11 [F3][F4][F5]. En consecuencia, no hay cifras, fechas, contratos ni decisiones oficiales disponibles para dimensionar el alcance de los proyectos anunciados.",
+          "progressivePerspective": "Se trata de una comunicación de gestión pública presentada en clave de logro y promesa ('íbamos a llevar más proyectos'), es decir, una intención de entrega futura y no un hecho consumado [F1][F2]. Desde una lectura de rendición de cuentas, el valor de un anuncio de este tipo depende de que existan registros verificables: montos presupuestados, contratos firmados, cronogramas y entregas efectivas a la población beneficiada; sin fuentes que los contienen, la afirmación queda como afirmación institucional no corroborada y no permite evaluar ni el cumplimiento ni el efecto sobre las comunidades [F1][F2][F3][F4][F5]. La ausencia de evidencia en las fuentes no implica que la afirmación sea falsa, pero impide tenerla por cierta [F1][F2][F3][F4][F5].",
+          "whatTheyOmit": "Las fuentes entregadas omiten por completo la información necesaria para contrastar la afirmación: no hay datos sobre Oragüena, sobre la 'Milagro Week' en Madrid, sobre el catálogo ni el presupuesto de los proyectos del programa Patria Milagro, ni evidencia de su ejecución o entrega [F1][F2][F3][F4][F5]. Tampoco se indica en qué condición se hace el anuncio (promesa de campaña, anuncio de gobierno en ejercicio o resultado ya entregado) [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Ninguna de las cinco fuentes entregadas menciona a Oragüena, la 'Milagro Week' en Madrid ni proyectos del programa 'Patria Milagro' [F1][F2][F3][F4][F5]",
+            "F1 es un portal de noticias de EL TIEMPO centrado en contenidos, suscripciones y navegación, sin información sobre el tema de la afirmación [F1]",
+            "F2 es un portal de noticias económicas de La República sobre la empresa Vanti (tarifas de gas, supervisión de la SuperServicios), ajeno a la afirmación [F2]",
+            "F3, F4 y F5 son recursos de ayuda técnica de Microsoft, YouTube, wikiHow y soporte de Windows 11, sin relación con la afirmación [F3][F4][F5]",
+            "La afirmación tiene carácter prospectivo (anuncio de llevar 'más proyectos'), no reporta obras ejecutadas ni entregadas [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/noticias/vanti",
+              "note": "Portal de noticias de EL TIEMPO; aporta navegación, boletines y suscripciones, sin contenido sobre Oragüena, Milagro Week o Patria Milagro; sirve como contraste de irrelevancia para la afirmación.",
+              "host": "eltiempo.com",
+              "title": "Vanti- ELTIEMPO.COM",
+              "image": "https://www.eltiempo.com/noticias/vanti"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.larepublica.co/vanti",
+              "note": "Portal de noticias económicas de La República sobre Vanti (tarifas de gas, SuperServicios, dividendos); no contiene información sobre la afirmación verificada.",
+              "host": "larepublica.co",
+              "title": "Vanti: Últimas noticias económicas de Vanti",
+              "image": "https://img.lalr.co/images/larepublicacompartir.jpg?f=jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.youtube.com/watch?v=jnDbVIJRm1E",
+              "note": "Página de ayuda técnica 'How to Get Help in Windows 11' en YouTube; sin relación con el tema, no aporta evidencia.",
+              "host": "youtube.com",
+              "title": "How to Get Help in Windows 11 (10 Easy Ways)",
+              "image": "https://i.ytimg.com/vi/jnDbVIJRm1E/maxresdefault.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+              "note": "Documentación oficial de Microsoft sobre cómo obtener ayuda en Windows; no aporta evidencia sobre la afirmación.",
+              "host": "support.microsoft.com",
+              "title": "How to get help in Windows",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.wikihow.com/Get-Help-in-Windows-11",
+              "note": "Guía de wikiHow sobre Windows 11; no contiene información sobre Oragüena, Milagro Week ni proyectos de infraestructura.",
+              "host": "wikihow.com",
+              "title": "How to Get Help in Windows 11: 3 Quick & Easy Ways",
+              "image": "https://www.wikihow.com/images/0/0a/Get-Help-in-Windows-11-Step-16.jpg"
             }
           ]
         }
