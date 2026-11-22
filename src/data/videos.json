@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:03:01",
+  "generatedAt": "2026-11-22T17:34:12",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -17416,6 +17416,370 @@
               "host": "vanguardia.com",
               "title": "Economía colombiana creció 2,9 % en el primer semestre del año: ¿cuál fue el impacto del gasto del Gobierno?",
               "image": "https://www.vanguardia.com/resizer/v2/LOAFLGB27FAHFBSY5H6RFGPOL4.JPG?auth=f2df92900195138a808abe6a8a36b5389eebdfbfd528ca2af5cf58d39f33e531&smart=true&width=1200&height=630&quality=70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "120k-views-10k-reactions-no-entiendo-como-alguien-despues-de-ver-cuba",
+      "title": "120K views · 10K reactions | 🎙️ \"No entiendo cómo alguien después de ver Cuba pueda ser socialista.\" | Negocios y Emprendimiento",
+      "uploader": "Negocios y Emprendimiento",
+      "url": "https://m.facebook.com/watch/?v=1526521342991727&_rdr",
+      "duration": 94.466,
+      "thumbnail": "/media/120k-views-10k-reactions-no-entiendo-como-alguien-despues-de-ver-cuba/thumb.jpg",
+      "conclusion": "## Un edificio de datos reales sobre cimientos incompletos\n\nEl video construye una narrativa que se puede resumir así: Cuba, Venezuela y Argentina demuestran que el socialismo produce miseria, mientras que ciudades como Dubai y Shanghai evidencian la prosperidad del libre mercado. La percepción que genera es de contundencia argumental —una secuencia de testimonios, cifras y ejemplos que parece arrojar un veredicto incuestionable sobre dos modelos enfrentados.\n\nParte de esa solidez es real. La crisis cubana está ampliamente documentada: apagones de hasta 20 horas, inflación del 28%, ingresos promedio de unos 15 dólares mensuales, reducción de raciones y el éxodo migratorio más grande desde 1959. La crisis venezolana de 2018, con hiperinflación del 130.060% y contracción del PIB del 19,6%, también es un hecho verificado. Estos datos no son inventados ni exagerados en lo esencial.\n\nEl problema comienza cuando el video pasa de presentar esa crisis a atribuirla exclusivamente al sistema político como causa única y suficiente. En ese salto, omite factores que las mismas fuentes consultadas identifican como relevantes: el embargo estadounidense con un impacto anual estimado en más de 5.000 millones de dólares, la reducción drástica de envíos petroleros desde Venezuela que profundizó la crisis energética cubana, y el golpe económico de la pandemia. No se trata de exonerar a ningún gobierno, sino de que las causas documentadas son múltiples y el video las presenta como una sola.\n\nEl punto de quiebre se produce con precisión cuando el hablante afirma que nadie que viva en Cuba y afronte esa situación podría defender el sistema. Hasta ese momento, la descripción de la crisis podía sostenerse. Pero la palabra «nadie» es una generalización absoluta sin respaldo en encuestas de opinión, y la misma fuente señala que el 94% de la población permanece en la isla, cuya opinión el video desconoce por completo. Además, el relato del operativo con drones, presentado como un ejemplo dramático, es un testimonio de segunda mano sin fecha, lugar ni identificación de los afectados: refuerza la emoción sin aportar evidencia verificable.\n\nLa comparación con Dubai y China añade otra capa problemática. China no es un caso de libre mercado puro sino de economía dirigida por el Estado dentro de un sistema de partido único, y Dubai no aparece en ninguna fuente consultada. Presentar ambos como evidencia del «libre mercado» distorsiona la comparación. También se omite la recuperación parcial de Venezuela desde 2021, con inflación del 1% y crecimiento del PIB superior al 8%, aunque manteniendo pobreza general del 82,8%, lo que complicaría la imagen de «destrucción total» que el video presenta. Sobre Argentina, simplemente no se aporta evidencia alguna.\n\nLa interpretación más completa que permite el material es que las condiciones materiales en Cuba y Venezuela son graves y merecen ser señaladas con datos sólidos, pero que esa realidad no valida por sí sola una conclusión ideológica cerrada. Las causas son múltiples, las comparaciones que el video propone no son entre sistemas equivalentes, y los datos reales que presenta quedan atrapados en una narrativa que los hace parecer más concluyentes de lo que en realidad son.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "social",
+          "claim": "Se afirma que un cubano relató tener un patio más pequeño que la casa del hablante, donde plantaban comida y vegetales.",
+          "quote": "los ojos no sé si te funcionan, te presto los míos. Claro, vos ves un cubano viniendo acá, desde la escasez máxima, lo que me contaba este cubano es que ellos tenían un patio, más chicos incluso que yo tenían mi casa, pero ellos plantaron comida, viste, plantaron vegetales y demás",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación concreta —un cubano que relató tener un patio más pequeño que la casa del hablante, donde plantaban comida y vegetales— es un testimonio anecdótico no verificable con las fuentes disponibles. Las fuentes sí confirman la escasez alimentaria extrema en Cuba que hace plausible la práctica de cultivar en espacios pequeños, pero no pueden confirmar ni falsar esta historia personal específica [F1][F2][F4][F5].",
+          "context": "Las fuentes documentan una crisis alimentaria severa y estructural en Cuba: la 'libreta' de racionamiento prácticamente se ha extinguido y solo se mantiene para 1.913 de las 12.000 bodegas del país, atendiendo a personas en situación de vulnerabilidad [F1]. La ración subsidiada de pan se redujo un 25% (de 80 a 60 gramos) por escasez de harina de trigo [F2][F4]. El 89% de los cubanos viven en situación de pobreza, con inflación del 30% anual y largos apagones [F5]. Cuba produce apenas cerca del 40% del combustible que necesita y los apagones superan las 20 horas diarias en algunas regiones [F3]. El ingreso promedio mensual ronda los 4.648 pesos cubanos (~15 dólares) [F2][F4]. Estos datos contextualizan que la escasez es real y grave, lo que hace plausible la historia anecdótica, pero no la verifica.",
+          "progressivePerspective": "El video emplea un testimonio personal no verificable como evidencia de que el socialismo no funciona, reduciendo un problema complejo a una anécdota individual. El marco analítico correcto exige distinguir entre el hecho documentado —Cuba enfrenta una crisis alimentaria, energética y económica severa cuyas causas incluyen tanto el bloqueo estadounidense como la gestión económica interna [F1][F2][F3][F4][F5]— y la opinión política que se deriva de él. Las propias fuentes reconocen ambas dimensiones: el impacto del embargo (5.056 millones de dólares anuales según el canciller cubano [F4]) y la 'incapacidad del gobierno de Díaz-Canel de paliar, así sea de manera marginal, la enormidad del desastre económico' [F5]. Usar una anécdota sobre un patio diminuto para sentenciar a un sistema político entero no abona al esclarecimiento de causas estructurales ni a un análisis riguroso; simplifica y descontextualiza [F1][F5]. Esto no es un asunto del conflicto armado colombiano ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no resulta directamente aplicable; sin embargo, el principio de rigor fáctico sí aplica: separar testimonio anecdótico de evidencia verificable [F2][F4].",
+          "whatTheyOmit": "El video no menciona que el bloqueo estadidounidense es un factor documentado en la crisis (impacto anual estimado en 5.056 millones de dólares [F4]), ni que la reducción de envíos de petróleo de Venezuela (de más de 90.000 a 32.000 barriles diarios) profundizó la crisis energética [F5]. Tampoco contextualiza que la práctica de cultivar en espacios reducidos puede reflejar tanto escasez como tradiciones rurales o urbanas de autosuficiencia. Omite datos como que el PIB cayó casi 11% tras la pandemia [F5], que la emigración masiva (1,79 millones de cubanos entre 2022-2023) es consecuencia de múltiples factores [F5], y que la propia fuente reconoce tanto la gestión gubernamental deficiente como el impacto del embargo como causas de la crisis [F4][F5].",
+          "keyFacts": [
+            "La 'libreta' de racionamiento en Cuba se ha extinguido en la práctica y solo atiende a 1.913 de las 12.000 bodegas del país, enfocada en personas vulnerables [F1]",
+            "La ración subsidiada de pan se redujo un 25%, de 80 a 60 gramos diarios, por escasez de harina de trigo [F2][F4]",
+            "Cuba enfrenta apagones de hasta 20 horas diarias en algunas regiones y produce apenas el 40% del combustible que necesita [F3]",
+            "El 89% de los cubanos vive en situación de pobreza, con inflación del 30% anual [F5]",
+            "El ingreso promedio mensual en Cuba ronda los 4.648 pesos cubanos, aproximadamente 15 dólares [F2][F4]",
+            "El bloqueo estadounidense causó daños estimados en 5.056 millones de dólares en un año según el canciller cubano [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://acento.com.do/internacional/cuba-limita-libreta-de-alimentos-a-los-mas-vulnerables-9794194.html",
+              "note": "Documenta el colapso de la libreta de racionamiento y la restricción a 1.913 bodegas para vulnerables; aporta el contexto de escasez alimentaria estructural",
+              "host": "acento.com.do",
+              "title": "Cuba limita libreta de alimentos a los mÃ¡s vulnerables",
+              "image": "https://media.acento.com.do/media/storage02/uploads/2026/11/Libreta-de-alimentos-en-Cuba-1-OG.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.larepublica.co/globoeconomia/cuba-recorta-la-racion-subsidiada-de-pan-diario-por-la-escasez-de-los-ingredientes-3954119",
+              "note": "Confirma la reducción del 25% de la ración de pan y el ingreso promedio de ~15 dólares mensuales; aporta datos de escasez específica",
+              "host": "larepublica.co",
+              "title": "Cuba reducirá la ración subsidiada de pan diario por la escasez de los ingredientes",
+              "image": "https://img.lalr.co/cms/2024/09/16173948/pan.jpg?size=sm&ratio=sq&f=jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.ntn24.com/noticias-actualidad/cuba-colapso-energetico-escasez-combustible-electricidad-631392",
+              "note": "Documenta el colapso energético, apagones de hasta 20 horas y dependencia de importaciones de combustible; aporta la magnitud de la crisis energética",
+              "host": "ntn24.com",
+              "title": "Cuba enfrenta un colapso energético mientras se agrava la escasez de combustible y electricidad | NTN24.COM",
+              "image": "https://intn24.lalr.co/cms/2026/05/04162444/Apagon-Cuba-Foto-AFP.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.noticiasrcn.com/internacional/se-agudiza-la-crisis-en-cuba-por-escasez-de-bienes-esenciales-749375",
+              "note": "Confirma la reducción de pan y el impacto del embargo en 5.056 millones de dólares; aporta la cifra oficial cubana del embargo",
+              "host": "noticiasrcn.com",
+              "title": "Se agudiza la crisis en Cuba: menor ración de pan y escasez de bienes esenciales | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/cms/2024/09/16215351/Cubanos.webp?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/mundo/latinoamerica/cuba-un-pais-en-estado-terminal-las-razones-que-llevaron-a-la-isla-a-una-crisis-economica-y-social-a-un-nivel-dramatico-3403408",
+              "note": "Analiza las causas múltiples de la crisis: 89% pobreza, caída del PIB, reducción de petróleo venezolano, emigración masiva; aporta el análisis estructural más completo de las fuentes",
+              "host": "eltiempo.com",
+              "title": "Cuba, un país en estado terminal: ¿por qué la isla atraviesa una crisis económica y social catalogada como dramática?",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/26/674653558e330.r_d.1297-1606-0.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "seguridad",
+          "claim": "Se afirma que el gobierno de Cuba les tocó la puerta a unas personas tras detectar por dron que tenían comida, y les exigió darle una porción significativa al estado.",
+          "quote": "Me contaron que le vinieron del gobierno a tocarle la puerta que vieron por un dron, que ellos tenían comida y que debían darle una porción significativa al estado",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación es un relato de segunda mano («Me contaron…») presentado sin ningún dato verificable: no se identifica a los supuestos afectados, ni la fecha, ni el municipio, ni el tipo de alimento, ni la cuantía exigida. Las FUENTES entregadas no contienen referencias accesibles, por lo que no es posible confirmar ni refutar que haya existido un operativo basado en drones para requisar alimentos domésticos en Cuba. Por la estructura misma del enunciado (hearsay sin especificaciones) y por la ausencia de fuentes, el veredicto es sin_evidencia, no falso: no se puede afirmar que el hecho no ocurrió, pero tampoco que haya ocurrido.",
+          "context": "Cuba no tiene un mercado mayoritariamente privado de alimentos: la distribución racionada se hace mediante la libreta de abastecimiento, complementada por mercados agropecuarios, mercados de divisas (MLC) y, en los últimos años, el ejercicio del cuentapropismo y las MIPYMES tras las reformas de 2021, incluida la apertura de la oferta de divisas (Cadeca) y la autorización de importaciones por particulares. Existen normas generales sobre fiscalización sanitaria e inspección en la isla, pero las FUENTES disponibles no documentan la existencia ni el uso de un programa de vigilancia aérea por dron para detectar alimentos privados ni para exigir «una porción significativa al estado». La afirmación, además, es de terceros («me contaron»), lo que impide establecer responsabilidad, hecho y magnitud. Sin acceso a fuentes, no es posible cuantificar ni precedente histórico ni actual del supuesto mecanismo.",
+          "progressivePerspective": "En términos del marco de verdad, justicia, reparación y no repetición aplicable a situaciones de despojo estatal, un relato así —si resultara cierto— constituiría un indicio de expropiación forzosa arbitraria que debería ser documentado, individualizado y sometido a mecanismo de verdad y reparación; si resultara infundado, difundirlo sin evidencia también daña el propósito de no repetición, porque trivializa la credibilidad de las denuncias legítimas y erosiona el derecho a la información verificada. Lo éticamente exigible en cualquiera de los dos casos es la misma: exigir fuente, fecha, lugar y víctima concreta antes de sostener el hecho, o dejarlo explícitamente como testimonio no verificado. La propia cita textual del video ya lo presenta como chisme («Me contaron»), de modo que el material, tal como está, aporta testimonio pero no verdad verificable por sí mismo.",
+          "whatTheyOmit": "Omite identificar a los supuestos afectados, la fecha, el lugar, la cuantía exigida y cualquier documento, audio o registro que permita corroborar el operativo. Omite también señalar explícitamente en el enunciado que se trata de un relato de oídas (el condicional «me contaron») y omite precisar qué significa «una porción significativa al estado», expresión ambigua que no corresponde a ninguna sanción o requisición tipificada en las fuentes consultadas. No se presenta ninguna fuente primaria ni oficial que permita contrastar el dato.",
+          "keyFacts": [
+            "La afirmación se enuncia como relato de terceros («Me contaron»), no como experiencia directa ni como hecho documentado, lo que convierte el contenido en testimonio no verificable tal como está planteado en la cita textual.",
+            "Las FUENTES entregadas para esta verificación no contienen referencias accesibles, por lo que ningún hecho del relato puede ser confirmado ni descartado con evidencia.",
+            "No existen en las FUENTES datos sobre un programa de vigilancia con drones para detectar alimentos en viviendas particulares en Cuba, ni sobre una exigencia estatal de «una porción significativa» de comida.",
+            "La afirmación carece de los elementos mínimos de verificación (fecha, lugar, identidad de los afectados, tipo y cantidad de alimento, cuantía exigida), por lo que es imposible dimensionar la magnitud del hecho."
+          ],
+          "sources": [
+            {
+              "ref": "F0",
+              "url": "",
+              "note": "Sin fuentes accesibles: el conjunto de FUENTES entregado para esta afirmación no incluye referencias verificables, por lo que la conclusión queda en «sin_evidencia» y no en «falso». Esta ausencia es en sí misma el dato determinante del veredicto.",
+              "host": "",
+              "title": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "social",
+          "claim": "Se afirma que quienes más defienden las prácticas descritas de Cuba no viven en Cuba.",
+          "quote": "Aparte de la gente que más defiende, todas estas prácticas son personas que no viven en Cuba",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación de que 'quienes más defienden las prácticas descritas de Cuba no viven en Cuba' es una generalización sin respaldo empírico en las fuentes provistas. Las fuentes documentan una emigración masiva y una crisis económica severa, pero no contienen datos sobre quiénes defienden el sistema cubano ni su lugar de residencia. [F1][F2][F3]",
+          "context": "Cuba ha experimentado la mayor ola migratoria de su historia: más de 1.011.269 cubanos emigraron entre 2022 y 2023, equivalente al 10% de la población, que pasó de 11.181.595 a 10.559.680 habitantes [F3]. La economía acumula una contracción del 15% entre 2020 y 2025, el 81% de los encuestados reportó haber omitido alguna comida en los últimos seis meses, y el 94% vive en condiciones de pobreza extrema según el Observatorio Cubano de Derechos Humanos [F2]. Paralelamente, el gobierno cubano anunció en 2026 que permitirá por primera vez a los cubanos residentes en el exterior invertir y crear empresas en la isla, incluyendo sectores bancarios y de infraestructura [F1][F5]. La nueva Ley 171 de Migración, en vigor desde noviembre de 2026, eliminó el límite de 24 meses de permanencia fuera de la isla y adoptó el criterio de 'residencia efectiva' basado en más de 180 días anuales en el país [F4].",
+          "progressivePerspective": "La afirmación del video se enmarca en una crítica política al socialismo cubano que apela a la experiencia migratoria como prueba de su fracaso. Desde el marco de verdad y no repetición aplicable a contextos de conflicto y derechos humanos, la cifra de más de un millón de emigrados en dos años representa un hecho verificable que merece ser reconocido como parte de la realidad cubana [F3]. Sin embargo, la generalización de que 'los defensores no viven en Cuba' es una afirmación de carácter opinativo que no puede verificarse con evidencia disponible: no existen datos en las fuentes sobre el perfil geográfico de quienes defienden o critican el sistema. La afirmación tiene el riesgo de simplificar un fenómeno complejo —la diáspora cubana incluye personas con posturas políticas diversas, y la propia apertura del gobierno a la inversión de emigrados reconoce su relevancia económica para el país [F1][F5]—. A su vez, las fuentes sí documentan condiciones de crisis humanitaria graves que merecen escrutinio y rendición de cuentas [F2][F3].",
+          "whatTheyOmit": "El video no aporta datos cuantitativos sobre quiénes defienden las prácticas cubanas ni su lugar de residencia, lo que hace imposible verificar la afirmación. Además, no se menciona que el propio gobierno cubano está implementando reformas para incorporar a la diáspora a la economía de la isla [F1][F5], ni se contextualiza la crisis con el bloqueo estadounidense vigente desde 1962 y las sanciones recientes a nueve entidades estatales cubanas [F1][F2]. Tampoco se distingue entre la crítica a condiciones materiales concretas (pobreza, apagones, escasez) y la postura ideológica hacia el socialismo como sistema [F2][F3].",
+          "keyFacts": [
+            "Cuba perdió más de un millón de personas en dos años (2022-2023), el 10% de su población, la mayor ola migratoria de su historia [F3]",
+            "El 81% de los cubanos encuestados reportó haber omitido alguna comida durante los seis meses anteriores; el 94% vive en pobreza extrema según el OCDH [F2]",
+            "La economía cubana acumula una contracción del 15% entre 2020 y 2025 y podría caer otro 10.3% según Cepal [F2]",
+            "El gobierno cubano anunció en 2026 que permitirá a cubanos en el exterior invertir y crear empresas por primera vez [F1]",
+            "La nueva Ley 171 de Migración entró en vigor el 1 de noviembre de 2026, eliminando el límite de 24 meses fuera de la isla [F4]",
+            "No existen datos en las fuentes provistas sobre quiénes defienden las prácticas cubanas ni su lugar de residencia [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.semana.com/mundo/articulo/cuba-da-otro-giro-historico-permitira-a-los-cubanos-en-el-exterior-invertir-y-crear-empresas-en-la-isla-por-primera-vez/202617/",
+              "note": "Documenta la apertura de Cuba a la inversión de la diáspora, el embargo estadounidense y la crisis energética. Aporta contexto sobre la relación gobierno-diaspora.",
+              "host": "semana.com",
+              "title": "Cuba da otro giro histórico: permitirá a los cubanos en el exterior invertir y crear empresas en la isla, por primera vez",
+              "image": "https://www.semana.com/resizer/v2/HCBVC6VCKRF4VF4KOLT2OYMVII.jpg?auth=5273e064f48e5cf2b0ac453e547586c7f45597600ce5b1b8d776736f6953f24b&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/mundo/latinoamerica/cuba-se-hunde-en-la-pobreza-el-hambre-golpea-a-8-de-cada-10-habitantes-de-la-isla-y-el-77-exige-cambios-politicos-y-economicos-3580449",
+              "note": "Informe del OCDH con datos sobre pobreza, hambre y descontento en Cuba. Aporta magnitud real de la crisis social.",
+              "host": "eltiempo.com",
+              "title": "Cuba se hunde en la pobreza: el hambre golpea a 8 de cada 10 habitantes de la isla y el 77 % exige cambios políticos y económicos",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b898e4807e.r_d.657-482-0.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://es-us.noticias.yahoo.com/cuba-admite-ola-emigraci%C3%B3n-masiva-215017436.html",
+              "note": "Cifras oficiales de emigración masiva cubana. Proporciona contexto sobre la diáspora y el descontento migratorio.",
+              "host": "es-us.noticias.yahoo.com",
+              "title": "Cuba admite ola de emigración masiva: más de un millón huyó de la crisis en dos años",
+              "image": "https://s.yimg.com/lo/mysterio/api/7d692b1f41c88082049039e48fa124e5376f1037af656b3373369fd3dd11a0ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fel_nuevo_herald_986%2F6fbdf7fb0c4c8a90e39ffdaae0c87570"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/cuba/2026/11/01/cuba-aplica-una-nueva-ley-de-migracion-que-cambia-para-los-ciudadanos-dentro-y-fuera-de-la-isla/",
+              "note": "Detalle de la nueva Ley 171 de Migración y el concepto de residencia efectiva. Contextualiza la relación legal de Cuba con sus emigrados.",
+              "host": "infobae.com",
+              "title": "Cuba aplica una nueva Ley de Migración: qué cambia para los ciudadanos dentro y fuera de la isla",
+              "image": "https://www.infobae.com/resizer/v2/SHMU6AQAUJEO7OZB2Z6GH6OO6I.png?auth=38e25084cccd3717666c1d00fc42d57427d050efe02ca6afe932e443440df2b0&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/globoeconomia/cuba-comenzo-a-salir-el-martes-de-otro-bloqueo-nacional-y-anuncio-que-abrira-su-economia-4351246",
+              "note": "Apertura económica a la diáspora y contexto de bloqueo. Aporta perspectiva sobre la política económica y las relaciones con emigrados.",
+              "host": "larepublica.co",
+              "title": "Cuba comenzó a salir de otro bloqueo y abrirá su economía a la diáspora cubana",
+              "image": "https://img.lalr.co/cms/2026/03/14161807/Cuba.jpg?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "social",
+          "claim": "Se afirma que ninguna persona que viva en Cuba y afronte esa situación lo va a defender.",
+          "quote": "Nadie que viva en Cuba y está afrontando esto, lo va a defender",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El video sostiene de forma absoluta que 'nadie' que viva en Cuba y afronte la situación actual lo defendería. Las fuentes sí documentan una crisis económica grave y el mayor éxodo migratorio desde 1959, pero ninguna aporta datos de opinión de la población que respalde un 'nadie' universal: no existen en las fuentes encuestas sobre el grado de respaldo o rechazo de los cubanos residentes en la isla al sistema o a su gestión [F2][F3][F4][F5].",
+          "context": "La magnitud real del fenómeno: en dos años al menos 533.000 cubanos llegaron a Estados Unidos, cifra equivalente al 4,8% de los 11,1 millones de habitantes de la isla, el mayor número de migrantes cubanos jamás registrado en dos años corridos desde el comienzo del éxodo posrevolucionario en 1959; solo en 2023 se registraron más de 153.000 entradas irregulares y 67.000 vía Parole [F2]. Las cifras incluyen también 313.000 en 2022, con rutas por Nicaragua, México, Uruguay y Chile [F2][F3]. Las causas citadas abarcan inflación, desplome agrícola, apagones y escasez de alimentos [F2], mientras que el gobierno cubano atribuye la crisis al endurecimiento del embargo desde 2019 y a la reinclusión en la lista de patrocinadores del terrorismo [F3]. Cuba mantiene como condición que su sistema político no es negociable en el diálogo con EE.UU. [F4][F5], y ambos gobiernos sostienen reuniones migratorias semestrales [F3]. Ninguna fuente cuantifica la opinión de quienes permanecen en la isla [F2][F3][F4][F5].",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición —aplicables aquí como criterio de rigor informativo—, la afirmación funciona como una conclusión generalizada a partir de un dato verificable pero parcial: la crisis y la emisión masiva de migrantes son hechos documentados [F2][F3], pero 'nadie que viva en Cuba lo defendería' es una universalidad que ninguna fuente sostiene ni puede sostener, pues no hay medición de opinión en la isla [F2][F3][F4][F5]. Sustituir evidencia por certeza absoluta debilita el esclarecimiento de la realidad: distorsiona tanto a quienes criticaron el sistema dentro de la isla como a quienes, por distintos motivos, no emigraron o sostienen posturas distintas. Una lectura rigurosa exige reconocer el sufrimiento documentado de la población [F2] sin convertirlo en una afirmación categórica sobre la conciencia de 11,1 millones de personas [F2].",
+          "whatTheyOmit": "Omite cualquier dato de opinión o encuesta sobre residentes en Cuba, que sería lo único capaz de respaldar o falsar la palabra 'nadie' [F2][F3][F4][F5]. Omite también que la cifra de 533.000 migrantes, aunque récord, equivale al 4,8% de la población, es decir que la gran mayoría permanece en la isla, cuya opinión no se conoce en las fuentes [F2]. No distingue entre crítica a la gestión económica, al sistema político y al embargo, factores que las fuentes presentan como disputa causal entre ambas partes [F2][F3]. Finalmente, no aclara que Cuba declara que su sistema no será objeto de negociación y señala al bloqueo como principal obstáculo, posición que las fuentes registran pero que el video no contrasta [F4][F5].",
+          "keyFacts": [
+            "En dos años al menos 533.000 cubanos llegaron a Estados Unidos, el mayor éxodo registrado en dos años corridos desde 1959, equivalente al 4,8% de los 11,1 millones de habitantes [F2]",
+            "Se documentan inflación galopante, desplome de la producción agrícola, apagones y dificultades para resolver necesidades básicas como motivos de la salida [F2]",
+            "El gobierno cubano atribuye la crisis al endurecimiento del embargo desde 2019 y a su inclusión en la lista de patrocinadores del terrorismo [F3]",
+            "Cuba sostiene que su sistema político y modelo constitucional no son objeto de negociación con Estados Unidos [F4][F5]",
+            "No hay en las fuentes datos de opinión o encuestas que permitan verificar la afirmación absoluta de que 'nadie' residente en Cuba defendería la situación [F2][F3][F4][F5]",
+            "Las fuentes incluyen una encuesta de aprobación presidencial en Sudamérica que no incluye a Cuba ni mide opinión interna cubana [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elcolombiano.com/internacional/america-latina/gustavo-petro-entre-los-presidentes-con-peor-aprobacion-en-sudamerica-segun-cb-consultora-CB25717555",
+              "note": "Encuesta CB Consultora sobre aprobación de presidentes sudamericanos; no incluye a Cuba ni opinión interna cubana. Sirve como contraste de qué sí se mide con encuestas cuando se afirma sobre apoyo popular.",
+              "host": "elcolombiano.com",
+              "title": "Gustavo Petro continÃºa como uno de los presidentes con peor aprobaciÃ³n en SudamÃ©rica, segÃºn encuesta internacional",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/MWNT/encuesta-sudamerica-presidentes-gust_46407185_20241030100119.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/mundo/latinoamerica/cuba-registra-en-dos-anos-el-mayor-exodo-migratorio-desde-la-revolucion-de-1959-850910",
+              "note": "Documenta el récord migratorio de 533.000 cubanos en dos años, la crisis económica, los testimonios de quienes emigran y el éxtodo como proporción (4,8%) de la población. No aporta datos de opinión de quienes permanecen.",
+              "host": "eltiempo.com",
+              "title": "Cuba registra en dos años el mayor éxodo migratorio desde la revolución de 1959",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/02/02/65bcdba60675a.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.semana.com/mundo/articulo/cuba-y-estados-unidos-dialogan-frente-al-incremento-de-la-migracion-cubana-se-vislumbran-soluciones/202310/",
+              "note": "Diálogo migratorial EE.UU.-Cuba, cifras de migración irregular y las causas atribuidas por cada parte (bloqueo vs. gestión interna).",
+              "host": "semana.com",
+              "title": "Cuba y Estados Unidos dialogan frente al incremento de la migración cubana, ¿se vislumbran soluciones?",
+              "image": "https://www.semana.com/resizer/v2/GENROV72NRFUVJMIJKJ2R6BUV4.jpg?auth=c86b5ceb9023752b5309b2727859e778dded0d0cee54967ff3f01f45e3f20d25&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/internacional/no-cambiar-el-sistema-politico-la-unica-condicion-del-gobierno-de-cuba-para-dialogar-con-ee-uu-490232",
+              "note": "Posición de Cuba de no negociar el sistema político, apagón nacional, reformas de inversión y atribución de la crisis al embargo; muestra que hay interlocución oficial sin medir opinión ciudadana.",
+              "host": "portafolio.co",
+              "title": "No cambiar el sistema político: la única condición del Gobierno de Cuba para dialogar con EE. UU.",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/03/17/69b9cb5180bbd.jpeg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/globoeconomia/cuba-afirma-que-el-sistema-politico-no-es-negociable-en-conversaciones-con-ee-uu-4354210",
+              "note": "Confirma la declaración del viceministro cubano de que el sistema político y el cargo presidencial no son objeto de negociación; aporta la posición estatal, no la opinión de la población.",
+              "host": "larepublica.co",
+              "title": "Cuba afirma que el sistema político no es negociable en conversaciones con EE.UU.",
+              "image": "https://img.lalr.co/cms/2026/03/20105029/IMG_20220108_084808-1.jpg?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "Se afirma que Dubai y las ciudades futurísticas de China, como Shanghai, donde hay mayor cantidad de libre mercado, muestran la prosperidad del capitalismo de libre mercado.",
+          "quote": "Puedes ver Dubai, puedes ver las ciudades futurísticas de China, Shanghai, donde hay mayor cantidad de libre mercado. Y vos ves la prosperidad y cómo todos crecen",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación mezcla elementos parcialmente respaldados (Shanghai creció tras las reformas de mercado de 1990 y la libertad económica se correlaciona con la prosperidad según Heritage) con characterizaciones no verificables en las fuentes: ninguna fuente menciona Dubai, y ninguna fuente clasifica a China como de 'mayor cantidad de libre mercado' [F1][F4].",
+          "context": "El Índice de Libertad Económica de The Heritage Foundation mide cuatro capítulos: imperio de la ley, tamaño del gobierno, eficiencia regulatoria y apertura al mercado [F1]. Las fuentes muestran que los países con mayor libertad económica registran un ingreso per cápita (PPP) de US$103.869 frente a US$10.637 en el grupo de Colombia [F1], y que China se acerca a US$10.000-14.000 de ingreso per cápita tras su crecimiento [F1]. Shanghai se transformó en centro financiero de Asia y el puerto de contenedores más activo del mundo desde las reformas de apertura de principios de la década de 1990 [F4]. Sin embargo, ninguna de las cinco fuentes clasifica a China ni a Dubai en el índice de libertad económica, por lo que la afirmación de que China tiene 'mayor cantidad de libre mercado' no puede confirmarse ni descartarse con las fuentes entregadas.",
+          "progressivePerspective": "Este video no trata del conflicto armado colombiano ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repetición no es aplicable directamente. Desde una lectura analítica, la afirmación presenta como evidencia de la superioridad del libre mercado un caso (China) que las propias fuentes muestran como una economía de doble sector: las reformas de apertura de 1990 impulsaron el crecimiento de Shanghai [F4], pero la fuente sobre Xi Jinping evidencia un modelo donde el Estado dirige estratégicamente sectores como infraestructura, minería, energía y finanzas mediante planes de cooperación bilateral y la iniciativa Franja y la Ruta [F5], lo cual sugiere un sistema mixto y no un libre mercado puro. Presentar China como ejemplo de 'libre mercado' sin matizar el rol del Estado chino constituye una simplificación que debilita el argumento que se pretende sostener [F4][F5].",
+          "whatTheyOmit": "Omite que ninguna fuente disponible clasifica a China o Dubai en el índice de libertad económica, por lo que la premisa central ('mayor cantidad de libre mercado') carece de respaldo documental en las fuentes [F1][F2][F3]. Omite también que Shanghai no es un caso de libre mercado puro sino de reformas impulsadas por el Estado chino a partir de 1990 dentro de un sistema de partido único con empresas estatales y planificación estratégica [F4][F5]. No menciona que el propio índice de Heritage incluye dimensiones como la entereza del gobierno y la corrupción, que muestran que la libertad económica no depende solo de la apertura al mercado [F1].",
+          "keyFacts": [
+            "Shanghai se transformó en uno de los principales centros financieros de Asia y el puerto de contenedores más activo del mundo desde las reformas de apertura de principios de la década de 1990 [F4]",
+            "Existe correlación entre libertad económica y bienestar: países con mayor libertad económica tienen un ingreso per cápita (PPP) de US$103.869 frente a US$10.637 en el grupo donde se encuentra Colombia [F1]",
+            "China se acerca a US$14.000 de ingreso per cápita tras un crecimiento en una sola generación [F1]",
+            "Ninguna de las cinco fuentes clasifica a China ni a Dubai en el Índice de Libertad Económica, por lo que la afirmación de 'mayor cantidad de libre mercado' en China no es verificable con las fuentes entregadas [F1][F2][F3]",
+            "El modelo económico chino incluye cooperación estatal dirigida en sectores estratégicos como infraestructura, minería, energía y finanzas, según las declaraciones de Xi Jinping [F5]",
+            "Dubai no es mencionado en ninguna de las fuentes proporcionadas [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.larepublica.co/analisis/carlos-ronderos-533356/indice-de-libertad-economica-3814258",
+              "note": "Explica el Índice de Libertad Económica de Heritage (4 capítulos), la correlación con la prosperidad (US$103.869 vs US$10.637 de ingreso per cápita PPP), y menciona el crecimiento de China hacia US$14.000. No clasifica a China ni a Dubai en el índice.",
+              "host": "larepublica.co",
+              "title": "Índice de Libertad Económica",
+              "image": "https://img.lalr.co/cms/2017/06/30120849/Carlos-Ronderos-2.jpg?size=sm&ratio=rr16_9&f=jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/finanzas/libertad-economica-asi-le-fue-a-colombia-respecto-a-los-paises-del-mundo-606818",
+              "note": "Ranking 2024 de Heritage: Colombia en puesto 84 con 59.2/100. No incluye datos de China o Dubai.",
+              "host": "portafolio.co",
+              "title": "Cómo está Colombia en libertad económica frente a otros países del mundo",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2016/02/08/56b8b8e12df81.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elheraldo.co/economia/2025/05/29/colombia-cae-cinco-puestos-en-indice-de-libertad-economica/",
+              "note": "Ranking 2025 de Heritage: Colombia cae al puesto 89 con 59.8 puntos. Menciona que las políticas estatistas socavan la libertad económica. No clasifica a China o Dubai.",
+              "host": "elheraldo.co",
+              "title": "Colombia cae cinco puestos en Índice de Libertad Económica",
+              "image": "https://www.elheraldo.co/resizer/v2/PZA32YK2RFCRXO5S6SIC4JXAPY.jpg?smart=true&auth=7c8570a68cbf77483c47f4399f7dbff70415ae1c9b83ad1d49de198be355a56c&width=1200&height=675"
+            },
+            {
+              "ref": "F4",
+              "url": "https://en.wikipedia.org/wiki/History_of_Shanghai",
+              "note": "Confirma que Shanghai se convirtió en centro financiero de Asia y puerto más activo del mundo desde las reformas de apertura de 1990. Contexto histórico de la ciudad. No evalúa su grado de libertad económica.",
+              "host": "en.wikipedia.org",
+              "title": "History of Shanghai - Wikipedia",
+              "image": ""
+            },
+            {
+              "ref": "F5",
+              "url": "https://spanish.xinhuanet.com/20260819/ffd14f8f7e7344c5afdfd9329811f5b4/c.html",
+              "note": "Muestra el modelo de planificación estatal chino: Xi dirige cooperación en sectores estratégicos (infraestructura, minería, energía, finanzas) vía la Franja y la Ruta. Contraste con la caracterización de 'libre mercado puro'.",
+              "host": "spanish.xinhuanet.com",
+              "title": "Xi insta a China y Ecuador a fortalecer el alineamiento de las estrategias de desarrollo",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "economia",
+          "claim": "Se afirma que la destrucción de Venezuela, Cuba y la decadencia argentina año tras año son ejemplos de peores resultados.",
+          "quote": "cualquiera que vivió la destrucción de Venezuela, que vivió Cuba o incluso ver la decadencia argentina, año tras año, era peor, peor, peor, peor",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La descripción de crisis económica grave en Venezuela y Cuba está respaldada por las fuentes: hiperinflación, colapso del abastecimiento y pobreza masiva en Venezuela, y apagones de hasta 20 horas, escasez de combustible y contracción económica en Cuba [F1][F3][F4]. Sin embargo, la lectura lineal de 'decadencia año tras año, peor, peor, peor' queda matizada: las fuentes también documentan una recuperación parcial en Venezuela desde 2021 (inflación del 1%, abastecimiento del 98%, crecimiento del PIB superior al 8%), y la afirmación sobre Argentina 'año tras año' no tiene respaldo en las fuentes entregadas [F1].",
+          "context": "Venezuela: en 2018 el PIB se contrajo 19,6%, la hiperinflación fue del 130.060%, el 91% de la población era pobre (75% en pobreza extrema) y el abastecimiento estaba al 30%; tras una caída acumulada de más del 70% del PIB entre 2013 y 2020, desde 2021 hay mejoras: inflación del 1% (más baja desde 2012), abastecimiento del 98%, pobreza general en 82,8% y extrema en 50,5%, y crecimiento previsto superior al 8% en 2024, aunque el salario mínimo pasó de unos 14 dólares mensuales en 2018 a unos 3,5 dólares en 2024 [F1]. Cuba: tercer apagón nacional de alcance nacional en 2026, apagones programados de hasta y más de 20 horas diarias, inflación oficial interanual del 28,44% en septiembre (con estimación independiente de cifras de tres dígitos en el mercado informal), contracción económica acumulada superior al 15% entre 2020 y 2025 y proyección de la CEPAL de una caída del 10,3% del PIB en 2026, la mayor de la región [F2][F3][F4]. No se entrega ninguna fuente sobre Argentina, por lo que esa parte de la afirmación queda sin evidencia en este ejercicio.",
+          "progressivePerspective": "En términos de rigor factual, el sufrimiento descrito es real y su reconocimiento es legítimo: las fuentes confirman situaciones de grave carencia para millones de personas en Venezuela y Cuba [F1][F3][F4]. Pero una lectura ética de los hechos exige también señalar las causas que las propias fuentes documentan: la crisis cubana se explica por factores internos (políticas económicas y monetarias, pandemia, infraestructura envejecida) y externos (endurecimiento de sanciones estadounidenses y cerco petrolero), y el gobierno mexicano llega a calificar esas sanciones de 'muy injustas' por su impacto en la población [F2][F3][F4]. Igualmente, presentar a Venezuela solo como 'destrucción' omite la recuperación parcial registrada desde 2021 en inflación, abastecimiento y pobreza extrema, sin que ello signifique negar la gravedad de la pobreza vigente (82,8% general y 50,5% extrema) [F1]. Sostener que Argentina es 'peor, peor, peor' año tras año sin fuente alguna convierte una proposición verificable en opinión no contrastable. El esclarecimiento de la verdad —cualquiera que sea el marco— se sirve de datos completos y de sus causas, no de la constatación de la miseria usada únicamente como argumento contra una idea, ya que esto puede instrumentalizar el dolor de las víctimas en lugar de atender a sus causas y a su reparación [F1][F4].",
+          "whatTheyOmit": "Omite las causas que las fuentes atribuyen a la crisis cubana: sanciones y cerco petrolero de Estados Unidos junto a factores internos estructurales y la pandemia [F2][F3][F4]. Omite la recuperación parcial de Venezuela desde 2021: inflación del 1%, abastecimiento del 98%, crecimiento del PIB superior al 8% y descenso de la pobreza extrema de 75% a 50,5% [F1]. Omite que en Venezuela sigue habiendo pobreza general del 82,8% y un salario mínimo de unos 3,5 dólares mensuales, dato que matiza tanto el optimismo como el destruccionismo total [F1]. No aporta ninguna fuente sobre Argentina, por lo que la 'decadencia año tras año' queda sin sustento documental en las fuentes entregadas.",
+          "keyFacts": [
+            "Venezuela en 2018: contracción del PIB del 19,6%, hiperinflación del 130.060%, 91% de pobreza general y 75% de pobreza extrema, con abastecimiento del 30% [F1]",
+            "Venezuela en 2024: inflación del 1% (más baja desde 2012), abastecimiento del 98%, pobreza general del 82,8% y extrema del 50,5%, y crecimiento previsto del PIB superior al 8% tras caída acumulada de más del 70% entre 2013 y 2020 [F1]",
+            "El salario mínimo venezolano pasó de unos 14 dólares mensuales en 2018 a unos 3,5 dólares en 2024, a pesar de los ajustes [F1]",
+            "Cuba registró en 2026 su tercer apagón nacional, con cortes de hasta más de 20 horas diarias en algunas regiones, y avisó a aerolíneas de quedarse sin combustible para aviación [F2][F3]",
+            "La inflación interanual oficial en Cuba fue del 28,44% en septiembre, con estimación independiente de tres dígitos en el mercado informal [F4]",
+            "La economía cubana acumuló una contracción superior al 15% entre 2020 y 2025 y la CEPAL proyecta una caída del 10,3% del PIB en 2026, la mayor de la región [F4]",
+            "Las fuentes atribuyen la crisis cubana a factores internos (políticas económicas y monetarias, pandemia, red eléctrica) y externos (endurecimiento de sanciones estadounidenses y restricciones al suministro de petróleo) [F2][F3][F4]",
+            "No hay fuente alguna en el material entregado que respalde la afirmación sobre la 'decadencia argentina año tras año' [F1][F2][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/mundo/venezuela/diez-claves-de-la-economia-de-venezuela-desde-el-2018-vs-2024-para-las-elecciones-3366278",
+              "note": "Compara la economía venezolana entre 2018 y 2024: confirma la crisis extrema de 2018 (hiperinflación, pobreza, desabastecimiento) y documenta mejoras parciales desde 2021, matizando la lectura de destrucción permanente; también muestra que la pobreza y el salario mínimo siguen en niveles críticos.",
+              "host": "eltiempo.com",
+              "title": "Evolución económica de Venezuela: un análisis comparativo entre 2018 Vs. 2024",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/07/26/66a40cdd25e74.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.vanguardia.com/mundo/2026/02/10/la-crisis-en-cuba-apagones-historicos-y-escasez-de-combustible-para-la-aviacion/",
+              "note": "Documenta la crisis energética y de combustible de Cuba y su atribución a sanciones estadounidenses, con el contraste de la posición mexicana que califica esas sanciones de 'injustas' por su impacto en la población.",
+              "host": "vanguardia.com",
+              "title": "La crisis en Cuba: apagones históricos y escasez de combustible para la aviación",
+              "image": "https://www.vanguardia.com/resizer/v2/WERVKAQZSZHXJAQAXTM5JOWKB4.jpg?auth=21d577f248f51b09e6e6e981d52f2754c24e7184aa7d0aa21913095e846bf7e8&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.ntn24.com/noticias-actualidad/cuba-colapso-energetico-escasez-combustible-electricidad-631392",
+              "note": "Detalla el colapso eléctrico cubano, apagones de hasta más de 20 horas, y explica las causas mixtas: red envejecida, dificultades de importación de petróleo y restricciones externas; aporta el dato de familias sobreviviendo con ~60 dólares al mes.",
+              "host": "ntn24.com",
+              "title": "Cuba enfrenta un colapso energético mientras se agrava la escasez de combustible y electricidad | NTN24.COM",
+              "image": "https://intn24.lalr.co/cms/2026/05/04162444/Apagon-Cuba-Foto-AFP.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.infobae.com/cuba/2026/10/15/la-inflacion-interanual-oficial-crecio-en-cuba-y-se-situo-en-septiembre-en-el-2844-pero-la-cifra-real-puede-ser-mucho-mayor/",
+              "note": "Cifras de inflación, contracción económica 2020-2025 y proyección CEPAL 2026 para Cuba, con desglose de causas internas y externas; permite dimensionar la magnitud real de la crisis sin caer en la mera anécdota.",
+              "host": "infobae.com",
+              "title": "La inflación interanual oficial creció en Cuba y se situó en septiembre en el 28,44%, pero la cifra real puede ser mucho mayor",
+              "image": "https://www.infobae.com/resizer/v2/CRJHKRNOCR4AUKLBUP3UL6QIMQ.jpg?auth=dbb1ec8f066b5c33bd86adae59c25c0508b14f9de9213db2bcd90ed8122e118f&smart=true&width=1200&height=630&quality=85"
             }
           ]
         }
