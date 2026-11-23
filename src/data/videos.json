@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:34:12",
+  "generatedAt": "2026-11-22T20:06:10",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -17780,6 +17780,876 @@
               "host": "infobae.com",
               "title": "La inflación interanual oficial creció en Cuba y se situó en septiembre en el 28,44%, pero la cifra real puede ser mucho mayor",
               "image": "https://www.infobae.com/resizer/v2/CRJHKRNOCR4AUKLBUP3UL6QIMQ.jpg?auth=dbb1ec8f066b5c33bd86adae59c25c0508b14f9de9213db2bcd90ed8122e118f&smart=true&width=1200&height=630&quality=85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "14k-views-1-6k-reactions-tulio-enrique-londono-castro-on-reels",
+      "title": "14K views · 1.6K reactions | Tulio Enrique Londono Castro on Reels",
+      "uploader": "Tulio Enrique Londono Castro",
+      "url": "https://m.facebook.com/watch/?v=1878509823274360&_rdr",
+      "duration": 123.927,
+      "thumbnail": "/media/14k-views-1-6k-reactions-tulio-enrique-londono-castro-on-reels/thumb.jpg",
+      "conclusion": "## Un video que yuxtapone datos verificados para sostener una tesis que ellos no sostienen\n\nEl material construye una narrativa de impunidad total: la idea de que la justicia colombiana se congeló durante cuatro años, que ningún proceso de corrupción del gobierno anterior avanzó, que funcionarios específicos perciben cifras astronómicas por inacción, y que la respuesta al «Libro de la Veridad» fue simplemente declarar que todo es mentira. La percepción que esto genera en el espectador es la de un sistema institucional en parálisis absoluta, donde los datos incómodos se ignoran y los responsables reciben salarios desmesurados sin rendir cuentas.\n\nParte de esa narrativa sí tiene base real. El «Libro de la Veridad» existe: es un documento de 135 páginas, resumen del Empalme Anticorrupción, entregado a Fiscalía, Contraloría y Procuraduría. El magnicidio de Miguel Uribe Turbay es un hecho documentado con siete condenas firmes. La frase del procurador Eljach —«porque no iba a haber» elecciones— fue pronunciada textualmente. Y existe un fondo de lentitud estructural verificable: según el mapa de impunidad de 2023, solo el 6% de 57.500 denuncias por corrupción terminó en condena y el 77% permanece en indagación. Estos datos son ciertos y relevantes.\n\nEl problema empieza cuando esos mismos datos se usan para sostener afirmaciones categóricas que las fuentes contradicen o no permiten evaluar. Aquí está el punto de quiebre preciso: cuando el video pasa de «hay lentitud estructural y casos sin resolver» a «ningún proceso avanzó». Ese «ningún» es falso —hay capturas en una red de la Armada, 24 investigaciones del caso UNGRD en etapa de juicio, y una investigación por contratación de la Policía—. De ahí en adelante, la narrativa deja de descansar en hechos y pasa a descansar en acumulación: once de quince afirmaciones centrales quedan sin evidencia verificable (los salarios de la fiscal y el procurador, los cuatro años de congelamiento, los alias «Remolacho», «Sarnavia» y «Danielito ratero», la cobertura total del libro).\n\nEl contexto que falta es decisivo: la distinción entre lentitud y parálisis absoluta, la diferencia entre hallazgos de un empalme político y sentencias judiciales (los propios autores del libro aclaran que no es una sentencia), la falta de denominador en cifras salariales que nunca se especifica si corresponden a asignación básica o costo total, y la ausencia de periodos precisos en la supuesta congelación procesal.\n\nUna interpretación más completa sería esta: Colombia enfrenta una lentitud judicial estructural y documentada en casos de corrupción, existe un compendio político-institucional de señalamientos que deben ser determinados por los órganos de control, y hay funcionarios con remuneraciones altas sujetas a debate presupuestal. Nada de eso equivale a un congelamiento total ni a una impunidad absoluta, pero es exactamente la impresión que produce la forma en que el video presenta sus datos.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "politica",
+          "claim": "Ningún proceso de corrupción relacionado con el anterior desgobierno avanzó.",
+          "quote": "ningún proceso de corrupción que tuviera que ver con el anterior desgobierno avanzó",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "media",
+          "summary": "La afirmación es absoluta («ningún proceso avanzó») y es contradicha por las fuentes: hay al menos tres casos de investigaciones por corrupción que sí avanzaron —capturas en una red de la Armada [F1], 24 investigaciones del caso UNGRD reorganizadas y próximas a etapa de juicio [F2] y una investigación por contratación de la Policía en la que rinde declaración un exdirector [F3]. Existe un fondo real de lentitud estructural (solo el 6 % de denuncias por corrupción terminó en condena en el mapa de impunidad de 2023) [F4], lo que respalda una versión mucho más débil y matizada del reclamo, pero no el «ningún» categórico. La confianza es media porque las fuentes no permiten determinar con precisión a qué administración concreta se refiere «el anterior desgobierno» ni establecer la conexidad de cada caso con esa administración.",
+          "context": "Según el mapa de impunidad de la Secretaría de Transparencia de la Presidencia (2023), de 57.500 denuncias por corrupción radicadas en 12 años solo el 6 % terminó en condena, el 89 % no registra capturas y el 77 % permanece en etapa de indagación; en 2022 solo el 0.96 % terminó en sentencia [F4]. En 2024 se expidieron más de un millón de noticias criminales, de las cuales 7.900 (0.5 %) terminaron por principio de oportunidad, casi 200 por delitos contra la administración pública [F4]. En contraste, la investigación de la Fiscalía por contratación irregular en la Armada (septiembre de 2023 a mayo de 2025) dejó cinco capturados y 11 contratos irregulares por más de 4.400 millones de pesos [F1], y el caso UNGRD fue reorganizado en septiembre de 2026 con 24 investigaciones «próximas a entrar en etapa de juicio» [F2]. También hay casos en los que beneficiarios de justicia negociada volvieron a licitar con el Estado, como Emilio Tapia, condenado en el carrusel de contratación de Bogotá y señalado en 2026 de intentar participar en licitaciones [F4].",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición, una afirmación categórica de que «ningún proceso avanzó» tiene un doble efecto: por un lado, sintetiza un reclamo legítimo sobre la lentitud y la baja eficacia de la persecución de la corrupción, respaldado por datos como el 6 % de condenas y el 77 % de casos estancados en indagación [F4]; por otro, al negar en bloque todo avance, obscurece hechos verificables que sí constituyen esclarecimiento parcial —capturas, interceptaciones determinantes y procesos que entran en etapa de juicio [F1][F2][F3]— y puede desincentivar el reconocimiento de responsabilidades individuales, que es justo lo que sostiene la impunidad: si ningún proceso avanza, ningún responsable individual resulta identificable. Desde la lógica de no repetición, el dato útil no es la negación universal sino el detalle: quiénes fueron capturados, qué mecanismos se usaron (manipulación de pliegos, sobornos por porcentaje, principios de oportunidad mal calibrados) y qué fallas institucionales permitieron que casos como el de Emilio Tapia reincidieran y siguieran contratando con el Estado [F1][F4]. También cabe notar que la justicia negociada —principio de oportunidad y preacuerdos— es presentada por expertos como estructuralmente problemática por no reparar a las víctimas ni inhabilitar para volver a licitar [F4], cuestión directamente vinculada con la reparación y la no repetición. La concesión de asilo a un exmandatario extranjero condenado por lavado de dinero, que luego celebró públicamente su libertad en Bogotá, es un caso adicional de beneficio sin consecuencias punitivas [F5].",
+          "whatTheyOmit": "Se omiten los procesos que sí avanzaron: la red de corrupción en contratos de la Armada con cinco capturados y 11 contratos irregulares [F1]; la reorganización de 24 investigaciones del caso UNGRD hacia «etapas procesales decisivas» y la entrada de la Dirección Especializada contra la Corrupción al grupo de tareas [F2]; y la investigación por contratación de la Policía en la que un exdirector pide investigar la conexidad entre presunta corrupción contractual y un homicidio [F3]. También se omiten los matices de magnitud: el mismo estudio de impunidad muestra que la lentitud es estructural y mayoritaria, pero no total —hubo condenas y principios de oportunidad aplicados en casos de administración pública [F4]—. Finalmente, se omite la distinción entre que un proceso no avance rápidamente y que no avance en absoluto, y no se precisa a qué administración se atribuye «el anterior desgobierno», lo que hace imposible evaluar la conexidad de cada caso con ese gobierno a partir de las fuentes disponibles [F1][F2][F3][F4].",
+          "keyFacts": [
+            "La Fiscalía desmanteló una presunta red de corrupción en contratos de la Armada con cinco personas capturadas y al menos 11 contratos adjudicados de manera irregular entre septiembre de 2023 y mayo de 2025, por más de 4.400 millones de pesos [F1]",
+            "La Fiscalía reorganizó 24 investigaciones del caso UNGRD en septiembre de 2026, algunas «próximas a entrar en etapa de juicio», incorporando a la Dirección Especializada contra la Corrupción al grupo de tareas [F2]",
+            "Existe una investigación paralela por contratación de la Policía Nacional (2023-2024) en la que rindió declaración el exdirector William Rincón, quien denunció un presunto monopolio contractual [F3]",
+            "Según el mapa de impunidad de 2023, de 57.500 denuncias por corrupción en 12 años solo el 6 % terminó en condena y el 77 % permanece en etapa de indagación [F4]",
+            "Entre 2010 y 2023 el principio de oportunidad creció 1.137 %, los casos por corrupción corresponden al 5 % de ese total y los jueces de control de garantías solo negaron el 8 % de ese beneficio [F4]",
+            "Emilio Tapia, condenado en 2015 por el carrusel de contratación de Bogotá, obtuvo beneficios que redujeron su pena, reincidió en el caso Centros Poblados y fue condenado de nuevo en diciembre de 2024, tras lo cual recuperó la libertad [F4]",
+            "Ricardo Martinelli, exmandatario de Panamá condenado a casi 11 años por lavado de dinero, recibió asilo político en Colombia y celebró públicamente su libertad en Bogotá [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://seguimiento.co/index.php/colombia/fiscalia-destapa-millonaria-trama-de-corrupcion-en-contratos-de-la-armada-79233",
+              "note": "Muestra un proceso de corrupción que sí avanzó: cinco capturados, 11 contratos irregulares y pesquisas con interceptaciones en la Armada (2023-2025). Contradice el «ningún proceso avanzó».",
+              "host": "seguimiento.co",
+              "title": "Fiscalía destapa millonaria trama de corrupción en contratos de la Armada",
+              "image": "https://seguimiento.co/sites/default/files/2025/05/23/articulo/seguimiento.co_-_2025-05-23t152236.629.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/09/18/fiscalia-redistribuye-investigaciones-por-corrupcion-en-la-ungrd-y-fortalece-equipo-especial/",
+              "note": "Muestra 24 investigaciones del caso UNGRD en etapas decisivas y próximas a juicio, con reorganización institucional. Contradice la afirmación absoluta.",
+              "host": "caracol.com.co",
+              "title": "Fiscalía redistribuye investigaciones por corrupción en la UNGRD y fortalece equipo especial",
+              "image": "https://caracol.com.co/resizer/v2/ZUANIFEGJNAF5CEXZAMYSY6DTI.jpg?auth=d2372c5fccbe32fe6ef736e1d95b2a32e4686f7f921343d953b40f8c1cd379c2&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://cambiocolombia.com/personajes/articulo/2026/11/general-william-rincon-pide-a-la-fiscalia-investigar-si-la-corrupcion-en-la-policia-se-conecta-con-el-crimen-de-su-hijo",
+              "note": "Muestra una investigación activa por contratación de la Policía (2023-2024) con declaración rendida ante la Fiscalía y una auditoría de la Contraloría. Aporta además un caso donde presunta corrupción se relaciona con un homicidio.",
+              "host": "cambiocolombia.com",
+              "title": "General William Rincón pide a la Fiscalía investigar si la corrupción en la Policía se conecta con el crimen de su hijo",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/images_6_3dd706aede_full-width.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.semana.com/nacion/articulo/herramienta-contra-el-crimen-o-puerta-a-la-impunidad-los-casos-que-sacuden-los-beneficios-judiciales-en-colombia/202654/",
+              "note": "Aporta la magnitud real de la impunidad en corrupción (6 % de condenas, 77 % en indagación), críticas al principio de oportunidad y casos de reincidencia como Emilio Tapia. Es la fuente que da fundamento parcial al reclamo del video, pero en versión matizada, no absoluta.",
+              "host": "semana.com",
+              "title": "¿Herramienta contra el crimen o puerta a la impunidad? Los casos que sacuden los beneficios judiciales en Colombia",
+              "image": "https://www.semana.com/resizer/v2/R4IQ2AJ3CVBIJDI6DTJDQVOIAU.jpeg?auth=2e1e2614a64228e9ad4060432b19ba8461f355c61cae428c473dff8c6f654ea5&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/video-ricardo-martinelli-expresidente-panama-de-fiesta-en-bogota-tras-asilo-politico-IB27379212",
+              "note": "Contraste: un exmandatario extranjero condenado por lavado de dinero recibió asilo y celebró su libertad en Colombia. Ilustra beneficios sin consecuencias punitivas, sin relación directa con procesos de «el anterior desgobierno».",
+              "host": "elcolombiano.com",
+              "title": "Video | Martinelli, condenado por corrupciÃ³n, estÃ¡ de fiesta en fiesta celebrando su asilo en Colombia",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/GNCF/martinelliec_47849156_20250512162412.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "economia",
+          "claim": "El fiscal mencionado percibe casi 25 palos mensuales.",
+          "quote": "la fiscal morronguera que se gana casi 25 palos al mes por hacerse la de la oreja mocha",
+          "figures": [
+            "casi 25 palos al mes"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes entregadas menciona a la fiscal aludida ni confirma que perciba 'casi 25 palos' mensuales: el dato específico no es verificable con el material disponible [F1]. Las fuentes solo permiten situar la cifra dentro de un rango posible de altas remuneraciones públicas, sin confirmarla ni refutarla para ese caso concreto [F1].",
+          "context": "Como referencia de magnitud, el costo mensual promedio de un empleado público del orden nacional para el Estado es de $11,6 millones, con una asignación básica promedio de $4,9 millones entre los 677.748 empleados; los cargos mejor pagados registrados en el anteproyecto presupuestal de 2024 van desde el Subsecretario General del Senado ($89,2 millones) hasta el Fiscal General de la Nación ($55,3 millones) en salario total mensual [F1]. Además, las cifras que suelen circular en redes corresponden solo a la asignación básica, que representa cerca del 40% del gasto total por funcionario, según aclaró el Observatorio Fiscal de la Pontificia Universidad Javeriana [F1]. Para dimensionar el contexto salarial general, el salario mínimo vigente es de $1.750.905 y el debate para 2027 oscila entre un 8% y un 38,5% [F2][F3][F4].",
+          "progressivePerspective": "A la luz de los criterios de verdad, reparación y no repetición que orientan el análisis de responsabilidades en el sistema de justicia, una afirmación salarial sobre una funcionaria pública debería sustentarse en datos verificables para contribuir al esclarecimiento y no a la descalificación personal: las propias fuentes muestran que los montos de nómina pública sí son auditables y publicables por el Observatorio Fiscal, por lo que atribuir una cifra concreta sin fuente resta credibilidad al cuestionamiento legítimo sobre el gasto público [F1]. También conviene distinguir el hecho comprobable (cuánto se gana) de la valoración subjetiva ('hacerse la de la oreja mocha'), que es opinión y no dato, y que puede recaer sobre una persona individual sin sustento documental en el material revisado [F1].",
+          "whatTheyOmit": "El video no aporta fuente documental (resolución, nómina, declaración de renta, derecho de petición) que permita identificar a la funcionaria ni verificar los 'casi 25 palos' mensuales; las fuentes disponibles solo ofrecen datos agregados o de altos cargos, no de esa fiscal en particular [F1]. Tampoco se aclara si la cifra correspondería a asignación básica o a remuneración total, distinción que el Observatorio Fiscal señala como decisiva, ya que la asignación básica es apenas el 40% del gasto total por funcionario [F1].",
+          "keyFacts": [
+            "El costo mensual promedio de un empleado público del orden nacional para el Estado asciende a $11,6 millones, y la asignación básica promedio de los 677.748 empleados es de $4,9 millones [F1]",
+            "Entre los cargos con mayor salario mensual total del anteproyecto presupuestal de 2024 figuran el Fiscal General de la Nación ($55,3 millones) y el Presidente de la República ($57,1 millones) [F1]",
+            "Las cifras de salarios que circulan en redes suelen corresponder solo a la asignación básica, que representa alrededor del 40% del gasto total por funcionario [F1]",
+            "Ninguna fuente entregada identifica a la fiscal mencionada ni confirma su remuneración mensual [F1]",
+            "El salario mínimo vigente es de $1.750.905 y la negociación para 2027 plantea aumentos entre 8% y 38,5% [F2][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://pluralidadz.com/politica/cuanto-gana-de-verdad-un-empleado-publico-en-colombia/",
+              "note": "Aporta datos agregados de nómina pública del orden nacional y aclaración del Observatorio Fiscal sobre asignación básica frente a salario total; no menciona a la fiscal aludida ni su remuneración específica, por lo que el dato concreto queda sin confirmar ni refutar",
+              "host": "pluralidadz.com",
+              "title": "Cuánto gana de verdad un empleado público en Colombia",
+              "image": "https://pluralidadz.com/wp-content/uploads/2026/11/cuanto-gana-de-verdad-un-empleado-publico-en-colombia.webp"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.pulzo.com/economia/empresas-pagarian-4-millones-por-cada-salario-minimo-colombia-analisis-PP5361497",
+              "note": "Contexto salarial y costos laborales en Colombia (salario mínimo $1.750.905 y propuestas de alza); no trata de remuneración de funcionarias públicas",
+              "host": "pulzo.com",
+              "title": "Cifra de $ 4 millones por salario mínimo en Colombia enciende alarmas en empresas: susto ante cambio",
+              "image": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5361497-h-o.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/negocios/salario-minimo-colombia-cuanto-sube-aumento-siglo-xxi-JG43671855",
+              "note": "Serie histórica del salario mínimo desde 2000 y efectos de su aumento; aporta escala general, no datos de la fiscal mencionada",
+              "host": "elcolombiano.com",
+              "title": "Â¿CuÃ¡nto subiÃ³ el salario mÃnimo en Colombia desde el 2000? PasÃ³ de $260.100 a $1,75 millones",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x627/0c0/0d0/none/11101/RWHR/salario-minimo-gastos-colombia-46613_52154901_20261117120319.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/aumento-del-salario-minimo-2027-propuestas-van-del-8-al-38-505643",
+              "note": "Propuestas de aumento del salario mínimo 2027 y compromisos de nómina pública; no referencia la remuneración de la funcionaria aludida",
+              "host": "portafolio.co",
+              "title": "Aumento del salario mínimo en Colombia para 2027: las propuestas de ajuste van desde el 8% al 38,5%",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/12/30/69544c656044d.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "economia",
+          "claim": "El procurador mencionado percibe 64 millones de pesos mensuales.",
+          "quote": "se gana 64 millones de pesos al mes por hacerse el marica",
+          "figures": [
+            "64 millones de pesos al mes"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes confirma que el Procurador General de la Nación perciba 64 millones de pesos mensuales. El dato salarial más cercano disponible corresponde a otros cargos distintos al procurador. La expresión 'por hacerse el marica' es una valoración subjetiva del autor, no un hecho verificable [F1][F2][F3][F4].",
+          "context": "Según el Observatorio Fiscal de la Pontificia Universidad Javeriana, el cargo con mayor salario total en el anteproyecto presupuestal de 2024 fue el Subsecretario General del Senado ($89,2 millones), seguido del Director General del Congreso ($65,7 millones), el Presidente de la República ($57,1 millones) y el Fiscal General de la Nación ($55,3 millones). No se incluye el salario del Procurador General entre los cargos de mayor remuneración listados. La asignación básica promedio de los 677.748 empleados del orden nacional es de $4,9 millones mensuales, y la mitad gana menos de $3,7 millones. Gregorio Eljach es el actual Procurador General de la Nación, quien fue secretario del Senado antes de ocupar el cargo [F1][F2][F3][F4].",
+          "progressivePerspective": "La cifra de 64 millones de pesos mensuales no está respaldada por ninguna de las fuentes entregadas, por lo que no puede confirmarse ni descartarse con los datos disponibles. Sin embargo, el dato no se ofrece con fines de esclarecimiento institucional sino acompañado de una expresión despectiva ('hacerse el marica'), lo cual tiende a deslegitimar al funcionario mediante el insulto en lugar de construir una crítica sustentada en datos verificables. En un ejercicio de rendición de cuentas legítimo, la pregunta sobre el salario del Procurador sería pertinente, pero debe sustentarse en cifras documentadas y contrastadas, como las que ofrece el Observatorio Fiscal para otros altos cargos. El marco de verdad y transparencia exige distinguir entre lo comprobable y lo que es mera invectiva [F1][F3].",
+          "whatTheyOmit": "El video no aporta la fuente de la cifra de 64 millones, ni especifica a qué concepto salarial se refiere (asignación básica, salario total con primas y gastos de representación, o costo total para el Estado). Omite que el Observatorio Fiscal distingue entre asignación básica (40% del gasto) y salario total (con primas y beneficios), lo cual cambia significativamente cualquier cifra. Tampoco contextualiza el dato con la magnitud real del salario de otros altos cargos nacionales que sí están documentados [F1].",
+          "keyFacts": [
+            "Gregorio Eljach es el Procurador General de la Nación, posesionado en 2025 [F2][F3][F4]",
+            "El cargo de mayor salario total en 2024 fue el Subsecretario General del Senado con $89,2 millones mensuales [F1]",
+            "El Director General del Congreso percibía $65,7 millones mensuales en salario total según el anteproyecto presupuestal de 2024 [F1]",
+            "El Fiscal General de la Nación percibía $55,3 millones mensuales en salario total en 2024 [F1]",
+            "Ninguna fuente confirma que el Procurador General gane 64 millones de pesos mensuales [F1][F2][F3][F4]",
+            "La asignación básica promedio de empleados públicos del orden nacional es de $4,9 millones mensuales, y la mitad gana menos de $3,7 millones [F1]",
+            "La frase 'por hacerse el marica' es una expresión valorativa y despectiva del autor, no un dato verificable [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://pluralidadz.com/politica/cuanto-gana-de-verdad-un-empleado-publico-en-colombia/",
+              "note": "Datos salariales de altos cargos públicos en Colombia 2024, no incluye el salario específico del Procurador General; aporta el rango de referencia y la distinción entre asignación básica y salario total",
+              "host": "pluralidadz.com",
+              "title": "Cuánto gana de verdad un empleado público en Colombia",
+              "image": "https://pluralidadz.com/wp-content/uploads/2026/11/cuanto-gana-de-verdad-un-empleado-publico-en-colombia.webp"
+            },
+            {
+              "ref": "F2",
+              "url": "https://seguimiento.co/index.php/colombia/corte-suprema-de-justicia-presenta-candidatos-nuevo-jefe-de-la-procuraduria-73553",
+              "note": "Contexto de la elección del Procurador; menciona a Gregorio Eljach como candidato, entonces secretario del Senado; no aporta datos salariales",
+              "host": "seguimiento.co",
+              "title": "Corte Suprema de Justicia presenta candidatos a nuevo jefe de la Procuraduría",
+              "image": "https://seguimiento.co/sites/default/files/2024/07/15/articulo/seguimiento_98.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://caracol.com.co/2025/12/05/procurador-general-de-la-nacion-asegura-en-pereira-que-las-elecciones-de-2026-estan-garantizadas/",
+              "note": "Confirma a Gregorio Eljach como Procurador General de la Nación en funciones; no aporta información salarial",
+              "host": "caracol.com.co",
+              "title": "Procurador General de la Nación asegura en Pereira que las elecciones de 2026 están garantizadas",
+              "image": "https://caracol.com.co/resizer/v2/JZAYSXFITRAPLIHRN47TEGY2IE.jpeg?auth=e5867865d4cfc7eda043a049acbf22b914a96243bd756fbf11ccc506b1df6a0d&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.wradio.com.co/2025/12/15/se-posesiono-julian-andres-fernandez-como-nuevo-viceprocurador-general-de-la-nacion/",
+              "note": "Confirma a Gregorio Eljach como Procurador General; no aporta datos salariales",
+              "host": "wradio.com.co",
+              "title": "Se posesionó Julián Andrés Fernández como nuevo viceprocurador general de la Nación",
+              "image": "https://www.wradio.com.co/resizer/v2/UCB32NXWDFBXVA6H2WNFLZHJHI.png?auth=b585ac2e12d6ee8fe98dcc8dbd0a5b56661bde186727b7fcb88e1ffd04579f1f&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/negocios/consejo-estado-suspende-decreto-1485-deslizamiento-salario-minimo-pensiones-KF43754259",
+              "note": "Sobre decreto de deslizamiento salarial y pensiones; no aporta información sobre salarios de funcionarios públicos",
+              "host": "elcolombiano.com",
+              "title": "Consejo de Estado suspendiÃ³ decreto sobre el salario mÃnimo que afectaba pago de algunas pensiones",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/OYBV/bdinero-4_52169925_20261118164132.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "El procurador habría dicho recientemente que no iba a haber elecciones.",
+          "quote": "el careplasta del procurador que recién ahorita salió con el cuento de que no iban a ver elecciones",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero engañoso",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El procurador general Gregorio Eljach sí pronunció públicamente esa frase: 'Prevenir fue adelantar exitosamente el programa de Paz Electoral que permitió... que hubiera elecciones en Colombia porque no iba a haber', según El Tiempo [F5]. El dato es verificable; lo que el video agrega ('cuento') es calificación de opinión, no hecho [F5].",
+          "context": "Eljach hizo el comentario en un evento en Bogotá, de forma retrospectiva y atribuyendo el éxito al programa 'Paz Electoral' (Procuraduría, Contraloría y Registraduría, lanzado desde 2025), sin precisar la situación concreta que habría impedido los comicios [F5]. Las elecciones de primera vuelta se realizaron el 31 de mayo de 2026 con alta participación y la segunda vuelta quedó programada para el 21 de junio de 2026 entre Abelardo de la Espriella e Iván Cepeda [F1]. Previamente, el propio Eljach había asegurado que 'habrá elecciones democráticas en Colombia y que se garantizará el régimen constitucional' [F4], y tras la jornada visitó los equipos escrutadores en Corferias para verificar el conteo [F1]. También presentó balance de investigaciones disciplinarias por participación indebida en política en una cumbre internacional de instituciones de control [F2].",
+          "progressivePerspective": "No se trata de un video sobre el conflicto armado ni la JEP, por lo que el marco aplicable es el de verificación de datos y responsabilidad institucional. Se constata que la cita existió: ahí sí abona al esclarecimiento de un hecho público verificable [F5]. Sin embargo, la afirmación del propio procurador es una atribución de mérito sin sustento explicativo: admite él mismo que no señaló qué situación concreta arriesgó el calendario electoral [F5], lo que deja sin verificar el fondo de lo que dice. Desde una lectura de transparencia, una afirmación de esa magnitud ('no iba a haber elecciones') exigiría al funcionario precisar evidencias y cronología, y la omisión resta valor probatorio a su propia versión [F5]. La frase, dicha por el titular del Ministerio Público en clave de autogratulación institucional, contrasta con el tono del video, que la presenta como manipulación ('cuento'), calificación que las fuentes no respaldan ni desmienten [F5].",
+          "whatTheyOmit": "Se omite que la frase fue retrospectiva y de autocomplacencia por el programa 'Paz Electoral', que Eljach no explicó qué riesgo concreto existía, que antes había garantizado públicamente que habría elecciones [F4], y que los comicios se realizaron con normalidad y alta participación el 31 de mayo de 2026 [F1]. También se omite el contexto de que el mismo funcionario había abierto investigaciones por participación indebida en política y sanciones provisionales durante la jornada [F1][F3][F2].",
+          "keyFacts": [
+            "Eljach dijo textualmente: '...permitió... que hubiera elecciones en Colombia porque no iba a haber' [F5]",
+            "Eljach no precisó durante su intervención qué situación concreta habría impedido la realización de los comicios [F5]",
+            "Las elecciones presidenciales de primera vuelta se realizaron el 31 de mayo de 2026 y la segunda vuelta se prevé para el 21 de junio de 2026 [F1]",
+            "Antes del proceso, Eljach había asegurado que habría elecciones democráticas y que se garantizaría el régimen constitucional [F4]",
+            "Eljach presentó balance de investigaciones disciplinarias por participación indebida en política el 9 de junio de 2026 [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.infobae.com/colombia/2026/05/31/elecciones-en-colombia-2026-en-vivo-reporte-de-orden-publico-apertura-de-mesas-y-noticias-relevantes-hoy-31-de-mayo/",
+              "note": "Confirma que las elecciones se realizaron el 31 de mayo de 2026, con alta participación, finalistas De la Espriella y Cepeda, y visita de Eljach a los escrutinios; contraste con la afirmación de riesgo de no haber comicios.",
+              "host": "infobae.com",
+              "title": "Elecciones en Colombia 2026: Con llamado a debate y posibles amenazas de fraude, Iván Cepeda y Abelardo de la Espriella se vuelven a enfrentar",
+              "image": "https://www.infobae.com/resizer/v2/FLUTIHQ3NNHINHPZGOSV2T7FUA.png?auth=19ec49fe4c43a0ac062ee59900db6c92733ce8e4981149a261e7ab9793d0e679&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.semana.com/nacion/articulo/procurador-general-presento-balance-por-las-investigaciones-disciplinarias-contra-funcionarios-por-participacion-indebida-en-politica/202656/",
+              "note": "Balance del procurador Eljach sobre investigaciones disciplinarias y debido proceso; aporta el rol institucional del funcionario citado.",
+              "host": "semana.com",
+              "title": "Elecciones 2026: Procurador General presentó balance por investigaciones a funcionarios públicos",
+              "image": "https://www.semana.com/resizer/v2/UJA52QSEOFAF7HMOXCFASU7FD4.jpeg?auth=e45e6e1b1e04f1b16af681a285e91ba87f549bb91ca379531b4e4df3d0c644f2&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elespectador.com/politica/elecciones-presidenciales-en-colombia-2026-en-vivo-como-van-las-votaciones/",
+              "note": "Describe la jornada electoral y la investigación de la Procuraduría contra el ministro de Trabajo por participación en política.",
+              "host": "elespectador.com",
+              "title": "Elecciones presidenciales en Colombia 2026: así se vivió la primera parte de la jornada",
+              "image": "https://www.elespectador.com/wp-content/uploads/elespectador/BFQ7GHQVA5GOTCFJXQQWU3JAP4.jpeg?quality=60&w=1024&resize=1200,630"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.noticiasrcn.com/colombia/procuraduria-lanza-iniciativa-paz-electoral-para-garantizar-elecciones-de-2026-953786",
+              "note": "Muestra que Eljach, antes de los comicios, aseguraba que habría elecciones democráticas y que se garantizaría el régimen constitucional; contraste con la frase posterior.",
+              "host": "noticiasrcn.com",
+              "title": "‘Paz Electoral’, la iniciativa de la Procuraduría para garantizar las elecciones de 2026 | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/cms/2025/10/29100016/paz-electoral.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/politica/gobierno/procurador-gregorio-eljach-advierte-que-en-colombia-no-iba-a-haber-elecciones-y-resalta-la-estrategia-preventiva-del-programa-paz-electoral-3579298",
+              "note": "Fuente central: verifica la cita exacta de Eljach sobre que 'no iba a haber' elecciones y documenta que no precisó el riesgo concreto.",
+              "host": "eltiempo.com",
+              "title": "Procurador Gregorio Eljach advierte que en Colombia 'no iba a haber elecciones' y resalta la estrategia preventiva del programa 'Paz Electoral'",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/03/6a47c856a222c.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "politica",
+          "claim": "Se atribuye al procurador la afirmación de que algo fue gracias a él, y se cuestiona por qué no lo denunció ni actuó en consecuencia.",
+          "quote": "si la subo fue gracias a él y si él sabía esa información por qué no lo denunció o por qué no actuó en consecuencia",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación textual —'si la subo fue gracias a él' y la pregunta de por qué no lo denunció ni actuó si sabía esa información— no puede verificarse con las fuentes entregadas: ninguna documenta que el procurador general haya atribuido a sí mismo el mérito de una publicación ('subida'), ni que haya admitido conocimiento previo de información que omitió denunciar [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes permiten situar el entorno institucional, pero no el hecho concreto: Gregorio Eljach Pacheco asumió como procurador general en enero de 2025 y durante su gestión designó al viceprocurador Julián Andrés Fernández (diciembre de 2025) [F1][F4], envió una comisión especial a San Andrés y Providencia por instrucción suya para investigar presunta corrupción tras denuncias públicas [F5], y ha promovido agendas como salud mental y coordinación interinstitucional [F2]. En el mismo periodo, un procurador delegado, Diomedes Yate Chinome, emitió cuatro exoneraciones en casos de la alcaldía de Daniel Quintero en Medellín (Clínica de la 80, Aguas Vivas, declaración de bienes y expresiones en redes), decisiones cuestionadas públicamente [F3]. Nada de esto constituye evidencia sobre la cita verbatim atribuida al procurador en el video [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, la pregunta formulada en el video —por qué no denunció ni actuó si sabía— apunta, en principio, al deber de los organismos de control de actuar con conocimiento y a la rendición de cuentas, lo cual es consistente con la vigilancia de la conducta oficial que la Constitución asigna a la Procuraduría [F5]. Sin embargo, sin la identificación del hecho, de la información supuestamente conocida y de la fecha, la pregunta queda como insinuación: no aporta esclarecimiento de verdad ni permite verificar si hubo omisión, y al no ir acompañada de datos verificables corre el riesgo de dejar en suspenso tanto la imputación como la presunción de inocencia del funcionario citado [F1][F2][F3][F4][F5]. El material disponible muestra que la Procuraduría, en otros asuntos, sí ha actuado —comisión a San Andrés [F5]— y que también ha habido exoneraciones delegadas cuestionadas por analistas [F3], lo que sugiere que el análisis riguroso requiere hechos concretos antes que preguntas retóricas.",
+          "whatTheyOmit": "El video no precisa qué fue lo que se 'subió', quién es 'él', cuál es la información que supuestamente conocía el procurador, cuándo ocurrió ni en qué proceso o investigación consta esa omisión; tampoco aporta fuente documental de la supuesta atribución de mérito ('fue gracias a él') [F1][F2][F3][F4][F5]. Adicionalmente, omite el contexto de que en ese mismo periodo la Procuraduría sí ejecutó actuaciones investigativas por instrucción del procurador general [F5] y que las exoneraciones en casos de la era Quintero corresponden a un procurador delegado distinto del procurador general [F3].",
+          "keyFacts": [
+            "Gregorio Eljach Pacheco es el procurador general de la Nación, cargo que asumió en enero de 2025 [F1][F4]",
+            "El 15 de diciembre se posesionó Julián Andrés Fernández como viceprocurador general ante el procurador Eljach, reemplazando a Silvano Gómez Strauch [F1]",
+            "La Procuraduría envió una comisión de cinco investigadores a San Andrés y Providencia por instrucción del procurador Eljach para investigar presunta corrupción [F5]",
+            "El procurador delegado Diomedes Yate Chinome emitió cuatro sentencias absolutorias en casos de la alcaldía de Daniel Quintero en Medellín, incluidos Clínica de la 80 y Aguas Vivas, decisiones cuestionadas en medios y redes [F3]",
+            "Ninguna de las fuentes entregadas documenta la cita atribuida al procurador sobre haber 'subido' algo 'gracias a él' ni su supuesto conocimiento de información no denunciada [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.wradio.com.co/2025/12/15/se-posesiono-julian-andres-fernandez-como-nuevo-viceprocurador-general-de-la-nacion/",
+              "note": "Identifica al procurador Gregorio Eljach y su equipo directivo; no contiene la cita verificada",
+              "host": "wradio.com.co",
+              "title": "Se posesionó Julián Andrés Fernández como nuevo viceprocurador general de la Nación",
+              "image": "https://www.wradio.com.co/resizer/v2/UCB32NXWDFBXVA6H2WNFLZHJHI.png?auth=b585ac2e12d6ee8fe98dcc8dbd0a5b56661bde186727b7fcb88e1ffd04579f1f&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elheraldo.co/colombia/2025/11/06/procurador-gregorio-eljach-pide-fortalecer-la-salud-mental-necesitamos-una-colombia-que-entienda-que-pedir-ayuda-no-es-debilidad/",
+              "note": "Muestra una declaración pública del procurador sobre salud mental; no trata el asunto de la cita",
+              "host": "elheraldo.co",
+              "title": "Procurador Gregorio Eljach pide fortalecer la salud mental: “Necesitamos una Colombia que entienda que pedir ayuda no es debilidad”",
+              "image": "https://www.elheraldo.co/resizer/v2/LUJIYYWKLFACBOQNRGYONDSVBI.jpg?smart=true&auth=1260595d33869a837a842e4d6d25db2ac45cca707c155ae7473ee3434f43b6b6&width=1200&height=675"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/medellin/quien-es-diomedes-yate-chinome-procurador-delegado-cuatro-exoneraciones-casos-alcaldia-quintero-NI43694911",
+              "note": "Contraste relevante: exoneraciones de un procurador delegado en casos Quintero, cuestionadas; permite ver que las decisiones discutidas no son necesariamente del procurador general",
+              "host": "elcolombiano.com",
+              "title": "Â¿QuiÃ©n es el procurador delegado que lleva cuatro exoneraciones en casos de la era Quintero en MedellÃn?",
+              "image": "https://estaticos.elcolombiano.com/binrepository/720x520/0c0/1280d720/none/11101/UOUN/webmetro-jpg_52160777_20261117163243.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://seguimiento.co/colombia/2026/11/13/un-banqueno-fue-nombrado-asesor-del-procurador-general-de-la-nacion",
+              "note": "Confirma la gestión de Eljach y su equipo; no contiene la cita verificada",
+              "host": "seguimiento.co",
+              "title": "Un banqueño fue nombrado asesor del procurador General de la Nación",
+              "image": "https://seguimiento.co/sites/default/files/2026-11/Seguimiento.co%20-%202026-11-13T104603.571.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/economia/macroeconomia/articulo/procuraduria-envio-comision-a-san-andres-y-providencia-para-investigar-presunta-corrupcion/202635/",
+              "note": "Contraste: muestra que la Procuraduría de Eljach sí ha actuado investigativamente en otros casos por instrucción suya",
+              "host": "semana.com",
+              "title": "Procuraduría envió comisión a San Andrés y Providencia para investigar presunta corrupción",
+              "image": "https://www.semana.com/resizer/v2/GL2LL2VA6RG2TDK5THGZY5GYJM.jpg?auth=7a496eb4e347025478d0782a9278512b1fc4d44d4c5afa9ab84060ab34a7787d&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "Se afirma que hubo cuatro años completos de congelamiento de procesos.",
+          "quote": "cuatro años completicos congelados",
+          "figures": [
+            "cuatro años"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación de que hubo 'cuatro años completicos congelados' de procesos no encuentra respaldo en ninguna de las tres fuentes entregadas: las fuentes solo describen cómo consultar procesos judiciales en Colombia, la fiabilidad de la plataforma oficial y un caso particular de verificación ante la Fiscalía [F1][F2][F3]. No existe en el material aportado dato, serie, decisión o reporte que permita confirmar, cuantificar ni fechar un congelamiento de cuatro años de procesos judiciales.",
+          "context": "Las fuentes permiten establecer el marco general sobre el que debería recaer la verificación: (1) la Rama Judicial colombiana puso a disposición la Consulta de Procesos Nacional Unificada (CPNU), que unifica las consultas y permite revisar procesos de despachos a nivel nacional, administrada por el Consejo Superior de la Judicatura [F2]; (2) los expertos advierten que estas plataformas no constituyen certificado oficial de antecedentes, que la información debe interpretarse con cautela, que no determina culpabilidad ni refleja necesariamente el estado actual de un caso, y que el Consejo de Estado ha señalado que los antecedentes solo se certifican mediante registros oficiales [F1]; (3) el Código de Procedimiento Penal contempla reserva de ciertas actuaciones, lo que explica que algunos procesos no aparezcan en consultas abiertas [F1]; (4) en un caso concreto, la Fiscalía informó por derecho de petición que, tras cruzar los sistemas SPOA y SIJUF con nombre y número de identificación, no aparecían registros de vinculación a procesos penales en calidad de indiciada o sindicada, con información actualizada al 6 de agosto de 2026 [F3]. Ninguna fuente aporta información sobre parálisis, congelamiento o suspensión masiva de procesos durante un periodo de cuatro años.",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición, una afirmación cuantificada y temporalmente precisa como 'cuatro años completicos congelados' solo aporta al esclarecimiento de la verdad si se sustenta en datos verificables sobre el funcionamiento de la justicia, con fechas, causas y magnitud. El material disponible muestra, por el contrario, que la verificación de la situación judicial de una persona o de un proceso exige consultar registros oficiales, que la información pública tiene límites legales (habeas data, reserva de actuaciones) y que los portales de consulta no son prueba concluyente [F1][F2]. Sin la identificación del periodo, de qué procesos se trataría y de la fuente primaria, la afirmación queda como una proposición no sustentada, lo cual dificulta tanto el derecho a la información como el debate responsable sobre el acceso a la justicia [F1][F2][F3].",
+          "whatTheyOmit": "El video no aporta, según las fuentes entregadas, cuál es el periodo exacto de los supuestos cuatro años, de qué jurisdicción o rama de la justicia se trataría, cuál sería el número de procesos afectados, cuál fue la causa (legislación, pandemia, crisis administrativa, decisión de un tribunal) ni qué decisión oficial, estudio o serie de datos lo respalda [F1][F2]. Tampoco se distingue entre suspensión formal de términos, colapso administrativo o simplemente procesos que no aparecen en consultas abiertas por reserva legal, que son supuestos distintos [F1].",
+          "keyFacts": [
+            "La Rama Judicial de Colombia ofrece la Consulta de Procesos Nacional Unificada (CPNU), una herramienta pública para consultar el estado de procesos judiciales a nivel nacional, administrada por el Consejo Superior de la Judicatura [F2]",
+            "Los expertos advierten que la consulta en línea no constituye certificado oficial de antecedentes y que sus resultados no determinan culpabilidad ni reflejan necesariamente el estado actual de un caso [F1]",
+            "El Consejo de Estado ha señalado que los antecedentes judiciales solo pueden verificarse a través de registros oficiales, no mediante plataformas de consulta de procesos [F1]",
+            "El Código de Procedimiento Penal colombiano contempla la reserva de ciertas actuaciones judiciales, lo que explica por algunos procesos no aparecen en las consultas abertas [F1]",
+            "La Fiscalía General informó oficialmente que, tras cruzar los sistemas SPOA y SIJUF con nombre y número de identificación, no aparecían registros de vinculación a procesos penales en calidad de indiciada o sindicada, con información al 6 de agosto de 2026 [F3]",
+            "Ninguna de las fuentes entregadas menciona un congelamiento de procesos judiciales durante cuatro años [F1][F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/cultura/gente/asi-puede-consultar-procesos-judiciales-y-antecedentes-en-colombia-segun-datos-oficiales-3541565",
+              "note": "Explica cómo consultar procesos y antecedentes en Colombia, los límites legales de esas plataformas, la reserva de actuaciones según el Código de Procedimiento Penal y la advertencia de los expertos sobre interpretaciones erróneas. No aporta dato alguno sobre un congelamiento de procesos.",
+              "host": "eltiempo.com",
+              "title": "'Así puede consultar procesos judiciales y antecedentes en Colombia', según datos oficiales",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/05/17/6647d8dc19880.r_d.785-283-0.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.wradio.com.co/2023/11/30/como-saber-si-una-persona-tiene-abierto-un-proceso-judicial-consulte/",
+              "note": "Describe la Consulta de Procesos Nacional Unificada (CPNU), su administración por el Consejo Superior de la Judicatura y su carácter de información oficial y confiable. Aporta el marco de cómo se verifica el estado de un proceso, pero no contiene información sobre procesos congelados.",
+              "host": "wradio.com.co",
+              "title": "¿Cómo saber si una persona tiene abierto un proceso judicial? Consulte",
+              "image": "https://www.wradio.com.co/resizer/v2/4GTJREAFOZGMBLPWU5MZ5QJBYI.jpg?auth=761ac1703dfc5abcc2ffd97cd12344012505a2f1e61f2b0293fe54a0f9b3bbef&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.semana.com/politica/articulo/fiscalia-le-respondio-a-la-defensa-de-veronica-alcocer-si-tiene-abiertos-procesos-penales-en-el-pais/202636/",
+              "note": "Caso concreto de verificación ante la Fiscalía mediante cruce de sistemas SPOA y SIJUF, con fecha de actualización. Ilustra cómo se confirma o descarta la existencia de procesos abiertos, sin aportar datos sobre congelamiento generalizado de procesos.",
+              "host": "semana.com",
+              "title": "Fiscalía le respondió a la defensa de Verónica Alcocer sobre si tiene abiertos procesos penales en el país",
+              "image": "https://www.semana.com/resizer/v2/VG5BBRU47RFJ3HY5U3526F3XJA.jpg?auth=4720d85756504dbda2cdf953b1c528835dfb882b5fcbe0648670244b46246a65&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Existiría un 'libro de la verdad' que documenta 82 escándalos de corrupción del gobierno mencionado, sustentados con pruebas.",
+          "quote": "el libro de la verdad 82 escándalos de corrupción del gobierno del babas sustentados con pruebas",
+          "figures": [
+            "82"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La existencia del 'Libro de la Veridad' está confirmada por las fuentes: es un documento de 135 páginas, resumen del Empalme Anticorrupción, entregado a Fiscalía, Contraloría y Procuraduría [F4]. Sin embargo, ninguna fuente entrega confirma el número específico de '82 escándalos' (El Colombiano habla de una recopilación propia de 90 escándalos, distinta del libro) [F5], ni que estén 'sustentados con pruebas' en sentido judicial: el propio documento fue descrito por sus autores como hallazgos y alertas que deben ser determinados por los órganos de control, no como una sentencia [F1].",
+          "context": "El 'Libro de la Verdad' es el resumen del Empalme Anticorrupción, elaborado por más de 1.000 voluntarios en ministerios y entidades, y entregado por el nuevo gobierno a Fiscalía, Contraloría y Procuraduría; el proceso de empalme fue suspendido oficialmente por decisión de Abelardo De La Espriella [F4]. Sus contenidos incluyen hallazgos de la Contraloría como un déficit del Gobierno Nacional Central del 6,4 % del PIB en 2025 con activación de la cláusula de escape de la regla fiscal, una caja de $16 billones al 31 de mayo de 2026 frente a un rango histórico de $30-$40 billones, ejecución del 4,3 % de la apropiación en la UNGRD durante el cuatrienio, y una auditoría que advirtió posible detrimento patrimonial en la emisión de TES, remitida a la Procuraduría [F1]. En paralelo, la Fiscalía y los organismos de control llevan más de 100 investigaciones por presunta corrupción de hechos de esa administración, y El Colombiano recopiló en junio una lista propia de 90 escándalos del cuatrenio [F5]. El gobierno saliente rechazó los señalamientos y Petro calificó algunos casos como 'políticas públicas' [F4].",
+          "progressivePerspective": "Desde el criterio de verdad y rendición de cuentas, el documento aporta datos auditables que merecen investigación: hallazgos de la Contraloría remitidos a la Procuraduría, cifras de ejecución y trazabilidad de recursos, y casos como la UNGRD o la contratación en MinAmbiente [F1][F5]. También hay reconocimiento público de errores y de la necesidad de sanciones desde sectores del propio oficialismo, que afirmaron que 'si hubo hechos de corrupción... tendrá que haber sanciones y tendrá que haber cárcel si así fue' [F2]. El riesgo ético está en la conversión retórica: presentar hallazgos de un empalme administrativo como '82 escándalos sustentados con pruebas' borra la frontera entre alerta, investigación y culpabilidad, y la propia fuente que recoge el libro advierte explícitamente que 'una alerta o un hallazgo no convierte automáticamente a nadie en culpable' [F1]. La presunción de inocencia y el debido proceso exigen distinguir entre irregularidad documentada, proceso en trámite y responsabilidad judicial establecida [F1][F4][F5].",
+          "whatTheyOmit": "Se omite la precisión del propio documento de que no es una sentencia judicial: sus autores trasladaron información para que Fiscalía, Procuraduría y Contraloría determinen las responsabilidades [F1]. Se omite que el número '82' no corresponde a ninguna cifra de las fuentes: el libro tiene 135 páginas y la recopilación de 90 escándalos es un trabajo periodístico distinto de El Colombiano [F4][F5]. Se omite que las investigaciones siguen en diferentes etapas y que la responsabilidad penal aún debe establecerse caso por caso [F5]. Se omite también la respuesta del gobierno saliente, que rechazó los señalamientos y calificó algunos casos como políticas públicas [F4], y que buena parte de los hallazgos corresponden a baja ejecución presupuestal e incumplimiento de órdenes judiciales, no solo a desfalco [F1][F4].",
+          "keyFacts": [
+            "Existe un documento conocido como 'Libro de la Veridad', de 135 páginas, resumen del Empalme Anticorrupción, entregado por el nuevo gobierno a la Fiscalía, la Contraloría y la Procuraduría [F4]",
+            "El empalme que produjo el libro fue integrado por más de 1.000 voluntarios en los ministerios y entidades de la Casa de Nariño [F4]",
+            "Los autores del libro señalan que el documento no es una sentencia judicial: son hallazgos trasladados a los órganos de control para que determinen responsabilidades [F1]",
+            "Ninguna fuente entregada confirma el número exacto de '82 escándalos' en el libro; El Colombiano recopiló por separado 90 escándalos del cuatrenio [F5]",
+            "La Fiscalía y distintos organismos de control llevan más de 100 investigaciones por presunta corrupción de hechos ocurridos durante esa administración [F5]",
+            "La Contraloría advirtió posible detrimento patrimonial en la emisión de TES y remitió el caso a la Procuraduría; el déficit del Gobierno Nacional Central alcanzó el 6,4 % del PIB en 2025 [F1]",
+            "La UNGRD ejecutó apenas el 4,3 % de su apropiación entre 2022 y 2026, con $856.289 millones girados anticipadamente [F1]",
+            "El gobierno saliente rechazó los señalamientos y Petro calificó algunos casos como 'políticas públicas' [F4]",
+            "Un congresista del oficialismo reconoció que 'si hubo hechos de corrupción... tendrá que haber sanciones y tendrá que haber cárcel si así fue' [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.semana.com/opinion/articulo/el-libro-de-la-verdad-la-corrupcion-en-el-gobierno-petro/202600/",
+              "note": "Describe el Libro de la Verdad, sus cifras (Hacienda, UNGRD, MinAmbiente, salud, Air-e) y precisa que no es una sentencia judicial sino hallazgos trasladados a los órganos de control; aporta la contraprestación clave sobre el estatus probatorio del documento.",
+              "host": "semana.com",
+              "title": "El Libro de la Verdad: la corrupción en el gobierno Petro",
+              "image": "https://www.semana.com/resizer/v2/5WVXZP76AVC6NIUPOPSNBVMQKU.jpeg?auth=209a69b12696e393c37bc28a7c2b4d640f849672e3898d2a299224c5e911b702&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/08/03/escandalos-de-corrupcion-le-pasaron-factura-a-la-gestion-del-gobierno-petro-congresistas-debaten/",
+              "note": "Debate entre congresistas oficialista y opositor sobre escándalos de corrupción; el oficialista reconoce errores y la necesidad de sanciones y cárcel, lo que contrasta con la idea de que todo sería sólo ataque político.",
+              "host": "caracol.com.co",
+              "title": "¿Escándalos de corrupción le pasaron factura a la gestión del Gobierno Petro? Congresistas debaten",
+              "image": "https://caracol.com.co/resizer/v2/LROAEV6TLNC7NLYYG2DZC6AAZU.jpg?auth=73a17556071967b687d1fb787f2fd9600f01ea1127f3cdd6ea6ce630583a3be9&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/politica/gobierno/escandalos-de-corrupcion-la-sombra-que-persiguio-hasta-el-final-al-gobierno-de-gustavo-petro-3575493",
+              "note": "Contexto de los escándalos (casos Juliana Guerrero, Gabriela Muñoz, Laura Sarabia, UNGRD) y de investigaciones en trámite; útil para dimensionar que son señalamientos en proceso, no condenas.",
+              "host": "eltiempo.com",
+              "title": "Escándalos de corrupción: la sombra que persiguió hasta el final al gobierno de Gustavo Petro",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/21/6a3858c450bdb.r_d.1591-932-0.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.vanguardia.com/politica/2026/08/19/el-listado-de-casos-de-corrupcion-en-el-gobierno-petro-revelado-por-abelardo-de-la-espriella/",
+              "note": "Confirma la existencia, alcance y formato del Libro de la Verdad (135 páginas, empalme con más de 1.000 voluntarios, entregado a los órganos de control) y la respuesta del gobierno saliente; no menciona la cifra de 82.",
+              "host": "vanguardia.com",
+              "title": "El listado de casos de corrupción en el Gobierno Petro, revelado por Abelardo De La Espriella",
+              "image": "https://www.vanguardia.com/resizer/v2/SOLNXCRMWJHMNBJIOYOMWY4EOE.jpg?auth=ee82875f5dd2bf608be090001f7414aa0f489f2f4abb384981fbf8900ce24cfc&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/gobierno-gustavo-petro-mas-de-100-investigaciones-por-corrupcion-salpican-sae-ant-ministerio-de-la-igualdad-EE41233117",
+              "note": "Documenta más de 100 investigaciones en trámite y una recopilación propia de 90 escándalos del cuatrenio; permite contrastar la cifra de 82 y el estatus de los procesos.",
+              "host": "elcolombiano.com",
+              "title": "Gobierno Petro ajustÃ³ un centenar de expedientes en contra por supuesta corrupciÃ³n, Â¿quÃ© casos estÃ¡n en la lista?",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c0/1280d720/none/11101/NOUI/colp-338997_51647279_20260917212509.jpg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "seguridad",
+          "claim": "Se menciona el magnicidio de Miguel Uribe como uno de los casos del libro.",
+          "quote": "el magnicidio de miguel uribe",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero omite lo esencial",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El magnicidio de Miguel Uribe Turbay es un hecho real y documentado: fue atacado a disparos el 7 de junio de 2025 en Modelia, Bogotá, y falleció el 11 de agosto de 2025; el caso cuenta con condenas firmes e investigaciones en curso sobre los presuntos determinadores [F3][F4]. Mencionarlo como caso de un libro corresponde a un hecho verificable.",
+          "context": "Miguel Uribe Turbay, senador del Centro Democrático y precandidato presidencial, fue atacado a balazos el 7 de junio de 2025 durante un acto político en Modelia, Bogotá, y falleció el 11 de agosto de 2025. La Fiscalía ha obtenido condenas firmes: el 20 de agosto de 2026 se registraron dos nuevas (11 y 15 años de prisión para Cristian Camilo González Ardila y Jhorman David Mora Silva, alias 'El Caleño'), sumando la séptima condena en firme del proceso; dos implicados aceptaron su responsabilidad mediante preacuerdo. La investigación sigue buscando los responsables intelectuales y financieros, con requerimientos a cabecillas de la Segunda Marquetalia (alias 'Iván Márquez', 'Zarco Aldinever', 'Jhon 40', entre otros) y una indagación previa en la Corte Suprema sobre los excongresistas Sandra Ramírez y Luis Alberto Albán ('Marcos Calarcá'), la cual no equivale a imputación ni condena [F4][F3][F1]. También se reportaron amenazas de muerte a los fiscales del caso atribuidas a disidencias de las Farc [F3].",
+          "progressivePerspective": "El marco de la JEP —verdad, justicia, reparación y no repetición— resulta aplicable aquí como referencia de estándares: la mención del magnicidio como caso de un libro puede contribuir al esclarecimiento de la verdad y a la no repetición si respeta el proceso judicial en curso y el principio de presunción de inocencia. Las fuentes insisten en que los señalamientos contra presuntos determinadores 'deben ser establecidos por la justicia y no equivalen a condenas' [F3] y que una indagación previa 'no significa que las personas mencionadas sean responsables' [F1]. Cualquier uso del caso que presente como ya probadas las hipósisis aún sin concluir —como la atribución de la orden a un actor político, sostenida como opinión personal por la viuda con base en 'testimonios que no se han sostenido... como medio probatorio' [F2]— o que instrumentalice el crimen para señalamientos políticos sin pruebas judiciales, podría revictimizar o politizar el caso en lugar de abonar a la verdad y a la responsabilidad penal efectiva de los máximos responsables [F2][F3].",
+          "whatTheyOmit": "La cita aislada ('el magnicidio de Miguel Uribe') no aporta el estado real del caso: que existen siete condenas firmes y preacuerdos de dos implicados, pero que la investigación sobre los responsables intelectuales y financieros sigue abierta y que los señalamientos contra determinadores son hipótesis del expediente, no decisiones judiciales [F4][F3]. Tampoco precisa las fechas (atentado 7 de junio de 2025, muerte 11 de agosto de 2025) ni distingue entre hechos probados y afirmaciones no verificadas, como la atribución de la orden a Gustavo Petro, sostenida como opinión por la viuda y negada por el expresidente [F2][F3].",
+          "keyFacts": [
+            "Miguel Uribe Turbay fue atacado a disparos el 7 de junio de 2025 en Modelia, Bogotá, durante un acto político, y falleció el 11 de agosto de 2025 [F3]",
+            "El 20 de agosto de 2026 se registraron dos condenas firmes en el caso (11 y 15 años de prisión), sumando la séptima condena en firme del proceso [F4]",
+            "Dos implicados aceptaron su responsabilidad mediante preacuerdo por su participación en la planeación y logística del atentado [F4]",
+            "La Corte Suprema adelanta una indagación previa que involucra a los excongresistas Sandra Ramírez y Luis Alberto Albán ('Marcos Calarcá'); una indagación previa no es imputación ni condena [F1][F3]",
+            "La Fiscalía requirió judicialmente a siete cabecillas de la Segunda Marquetalia como presuntos determinadores del asesinato; es una hipótesis del expediente, no una declaración judicial de culpabilidad [F3]",
+            "Fiscales del caso habrían recibido amenazas de muerte atribuidas a disidencias de las Farc por el avance de la investigación [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.diariodelsur.com.co/noticias/corte-suprema-investiga-senalamientos-por-el-magnicidio-de-miguel-uribe-turbay",
+              "note": "Indagación previa de la Corte Suprema sobre señalamientos a excongresistas; precisa que no equivale a responsabilidad",
+              "host": "diariodelsur.com.co",
+              "title": "Corte Suprema investiga señalamientos por el magnicidio de M | DIARIO DEL SUR",
+              "image": "https://gec.hsbnoticias.com/uploads/articles/2bc509b7-0cec-48f5-92c5-333a4516bce5.webp"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.semana.com/politica/articulo/sacan-a-relucir-trino-de-petro-a-proposito-de-las-declaraciones-de-maria-claudia-tarazona-viuda-de-miguel-uribe-turbay/202649/",
+              "note": "Declaraciones de la viuda atribuyendo la orden a Petro como opinión personal basada en material no sostenido probatoriamente; Petro ha negado relación",
+              "host": "semana.com",
+              "title": "Sacan a relucir trino de Petro, a propósito de las declaraciones de María Claudia Tarazona, viuda de Miguel Uribe Turbay",
+              "image": "https://www.semana.com/resizer/v2/LZDNXR45HFF5LEE2X43CQJTWMM.jpg?auth=37a28ae5d7f7fc1cd64bb6ad83d216007f33833e370dec41914e899cd4e7c0b5&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.minuto30.com/miguel-uribe-amenazas-fiscales/1732829/",
+              "note": "Amenazas a fiscales; fechas del crimen; hipótesis sobre determinadores y límite entre señalamiento y condena",
+              "host": "minuto30.com",
+              "title": "Fiscales del caso Miguel Uribe, en la mira por seguir el rastro del magnicidio - Minuto30",
+              "image": "https://staticprd.minuto30.com/wp-content/uploads/2026/08/Miguel-Uribe-Turbay.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elheraldo.co/colombia/2026/08/21/caso-miguel-uribe-fiscalia-verifica-posible-vinculo-de-la-red-criminal-con-su-esquema-de-seguridad/",
+              "note": "Condenas firmes, preacuerdos y estado de la investigación sobre responsables intelectuales",
+              "host": "elheraldo.co",
+              "title": "Caso Miguel Uribe: Fiscalía verifica posible vínculo de la red criminal con su esquema de seguridad",
+              "image": "https://www.elheraldo.co/resizer/v2/MWNP5ZUP3BBQ5OQL3P3WGVM27E.jpg?smart=true&auth=cd1fdedcc056d5f0faff5baa9465b86a157ffe8bfda5de8bef678f8ea695ba5d&width=1200&height=675"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gran-consulta-por-colombia/expresidente-alvaro-uribe-denuncia-presunto-intento-de-magnicidio-contra-paloma-valencia-maxima-alerta-3548741",
+              "note": "Contexto de seguridad electoral 2026; denuncia de Álvaro Uribe vinculando el caso con la 'Paz Total', ejemplo de uso político del magnicidio",
+              "host": "eltiempo.com",
+              "title": "Expresidente Álvaro Uribe denuncia presunto intento de magnicidio contra la candidata presidencial Paloma Valencia: 'Máxima alerta'",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/04/15/661d3da2e0009.r_d.905-163-0.png"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "otros",
+          "claim": "Se menciona el caso del 'hijo no criado', alias Remolacho.",
+          "quote": "el caso del hijo no criado alia remolacho",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La mención al 'caso del hijo no criado, alias Remolacho' no puede verificarse con las fuentes entregadas: ninguna de ellas menciona ese caso ni ese alias, de modo que no hay respaldo documental para confirmar ni desmentir su existencia, sus circunstancias ni el modo en que se presenta en el video [F1][F2][F3].",
+          "context": "Las fuentes disponibles enmarcan el tema en el Sistema Integral de Verdad, Justicia, Reparación y No Repetición: la Ley 1448 de 2011 consagra los derechos de las víctimas a verdad, justicia, reparación y no repetición, y cerca de 10 millones de víctimas siguen esperando cumplimiento de esos derechos [F2]. El sexto informe de seguimiento a las recomendaciones de la Comisión de la Verdad advierte que, al ritmo actual, Colombia tardaría 62 años en indemnizar a todas las víctimas, cálculo que incluso podría quedarse corto por los nuevos hechos incorporados al Registro Único de Víctimas [F3]. De las víctimas acreditadas ante la JEP, 6.347 (cerca del 43%) no aparecen inscritas en el RUV, lo que evidencia fallas de reconocimiento y acceso a la reparación [F3]. Solo poco más del 20% de las víctimas con derecho a indemnización ha accedido a ella [F2]. En materia de sometimiento de grupos armados, el proyecto de ley contempla verdad, reparación y no repetición, con cárcel de 6 a 8 años más 4 años de justicia restaurativa [F1].",
+          "progressivePerspective": "A la luz del marco de la JEP —verdad, justicia, reparación y no repetición—, el valor de una mención como ésta depende de que aporte al esclarecimiento de los hechos y al reconocimiento de responsabilidades de los máximos responsables. El Sistema Integral se concibe como un mecanismo en el que las víctimas son sujetos plenos de derechos y donde las sanciones propias buscan restaurar y no solo castigar [F3]. El informe de la Comisión de la Verdad precisa que los actos de reconocimiento de ejecuciones extrajudiciales aún carecen de 'la verdad, los responsables, los nombres', es decir, de quién dio las órdenes [F3]. Si la mención del caso alude a un hecho de esa naturaleza, un tratamiento que no identifique responsables ni contexto incidiría justo en esa carencia; y si se usa para discutir políticas de sometimiento, el marco vigente exige verdad, reparación y no repetición, no impunidad [F1]. Esto es una lectura analítica del marco, no una conclusión sobre el caso, que las fuentes no documentan [F1][F2][F3].",
+          "whatTheyOmit": "Las fuentes no contienen información alguna sobre el 'hijo no criado' ni sobre el alias 'Remolacho', por lo que no es posible establecer si el caso existe, quiénes fueron sus protagonistas, qué crímenes se investigan o qué decisión judicial lo rodea; cualquier afirmación sobre él queda sin respaldo en el material disponible [F1][F2][F3]. Tampoco se aportan datos sobre la magnitud de los hechos concretos a los que alude el video, ni sobre la etapa procesal en que se encontraría dicho caso [F1][F2][F3].",
+          "keyFacts": [
+            "Ninguna de las tres fuentes entregadas menciona el 'hijo no criado' ni el alias 'Remolacho', por lo que la afirmación no es verificable con este material [F1][F2][F3]",
+            "La Ley 1448 de 2011 establece los derechos de las víctimas a la verdad, la justicia, la reparación y las garantías de no repetición [F2]",
+            "Colombia supera los 10 millones de víctimas registradas y tardaría 62 años en indemnizarlas al ritmo actual, según el sexto informe de seguimiento a las recomendaciones de la Comisión de la Verdad [F3]",
+            "Poco más del 20% de las víctimas con derecho a indemnización ha accedido a ella, según datos de la Unidad de Víctimas [F2]",
+            "De 14.659 víctimas acreditadas ante la JEP, 6.347 (cerca del 43%) no figuran inscritas en el Registro Único de Víctimas [F3]",
+            "El proyecto de ley de sometimiento de grupos armados ilegales contempla verdad, reparación y no repetición, con cárcel de 6 a 8 años más 4 años de justicia restaurativa según su director de la Corporación Ubuntu Territorio y Paz [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://caracol.com.co/2023/02/19/proyecto-de-ley-de-sometimiento-permitira-verdad-reparacion-y-no-repeticion/",
+              "note": "Proyecto de ley de sometimiento: verdad, reparación, no repetición y sanciones de cárcel más justicia restaurativa. Aporta el marco normativo para discutir grupos armados; no menciona el caso ni el alias.",
+              "host": "caracol.com.co",
+              "title": "Proyecto de ley de sometimiento permitirá verdad, reparación y no repetición",
+              "image": "https://caracol.com.co/resizer/v2/NXUWVGXYKJGN7JTTJILAYXI5RE.jpg?auth=124363709108273aa5cf453e0be3f2c88af73a43bd8ed50ab18072f60ee702d8&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/politica/congreso/victimas-reclaman-ante-sillas-vacias-en-el-congreso-lo-que-aun-falta-para-la-reparacion-verdad-presencia-del-estado-y-garantias-de-no-repeticion-3546703",
+              "note": "Testimonios de víctimas en el Congreso sobre lo pendiente en Ley 1448, tasa de indemnización (20%) y casi 10 millones de víctimas. No menciona el caso ni el alias.",
+              "host": "eltiempo.com",
+              "title": "Víctimas hablan de lo que falta para la reparación: verdad, presencia del Estado y no repetición, en medio de sillas vacías en el Congreso",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/09/69d7facad3e47.r_d.1264-580-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/colombia-victimas-conflicto-armado-indemnizacion-comision-verdad-jep-informe-JJ38462319",
+              "note": "Informe de seguimiento a la Comisión de la Verdad: 62 años para indemnizar, 43% de víctimas JEP sin RUV, sanciones propias de la JEP y reclamo de víctimas por identificar responsables. No menciona el caso ni el alias.",
+              "host": "elcolombiano.com",
+              "title": "Colombia tardarÃa 62 aÃ±os en indemnizar a todas las vÃctimas del conflicto: el balance de la ComisiÃ³n de la Verdad",
+              "image": "https://estaticos.elcolombiano.com/binrepository/780x565/0c0/1280d720/none/11101/PKBY/la-escombrera-50997680-2026062913312_51033460_20260703114127.jpg"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "seguridad",
+          "claim": "Se menciona una banda de personas que saquearon, con el alias Sarnavia.",
+          "quote": "la bandola de pillos que saquearon la brinconica al coger la ucha sarnavia",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación de una banda de personas que saquearon operando con el alias 'Sarnavia' no puede confirmarse ni descartarse con las fuentes entregadas: ninguna de ellas menciona a un alias, grupo o hecho relacionado con 'Sarnavia' [F1][F2][F3][F4]. Las fuentes sí documentan la existencia de grupos delincuenciales que cometieron hurtos y saqueos en el país, pero sin esa denominación ni ese episodio concreto [F1][F2][F3][F4].",
+          "context": "Las fuentes entregadas muestran que sí hay precedentes de estructuras delincuenciales dedicadas al hurto y al saqueo: 'Los Isleros' robaba el producido de trabajadores en estaciones de servicio de Tuta, Motavita, Cómbita y Ventaquemada (Boyacá), tras una investigación de ocho meses que terminó en tres capturas [F1]; 'Los Norteños' (Ibagué) movía cerca de 50 millones de pesos mensuales en microtráfico y tenía antecedentes de hurto entre sus integrantes [F2]; 'La Nueva Generación' (Samacá, Boyacá) generaba ingresos cercanos a 50 millones de pesos mensuales y sus integrantes registraban delitos como hurto agravado [F3]; y el grupo 'Caicedo' (Medellín) está señalado de urbanización ilegal, homicidios, desplazamiento forzado y extorsiones [F4]. Ninguno de estos casos corresponde al alias 'Sarnavia' ni a un saqueo específico mencionado en la cita del video, por lo que la magnitud y la naturaleza del hecho aludido quedan sin precisar [F1][F2][F3][F4].",
+          "progressivePerspective": "En el marco de la verdad, la justicia, la reparación y la no repetición, resulta relevante distinguir entre afirmaciones verificables y afirmaciones basadas en apodos o rumores: la construcción de verdad exige identificar hechos concretos, víctimas, responsables y decisiones judiciales, no solo alias o denominaciones coloquiales [F1][F3][F4]. Las fuentes muestran que la verdad sobre hechos delictivos concretos se sostiene cuando hay investigaciones de meses, órdenes judiciales, capturas y determinación de responsabilidades, como en los casos documentados [F1][F2][F3][F4]. Una referencia a una banda con alias sin respaldo documental, si se usa como categoría general para estigmatizar o para señalar a personas sin proceso, puede contribuir a la revictimización o al señalamiento sin sustento, alejándose del estándar de no repetición; en cambio, cuando el señalamiento se ancla en investigaciones y decisiones de garantías, abona al esclarecimiento y a la atribución de responsabilidad [F1][F3][F4]. Al no existir en las fuentes constatación del alias ni del hecho, la afirmación no aporta elementos verificables de verdad ni de no repetición [F1][F2][F3][F4].",
+          "whatTheyOmit": "La cita del video ('la bandola de pillos que saquearon la brinconica al coger la ucha sarnavia') carece de datos verificables en las fuentes: no se indica fecha, lugar, víctimas, autoridad que investigó o decisión judicial, y el alias 'Sarnavia' no aparece en ninguna de las cuatro fuentes [F1][F2][F3][F4]. También se omite si el grupo fue capturado, judicializado o si existen responsables individuales, condiciones que sí están presentes en los casos documentados por las fuentes [F1][F2][F3][F4].",
+          "keyFacts": [
+            "Ninguna de las cuatro fuentes menciona un alias 'Sarnavia' ni una banda con esa denominación [F1][F2][F3][F4]",
+            "Sí están documentados grupos delincuenciales que cometieron hurtos en estaciones de servicio en Boyacá, con tres capturas tras ocho meses de investigación [F1]",
+            "Están documentados grupos dedicados al microtráfico y con antecedentes de hurto en Ibagué y Samacá, con capturas por orden judicial [F2][F3]",
+            "Está documentado un grupo señalado de urbanización ilegal, homicidios y desplazamiento forzado en Medellín, con medidas de aseguramiento en cárcel [F4]",
+            "No hay en las fuentes constatación de la fecha, lugar o víctimas del saqueo aludido en la cita del video [F1][F2][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.wradio.com.co/2025/10/03/atraparon-a-los-isleros-grupo-delincuencial-que-tenia-azotada-a-estaciones-de-servicio-en-boyaca/",
+              "note": "Documenta hurtos en estaciones de servicio en Boyacá y capturas de 'Los Isleros'; no menciona alias 'Sarnavia'",
+              "host": "wradio.com.co",
+              "title": "Atraparon a ‘Los Isleros’, grupo delincuencial que tenía azotada a estaciones de servicio en Boyacá",
+              "image": "https://www.wradio.com.co/resizer/v2/B6XWONNYEJH6RJUWQBDEMLZTIA.jpeg?auth=d6b08012ffb7d9ff451703ca0e47baf271581f5eb052cf486252e5a48510c1ff&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2025/05/21/desarticulan-al-grupo-delincuencial-los-nortenos-operaban-en-la-comuna-6-de-ibague/",
+              "note": "Documenta capturas de 'Los Norteños' en Ibagué con antecedentes de hurto; no menciona alias 'Sarnavia'",
+              "host": "caracol.com.co",
+              "title": "Desarticulan al grupo delincuencial ´Los Norteños´ operaban en la comuna 6 de Ibagué",
+              "image": "https://caracol.com.co/resizer/v2/KXDHOIXGB5B7HBDVK5JSGUGNAQ.jpeg?auth=3389bee9ec02c375dce37b6bf68b0f949276475ff01532b354fc54b4de275038&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.policia.gov.co/noticia/desarticulado-grupo-delincuencial-nueva-generacion-en-samaca-boyaca",
+              "note": "Documenta desarticulación de 'La Nueva Generación' en Samacá con delitos de hurto agravado; no menciona alias 'Sarnavia'",
+              "host": "policia.gov.co",
+              "title": "Desarticulado el grupo delincuencial “La Nueva Generación” en Samacá, Boyacá",
+              "image": ""
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elheraldo.co/colombia/2026/06/15/a-prision-cabecilla-y-ocho-presuntos-integrantes-del-grupo-delincuencial-caicedo-por-urbanizacion-ilegal-y-otros-delitos-en-medellin/",
+              "note": "Documenta judicialización del grupo 'Caicedo' en Medellín; no menciona alias 'Sarnavia'",
+              "host": "elheraldo.co",
+              "title": "A prisión cabecilla y ocho presuntos integrantes del grupo delincuencial ‘Caicedo’ por urbanización ilegal y otros delitos en Medellín",
+              "image": "https://www.elheraldo.co/resizer/v2/YJOILFTL4ZDXZIGWSFFUFT23GI.jpeg?smart=true&auth=0d769e7e64774ea5f95e147fd7e305956d3dd06cb13eed6d933716e6f04e051f&width=1200&height=675"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "seguridad",
+          "claim": "Se menciona el caso de 'danielito ratero Beckin tero'.",
+          "quote": "danielito ratero beckin tero",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "Ninguna de las tres fuentes entregadas menciona a 'danielito ratero Beckin tero' ni aporta datos sobre esa referencia; las fuentes solo contienen estadísticas generales de robos en Bogotá, hurtos en supermercados y balanza de seguridad en Bucaramanga, por lo que la afirmación puntual no es verificable con el material disponible [F1][F2][F3]",
+          "context": "Como único contexto verificable que las fuentes sí respaldan, el hurto es un fenómeno medible y con cifras oficiales: en Bogotá se reportaron 2.033 robos de motocicletas entre enero y junio de 2025, con Kennedy como localidad más afectada (320 casos) y la llave maestra como modalidad predominante (1.249 casos) [F1]; los supermercados colombianos perdieron más de 160 mil millones de pesos por robos internos y externos en 2024, con el robo interno creciendo un 2% frente a 2023 [F2]; y en Bucaramanga la Policía reporta una baja de 2.065 casos de hurto a personas entre 2024 y 2025 (de 9.687 a 7.622) [F3]. Ninguna de estas fuentes identifica a personas concretas ni nicknames asociados a hechos delictivos [F1][F2][F3]",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, un caso individual citado como 'danielito ratero' solo aporta a la verdad si está respaldado por registros judiciales o periodísticos verificables que permitan establecer quién es, qué hizo y con qué responsabilidad; aquí no existe ninguna fuente que lo sustente [F1][F2][F3]. Nombrar a una persona por un apodo asociado a delito, sin documentos que lo respalden, corre el riesgo de convertir una atribución no verificable en afirmación presentada como hecho, lo cual no abona al esclarecimiento ni a la no repetición, y puede generar estigmatización o daño reputacional sin proceso que lo respalde [F1][F2][F3]. Del mismo modo, las fuentes sí muestran que la discusión sobre delincuencia se beneficia del uso de datos oficiales y de la distinción entre percepción y cifras —como señala el caso de Bucaramanga, donde la percepción ciudadana y los números policiales divergen— [F3]",
+          "whatTheyOmit": "Se omite cualquier respaldo documental, periodístico o judicial sobre la identidad y los hechos atribuidos a 'danielito ratero Beckin tero'; no hay fuente que confirme quién es, en qué contexto se menciona ni con qué pruebas [F1][F2][F3]. También se omiten las cifras oficiales disponibles que sí contextualizan el delito: la distribución geográfica y por modalidad de los robos de motos en Bogotá [F1], el detalle de que el robo interno en supermercados es el que más crece y la caída de las judicializaciones (del 56% al 36% en ciudades principales entre 2023 y 2024) [F2], y el contraste entre percepción de inseguridad e informes policiales en Bucaramanga [F3]",
+          "keyFacts": [
+            "Ninguna de las fuentes entregadas menciona a 'danielito ratero Beckin tero'; la referencia no puede confirmarse ni desmentirse con el material disponible [F1][F2][F3]",
+            "En Bogotá se reportaron 2.033 robos de motocicletas entre enero y junio de 2025, un promedio superior a 11 motos robadas por día en junio [F1]",
+            "Kennedy fue la localidad de Bogotá con más robos de motos en el primer semestre de 2025, con 320 casos, seguida por Engativá (245), Bosa (221), Ciudad Bolívar (200) y Suba (151) [F1]",
+            "La modalidad predominante de robo de motocicletas en Bogotá es el uso de llaves maestras, con 1.249 casos en el primer semestre de 2025 [F1]",
+            "Los supermercados en Colombia perdieron más de 160 mil millones de pesos por robos internos y externos durante 2024 [F2]",
+            "La participación del robo interno en supermercados creció un 2% frente a 2023, mientras la pérdida por robo externo se redujo un 2% [F2]",
+            "En ciudades principales, los casos de robo en comercio que avanzan a judicialización pasaron de un 56% en 2023 a un 36% en 2024; en ciudades secundarias, de 28% a 19% [F2]",
+            "En Bucaramanga se registraron 9.687 robos en 2024 y 7.622 hasta el 26 de diciembre de 2025, una disminución de 2.065 casos de hurto a personas según la Policía [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.portafolio.co/economia/regiones/en-cifras-las-localidades-de-bogota-donde-se-registran-mas-robos-de-motocicletas-636260",
+              "note": "Aporta cifras oficiales de la Secretaría de Seguridad de Bogotá sobre robos de motocicletas por localidad y modalidad en el primer semestre de 2025; no menciona a la persona citada en el video",
+              "host": "portafolio.co",
+              "title": "En cifras: las localidades de Bogotá donde se registran más robos de motocicletas",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/07/26/688518c840202.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2025/10/23/supermercados-en-colombia-perdieron-mas-de-160-mil-millones-por-robos-abarrotes-los-mas-hurtados/",
+              "note": "Aporta el Censo Nacional de Mermas 2024 de FENALCO sobre pérdidas por robo en supermercados y la caída de las judicializaciones; no menciona a la persona citada en el video",
+              "host": "caracol.com.co",
+              "title": "Supermercados en Colombia perdieron más de $160 mil millones por robos: abarrotes los más hurtados",
+              "image": "https://caracol.com.co/resizer/v2/3EFIN3GAKNEUZJ4H74OYVK5Z5E.jpeg?auth=f882a307b030a4902a0e89bbbf2187d35656756fed067ddd3d843d23b3bb1d03&quality=70&width=1200&height=675&focal=746,514"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/colombia/santander/asi-cierra-la-seguridad-en-bucaramanga-este-2025-la-policia-reporto-disminucion-en-robos-y-grandes-golpes-a-bandas-criminales-su-reto-bajar-hurtos-3519935",
+              "note": "Aporta cifras policiales de Bucaramanga 2024-2025 y el contraste entre percepción ciudadana y datos oficiales; no menciona a la persona citada en el video",
+              "host": "eltiempo.com",
+              "title": "Así cierra la seguridad en Bucaramanga este 2025: la Policía reportó disminución en robos y grandes golpes a bandas criminales; su reto, bajar hurtos",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/04/30/68124d70e7d62.r_d.572-315-0.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "seguridad",
+          "claim": "Se afirma que el libro incluye todo lo relacionado con la inteligencia militar.",
+          "quote": "todo lo que pasó con la inteligencia militar",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las tres fuentes entregadas permite confirmar ni desmentir que un libro cubra 'todo lo que pasó con la inteligencia militar'. [F1] describe un proyecto de inteligencia artificial que indexa los libros y entrevistas de la Comisión de la Verdad, pero no informa sobre el contenido específico de un libro ni sobre cobertura de inteligencia militar; [F2] y [F3] tratan de otras materias (mapa del conflicto armado bajo un nuevo gobierno y recorte presupuestal a la JEP) y no abordan el supuesto libro. Con estas fuentes la afirmación queda sin respaldo verificable: sin_evidencia. [F1][F2][F3]",
+          "context": "Las fuentes aportan contexto general pero no sobre el dato puntual. El Informe Final de la Comisión de la Verdad se divide en 11 tomos y se construyó a partir de decenas de miles de entrevistas y documentos; la plataforma 'Ventana a la Verdad' indexó esos libros y las entrevistas a víctimas para responder con citas a libro, sección y página. [F1] Paralelamente, el conflicto armado sigue activo: las principales estructuras armadas pasaron de 15.120 integrantes en diciembre de 2022 a 28.802 en julio de 2026 según cifras del Ministerio de Defensa recopiladas por la FIP, y el gobierno en ejercicio cerró las mesas de diálogo para optar por la presión militar. [F2] Al mismo tiempo, cursan en el Congreso un recorte de $100.000 millones al presupuesto de la JEP y de la Unidad de Búsqueda, y una reforma que sometería las sentencias de la JEP contra integrantes de la Fuerza Pública a revisión automática de la Justicia Penal Militar, medidas que los excomisionados de la Verdad consideran contrarias al Acuerdo Final. [F3]",
+          "progressivePerspective": "En el marco de verdad, justicia, reparación y no repetición, la afirmación apunta a un tema sensible: si un documento da cuenta de 'todo lo que pasó con la inteligencia militar' en el conflicto armado. La existencia de registros completos sobre el papel de la inteligencia militar sería valiosa para el esclarecimiento de la verdad, pues la información de inteligencia precedió con frecuencia a desplazamientos, detenciones y ataques contra comunidades, y su conocimiento es requisito para el reconocimiento de responsabilidades y para garantías de no repetición. [F1][F2] Sin embargo, ni las fuentes confirman la existencia ni el alcance de ese supuesto libro, ni el video aporta aquí dato verificable; afirmar cobertura total ('todo lo que pasó') sin evidencia documental expone el riesgo de sobreafirmar tanto como de minimizar: el Sistema de Verdad, Justicia, Reparación y No Repetición está además bajo presión presupuestaria y normativa que los excomisionados advierten como riesgo para el Acuerdo de Paz. [F3] Con las fuentes disponibles no es posible concluir si el libro existe, quién lo elaboró ni si cubre la totalidad del tema: el análisis queda en el terreno de lo no verificado. [F1][F2][F3]",
+          "whatTheyOmit": "El video no aporta, en la cita registrada, identificación del libro (título, autor, fecha, editorial), ni evidencia de su contenido, ni explicación de qué se entiende por 'inteligencia militar' en ese contexto. Las fuentes disponibles no mencionan ningún libro con esa cobertura: [F1] solo informa que la plataforma indexa los libros de la Comisión de la Verdad y las entrevistas a víctimas, sin detallar si entre ellos hay un tomo sobre inteligencia militar; [F2] y [F3] no abordan el tema del supuesto libro. Omite también distinguir entre cobertura total ('todo') y cobertura parcial, distinción que las fuentes no permiten resolver. [F1][F2][F3]",
+          "keyFacts": [
+            "La plataforma 'Ventana a la Verdad' indexó los libros de la Comisión de la Verdad y las entrevistas realizadas a las víctimas para responder con base en esos contenidos, citando libro, sección y página [F1]",
+            "El Informe Final de la Comisión de la Verdad se divide en 11 tomos y se elaboró con decenas de miles de entrevistas y documentos [F1]",
+            "Ninguna de las fuentes entregadas menciona un libro que cubra 'todo lo que pasó con la inteligencia militar' [F1][F2][F3]",
+            "Las principales estructuras armadas en Colombia pasaron de 15.120 integrantes en diciembre de 2022 a 28.802 en julio de 2026, según cifras del Ministerio de Defensa recopiladas por la FIP [F2]",
+            "Cursan en el Congreso un recorte de $100.000 millones al presupuesto de la JEP y de la Unidad de Búsqueda de Personas dadas por Desaparecidas, y una reforma que introduciría revisión automática de la Justicia Penal Militar sobre sentencias de la JEP contra integrantes de la Fuerza Pública [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elcolombiano.com/tecnologia/inteligencia-artificial-conflicto-armado-colombia-PH38599402",
+              "note": "Describe la plataforma 'Ventana a la Verdad' y los libros/entrevistas de la Comisión de la Verdad que indexa; aporta contexto sobre el corpus documental, pero no menciona un libro sobre inteligencia militar. No confirma ni niega la afirmación.",
+              "host": "elcolombiano.com",
+              "title": "La inteligencia artificial experta en el conflicto armado colombiano: asÃ funciona Ventana a la Verdad",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x901/0c181/1280d720/none/11101/HDPX/whatsapp-image-2026-07-07-at-5-34-30-pm_51065014_20260707174230.jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.vanguardia.com/colombia/2026/09/13/del-dialogo-a-la-presion-el-nuevo-mapa-del-conflicto-armado-en-colombia/",
+              "note": "Ofrece contexto actualizado sobre el conflicto armado, el pie de fuerza de las estructuras armadas y el cambio de estrategia de seguridad; no trata del supuesto libro ni de inteligencia militar como contenido documental.",
+              "host": "vanguardia.com",
+              "title": "Del diálogo a la presión: el nuevo mapa del conflicto armado en Colombia",
+              "image": "https://www.vanguardia.com/resizer/v2/URLEHZLOY5GTJNXPRILG3HUX6Y.jpg?auth=75b8e47339ec3004f6a6e040b30bdbf56d71aab931f4ddf566c878d1efc61c8b&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elheraldo.co/colombia/2026/09/23/excomisionados-de-la-comision-de-la-verdad-respaldan-a-la-jep-ante-recorte-presupuestal/",
+              "note": "Da contexto sobre presiones presupuestarias y normativas al Sistema de Verdad, Justicia, Reparación y No Repetición; no aborda el libro ni la inteligencia militar.",
+              "host": "elheraldo.co",
+              "title": "Excomisionados de la Comisión de la Verdad respaldan a la JEP ante recorte presupuestal",
+              "image": "https://www.elheraldo.co/resizer/v2/6Z4HBAEYSJF3FMWNFDVBW6ZAGQ.jpg?smart=true&auth=1a2fce16bce5e3681fe2027b829fc977fe5830522b60ff46738aa4c237b2cf4d&width=1200&height=675"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "seguridad",
+          "claim": "Se afirma que el libro incluye el tema de la financiación de las guerrillas.",
+          "quote": "la financiación de las guerrillas",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación específica —que un libro incluye el tema de la financiación de las guerrillas— no puede verificarse con las fuentes entregadas, porque ninguna de ellas menciona un libro, su autor, índice o contenido [F1][F2][F3][F4]. Sí está respaldado, en cambio, el hecho de que la financiación de los grupos armados ilegales en Colombia es un tema documentado y de interés público [F1][F2][F3].",
+          "context": "La magnitud real de la financiación de los grupos armados ilegales está cuantificada en las fuentes: un balance de Fedesarrollo y el Laboratorio de Justicia y Política Criminal estima más de US$16.500 millones anuales derivados de actividades relacionadas con el narcotráfico, en un contexto de 261.000 hectáreas de coca y producción potencial de cocaína superior a 3.000 toneladas en 2024 según la UNODC [F1]. Un análisis de inteligencia citado por SEMANA y EL TIEMPO atribuye a la minería ilegal ingresos de US$8.414 millones en 2025, con un corredor entre Antioquia, sur de Bolívar y Córdoba que genera hasta US$47 millones mensuales, de los cuales unos US$33 millones corresponderían al Clan del Golfo y US$7 millones al ELN [F2][F3]. En el tema jurídico-transicional, la JEP confirmó la responsabilidad de siete exintegrantes del Secretariado de las Farc por la política de secuestros entre 1982 y 2016, con sanción propia que combina restricciones a la libertad y trabajos restaurativos [F4].",
+          "progressivePerspective": "En el marco de la JEP —verdad, justicia, reparación y no repetición— el estudio documentado de las fuentes de financiación de los grupos armados abona a la verdad: permite comprender la estructura económica que sostuvo el conflicto y sus economías ilícitas, y las propias fuentes señalan que identificar estas fuentes de financiación es clave para diseñar respuestas institucionales [F1]. Ese esclarecimiento también es relevante para la garantía de no repeticion, porque la renta ilícita es factor que prolonga las dinámicas de violencia y el desplazamiento de comunidades [F1]. El precedente de la JEP muestra el otro eje del marco: los máximos responsables de crímenes graves asumen sanciones restaurativas y deber de reparación a las víctimas, como los trabajos de desminado humanitario y búsqueda de personas desaparecidas [F4]. Sobre la afirmación concreta del video, al no identificarse el libro ni su índice en las fuentes, no puede determinarse si su tratamiento del tema aporta a la verdad o distorsiona los hechos: queda sin evidencia [F1][F2][F3][F4].",
+          "whatTheyOmit": "Las fuentes no contienen información sobre ningún libro: no se puede verificar su existencia, autoría, índice ni si incluye o no el apartado de financiación de guerrillas [F1][F2][F3][F4]. Tampoco las fuentes permiten precisar a qué grupo o grupos guerrilleros se refiere la afirmación ni en qué periodo, distinción relevante porque la financiación varía por organización: el narcotráfico sigue siendo principal fuente para el Clan del Golfo, el ELN y las disidencias de las Farc, mientras la minería ilegal gana peso relativo hasta el punto de disputarle el primer lugar [F1][F2][F3].",
+          "keyFacts": [
+            "El narcotráfico continúa siendo una de las principales fuentes de financiación de los grupos armados ilegales en Colombia, con más de US$16.500 millones anuales según Fedesarrollo y el LJPC [F1]",
+            "La minería ilegal habría generado ingresos de US$8.414 millones durante 2025 para las organizaciones armadas, según un análisis de inteligencia [F2][F3]",
+            "En el corredor Antioquia-sur de Bolívar-Córdoba se estiman hasta US$47 millones mensuales, con unos US$33 millones para el Clan del Golfo y US$7 millones para el ELN [F2][F3]",
+            "Colombia alcanzó 261.000 hectáreas de cultivos de coca en 2024, con producción potencial de cocaína superior a 3.000 toneladas, según la UNODC [F1]",
+            "La JEP declaró responsables a siete exintegrantes del Secretariado de las Farc por la política de secuestros ejecutada entre 1982 y 2016, con sanción propia de trabajo restaurativo [F4]",
+            "Ninguna de las fuentes entregadas menciona un libro ni su contenido, por lo que la afirmación sobre su índice no es verificable con estos insumos [F1][F2][F3][F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elnuevosiglo.com.co/nacion/narcotrafico-continua-siendo-la-principal-fuente-de-financiacion-de-grupos-ilegales",
+              "note": "Documenta el narcotráfico como principal fuente de financiación de grupos ilegales, con cifras de Fedesarrollo/LJPC y datos UNODC; no menciona ningún libro.",
+              "host": "elnuevosiglo.com.co",
+              "title": "Narcotráfico continua siendo la principal fuente de financiación de grupos ilegales | El Nuevo Siglo",
+              "image": "https://www.elnuevosiglo.com.co/sites/default/files/2026-11/FOTOS%20TAMA%C3%91O%20WEB%20EL%20NUEVO%20SIGLO-39.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.semana.com/nacion/barranquilla/articulo/la-millonaria-fortuna-de-los-grupos-armados-en-colombia-semana-revela-detalles-de-los-negocios-del-eln-disidencias-y-clan-del-golfo/202608/",
+              "note": "Aporta cifras de inteligencia sobre minería ilegal, extorsión y contrabando como motores de financiación; contraste: la minería podría superar al narcotráfico en 2026. No menciona ningún libro.",
+              "host": "semana.com",
+              "title": "La millonaria fortuna de los grupos armados en Colombia: SEMANA revela detalles de los negocios del ELN, disidencias y Clan del Golfo",
+              "image": "https://www.semana.com/resizer/v2/ZG7I3UKUENAENHB6EC6VCXGWEU.jpg?auth=febd34ebdca7dac0cd54989834e302a07c7694bd864474fc5801962be5db5bcf&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-documento-que-revela-los-multimillonarios-negocios-criminales-que-alimentan-el-poder-de-los-grupos-armados-en-colombia-3593443",
+              "note": "Confirma las cifras de inteligencia citadas por SEMANA y matiza que el narcotráfico sigue siendo determinante; fuente parcialmente accesible. No menciona ningún libro.",
+              "host": "eltiempo.com",
+              "title": "El documento que revela los multimillonarios negocios criminales que alimentan el poder de los grupos armados en Colombia",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/15/69e04269e3dd3.r_d.1288-517-0.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/conflicto-armado-exsecretariado-farc-cumpliran-nuevas-sanciones-jep-FO38410151",
+              "note": "Marco de la JEP: responsabilidad de máximos responsables, sanción propia restaurativa y deber de verdad, reparación y no repeticion; no menciona ningún libro.",
+              "host": "elcolombiano.com",
+              "title": "âSeguiremos aportando a la verdad y la reparaciÃ³nâ: exsecretariado de las Farc promete cumplir con sanciones de la JEP",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c91/1280d720/none/11101/CXVX/portadas-ec-16_51023095_20260702152824.jpg"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "topic": "salud",
+          "claim": "Se afirma que el libro incluye un escándalo relacionado con la salud ('el chuchu de la salud').",
+          "quote": "el chuchu de la salud",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Ninguna de las fuentes entregadas menciona un libro ni un escándalo específico vinculado a un libro sobre salud; por tanto, la afirmación de que 'el libro incluye el chuchu de la salud' no puede verificarse con el material disponible. Lo que sí está respaldado por las fuentes es que en Colombia existen problemas y escándalos graves y documentados en el sector salud (crisis financiera de las EPS, corrupción investigada por la Fiscalía y malestar ciudadano), lo cual podría dar contexto a la expresión coloquial, pero no confirma el dato sobre el libro [F1][F2][F3].",
+          "context": "El sistema de aseguramiento en salud colombiano cerró 2025 con patrimonio negativo de $16,86 billones, tras crecer 524 % entre 2022 y 2025; la siniestralidad global alcanzó 109 % en 2025, es decir, por cada $100 recibidos las EPS necesitaron $109 para operar [F1]. El 22 % de la población gasta más de 500.000 pesos mensuales de su bolsillo en salud y el 34,5 % asume costos de acceso, según un estudio del Observatorio de la Democracia de la Universidad de los Andes con Eureka Group; uno de cada cuatro colombianos ubica la salud como el mayor problema del país [F2]. En 2018, la Fiscalía dio a conocer la 'Operación Quirófano', que destapó una red que habría permeado recursos del Sistema Nacional de Salud entre 2016 y 2017, con presuntas coimas a una entonces superintendente delegada y menciones a parlamentarios en escuchas [F3].",
+          "progressivePerspective": "La expresión 'el chuchu de la salud' alude, en lenguaje coloquial, a un escándalo o lío; las fuentes muestran que el sector salud colombiano tiene problemas reales y documentados: una crisis financiera estructural de las EPS que se agrava año tras año [F1], un costoso desembolso de bolsillo para los usuarios [F2] y una investigación penal por corrupción sistémica en la regulación de la salud [F3]. Desde el marco de verdad, justicia, reparación y no repetición, un señalamiento genérico sobre un 'escándalo de la salud' solo aporta al esclarecimiento si se sustenta en hechos verificables, se nombran responsables y se reconocen las consecuencias para las víctimas —los pacientes—; sin identificar el libro, el escándalo concreto y las decisiones judiciales, la afirmación queda como opinión o comentario coloquial y no permite evaluar si abona a la verdad o a la no repetición. Las fuentes sí permiten constatar que el deterioro y la corrupción en salud tienen magnitud cuantificable y están siendo investigados [F1][F2][F3].",
+          "whatTheyOmit": "Se omite identificar el libro al que se refiere, el escándalo específico de salud que contendría, quiénes serían sus responsables y si existen investigaciones o decisiones judiciales al respecto; tampoco se aportan las cifras de magnitud del problema en salud (patrimonio negativo de las EPS, gasto de bolsillo, casos penales), que sí están documentadas en las fuentes [F1][F2][F3].",
+          "keyFacts": [
+            "Las EPS reportaron patrimonio negativo de $16,86 billones al cierre de 2025, con un deterioro del 524 % entre 2022 y 2025 [F1]",
+            "La siniestralidad global de las EPS promedió 104 % en el periodo analizado y alcanzó 109 % en 2025 [F1]",
+            "Uno de cada cuatro colombianos considera que la salud es el mayor problema que enfrenta la sociedad, por encima de corrupción, orden público y desempleo [F2]",
+            "Cerca del 22 % de la población gasta más de 500.000 pesos mensuales de su propio bolsillo en servicios de salud [F2]",
+            "La Fiscalía dio a conocer en 2018 la 'Operación Quirófano', sobre una red que habría permeado recursos del sistema de salud entre 2016 y 2017, con más de 500 audios como prueba [F3]",
+            "Ninguna de las fuentes entregadas menciona un libro ni un escándalo de salud asociado a uno, por lo que ese dato puntual no es verificable con el material disponible"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/salud/informe-advierte-crisis-estructural-del-sistema-de-salud-patrimonio-negativo-de-las-eps-crecio-524-entre-2022-y-3542966",
+              "note": "Informe de Así Vamos en Salud con datos de la Superintendencia Nacional de Salud sobre la crisis financiera de las EPS (2021-2025): patrimonio negativo, siniestralidad y pérdidas operacionales.",
+              "host": "eltiempo.com",
+              "title": "Informe advierte crisis estructural del sistema de salud: patrimonio negativo de las EPS creció 524 % entre 2022 y 2025",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/04/10/661706264d648.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.semana.com/economia/macroeconomia/articulo/uno-de-cada-cuatro-colombianos-dice-que-el-problema-de-la-salud-les-preocupa-mas-que-la-corrupcion-la-inseguridad-y-el-desempleo/202607/",
+              "note": "Encuesta del Observatorio de la Democracia (U. de los Andes) y Eureka Group: prioridad ciudadana en salud, gasto de bolsillo y opinión sobre reforma y EPS. Aporta la dimensión del malestar social.",
+              "host": "semana.com",
+              "title": "Uno de cada cuatro colombianos dice que los problemas de salud le preocupan más que la corrupción, la inseguridad y el desempleo",
+              "image": "https://www.semana.com/resizer/v2/MY44V4RNUJC37IFDAIAG4OOV5Q.png?auth=8ec1f37ba2c96fc27eaa5a1fed37fa7f2a987b1097c4b54c3fbdf088e395bb7b&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elheraldo.co/colombia/2018/10/26/fiscalia-destapa-red-depredadora-de-sistema-de-salud-558654/",
+              "note": "Cobertura de la 'Operación Quirófano' de la Fiscalía General: presunta corrupción en la Superintendencia de Salud y en el manejo de recursos del sistema (2016-2017). Es el precedente judicial más cercano a un 'escándalo de salud'.",
+              "host": "elheraldo.co",
+              "title": "Fiscalía destapa 'red depredadora' de sistema de salud",
+              "image": "https://www.elheraldo.co/resizer/v2/UPZCMNJOJFCPHPC2322IENRGSY.jpg?smart=true&auth=c1a23cc77450dc06ae2feb9d57ab495fc13e7b805d9f51d8440a1a95ccbb5306&width=1200&height=675"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "topic": "politica",
+          "claim": "Se atribuye a los mencionados la salida a decir que todo lo del libro son mentiras.",
+          "quote": "no demora en salir a decir los hurdos que todo lo que dicen es el libro son mentiras",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación —que personas mencionadas salieron a decir que todo lo dicho en un libro es mentira— no puede verificarse con las fuentes entregadas: [F1] y [F2] tratan exclusivamente las reacciones políticas a la descertificación de Colombia por EE.UU. en lucha antidrogas y no mencionan ningún libro ni declaraciones de negación sobre su contenido [F1][F2].",
+          "context": "Las fuentes disponibles documentan un hecho distinto: el 16 de septiembre de 2025 EE.UU. descertificó a Colombia por 'incumplir manifiestamente' sus obligaciones contra el narcotráfico, y expresidentes, senadores y precandidatos reaccionaron de forma dividida —desde la crítica al gobierno Petro (Duque, Cepeda, Cabal, Centro Democrático) hasta el rechazo a la medida como 'ilegal, política y regresiva' (Samper) o 'colonial e ilegítima' (Gloria Flórez) [F1][F2]. Según esas mismas fuentes, la descertificación implica la congelación de 453 millones de dólares en cooperación y el país no enfrentaba una descertificación desde 1996 [F2], mientras en 2024 se incautaron 889 toneladas de cocaína y 600 en el primer semestre de 2025 [F1]. Nada de ese material aporta evidencia sobre un libro ni sobre negaciones a su contenido [F1][F2].",
+          "progressivePerspective": "A la luz de los estándares de verificación, la frase citada carece de respaldo documental en el material disponible: es una atribución de intenciones ('no demoran en salir a decir...') que las fuentes no registran, por lo que no abona al esclarecimiento de hechos verificables ni permite evaluar si quienes fueron mencionados asumen o eluden responsabilidad alguna [F1][F2]. En términos de verdad y no repetición, una atribución sin evidencia verificable corre el riesgo de sustituir el análisis de hechos comprobables por la presunción sobre las intenciones de terceros, lo que empobrece el debate público en lugar de precisarlo; el material de contraste disponible describe posiciones políticas concretas y cuantificables —tanto críticas al gobierno como críticas a la medida de descertificación— que sí constituyen hechos documentados [F1][F2]. La valoración sobre si dicha afirmación revictimiza, justifica o minimiza hechos no puede resolverse sin el contenido completo del video y de la fuente original [F1][F2].",
+          "whatTheyOmit": "Se omite cualquier identificación verificable del libro, de sus autores, de las personas a quienes se atribuye la reacción y de la fecha o contexto de esas declaraciones; sin esos elementos la proposición no es contrastable. También se omite que las fuentes disponibles solo documentan reacciones a la descertificación antidrogas de septiembre de 2025, un asunto ajeno al contenido atribuido al libro [F1][F2].",
+          "keyFacts": [
+            "EE.UU. descertificó a Colombia el 16 de septiembre de 2025 por 'incumplido manifiestamente' sus obligaciones contra el narcotráfico, y la medida dividió a expresidentes y políticos [F1][F2]",
+            "Entre las reacciones registradas están las de Iván Duque, Ernesto Samper, Efraín Cepeda, Juan Carlos Losada, Gloria Flórez, María José Pizarro y María Fernanda Cabal, con posiciones enfrentadas sobre la medida [F1][F2]",
+            "Se reporta la congelación de 453 millones de dólares en cooperación y que Colombia no enfrentaba una descertificación desde 1996 [F2]",
+            "En 2024 las autoridades colombianas incautaron 889 toneladas de cocaína y 600 toneladas en el primer semestre de 2025 [F1]",
+            "Ninguna de las fuentes entregadas menciona un libro ni declaraciones de personas diciendo que su contenido es mentira; la afirmación queda sin respaldo en el material disponible [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.vanguardia.com/colombia/2025/09/16/descertificacion-de-colombia-reacciones-sobre-la-fallida-politica-antidrogas/",
+              "note": "Reacciones de expresidentes y congresistas a la descertificación; aporta datos de incautaciones y posición de Duque, Samper, Cepeda y Losada. No contiene información sobre un libro ni sobre negaciones a su contenido.",
+              "host": "vanguardia.com",
+              "title": "Descertificación de Colombia: reacciones sobre la fallida política antidrogas",
+              "image": "https://www.vanguardia.com/resizer/v2/OMUB74S7ZNFX7EDNIXFJURPLCQ.jpg?auth=65b2776aea11f7f87c646193965d42c339891d590ddf9492fd34a1fb0f916cc7&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2025/09/16/asi-reacciono-la-politica-colombiana-a-la-descertificacion-de-estados-unidos/",
+              "note": "Reacción de precandidatos y partidos a la descertificación; aporta el monto de 453 millones de dólares y la referencia a 1996. Tampoco menciona libro alguno, por lo que sirve como contraste para establecer que la afirmación no es verificable con estas fuentes.",
+              "host": "caracol.com.co",
+              "title": "Así reaccionó la política colombiana a la descertificación de Estados Unidos",
+              "image": "https://caracol.com.co/resizer/v2/X3NIEYWBCRE4NPEDUI7ELQSQVU.jpg?auth=1516fd06a954d3c7894935e7ec0251a60e6f573618979b68cd41fd6d575229b7&quality=70&width=1200&height=675&smart=true"
             }
           ]
         }
