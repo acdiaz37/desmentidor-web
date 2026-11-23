@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T20:06:10",
+  "generatedAt": "2026-11-23T11:47:40",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -18650,6 +18650,683 @@
               "host": "caracol.com.co",
               "title": "Así reaccionó la política colombiana a la descertificación de Estados Unidos",
               "image": "https://caracol.com.co/resizer/v2/X3NIEYWBCRE4NPEDUI7ELQSQVU.jpg?auth=1516fd06a954d3c7894935e7ec0251a60e6f573618979b68cd41fd6d575229b7&quality=70&width=1200&height=675&smart=true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "25k-views-2-8k-reactions-fabio-builes-gonzalez-on-reels",
+      "title": "25K views · 2.8K reactions | Fabio Builes Gonzalez on Reels",
+      "uploader": "Fabio Builes Gonzalez",
+      "url": "https://m.facebook.com/watch/?v=4477179599262409&_rdr",
+      "duration": 149.28,
+      "thumbnail": "/media/25k-views-2-8k-reactions-fabio-builes-gonzalez-on-reels/thumb.jpg",
+      "conclusion": "## Verdaderos escombros, narrativa armada a conveniencia\n\nEl video construye una narrativa donde la élite política colombiana se sostiene sobre títulos inexistentes, salarios astronómicos y electorados comprados por miserias, mientras burla a figuras específicas por supuestas vergüenzas públicas. La percepción que genera es de corrupción académica y moral generalizada, sostenida por una retórica de indignación popular.\n\nLo que tiene base real es considerable: Juliana Guerrero efectivamente usó títulos falsos y fue condenada a tres años por fraude procesal; Paola Holguín no obtuvo el título de maestría; Jaime Vives obtuvo su especialización en 21 días y fue removido; los congresistas ganan unos 55 millones mensuales, el salario más alto de Latinoamérica; existe compra de votos denunciada. El video no inventa estos hechos.\n\nEl problema empieza en la mezcla y la exageración. El video atribuye a Guerrero un título de ingeniería de minas que corresponde a Luz Verónica Estrada —otra persona, sin condena—, y afirma que estudió solo hasta octavo grado cuando obtuvo bachillerato y título técnico del SENA. Sobre Holguín, la insinuación de que \"ni siquiera ha pisado una universidad\" es negada por la propia UPB: es graduada y completó todas las asignaturas de la maestría. Las cifras salariales, ciertas, se presentan con un absoluto (\"ningún trabajador honrado gana eso\") que las fuentes no sostienen. Varios casos carecen de cualquier respaldo: el episodio del \"ridículo fallado\", la senadora Arias, el líder de la \"secta\", el precio específico del voto.\n\nEl punto de quiebre es preciso: ocurre cuando el video pasa de acumular casos verificados —cada uno con características, grados de responsabilidad y estados judiciales distintos— a presentarlos como un mismo fenómeno homogéneo. La condena de Guerrero (preacuerdo, títulos de contaduría) se funde con la investigación sin resolución de Estrada y con la simple ausencia de un posgrado de Holguín, como si fueran equivalentes. Esa fusión es el salto de \"esto ocurrió\" a \"la realidad es esta\".\n\nEl contexto ausente modifica todo: se omiten las diferencias entre lo judicialmente resuelto y lo presunto, entre no tener título y no tener un posgrado, entre funcionarios de distintas filaciones —las fuentes no contienen casos análogos que sustenten el señalamiento de doble rasero—, y se dejan fuera propuestas concretas como la verificación obligatoria de títulos de ASCUN que sitúan el problema como sistémico, no sectorial.\n\nUna interpretación más razonable es que Colombia enfrenta un problema real y documentado de verificación de títulos y de desequilibrios salariales, que afecta a funcionarios de distintos espacios, y que este video, con datos genuinos entre medias, lo retrata de forma selectiva y distorsionada para servir una caricatura parcial.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "educacion",
+          "claim": "Se afirma que Juliana Guerrero posee títulos falsos (\"chimbos\"), de los cuales solo se conoció una parte.",
+          "quote": "los títulos chimbos de la Juliana Guerrero eran apenas la punta del iceberg",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "Que Juliana Guerrero usó títulos académicos falsos está ampliamente respaldado: la Fiscalía le imputó fraude procesal y fue condenada a tres años de prisión mediante preacuerdo por diplomas manipulados de Contaduría Pública y de Tecnología en Gestión Contable y Tributaria, expedidos con la ayuda del exsecretario de la Fundación Universitaria San José [F1][F4][F5]. En cambio, la segunda parte de la afirmación —que esos títulos falsos eran \"apenas la punta del iceberg\", es decir, que solo se conoció una parte de ellos— no encuentra respaldo en las fuentes entregadas, que describen de forma consistente un conjunto de dos diplomas y dos actas de grado: es una inferencia o especulación del video, no un hecho documentado [F1][F5].",
+          "context": "Los hechos verificables: Juliana Guerrero, de 24 años, fue sentenciada a tres años de prisión por fraude procesal mediante un preacuerdo con la Fiscalía, pena inferior a cuatro años que le permite libertad condicional/excarcelable; con la ayuda de Luis Carlos Gutiérrez Martínez, exsecretario general de la Fundación Universitaria San José, manipuló dos diplomas (profesional en Contaduría Pública y tecnóloga en Gestión Contable y Tributaria) y sus dos actas de grado, emitidos en julio de 2025 [F1][F5]. Gutiérrez firmó preacuerdo reconociéndose cómplice de falsedad ideológica en documento público con pena de 36 meses de prisión [F5]. El caso surgió cuando en 2025 su postulación al Viceministerio de las Juventudes reveló que su hoja de vida transitó de un nivel técnico a títulos profesionales que no cumplían requisitos legales, lo que derivó en la imputación de la Fiscalía [F4]. Datos posteriores no confirmados en estas fuentes: la condena se menciona como ocurrida en septiembre de 2026 [F1]. El caso no es aislado: el mismo patrón se documenta en Recer Lee Pérez (condenado a nueve años en 2023 por documentos falsos) y en la controversia sobre el título de ingeniería de Luz Verónica Estrada, cuya presunta falsedad fue confirmada por la Universidad Nacional y el COPNIA, con investigación de la Procuraduría abierta el 19 de noviembre de 2026 [F1][F2][F3].",
+          "progressivePerspective": "A la luz de los principios aplicables —debido proceso, presunción de inocencia y verificación documental—, la afirmación tiene dos componentes con estatus distinto. El componente de los títulos falsos está probado judicialmente y su reconocimiento abona a la verdad y a la no repetición, porque el caso derivó en condena y en un debate institucional sobre la verificación obligatoria de diplomas: ASCUN propuso conectar SNIES, SIGEP y registros de consejos profesionales, y respaldó el proyecto de ley 019 de 2026 Cámara, medidas de carácter preventivo y transversal [F3]. El componente de la \"punta del iceberg\" es una suposición no verificable con estas fuentes y, de presentarse como hecho, introduce un margen de incertidumbre sobre la magnitud real: las fuentes documentan un conjunto específico (dos diplomas y dos actas), no una cantidad indeterminada [F1][F5]. Por otro lado, las propias fuentes muestran que el fenómeno de títulos irregulares se da en distintos sectores: se mencionan los casos de Julián Bedoya, Paola Holguín (según denuncia de la congresista Jennifer Pedraza), los posgrados de Enrique Peñalosa y el de Estrada, y ASCUN rechazó la práctica \"independientemente del sector, la filiación política o el cargo\", exigiendo respeto al debido proceso [F3][F1]. El uso del caso de un solo sector como muestra general, sin esos antecedentes, afecta el equilibrio de la información presentada [F3].",
+          "whatTheyOmit": "El video no precisa la magnitud documentada de los títulos falsos (dos diplomas manipulados, no un conjunto indeterminado), lo que hace que la metáfora del \"iceberg\" quede como una especulación sin respaldo en las fuentes entregadas [F1][F5]. También omiten las fuentes la distinción entre lo ya resuelto judicialmente (condenada por fraude procesal con pena de tres años y libertad condicional) y lo aún sin resolver (el caso de Estrada, donde no existe decisión judicial y opera la presunción de inocencia, según reconoce el propio medio) [F1][F2]. Asimismo queda fuera la propuesta concreta de verificación obligatoria de títulos de ASCUN y el proyecto de ley 019 de 2026 Cámara, que sitúan el problema como sistémico y no exclusivo de un sector, así como los antecedentes en gobiernos anteriores mencionados por la congresista Jennyfer Pedraza [F3].",
+          "keyFacts": [
+            "Juliana Guerrero fue sentenciada a tres años de prisión por fraude procesal mediante preacuerdo con la Fiscalía por títulos falsos [F1][F4]",
+            "Manipuló dos diplomas (profesional en Contaduría Pública y tecnóloga en Gestión Contable y Tributaria) y sus dos actas de grado, emitidos en julio de 2025 [F1][F5]",
+            "Luis Carlos Gutiérrez Martínez, exsecretario general de la Fundación Universitaria San José, reconoció su participación en la expedición de los títulos falsos y aceptó 36 meses de prisión como cómplice de falsedad ideológica en documento público [F5]",
+            "El caso se reveló en 2025, cuando su postulación al Viceministerio de las Juventudes mostró que su hoja de vida pasó de nivel técnico a títulos profesionales sin cumplir requisitos legales, lo que derivó en imputación por fraude procesal [F4]",
+            "La condena a Guerrero se menciona como producida en septiembre de 2026, con libertad condicional/excarcelable por ser pena inferior a cuatro años [F1]",
+            "No existe en las fuentes evidencia de títulos falsos adicionales a los dos ya documentados [F1][F5]",
+            "El caso se inscribe en una serie de episodios de títulos presuntamente falsos que incluye a Recer Lee Pérez (condenado a nueve años en 2023) y a Luz Verónica Estrada, sin decisión judicial en este último caso [F1][F2]",
+            "ASCUN pidió hacer obligatoria la verificación de diplomas con las universidades antes de contratar o posesionar funcionarios, con conexión entre SNIES, SIGEP y registros de consejos profesionales [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/politica/partidos-politicos/de-juliana-guerrero-a-luz-veronica-estrada-los-casos-de-titulos-falsos-que-han-salpicado-al-pacto-historico-3602400",
+              "note": "Documenta la condena de Guerrero a tres años por fraude procesal, los dos diplomas y dos actas manipulados, y lo contrasta con los casos de Estrada, Recer Lee Pérez y Bedoya.",
+              "host": "eltiempo.com",
+              "title": "De Juliana Guerrero a Luz Verónica Estrada: los casos de títulos falsos que han salpicado al Pacto Histórico",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaf016ff3a84.r_d.600-267-0.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.publimetro.co/noticias/2026/11/19/tienes-que-renunciar-agmeth-escaf-lanza-dura-advertencia-a-luz-veronica-estrada-y-revive-el-caso-de-juliana-guerrero/",
+              "note": "Registra el reconocimiento de la Universidad Nacional de que Estrada no fue estudiante, la investigación interna del Pacto Histórico y que aún no hay decisión judicial sobre Estrada.",
+              "host": "publimetro.co",
+              "title": "“Tienes que renunciar”: Agmeth Escaf lanza dura advertencia a Luz Verónica Estrada y revive el caso de Juliana Guerrero",
+              "image": "https://www.publimetro.co/resizer/v2/SJGN7YDLE5AHLND6A6ES7RGNNM.png?smart=true&auth=62c3ff28bae1b18169dc31cf369cecb8315529e0af8d2c4457256bf64372a866&width=1200&height=630"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elheraldo.co/politica/2026/11/22/el-camino-facil-hacia-los-cargos-publicos-los-titulos-falsos-vuelven-a-sacudir-la-politica/",
+              "note": "Aporta la denuncia de la Procuraduría (19 nov 2026), la posición transversal de ASCUN con medidas de verificación, y menciones a casos de distinto signo político.",
+              "host": "elheraldo.co",
+              "title": "El camino fácil hacia los cargos públicos: los títulos falsos vuelven a sacudir la política",
+              "image": "https://www.elheraldo.co/resizer/v2/P7SXZEJXABHRFI5ZEC6ONGAVAY.jpg?smart=true&auth=47bdbea4e8fdc7b94ed68dca2a938d6bb870bc1dd77c111c9d5e4044823eacd0&width=1200&height=675"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elpais.com.co/politica/quien-es-juliana-guerrero-y-por-que-esta-en-el-centro-de-la-polemica-2701.html",
+              "note": "Perfil de Guerrero: ascenso, postulación al Viceministerio de Juventudes, imputación por fraude procesal y denuncias de Angie Rodríguez.",
+              "host": "elpais.com.co",
+              "title": "Juliana Guerrero pasa de figura juvenil estrella a enfrentar proceso por falsedad y red de cobros a contratistas; esto se sabe del caso",
+              "image": "https://www.elpais.com.co/resizer/v2/YOZQEYR6JRBW3CG7EGEJH6S6GM.jpg?auth=fffce9c9c39d82f7034025e049b1cdd20e6f021db345cfc0e9f452eddc728b3f&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://caracol.com.co/2026/08/20/quien-es-luis-carlos-gutierrez-exsecretario-fundacion-san-jose-implicado-en-caso-juliana-guerrero/",
+              "note": "Detalla el preacuerdo de Gutiérrez (36 meses), los títulos falsos específicos y las fechas de expedición; es la fuente que delimita el conjunto exacto de documentos falsos.",
+              "host": "caracol.com.co",
+              "title": "¿Quién es Luis Carlos Gutiérrez, exsecretario Fundación San José? implicado en caso Juliana Guerrero",
+              "image": "https://caracol.com.co/resizer/v2/5WQ2JOCQZZBPFCDCRMN623SC3E.png?auth=bcdd6a657903844d6585d0ead435a764a018dcc6e7c38a0cf428ef2ecd84046f&quality=70&width=1200&height=675&smart=true"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "politica",
+          "claim": "Se atribuye a Juliana Guerrero el intento de dejar en ridículo a un ministro, habría fallado al hablar.",
+          "quote": "pensando que iba a dejar en ridículo a un ministro, y no fue sino que abriera la jeta para que se le saliera el capote",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Las fuentes documentan ampliamente el caso judicial y las controversias de Juliana Guerrero, pero ninguna respalda el episodio concreto de un supuesto intento de 'dejar en ridículo a un ministro' ni el supuesto 'fallo' al hablar; esa secuencia solo aparece como afirmación del video, sin respaldo verificable en las fuentes entregadas [F1][F2][F3][F4][F5].",
+          "context": "Los hechos sí documentados sobre Juliana Guerrero son otros: fue presentada como 'designada del presidente de la República' en la posesión del rector de la Universidad Popular del Cesar sin ocupar cargo oficial en el Gobierno [F1]; la Fiscalía le imputó fraude procesal por títulos de la Fundación Universitaria San José y fue condenada el 9 de septiembre de 2026 a 36 meses de prisión tras aceptar un preacuerdo [F5]; existen denuncias de su intervención en el Consejo Directivo de FonIgualdad sin cargo ni competencia, y la Contraloría revisó la ejecución de $2,78 billones asignados a esa cartera entre 2023 y 2026 [F5]; también se registra su pronunciamiento público tras la condena, en el que pidió no seguir siendo 'crucificada' y afirmó que no respondería con la misma moneda a sus críticos [F4]. Nada de esto equivale al episodio de 'ridículo a un ministro' que atribuye el video [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "Esta afirmación no corresponde a un caso del conflicto armado ni de la JEP, por lo que el marco de verdad, justicia, reparación y no repeticion no resulta aplicable de manera directa; se aplica en cambio la obligación de separar hechos comprobados de juicios de valor. En el material disponible, la dimensión verificable es estrictamente judicial e institucional: una condena por fraude procesal aceptada en preacuerdo [F5], imputaciones y denuncias en curso [F2][F3][F5], y controversias sobre la autonomía universitaria derivadas de su presentación como delegada presidencial [F1]. El relato del video, en cambio, convierte un episodio no documentado en un juicio sobre la capacidad o el desempeño de la persona mediante lenguaje descalificante ('abriera la jeta para que se le saliera el capote'), lo que desplaza la conversación desde la responsabilidad probada hacia la ridiculización individual, sin que las fuentes permitan concluir que tal episodio ocurrió tal como se narra [F1][F2][F3][F4][F5].",
+          "whatTheyOmit": "Omite que las fuentes que sí respaldan críticas a Guerrero se basan en documentos, actas, procesos judiciales y decisiones formales (condena a 36 meses, imputación por fraude procesal, acta de FonIgualdad, auditorías de la Contraloría), no en el episodio narrado [F5][F1][F3]. Omite también que algunas acusaciones más graves contenidas en las fuentes 'no han sido confirmados por autoridades judiciales' ni 'probadas judicialmente', según los propios medios [F1]. Finalmente, omite que la persona aludida se declaró culpable en un preacuerdo y posteriormente pidió límites al enfrentamiento público y negó haber falsificado el título según su defensa [F4][F5], mientras el video presenta una secuencia de 'ridículo fallido' que ninguna fuente entrega permite constatar [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Juliana Guerrero fue presentada como 'designada del presidente de la República' en el acto de posesión del rector de la Universidad Popular del Cesar pese a no ocupar cargo oficial en el Gobierno [F1]",
+            "La Fiscalía le imputó fraude procesal por títulos de la Fundación Universitaria San José y fue condenada el 9 de septiembre de 2026 a 36 meses de prisión tras un preacuerdo [F5]",
+            "El liquidador del Ministerio de la Igualdad denunció ante la Fiscalía a Juliana Guerrero y a su hermana Verónica por presunta participación indebida en el Consejo Directivo de FonIgualdad, donde habría ejercido un 'poder de facto' sin cargo ni competencia [F5]",
+            "La Contraloría encontró en su primera auditoría que FonIgualdad recibió $1,9 billones y que cerca del 25% se comprometió en contratos; además revisa la ejecución de $2,78 billones asignados a la cartera entre 2023 y 2026 [F5]",
+            "Guerrero declaró públicamente tras su condena que se siente con la autoestima dañada, que no responderá con la misma moneda a sus críticos y que pide poner un límite a los enfrentamientos [F4]",
+            "Ni el video ni las fuentes entregadas documentan un episodio en el que ella intentara dejar en ridículo a un ministro y 'fallara' al hablar [F1][F2][F3][F4][F5]",
+            "Los medios señalan que algunas versiones sobre presuntos vínculos con estructuras ilegales y supuestas irregularidades 'no han sido probadas judicialmente' ni confirmadas por autoridades [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/colombia/otras-ciudades/polemica-juliana-guerrero-fue-presentada-como-delegada-de-petro-en-acto-de-posesion-del-rector-de-la-universidad-popular-del-cesar-3551324",
+              "note": "Documenta la polémica por su presentación como delegada presidencial en la posesión rectoral sin cargo oficial; advierte que versiones graves no están judicialmente probadas. No contiene el episodio del 'ministro en ridículo'.",
+              "host": "eltiempo.com",
+              "title": "Polémica en Cesar por recibimiento a Juliana Guerrero en acto de posesión de rector de la U. Popular: fue presentada como delegada de presidente Petro",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/27/69efd5b7dadb3.r_d.820-462-0.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.semana.com/politica/articulo/juliana-guerrero-enciende-nueva-polemica-tras-asistir-al-consejo-superior-de-la-universidad-del-cesar/202611/",
+              "note": "Registra su imputación por fraude procesal, su permanencia como vocera en el consejo superior y críticas de congresistas; su intervención fue en apoyo a la creación de una sede, no contra un ministro.",
+              "host": "semana.com",
+              "title": "Juliana Guerrero enciende nueva polémica tras asistir al consejo superior de la Universidad del Cesar",
+              "image": "https://www.semana.com/resizer/v2/25M72ZQQ4BGDJC4IS2N5IGEDDE.jpeg?auth=4d59288b0ffddd58ed9c108c7be17d661b2af2078a17991fbdbf4fc5406f4b21&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elpais.com.co/politica/quien-es-juliana-guerrero-y-por-que-esta-en-el-centro-de-la-polemica-2701.html",
+              "note": "Perfil de su trayectoria, la imputación por títulos y denuncias de Angie Rodríguez; aporta el contexto de su carrera y controversias, sin el episodio narrado.",
+              "host": "elpais.com.co",
+              "title": "Juliana Guerrero pasa de figura juvenil estrella a enfrentar proceso por falsedad y red de cobros a contratistas; esto se sabe del caso",
+              "image": "https://www.elpais.com.co/resizer/v2/YOZQEYR6JRBW3CG7EGEJH6S6GM.jpg?auth=fffce9c9c39d82f7034025e049b1cdd20e6f021db345cfc0e9f452eddc728b3f&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elheraldo.co/colombia/2026/09/11/no-quiero-que-me-sigan-crucificando-juliana-guerrero-respondio-a-las-criticas-tras-el-caso-de-los-titulos-falsos/",
+              "note": "Su pronunciamiento tras declararse culpable: pide no seguir siendo crucificada y dice no pagar con la misma moneda; permite contrastar su postura pública con la narrativa del video.",
+              "host": "elheraldo.co",
+              "title": "“No quiero que me sigan crucificando”: Juliana Guerrero respondió a las críticas tras el caso de los títulos falsos",
+              "image": "https://www.elheraldo.co/resizer/v2/RYVRNZHWWJG5XDIIZ3KGUM6RUU.jpg?smart=true&auth=3358187c8dc60da48aa58ff11692b016addff03bc944aa16daba1af2ca7d5de1&width=1200&height=675"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.minuto60.com/judicial/denuncia-contra-juliana-guerrero-su-hermana-veronica-fiscalia/17726",
+              "note": "Denuncia penal por FonIgualdad, condena a 36 meses por fraude procesal, acta que la ubica como invitada, y cifras de la Contraloría; es la fuente con mayor respaldo documental y judicial.",
+              "host": "minuto60.com",
+              "title": "Liquidador del Ministerio de la Igualdad denunció ante la Fiscalía a Juliana Guerrero y a su hermana",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/juliana-guerrero-y-su-hermana-veronica-fueron-denunciadas-ante-la-fiscalia-20261024-203403_20261024_203403_twitter.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "educacion",
+          "claim": "Se afirma que Juliana Guerrero falsificó un título de ingeniera de minas.",
+          "quote": "Se va esta tarúpida y falsifica un título de ingeniera de minas",
+          "figures": [],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "La afirmación confunde dos casos distintos. Juliana Guerrero falsificó títulos en Contaduría Pública y Tecnóloga en Gestión Contable y Tributaria, no un título de ingeniera de minas. El título de Ingeniería de Minas falsificado corresponde a Luz Verónica Estrada Holguín, representante a la Cámara por Antioquia [F1][F5].",
+          "context": "Juliana Guerrero, de 23-24 años, fue impulsada para la Viceministratura de Juventudes en 2025. Usó dos diplomas falsos (Contaduría Pública y Gestión Contable y Tributaria) expedidos en julio de 2025 por la Fundación Universitaria San José, con la ayuda de Luis Carlos Gutiérrez Martínez, exsecretario general de esa institución, quien confesó ser cómplice de falsedad ideológica en documento público. Ambos firmaron preacuerdos con la Fiscalía y fueron sentenciados a 36 meses de prisión. El caso de un título falso de Ingeniería de Minas y Metalurgia corresponde a la representante Luz Verónica Estrada Holguín, cuya Universidad Nacional certificó que no encontró registros de graduación y cuyo caso está en investigación ante la Comité de Ética del Pacto Histórico, sin decisión judicial aún [F1][F2][F3][F5].",
+          "progressivePerspective": "Desde el marco de verdad, justicia, reparación y no repetición, mezclar los casos de Guerrero y Estrada distorsiona la verdad fáctica: cada persona, cada cargo y cada responsabilidad debe ser establecido con precisión. Juliana Guerrero ya fue condenada mediante preacuerdo y cumplió con la justicia; el caso de Estrada está en investigación sin fallo judicial, por lo que afirmar que ella 'falsificó' un título de ingeniera de minas atribuyéndoselo a Guerrero es inexacto. La precisión en los hechos es un componente esencial de la verdad y de la garantía de no repetición, ya que la confusión deliberada entre casos dificulta el esclarecimiento y puede generar injusticias contra personas que aún gozan de presunción de inocencia [F1][F2][F3].",
+          "whatTheyOmit": "El video omite que los títulos falsificados por Juliana Guerrero corresponden a Contaduría Pública y Gestión Contable y Tributaria, no a Ingeniería de Minas. También omite que el caso del título falso de Ingeniería de Minas es de una persona diferente (Luz Verónica Estrada Holguín), que aún no ha sido condenada judicialmente y que la Universidad Nacional certificó la ausencia de registros [F1][F2][F5].",
+          "keyFacts": [
+            "Juliana Guerrero fue sentenciada a tres años de prisión por fraude procesal mediante preacuerdo, por el uso de dos diplomas falsos de Contaduría Pública y Gestión Contable y Tributaria expedidos por la Fundación Universitaria San José [F1][F5]",
+            "Luis Carlos Gutiérrez Martínez, exsecretario general de la Fundación Universitaria San José, confesó su participación en la expedición de títulos falsos a favor de Juliana Guerrero y fue sentenciado a 36 meses por falsedad ideológica en documento público [F5]",
+            "El título falsificado de Ingeniería de Minas y Metalurgia corresponde a Luz Verónica Estrada Holguín, no a Juliana Guerrero; la Universidad Nacional certificó que no encontró registros de su graduación [F1][F2]",
+            "El caso de Estrada está en investigación ante la Comité de Ética del Pacto Histórico y no existe decisión judicial que establezca su responsabilidad penal [F3]",
+            "Juliana Guerrero y Juliana Guerrero comparten un elemento común: ambas usaron documentos académicos falsos para acreditar formación profesional ante entidades del Estado, pero son casos distintos con títulos diferentes [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/politica/partidos-politicos/de-juliana-guerrero-a-luz-veronica-estrada-los-casos-de-titulos-falsos-que-han-salpicado-al-pacto-historico-3602400",
+              "note": "Detalla que Guerrero falsificó títulos de Contaduría y Gestión Contable, y que el título de Ingeniería de Minas es de Estrada. Establece la distinción entre ambos casos.",
+              "host": "eltiempo.com",
+              "title": "De Juliana Guerrero a Luz Verónica Estrada: los casos de títulos falsos que han salpicado al Pacto Histórico",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaf016ff3a84.r_d.600-267-0.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.pulzo.com/nacion/universidad-nacional-desmintio-titulo-luz-veronica-estrada-pacto-PP5358971",
+              "note": "Confirma que el título falso de Ingeniería de Minas y Metalurgia pertenece a Estrada, no a Guerrero. Certificación de la Universidad Nacional.",
+              "host": "pulzo.com",
+              "title": "Nuevo escándalo al estilo Juliana Guerrero: congresista del Pacto habría falsificado título de la U. Nacional",
+              "image": "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5358971-h-o.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.publimetro.co/noticias/2026/11/19/tienes-que-renunciar-agmeth-escaf-lanza-dura-advertencia-a-luz-veronica-estrada-y-revive-el-caso-de-juliana-guerrero/",
+              "note": "Precisa que no existe decisión judicial contra Estrada y que el caso está en investigación. Distingue ambos casos.",
+              "host": "publimetro.co",
+              "title": "“Tienes que renunciar”: Agmeth Escaf lanza dura advertencia a Luz Verónica Estrada y revive el caso de Juliana Guerrero",
+              "image": "https://www.publimetro.co/resizer/v2/SJGN7YDLE5AHLND6A6ES7RGNNM.png?smart=true&auth=62c3ff28bae1b18169dc31cf369cecb8315529e0af8d2c4457256bf64372a866&width=1200&height=630"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.cronista.com/colombia/actualidad-co/quien-es-realmente-juliana-guerrero-edad-titulos-obtenidos-y-quienes-son-sus-padres/",
+              "note": "Detalle sobre los títulos de Guerrero: Contaduría Pública y Gestión Contable, no Ingeniería de Minas.",
+              "host": "cronista.com",
+              "title": "¿Quién es realmente Juliana Guerrero? Edad, títulos obtenidos, y quiénes son sus padres",
+              "image": "https://www.cronista.com/resizer/v2/XHXWID7VHZHW3FZIZ3DLZV65GM.png?auth=f5ffdb1dd441563faf940ec2a624ed383b95b4de9c1364b6093e2e6c6ad43b84&height=630&width=1200&quality=70&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://caracol.com.co/2026/08/20/quien-es-luis-carlos-gutierrez-exsecretario-fundacion-san-jose-implicado-en-caso-juliana-guerrero/",
+              "note": "Confirma los títulos falsos de Guerrero (Contaduría y Gestión Contable) y la condena del cómplice Gutiérrez Martínez.",
+              "host": "caracol.com.co",
+              "title": "¿Quién es Luis Carlos Gutiérrez, exsecretario Fundación San José? implicado en caso Juliana Guerrero",
+              "image": "https://caracol.com.co/resizer/v2/5WQ2JOCQZZBPFCDCRMN623SC3E.png?auth=bcdd6a657903844d6585d0ead435a764a018dcc6e7c38a0cf428ef2ecd84046f&quality=70&width=1200&height=675&smart=true"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "educacion",
+          "claim": "Se afirma que Juliana Guerrero apenas fue a una escuela en el alto de Morro Puto y solo estudió hasta octavo grado.",
+          "quote": "a duras penas fue a una escuelita por allá en el alto de Morro Puto y no aguantó sino hasta octavo",
+          "figures": [
+            "octavo"
+          ],
+          "verdict": "falso",
+          "headline": "",
+          "color": "red",
+          "confidence": "alta",
+          "summary": "Las fuentes confirman que Juliana Guerrero obtuvo el título de bachiller (educación media) en Agustín Codazzi, Cesar, y un título técnico del SENA en 2018, por lo que afirmar que 'no aguantó sino hasta octavo' grado es contrario a la evidencia documentada [F2][F5]. La localidad específica 'alto de Morro Puto' no aparece en ninguna de las fuentes entregadas [F2][F5].",
+          "context": "Guerrero es oriunda de Codazzi, Cesar, donde cursó y terminó el bachillerato en la institución educativa Francisco de Paula Santander; en 2018 obtuvo, por convenio SENA-educación media, un título técnico en Contabilización de Operaciones Comerciales y Financieras de 880 horas, que ella registró indebidamente como 'pregrado' en su hoja de vida [F5]. El caso documentado no es de analfabetismo o educación truncada, sino de títulos falsificados: manipuló con la ayuda del exsecretario general de la Fundación Universitaria San José dos diplomas (profesional en Contaduría Pública y tecnóloga en Gestión Contable y Tributaria) y sus actas de grado; fue condenada a tres años de prisión por fraude procesal mediante preacuerdo, y el funcionario académico aceptó 36 meses como cómplice de falsedad ideológica en documento público [F1][F3]. Ocupó varios cargos con 'solo un diploma de bachiller' [F2] y renunció en julio de 2026 a la delegación presidencial ante la Universidad Popular del Cesar para concentrarse en las investigaciones en su contra [F4].",
+          "progressivePerspective": "La verificación del dato importa en los cuatro ejes del marco de valoración de información pública: VERDAD, porque el mecanismo real del caso (diplomas manipulados por un funcionario de una fundación privada, con condena y preacuerdo) queda diluido cuando se sustituye por una caricatura de ignorancia; JUSTICIA, porque la responsable ya enfrenta proceso y condena condicional, y el exsecretario de la fundación aceptó responsabilidad [F1][F3], de modo que presentar el caso como simple analfabetismo desplaza el foco de la red de responsabilidades documentada; REPARACIÓN, porque la desacreditación fáctica de la persona —incluso siendo cuestionable— no sustituye el daño probado ni la restitución exigida por la sentencia; y NO REPETICIÓN, porque señalar falsedades académicas reales exige precisamente rigor en los hechos: exagerar el nivel educativo de la acusada resta credibilidad a la crítica legítima contra el uso de títulos falsos en cargos públicos. Sobre el fondo del enfoque pedido (faltas de títulos en actuales funcionarios), las fuentes entregadas confirman casos de títulos falsos o no acreditados ligados al Pacto Histórico —Guerrero, Estrada Holguín, Recer Lee Pérez— pero no contienen información sobre el 'Fondo Milagro', sueldos de Coljuegos, la senadora Arias ni la ministra Holguín en el cargo actual, por lo que esas piezas del enfoque quedan sin_evidencia con estas fuentes [F1][F2].",
+          "whatTheyOmit": "Se omite que Guerrero sí terminó el bachillerato y obtuvo un título técnico del SENA antes de los títulos falsos, es decir, la afirmación de 'octavo grado' y la escuela del 'alto de Morro Puto' no tienen respaldo en las fuentes [F2][F5]. También se omite el proceso penal, la condena de tres años y el preacuerdo del funcionario de la Fundación San José, que son los hechos centrales y verificados del caso [F1][F3], así como la naturaleza del error documentado (registro de un programa técnico de 880 horas como 'pregrado' y diploma profesional fabricado) [F5]. Las fuentes no contienen información sobre el 'Fondo Milagro', donaciones desviadas, Coljuegos, la senadora Arias ni la ministra de Cultura Holguín [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "Guerrero obtuvo el título de bachiller en la institución educativa Francisco de Paula Santander, municipio de Agustín Codazzi, Cesar, lo que contradice que haya estudiado 'hasta octavo' grado [F5]",
+            "En 2018 obtuvo un título técnico del SENA en Contabilización de Operaciones Comerciales y Financieras (880 horas) mediante convenio con la educación media, que registró indebidamente como 'pregrado' de cuatro semestres [F5]",
+            "Ocupó varios cargos públicos 'con solo un diploma de bachiller', sin título universitario [F2]",
+            "Manipuló dos diplomas y sus actas de grado con la ayuda del exsecretario general de la Fundación Universitaria San José; fue condenada a tres años por fraude procesal mediante preacuerdo [F1][F3]",
+            "El exsecretario de la Fundación San José aceptó ser cómplice de falsedad ideológica en documento público y una pena de 36 meses de prisión [F3]",
+            "Renunció irrevocablemente el 27 de julio de 2026 a la representación presidencial ante la Universidad Popular del Cesar para atender las investigaciones en su contra [F4]",
+            "La localidad 'alto de Morro Puto' no figura en ninguna de las fuentes entregadas sobre su trayectoria [F2][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/politica/partidos-politicos/de-juliana-guerrero-a-luz-veronica-estrada-los-casos-de-titulos-falsos-que-han-salpicado-al-pacto-historico-3602400",
+              "note": "Resumen del caso: condena de 3 años por fraude procesal, diplomas manipulados, y casos paralelos de títulos falsos (Estrada Holguín, Recer Lee Pérez).",
+              "host": "eltiempo.com",
+              "title": "De Juliana Guerrero a Luz Verónica Estrada: los casos de títulos falsos que han salpicado al Pacto Histórico",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaf016ff3a84.r_d.600-267-0.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/gobierno/juliana-guerrero-asi-fue-su-recorrido-por-el-gobierno-petro-y-hoy-es-blanco-de-un-presunto-caso-de-corrupcion-498971",
+              "note": "Trayectoria: oriunda de Codazzi, cargos con 'solo un diploma de bachiller', irregularidades en hoja de vida y renuncia al cargo.",
+              "host": "portafolio.co",
+              "title": "Juliana Guerrero: así fue su recorrido por el Gobierno Petro y hoy es blanco de un presunto caso de corrupción",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/07/16/6877d6c14dc36.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://caracol.com.co/2026/08/20/quien-es-luis-carlos-gutierrez-exsecretario-fundacion-san-jose-implicado-en-caso-juliana-guerrero/",
+              "note": "Preacuerdo y condena de 36 meses al exsecretario de la Fundación San José por falsedad ideológica; detalle de los títulos falsos.",
+              "host": "caracol.com.co",
+              "title": "¿Quién es Luis Carlos Gutiérrez, exsecretario Fundación San José? implicado en caso Juliana Guerrero",
+              "image": "https://caracol.com.co/resizer/v2/5WQ2JOCQZZBPFCDCRMN623SC3E.png?auth=bcdd6a657903844d6585d0ead435a764a018dcc6e7c38a0cf428ef2ecd84046f&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elcolombiano.com/colombia/cenaida-alvis-reemplazara-juliana-guerrero-delegada-presidencial-upc-IP40381845",
+              "note": "Renuncia irrevocable de Guerrero a la delegación presidencial ante la UPC en julio de 2026 y su reemplazo.",
+              "host": "elcolombiano.com",
+              "title": "Ella es Cenaida Alvis, la acadÃ©mica que reemplazarÃ¡ a Juliana Guerrero como delegada presidencial ante la Universidad del Cesar",
+              "image": "https://estaticos.elcolombiano.com/binrepository/785x590/0c0/1280d720/none/11101/UOCG/diseno-sin-titulo-87_51465867_20260827164713.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elpais.com.co/colombia/juliana-guerrero-y-las-inconsistencias-en-su-hoja-de-vida-de-un-programa-tecnico-del-sena-a-pregrado-0131.html",
+              "note": "Contraste clave: bachillerato en Agustín Codazzi, título técnico SENA de 880 horas registrado como 'pregrado', y ausencia de títulos completados en universidades.",
+              "host": "elpais.com.co",
+              "title": "Juliana Guerrero habría presentado un programa técnico del Sena como pregrado; esto se sabe",
+              "image": "https://www.elpais.com.co/resizer/v2/4UNE3KSELJFGJCICFBL2NVP3RA.jpeg?auth=aa60ff5d068651b6889374173eed6b7322a7808692552463214d60bc9c253333&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "topic": "educacion",
+          "claim": "Se cuestiona si algunas personas citadas han presentado algún diploma o título acreditando su profesión.",
+          "quote": "habrá presentado algún diploma de algo, pues aparte de su profesión natural",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación general —cuestionar si algunas personas citadas han presentado algún diploma o título acreditando su profesión— está respaldada por las fuentes en al menos dos casos concretos verificados: la ministra de Cultura Paola Holguín (sin título de maestría, según la UPB) y el exdirector de Coljuegos Jaime Vives (posgrado obtenido en 21 días). Sin embargo, la mención a 'la senadora Arias' no tiene respaldo en ninguna de las cinco fuentes entregadas, por lo que ese caso queda sin evidencia dentro de este ejercicio [F1][F2][F3][F4][F5].",
+          "context": "El caso de Holguín: la Universidad Pontificia Bolivariana confirmó que cursó y aprobó todas las asignaturas de la Maestría en Estudios Políticos y presentó trabajo de grado, pero 'no ha otorgado a la señora PAOLA ANDREA HOLGUÍN MORENO el título de Magíster en Estudios Políticos'; la universidad rectificó su publicación de julio de 2026 y reconoció el error [F1][F2]. La propia ministra admitió públicamente: 'No me gradué, a pesar de haber aprobado todas las materias y el trabajo de grado', y precisó que en sus documentos públicos figura como egresada o que 'cursó' la maestría [F3]. El caso de Coljuegos: Jaime Vives obtuvo una especialización en Alta Gerencia de la Universidad del Magdalena con reconocimiento del 88,46% de los créditos (23 de 26) y se graduó 21 días después de la inscripción; el 15 de noviembre el presidente De la Espriella ordenó su salida del cargo [F4][F5]. En cuanto a la senadora Arias, ninguna de las fuentes entregadas la menciona ni aporta información sobre sus títulos [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "La verificación de títulos de funcionarios es un control meritocrático legítimo y relevante para la transparencia pública: en ambos casos documentados el cuestionamiento fue formal (derecho de petición de la senadora Pedraza) y terminó en rectificación institucional y, en el caso Coljuegos, en remoción del funcionario, lo que ilustra que el escrutinio sobre credenciales puede conducir a consecuencias efectivas [F1][F4]. Desde el ángulo de la rendición de cuentas, la precisión importa: la fuente muestra que la diferencia entre 'cursó' y 'graduado' fue exactamente lo que la universidad debió aclarar, y que el funcionario en cuestión sí rindió la materia pendiente y su proceso fue validado formalmente por la universidad, aunque en tiempo atípico [F2][F5]. El cuestionamiento abierto ('¿habrá presentado algún diploma...?') plantea una duda razonable, no una afirmación de fraude: los hechos probados son la ausencia del título de maestría en un caso y la vía exprés de expedición en el otro [F1][F3][F4]. Sobre el caso de la senadora Arias, las fuentes no alcanzan para concluir, por lo que cualquier juicio al respecto quedaría como sin evidencia [F1][F2][F3][F4][F5].",
+          "whatTheyOmit": "El enfoque del video ('mantener los de la izquierda cuando los de la derecha hablan') no puede contrastarse con estas fuentes, pues no contienen casos análogos de funcionarios de otras filaciones, por lo que el señalamiento de doble rasero queda sin soporte documental en el material entregado [F1][F2][F3][F4][F5]. También se omite la distinción clave en el caso Holguín: sí es graduada de Comunicación Social-Periodismo y completó el plan de estudios y el trabajo de grado de la maestría, por lo que equiparar 'no tiene el título de maestría' con 'no tiene ningún diploma o profesión' sería una distorsión [F1][F2][F3]. Asimismo se omite que el caso Coljuegos terminó en remoción ordenada por el propio presidente, y que la Universidad del Magdalena justificó el proceso como un programa de validación por competencias reconocido por UNESCO [F4][F5]. La afirmación sobre la senadora Arias carece de respaldo en las fuentes [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "La Universidad Pontificia Bolivariana confirmó que Paola Holguín no obtuvo el título de Magíster en Estudios Políticos, aunque cursó y aprobó todas las asignaturas y el trabajo de grado [F1][F2]",
+            "La ministra de Cultura reconoció públicamente: 'No me gradué, a pesar de haber aprobado todas las materias y el trabajo de grado' [F3]",
+            "Holguín sí es graduada de la Facultad de Comunicación Social y Periodismo de la UPB [F1][F2]",
+            "Jaime Vives, director de Coljuegos, obtuvo una especialización en Alta Gerencia con reconocimiento del 88,46% de los créditos y se graduó 21 días después de su inscripción [F4][F5]",
+            "El presidente Abelardo de la Espriella ordenó la salida de Vives del cargo el 15 de noviembre tras las denuncias y la investigación de La Silla Vacía [F4][F5]",
+            "Las fuentes entregadas no contienen ninguna información sobre la senadora Arias ni sobre los presuntos casos de 'sueldos astronómicos' o 'robo de donaciones' del Fondo Milagro mencionados en el enfoque [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.infobae.com/colombia/2026/10/08/universidad-confirmo-que-paola-holguin-no-tiene-titulo-de-maestria-y-jennifer-pedraza-la-critico-aparte-de-mala-ministra-es-una-mentirosa/",
+              "note": "Confirma por derecho de petición que la UPB no otorgó a Holguín el título de Magíster; incluye la respuesta de la universidad y los cuestionamientos de la senadora Pedraza",
+              "host": "infobae.com",
+              "title": "Universidad confirmó que Paola Holguín no tiene título de maestría y Jennifer Pedraza la criticó: “Mala ministra y mentirosa”",
+              "image": "https://www.infobae.com/resizer/v2/R3WV5EH6C5GP7A6E5BOMI7KCCU.png?auth=02a744f448d071896af075f986db8ebf7043e3b8259c8ca11e9da8d5d96f85b3&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/vida/educacion/la-universidad-reconoce-el-error-upb-confirma-que-la-ministra-de-culturas-paola-holguin-no-tiene-titulo-de-maestria-en-estudios-politicos-3592162",
+              "note": "Detalla la rectificación de la UPB, reconoce que sí es graduada de Comunicación Social-Periodismo y que completó el plan de estudios de la maestría sin obtener el grado",
+              "host": "eltiempo.com",
+              "title": "‘La Universidad reconoce el error’: UPB confirma que la ministra de Culturas, Paola Holguín, no tiene título de Maestría en Estudios Políticos",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/08/17/611c3094dbe07.r_d.1006-776-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elpais.com.co/politica/ministra-de-cultura-paola-holguin-responde-a-polemicas-sobre-su-titulo-de-maestria-no-me-gradue-0801.html",
+              "note": "Respuesta de la propia ministra admitiendo 'No me gradué' y adjuntando certificado de aprobación de asignaturas y tesis; aporta la versión del cuestionada",
+              "host": "elpais.com.co",
+              "title": "Paola Holguín explica polémicas sobre su título de maestría",
+              "image": "https://www.elpais.com.co/resizer/v2/7YHUWCDW4ZBOLI5MXPXTBLI5PE.jpg?auth=a713ce1313d3a83c0bbab9254f02efa2a06f39f5e0c526adb028aede0c45709c&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.agenciapi.co/noticia/gobierno/presidente-abelardo-de-la-espriella-ordena-salida-del-director-de-coljuegos-por-polemica-con-su-posgrado",
+              "note": "Reconstruye el proceso exprés del posgrado de Vives (88,46% de créditos reconocidos, graduación 21 días después) y la decisión presidencial de removerlo",
+              "host": "agenciapi.co",
+              "title": "Presidente Abelardo de la Espriella ordena salida del director de Coljuegos por polémica con su posgrado",
+              "image": "https://www.agenciapi.co/sites/default/files/2026-11/Copia%20de%20Collage%20API%20%281000%20x%20600%20px%29%20%2832%29.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/politica/articulo/el-presidente-de-coljuegos-otro-de-los-descabezados-en-el-gobierno-de-abelardo-de-la-espriella-el-mandatario-lo-notifico/202621/",
+              "note": "Confirma la salida de Vives, incluye la justificación de la Universidad del Magdalena (validación por competencias) y las denuncias de la senadora Pedraza; contraste sobre la legalidad del procedimiento",
+              "host": "semana.com",
+              "title": "Presidente de Coljuegos, otro de los ‘descabezados’ en el Gobierno De La Espriella: el mandatario lo notificó",
+              "image": "https://www.semana.com/resizer/v2/QACSGRXNNZFGJBBMT33OFEPICU.jpg?auth=56c1bfa22c6c213440328d20c037eee70c9ae419ff226a0506be3704fd8532b0&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "educacion",
+          "claim": "Se cuestiona si una persona mencionada se ha graduado en alguna universidad.",
+          "quote": "porque yo pinta de haber pisado en una universidad no le veo",
+          "figures": [],
+          "verdict": "engañoso",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La insinuación de que la funcionaria mencionada 'ni siquiera ha pisado una universidad' es falsa: la Universidad Pontificia Bolivariana confirmó que Paola Holguín es egresada graduada de Comunicación Social-Periodismo y que cursó y aprobó todas las asignaturas de la Maestría en Estudios Políticos, título que no obtuvo porque no presentó el examen de inglés, requisito del programa [F1][F2]. El núcleo verificable del cuestionamiento sí existe —no tiene el título de magíster—, pero la formulación del video lo exagera hasta negar un hecho documentado [F1][F2].",
+          "context": "La polémica surgió cuando la UPB publicó el 18 de julio de 2026 que Holguín era 'egresada de la Facultad de Comunicación Social-Periodismo y de la Maestría en Estudios Políticos', tras lo cual la senadora Jennifer Pedraza presentó un derecho de petición y la universidad rectificó el 7 de octubre de 2026, aclarando que 'no ha otorgado a la señora PAOLA ANDREA HOLGUÍN MORENO el título de Magíster en Estudios Políticos' [F1]. EL TIEMPO estableció que la razón fue la no presentación del examen de inglés y que Holguín presentó su título de pregrado para la posesión como ministra, por lo que 'no incumplió la ley'; la propia funcionaria reconoció públicamente en su cuenta de X: 'NO me gradué, a pesar de haber aprobado todas las materias y el trabajo de grado' [F2]. El caso se inscribe en una serie de cuestionamientos a títulos de funcionarios: el director de Coljuegos, Jaime Vives, cedido por un título de especialización obtenido en cerca de dos meses con reconocimiento de 23 de 26 créditos, fue separado del cargo por el presidente [F3], y la representante Luz Verónica Estrada está bajo investigación por un diploma de Ingeniería de Minas desconocido por la Universidad Nacional, con denuncia por posible falsedad [F4][F5].",
+          "progressivePerspective": "La afirmación funciona como una ironía que sugiere falta total de formación académica, cuando los hechos documentados muestran una situación intermedia y distinta: egreso de pregrado completo, cursado íntegro de un máster y ausencia de un título de posgrado por un requisito específico [F1][F2]. En términos de rendición de cuentas públicas, el cuestionamiento documentado de perfiles curriculares es legítimo —otras investigaciones sobre títulos han llegado incluso a instancias judiciales y a comités de ética partidistas [F4][F5]—, pero presentarlo como que la persona 'no ha pisado una universidad' desborda lo probado y desplaza la discusión de fondo (transparencia en la declaración de credenciales) hacia un ataque generalizado. Conviene distinguir los tres supuestos que aparecen en las fuentes: cursar sin graduarse (caso Holguín, sin incumplimiento legal según la prensa) [F2], títulos exprés con reconocimiento acelerado de créditos (caso Vives) [F3], y presunta falsedad documental con investigación penal en curso (caso Estrada) [F5].",
+          "whatTheyOmit": "El video omite que la funcionaria sí es graduada universitaria y que completó el plan de estudios de la maestría, omitiendo la causa concreta de la no obtención del título (el examen de inglés) [F1][F2]. También omite que presentó únicamente su título de pregrado para la posesión y que, según EL TIEMPO, no incumplió la ley [F2], así como que la propia UPB reconoció un error en su publicación de julio y asumió responsabilidad por esa información [F2]. Asimismo, no diferencia entre funcionarios que no tienen título alguno (caso con investigación penal y desconocimiento formal de la universidad) y quienes carecen solo de un posgrado [F4][F5].",
+          "keyFacts": [
+            "La Universidad Pontificia Bolivariana confirmó que Paola Holguín es egresada graduada de Comunicación Social-Periodismo, pero no obtuvo el título de Magíster en Estudios Políticos [F1]",
+            "Holguín cursó y aprobó la totalidad de las asignaturas y el trabajo de grado de la maestría, pero no presentó el examen de inglés, requisito para obtener el grado [F2]",
+            "Para su posesión como ministra presentó únicamente su título de pregrado, por lo que no incumplió la ley, según EL TIEMPO [F2]",
+            "La propia funcionaria reconoció públicamente que no se graduó de la maestría [F2]",
+            "La UPB reconoció que su publicación de julio de 2026 contenía un error y asumió la responsabilidad correspondiente [F2]",
+            "El director de Coljuegos fue cuestionado por un título de especialización obtenido en cerca de dos meses con reconocimiento de 23 de 26 créditos, y el presidente pidió su salida del cargo [F3]",
+            "La representante Luz Verónica Estrada está bajo cuestionamiento: la Universidad Nacional no encontró registros de su título de Ingeniería de Minas y anunció puesta en conocimiento de autoridades judiciales por posible falsedad, caso que su partido remitió a su Comité de Ética [F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.infobae.com/colombia/2026/10/08/universidad-confirmo-que-paola-holguin-no-tiene-titulo-de-maestria-y-jennifer-pedraza-la-critico-aparte-de-mala-ministra-es-una-mentirosa/",
+              "note": "Aporta el hecho central: la UPB confirmó que Holguín es graduada de pregrado pero no recibió el título de magíster; recoge el derecho de petición de la senadora Pedraza y la rectificación de la universidad.",
+              "host": "infobae.com",
+              "title": "Universidad confirmó que Paola Holguín no tiene título de maestría y Jennifer Pedraza la criticó: “Mala ministra y mentirosa”",
+              "image": "https://www.infobae.com/resizer/v2/R3WV5EH6C5GP7A6E5BOMI7KCCU.png?auth=02a744f448d071896af075f986db8ebf7043e3b8259c8ca11e9da8d5d96f85b3&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/cultura/por-que-la-ministra-de-cultura-paola-holguin-no-se-graduo-de-la-maestria-en-estudios-politicos-de-la-upb-a-pesar-de-cursar-todas-las-materias-3592231",
+              "note": "Aporta la causa concreta (no presentó el examen de inglés), el dato de que presentó su pregrado para la posesión sin incumplir la ley, la aclaración pública de la funcionaria y el reconocimiento de error por parte de la UPB; matiza la insinuación del video.",
+              "host": "eltiempo.com",
+              "title": "¿Por qué la ministra de Cultura Paola Holguín no se graduó de la Maestría en Estudios Políticos de la UPB a pesar de cursar todas las materias?",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/05/03/681699b48c55f.r_d.983-778-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://cambiocolombia.com/poder/articulo/2026/11/abelardo-de-la-espriella-pidio-la-salida-del-director-de-coljuegos-tras-cuestionamientos-por-su-titulo-de-especializacion",
+              "note": "Aporta el caso del director de Coljuegos: título de especialización en cerca de dos meses con reconocimiento de 23 de 26 créditos y salida del cargo; la universidad defiende el procedimiento como política institucional previa.",
+              "host": "cambiocolombia.com",
+              "title": "Abelardo de la Espriella pidió la salida del director de Coljuegos",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/abelardo_y_coljuegos_86f6a7d380_full-width.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.diariodelsur.com.co/noticias/controversia-por-titulo-profesional-de-representante-llega-a-instancias-judiciales",
+              "note": "Aporta el caso de la representante Verónica Estrada: denuncia de la Universidad Nacional por presunta falsedad documental y negación de matrícula por COPNIA, con la precisión de que aún no hay sentencia.",
+              "host": "diariodelsur.com.co",
+              "title": "Controversia por título profesional de representante llega a | DIARIO DEL SUR",
+              "image": "https://gec.hsbnoticias.com/uploads/articles/da630a41-898b-471e-93d0-8792b4ad42d5.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.minuto60.com/politica/luz-veronica-estrada-habria-falsificado-titulo-universitario/19191",
+              "note": "Aporta detalle del caso Estrada: declaración de la exdecana sobre firma presuntamente falsa, desconocimiento del título por la Universidad Nacional, posibles tipos penales del Código Penal y remisión a comité de ética partidista; contraste entre un caso con investigación penal y el caso de cursado sin graduación.",
+              "host": "minuto60.com",
+              "title": "Luz Verónica Estrada: los delitos que podría enfrentar por el escándalo de su título universitario",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/luz-veronica-estrada-20261119-062435_20261119_062435_twitter.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "educacion",
+          "claim": "Se atribuye al líder de la secta mencionada la declaración de tener aproximadamente cinco carreras, maestrías y doctorados.",
+          "quote": "el mismo líder de la secta ha dicho que tiene como cinco carreras y que maestría así que doctorados",
+          "figures": [
+            "cinco carreras"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "Ninguna de las cinco fuentes entregadas contiene información sobre la supuesta declaración del líder de una secta de tener 'como cinco carreras, maestrías y doctorados'; por tanto, esa atribución no puede verificarse ni refutarse con el material disponible [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes sí documentan, de forma independiente y por separado, casos de títulos o posgrados cuestionados en figuras públicas colombianas: la ministra de Cultura Paola Holguín no obtuvo el título de Magíster en Estudios Políticos de la UPB pese a haber cursado y aprobado las asignaturas [F1][F2], ni terminó la maestría en Seguridad y Defensa de la Escuela Superior de Guerra, donde aprobó 30 de 40 créditos sin presentar trabajo de grado ni segundo idioma [F1]; el exdirector de Coljuegos Jaime Vives obtuvo 23 de 26 créditos de su especialización por reconocimiento de competencias, lo que generó protestas universitarias y su salida del cargo [F4][F5]; y la representante Luz Verónica Estrada está siendo investigada por la Procuraduría y la Universidad Nacional por un presunto título de ingeniería no respaldado por la institución [F3]. El caso de la 'secta' y sus supuestos cinco títulos queda fuera por completo de lo que las fuentes cubren [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "La afirmación corresponde a una atribución directa a un tercero (una declaración que habría hecho 'el líder de la secta'), lo que exige una fuente primaria o un reporte periodístico que la respalde; con el material entregado no existe ningún elemento que permita verificar que esa declaración se haya producido, ni su contenido exacto [F1][F2][F3][F4][F5]. En términos de estándares de verificación, atribuir a una persona una cita sin fuente que la sustente traslada al hablante la carga de la prueba y, si resulta inexacta, puede constituir una imputación injustificada. Conviene notar que las propias fuentes muestran el estándar opuesto: en los casos documentados existe confirmación institucional escrita (derechos de petición de la UPB y de la Escuela Superior de Guerra, registros de la Universidad Nacional, informes de la Procuraduría) que permite afirmar o descartar cada título [F1][F2][F3][F5]. El tema tratado —la verificación de credenciales académicas en cargos públicos— es ajeno al ámbito de la JEP y del conflicto armado, por lo que el marco de verdad, justicia, reparación y no repetición no resulta aplicable a esta afirmación específica; sí aplica el criterio transversal de distinguir hechos comprobados de imputaciones sin sustento [F3].",
+          "whatTheyOmit": "El video no aporta, en la cita analizada, ninguna fuente, fecha, medio o registro que muestre dónde ni cuándo el líder de la supuesta secta habría hecho esa declaración, por lo que la atribución queda sin sustento documental [F1][F2][F3][F4][F5]. Tampoco se distingue en la cita entre 'carreras', 'maestrías' y 'doctorados' como categorías académicas diferentes, ni se precisa si la declaración fue literal o una paráfrasis [F1][F2]. Las fuentes, por su parte, cubren exclusivamente casos de funcionarios y congresistas con títulos cuestionados, sin referencia alguna a organizaciones clasificadas como sectas [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "La UPB confirmó que Paola Holguín cursó y aprobó todas las asignaturas de la Maestría en Estudios Políticos pero no obtuvo el título, y rectificó una publicación que la llamaba 'egresada' de esa maestría [F2]",
+            "La Escuela Superior de Guerra informó que Holguín aprobó 30 de 40 créditos de la maestría en Seguridad y Defensa, no presentó el trabajo de grado ni cumplió el requisito de segundo idioma, y no figura como graduada en el Snies [F1]",
+            "Jaime Vives, designado presidente de Coljuegos por Decreto 1430 del 1 de octubre de 2026, obtuvo 23 de 26 créditos de su especialización en Alta Gerencia mediante validación de competencias y dejó el cargo tras la controversia [F4]",
+            "La Universidad del Magdalena reconoció 23 de 26 créditos a Vives por un programa de validación de saberes vigente desde 2018, y el Ministerio de Educación visitó la institución tras las protestas [F5]",
+            "La Procuraduría abrió investigación disciplinaria el 19 de noviembre de 2026 contra la representante Luz Verónica Estrada por un presunto título de ingeniería de la Universidad Nacional que la institución no respalda; la universidad anunció acciones ante la Fiscalía [F3]",
+            "Ninguna de las cinco fuentes menciona a un líder de secta ni a declaraciones suyas sobre cinco carreras, maestrías y doctorados [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.infobae.com/colombia/2026/10/15/la-ministra-de-cultura-paola-holguin-tiene-en-duda-otro-titulo-universitario-la-escuela-superior-de-guerra-confirmo-que-no-cumplio-los-creditos-en-la-maestria-en-seguridad-y-defensa/",
+              "note": "Confirma con derecho de petición que la ministra de Cultura no se graduó de la maestría en Seguridad y Defensa de la Escuela Superior de Guerra; no trata sobre la secta mencionada.",
+              "host": "infobae.com",
+              "title": "La ministra de Cultura Paola Holguín tiene en duda otro título universitario: la Escuela Superior de Guerra confirmó que no cumplió los créditos en la maestría en Seguridad y Defensa",
+              "image": "https://www.infobae.com/resizer/v2/EUIU7SKVKJA4ZBMNZVBNRZXJRA.jpg?auth=e0087115ecf32e19baf38d39807ebfc522ac9a24c47e0f332f83749290c67cb3&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/vida/educacion/la-universidad-reconoce-el-error-upb-confirma-que-la-ministra-de-culturas-paola-holguin-no-tiene-titulo-de-maestria-en-estudios-politicos-3592162",
+              "note": "La UPB rectifica y confirma que Holguín no tiene el título de Magíster en Estudios Políticos; no contiene información sobre el líder de la secta.",
+              "host": "eltiempo.com",
+              "title": "‘La Universidad reconoce el error’: UPB confirma que la ministra de Culturas, Paola Holguín, no tiene título de Maestría en Estudios Políticos",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/08/17/611c3094dbe07.r_d.1006-776-0.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elheraldo.co/politica/2026/11/22/el-camino-facil-hacia-los-cargos-publicos-los-titulos-falsos-vuelven-a-sacudir-la-politica/",
+              "note": "Panorama del debate sobre títulos cuestionados en varios partidos y gobiernos, con casos de Estrada, Holguín y otros; aporta contraste de que el problema no se limita a un sector; no menciona a la secta.",
+              "host": "elheraldo.co",
+              "title": "El camino fácil hacia los cargos públicos: los títulos falsos vuelven a sacudir la política",
+              "image": "https://www.elheraldo.co/resizer/v2/P7SXZEJXABHRFI5ZEC6ONGAVAY.jpg?smart=true&auth=47bdbea4e8fdc7b94ed68dca2a938d6bb870bc1dd77c111c9d5e4044823eacd0&width=1200&height=675"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.minuto60.com/politica/jaime-vives-su-vida-carrera-llegada-presidencia-coljuegos/18999",
+              "note": "Explica el caso de Jaime Vives de Coljuegos: designación, cuestionamientos por su especialización y salida del cargo; no trata sobre la secta.",
+              "host": "minuto60.com",
+              "title": "¿Quién es Jaime Vives, presidente de Coljuegos, hoy en el ojo del huracán por su título académico?",
+              "image": "https://d33tk5b80rpokn.cloudfront.net/images/jaime-vives-presidente-de-coljuegos-cuestionado-por-su-titulo-academico-20261115-125236_20261115_125236_twitter.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.diariodelsur.com.co/noticias/protestas-en-universidad-colombiana-por-polemico-titulo-otorgado-a-exdirector-de-coljuegos",
+              "note": "Documenta las protestas en la Universidad del Magdalena y la visita del Ministerio de Educación por el título de Vives; no contiene datos sobre el líder de la secta.",
+              "host": "diariodelsur.com.co",
+              "title": "Protestas en universidad colombiana por polémico título otor | DIARIO DEL SUR",
+              "image": "https://gec.hsbnoticias.com/uploads/articles/faa7d123-ac0e-4909-963f-63d74486ddf5.webp"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "educacion",
+          "claim": "Se afirma que los títulos del líder de la secta mencionada no aparecen ni se pueden localizar.",
+          "quote": "al parecer tampoco aparecen los tales títulos",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación específica —que los títulos de 'el líder de la secta mencionada' no aparecen ni se pueden localizar— no puede verificarse con las fuentes entregadas: ninguna de ellas menciona a un líder de secta ni a títulos suyos [F1][F3][F4][F5]. Lo que sí está documentado en las fuentes es un patrón distinto pero análogo: títulos o grados de funcionarios y congresistas que las universidades y colegios profesionales no lograron ubicar en sus registros [F1][F3][F5].",
+          "context": "Las fuentes muestran que la imposibilidad de localizar un título académico en los registros oficiales es un hecho verificable y recurrente en varios casos colombianos recientes: (1) la Universidad Javeriana informó que Claudia Teresa Romero Nader 'no figura en su base de datos académica', no estuvo inscrita y no obtuvo el título de Administradora de Empresas [F1]; (2) la Universidad Nacional de Colombia (Medellín) certificó que no encontró registro de que Luz Verónica Estrada fuera egresada de Ingeniería de Minas y Metalurgia, y el COPNIA le negó la matrícula profesional [F3]; (3) el Consejo Superior de la Judicatura certificó que Andrea Vargas 'NO ESTÁ INSCRITA' en el Registro Nacional de Abogados, y ella aclaró que es 'egresada no graduada' [F5]; (4) la ministra Paola Holguín reconoció que cursó y aprobó la maestría pero NO se graduó, tras la denuncia de la senadora Jennifer Pedraza de que la Universidad Pontificia Bolivariana no le había otorgado el título [F4]. Ninguna fuente aporta datos sobre una supuesta secta ni sobre el paradero de los títulos de su líder.",
+          "progressivePerspective": "A la luz de los propósitos de verdad, justicia, reparación y no repetición —aplicables como marco de referencia para evaluar discursos sobre responsabilidad en Colombia—, el cuestionamiento verificable de títulos de funcionarios y congresistas puede abonar a la verdad cuando se sostiene en certificaciones institucionales (universidades, COPNIA, Judicatura) y se le da derecho de descargo al señalado, como ocurrió con Holguín y Vargas, que explicaron su situación [F4][F5]. En cambio, asociar la falta de localización de un título con 'el líder de una secta' sin fuente institucional alguna que lo respalde introduce una acusación no demostrable en el mismo registro que los casos sí verificados, lo que erosiona la credibilidad del conjunto y puede revictimizar o difamar sin sustento [F1][F3][F5]. La verificación rigurosa —certificado de la universidad, consulta en registro oficial, derecho de réplica— es lo que separa un hallazgo de verdad de una insinuación.",
+          "whatTheyOmit": "El video omite (o las fuentes no confirman) la identidad del supuesto 'líder de la secta' y cualquier documento, consulta o respuesta institucional sobre sus títulos; también omite las respuestas y descargos de los señalados (Holguín reconoció no haberse graduado pero afirmó que en sus documentos públicos consta que 'cursó' la maestría; Vargas negó cualquier delito y corrigió su perfil) [F4][F5]. Adicionalmente, ninguno de los hechos de corrupción o desviación de fondos que el enfoque del usuario atribuye a la derecha (Fondo Milagro, donaciones robadas, sueldos astronómicos) ni los casos de 'senadora Arias' o 'director de Coljuegos' están respaldados por las fuentes entregadas, por lo que no pueden darse por ciertos en este análisis [F1][F3][F4][F5].",
+          "keyFacts": [
+            "Ninguna fuente entregada menciona a un líder de secta ni a títulos suyos, por lo que la afirmación textual 'al parecer tampoco aparecen los tales títulos' queda sin respaldo documental en este material [F1][F3][F4][F5]",
+            "La Universidad Javeriana informó por escrito que Claudia Teresa Romero Nader no figura en su base de datos académica, no estuvo inscrita y no obtuvo el título de Administradora de Empresas [F1]",
+            "La Universidad Nacional (Medellín) certificó que no encontró registro de egreso de Luz Verónica Estrada en Ingeniería de Minas y Metalurgia, y el COPNIA negó su matrícula profesional [F3]",
+            "La ministra de Culturas, Artes y Saberes, Paola Holguín, reconoció que aprobó todas las materias de la maestría en Estudios Políticos pero NO se graduó, tras la denuncia de la senadora Jennifer Pedraza [F4]",
+            "Andrea Vargas fue certificada por la Judicatura como 'NO INSCRITA' en el Registro Nacional de Abogados y aclaró que es 'egresada no graduada' de la Universidad del Atlántico [F5]",
+            "Existen casos en que la imposidad de localizar un título sí quedó documentada con respuesta institucional, a diferencia de lo afirmado sobre el líder de la secta [F1][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eluniversal.com.co/colombia/2026/11/22/escandalo-por-titulos-academicos-falsos-senalan-a-otra-congresista-del-pacto-historico/",
+              "note": "Certificado de la Universidad Javeriana de que Romero Nader no figura en sus registros: ejemplo verificable de título que no aparece; no menciona ninguna secta ni a su líder.",
+              "host": "eluniversal.com.co",
+              "title": "Escándalo por títulos académicos falsos: señalan a otra congresista del Pacto Histórico",
+              "image": "https://www.eluniversal.com.co/resizer/v2/KO5IARN6KRHXHBKJOJ2N6KUN3A.jpg?auth=671e28289a6d291382fd0161c57442a070f6813faa25760ae8fd5b207060bca8&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.superfinanciera.gov.co/",
+              "note": "Página institucional de la Superintendencia Financiera; no aporta información sobre títulos académicos ni sobre el líder de la secta mencionado.",
+              "host": "superfinanciera.gov.co",
+              "title": "Superintendencia Financiera de Colombia",
+              "image": ""
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.lafm.com.co/politica/luz-veronica-estrada-proyecto-ley-consulta-publica-titulos-academicos-polemica-417685",
+              "note": "Certificado de la Universidad Nacional y resolución del COPNIA sobre Luz Verónica Estrada; documenta un caso de título no localizado en registros oficiales.",
+              "host": "lafm.com.co",
+              "title": "Luz Verónica Estrada, cuestionada por sus títulos, es coautora de un proyecto que busca verificar grados académicos",
+              "image": "https://files.lafm.com.co/media/news-images/2026/11/19/172611/luz-veronica-estrada-1200x675.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.noticiasrcn.com/colombia/jennifer-pedraza-y-paola-holguin-protagonizan-polemica-por-titulos-academicos-de-la-ministra-1069807",
+              "note": "Polémica por el magíster de la ministra Paola Holguín, con su descargo ('cursé, no me gradué'); relevante para el caso del ministro/cargo citado en el enfoque.",
+              "host": "noticiasrcn.com",
+              "title": "Jennifer Pedraza y Paola Holguín protagonizan polémica por títulos académicos de la ministra | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/cms/2026/10/08164418/pedraza-y-holguin.webp?w=400&r=1_1"
+            },
+            {
+              "ref": "F5",
+              "url": "https://laopinion.co/colombia/otra-congresista-del-pacto-historico-bajo-cuestionamientos-por-sus-titulos-academicos",
+              "note": "Certificado de la Judicatura sobre Andrea Vargas y su aclaración de 'egresada no graduada'; muestra el patrón de perfiles corregidos y derecho de descargo.",
+              "host": "laopinion.co",
+              "title": "Otra congresista del Pacto Histórico bajo cuestionamientos por sus títulos académicos",
+              "image": "https://media.laopinion.co/sites/default/files/2026-11/Congresista-Andrea-Vargas.jpg"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "economia",
+          "claim": "Se afirma que las personas mencionadas son mantenidas con salarios que ningún trabajador honrado o verdadero profesional del país gana o llegará a ganar.",
+          "quote": "los estamos manteniendo a todo culo, con salarios que ningún trabajador honrado, que ningún verdadero profesional en el país se está ganando y se va a ganar",
+          "figures": [],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "El fondo de la afirmación está respaldado: los congresistas colombianos devengan unos 55 millones de pesos brutos mensuales (~32 millones netos), la cifra más alta de Latinoamérica, mientras escalafones de maestros, jueces y personal judicial quedan entre 1,7 y 14,4 millones de pesos [F3][F4][F5]. Sin embargo, la formulación absoluta —'ningún trabajador honrado o verdadero profesional del país se está ganando y se va a ganar'— es una generalización retórica que las fuentes del dossier no permiten comprobar en términos universales, pues no incluyen datos de ingresos del sector privado ni de profesionales liberales de altos ingresos [F4][F5].",
+          "context": "La remuneración de un legislador colombiano se compone de asignación básica (~13 millones), gastos de representación (~23 millones) y prima especial de servicios (~18 millones), totalizando entre 54 y 55 millones de pesos mensuales [F4]. Tras el decreto 0030 de 2026, que eliminaba la prima especial, el Consejo de Estado suspendió la medida y los parlamentarios mantienen el esquema vigente: ~55 millones brutos y ~32 millones netos [F3][F4]. En 2023 un decreto presidencial había fijado el salario congresional en 43.418.152 pesos, un incremento del 14,62% respecto a 2022 [F2], y existe un proyecto de ley para techar cargos públicos en 25 salarios mínimos [F2]. Como contrapartida, el mismo decreto de 2026 que fijó el 7% de aumento al salario de funcionarios situó al salario mínimo en $1.750.905, la asignación de docentes no escalafonados con título profesional en $2.696.742, la escala de magistrados de tribunal y fiscales grado 21 en ~$5,2 millones, el rango más alto del escalafón docente con doctorado en ~$14,4 millones y el salario del fiscal general en $22,1 millones [F5]. Según comparación de la revista Cambio recogida por la fuente, el salario de los legisladores colombianos equivale a ~US$16.200 mensuales, por encima de Uruguay (US$9.500) y Brasil (US$9.120) [F4].",
+          "progressivePerspective": "La afirmación opera como denuncia de brecha salarial y de prioridad fiscal: contrasta la remuneración de los legisladores con la de quienes sostienen servicios públicos esenciales. Los datos del dossier sostienen el contraste material: el ingreso neto de un congresista (~32 millones) supera entre 2 y 19 veces el de un docente con maestría o doctorado, un juez de grado 17 ($3,47 millones) o un magistrado de tribunal ($5,2 millones) [F5], y entre 9 y 18 veces el salario mínimo de $1.750.905 [F5]. El carácter de 'servidor público' del legislador, sumado a que la propia discusión sobre reducción de sueldos se ha arrastrado desde 2014 sin resolverse [F2] y a que la última intentona de recorte fue suspendida por el Consejo de Estado [F3], permite plantear la pregunta por la rendición de cuentas y la proporcionalidad remunerativa. Ahora bien, la extrapolación absoluta ('ningún profesional del país llegará a ganar eso') excede lo que las fuentes permiten afirmar, y las imputaciones acompañadas en el video —desvío de donaciones, carencia de títulos de funcionarios nombrados— no están documentadas en el material entregado, por lo que no pueden darse por probadas aquí [F4][F5].",
+          "whatTheyOmit": "Se omite que la afirmación es universal ('ningún' trabajador o profesional) cuando el dossier no contiene datos de ingresos del sector privado, de profesionales independientes ni de ejecutivos, con lo que no es verificable en términos absolutos [F4][F5]. También se omite que existen cargos públicos de menor remuneración (magistrados ~$11,6 millones, fiscal general $22,1 millones, jueces ~$3,5-5,3 millones) que, aunque elevados, quedan muy por debajo de los 55 millones de los congresistas, matiz que la cita textual aplana [F5]. Del mismo modo, las acusaciones de desvío de donaciones y de falta de títulos de autoridades mencionadas no tienen respaldo en ninguna de las fuentes entregadas: sobre esas imputaciones el material disponible no ofrece evidencia, y el estado del veredicto para ellas es sin_evidencia [F3][F4].",
+          "keyFacts": [
+            "Un congresista colombiano percibe ~55 millones de pesos brutos mensuales, con un ingreso neto cercano a 32 millones tras deducciones [F3][F4]",
+            "La remuneración mensual se compone de ~13 millones de asignación básica, ~23 millones de gastos de representación y ~18 millones de prima especial de servicios [F4]",
+            "El salario de los legisladores colombianos es el más alto de Latinoamérica: ~US$16.200 mensuales, frente a US$9.500 de Uruguay y US$9.120 de Brasil [F4]",
+            "El Consejo de Estado suspendió el decreto que eliminaba la prima de 18 millones, por lo que el esquema salarial se mantiene hasta el fallo de fondo [F3][F4]",
+            "El salario mínimo mensual legal vigente para 2026 es de $1.750.905 [F5]",
+            "Docentes con grado 3 y doctorado alcanzan hasta $14.436.985; los no escalafonados con título profesional reciben $2.696.742 [F5]",
+            "Jueces grado 17 y magistrados de tribunal/fiscales grado 21 devengan $3.473.356 y $5.236.307 respectivamente [F5]",
+            "El fiscal general y el vicefiscal devengan $22.160.971 mensuales [F5]",
+            "Existe un proyecto de ley que propone techar en 25 salarios mínimos la remuneración de cargos de las tres ramas del poder, organismos de control y Registraduría [F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.dane.gov.co/",
+              "note": "Portal del DANE; aporta el marco institucional de la estadística oficial colombiana, pero no suministra cifras salariales específicas para esta verificación.",
+              "host": "dane.gov.co",
+              "title": "Portal DANE - Contenido principal",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elheraldo.co/politica/2023/08/17/reduccion-del-salario-a-congresistas-senadora-quiere-saber-si-salario-le-sirve-o-no-1025295/",
+              "note": "Debate sobre reducción de salarios congresionales; registra el decreto 1219 que fijó $43.418.152 (aumento del 14,62%) y el proyecto de tope de 25 salarios mínimos; muestra la resistencia interna a recortes.",
+              "host": "elheraldo.co",
+              "title": "Reducción del salario a congresistas: senadora quiere saber si salario le sirve o no",
+              "image": "https://www.elheraldo.co/resizer/v2/Y7DOLWVOWZCXFA3DUIJE5ICMLE.jpg?smart=true&auth=d2a0cfcf432566a0923335e6e535fada1837facab0a5969d20e90b0061e99a06&width=1200&height=675"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.portafolio.co/economia/gobierno/asi-quedara-el-salario-de-los-congresistas-tras-la-suspension-del-decreto-de-recorte-de-sueldo-498412",
+              "note": "Confirma ~55 millones brutos y ~32 millones netos tras la suspensión por el Consejo de Estado del decreto que eliminaba la prima; aporta el ahorro estimado de $62.000 millones y las seis demandas de nulidad.",
+              "host": "portafolio.co",
+              "title": "Así quedará el salario de los congresistas tras la suspensión del decreto de recorte de sueldo",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/01/28/697a3d02129de.webp"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.tropicanafm.com/2026/cuanto-gana-un-representante-a-la-camara-en-colombia-salario-basico-y-primas-que-recibe-474796.html",
+              "note": "Desglosa los tres rubros del salario, el número de 182 representantes y la comparación internacional que ubica a Colombia primera en Latinoamérica; permite contrastar la magnitud de la afirmación.",
+              "host": "tropicanafm.com",
+              "title": "¿Cuánto gana un representante a la Cámara en Colombia? Salario básico y primas que recibe - Tropicana Colombia",
+              "image": "https://www.tropicanafm.com/wp-content/uploads/2026/08/28082026-Sueldo-representantes-a-la-Camara.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/economia/gobierno-aumento-7-al-salario-de-maestros-jueces-y-demas-funcionarios-publicos-4357704",
+              "note": "Escalas salariales 2026 de docentes, Rama Judicial y Fiscalía; aporta la contraparte de magnitud (salario mínimo, jueces, magistrados, fiscal general) contra la cual se mide la afirmación.",
+              "host": "larepublica.co",
+              "title": "Gobierno aumentó 7% al salario de maestros, jueces y demás funcionarios públicos",
+              "image": "https://img.lalr.co/cms/2026/03/26094315/WEB_Eco_SalarioDocentesPublicos.jpg?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "politica",
+          "claim": "Se afirma que los votantes venden su voto por dos monedas, un jugo de caja al clima y un tamal vinagre en las elecciones.",
+          "quote": "llegan unas elecciones y van y venden el voto por dos monedas, un jugo de caja al clima y un tamal vinagre",
+          "figures": [
+            "dos monedas"
+          ],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La existencia de compra de votos en las elecciones colombianas está respaldada por fuentes: funcionarios estadounidenses advirtieron sanciones de visas por comprar votos y monitorearon la costa Caribe [F2][F3]. Sin embargo, los elementos específicos de la cita —'dos monedas, un jugo de caja al clima y un tamal vinagre' como precio del voto— no aparecen documentados en ninguna de las fuentes entregadas, por lo que ese detalle queda sin evidencia en el material disponible [F2][F3].",
+          "context": "El contexto es la segunda vuelta presidencial del 21 de junio de 2026 en Colombia, con acusaciones cruzadas de clientelismo: la oposición señaló al Gobierno de financiar prácticas clientelistas con recursos públicos y el oficialismo denunció irregularidades en el preconteo [F3]. El subsecretario de Estado de EE.UU., Christopher Landau, advirtió que quienes compren votos ponen en riesgo sus visas y las de sus familias, y la congresista María Elvira Salazar denunció posibles casos en la región Caribe [F2][F3]. En paralelo, la controversia del Fondo Milagro mostró una nómina de $765,6 millones mensuales para 27 funcionarios, con 20 cargos por encima de $30 millones, frente a una ejecución de solo el 1,2% de los $624.656 millones disponibles para reconstrucción tras el terremoto del 10 de agosto de 2026 [F1][F4][F5].",
+          "progressivePerspective": "A la luz de los principios de verdad, justicia, reparación y no repetición, la afirmación contiene un núcleo verificable (la compra de votos es un fenómeno denunciado y monitoreado en el proceso electoral) y un componente valorativo no documentado (el precio exacto y los bienes concretos) [F2][F3]. La fuentes muestran que la compra de votos se presenta como una práctica organizada que denuncian funcionarios internacionales y congresistas, no como un hecho aislado ni atribuible únicamente a la iniciativa individual de los votantes [F2][F3]. Al mismo tiempo, los datos del Fondo Milagro —sueldos de hasta $39,4 millones, 130 cargos previstos y donaciones cuyo paradero sigue sin esclarecerse— iluminan el nivel estructural del problema: la desviación de recursos públicos y de donaciones por parte de funcionarios [F1][F4][F5]. Desde la perspectiva de no repetición, la lectura que abona al esclarecimiento es la que distingue a quienes ejecutan la compra de votos y la desviación de recursos (responsables) de la ciudadanía, en lugar de atribuir de manera genérica la corrupción electoral al electorado; cuando la afirmación se presenta como descripción categórica de los votantes sin evidencia sobre el precio citado, corre el riesgo de desplazar la responsabilidad desde los actores que organizan y financián estas prácticas hacia quienes las padecen [F2][F3][F1].",
+          "whatTheyOmit": "La cita no aporta fuente, investigación judicial, reporte periodístico ni dato oficial que documente el precio específico ('dos monedas, un jugo de caja al clima y un tamal vinagre') por el que se supone que se vende el voto; las fuentes disponibles solo dan cuenta de denuncias y advertencias generales sobre compra de votos [F2][F3]. Tampoco se incluyen en el material datos sobre los casos de cargos sin títulos mencionados en el enfoque del usuario (senadora Arias, ministra Holguín, director de Coljuegos): ninguna fuente entregada los menciona, por lo que quedan sin evidencia en este ejercicio. La afirmación omite asimismo que las acusaciones de clientelismo apuntan en ambas direcciones del espectro político en el proceso electoral descrito [F3].",
+          "keyFacts": [
+            "El subsecretario de Estado de EE.UU., Christopher Landau, advirtió que quienes compren votos en las elecciones colombianas ponen en riesgo sus visas y las de sus familias, y señaló que el gobierno estadounidense monitorea la costa Caribe y otras regiones [F2]",
+            "La congresista estadounidense María Elvira Salazar denunció posibles casos de compra de votos en la región Caribe de Colombia [F2]",
+            "La compra de votos figura como supuesta irregularidad señalada por actores políticos de ambos lados del proceso electoral de 2026 [F3]",
+            "El precio específico citado en la afirmación (dos monedas, un jugo de caja al clima y un tamal vinagre) no aparece documentado en ninguna fuente entregada",
+            "La nómina del Fondo Milagro alcanzaba $765,6 millones mensuales para 27 funcionarios, con 20 cargos superiores a $30 millones, y provocó la renuncia de su gerente [F1][F4][F5]",
+            "El Fondo Milagro solo había ejecutado el 1,2% de los $624.656 millones disponibles para la reconstrucción tras el terremoto del 10 de agosto de 2026 [F1][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.colombiainforma.info/plata-del-fondo-milagro-se-ha-gastado-en-sueldos-de-trenta-millones-para-sus-funcionarios/",
+              "note": "Nómina del Fondo Milagro ($765 millones/mes), renuncia del gerente, paradero incierto de las donaciones y ejecución del 1,2%. Aporta el contexto de desviación de recursos públicos frente a la denuncia de compra de votos.",
+              "host": "colombiainforma.info",
+              "title": "404 Not Found",
+              "image": ""
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.noticiasrcn.com/internacional/subsecretario-de-estado-de-ee-uu-advierte-con-quitar-visas-en-colombia-por-compra-de-votos-en-elecciones-1028042",
+              "note": "Respalda el hecho general de compra de votos en las elecciones colombianas como problema denunciado y monitoreado; no documenta el precio específico citado en la afirmación.",
+              "host": "noticiasrcn.com",
+              "title": "Subsecretario de Estado de EE.UU advierte con quitar visas en Colombia por compra de votos en elecciones | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/cms/2026/06/04154714/PORTADA-3.jpg?w=400&r=1_1"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elpais.com.co/mundo/ee-uu-advierte-sanciones-y-retiro-de-visas-a-quienes-participen-en-compra-de-votos-y-fraude-electoral-en-colombia-0442.html",
+              "note": "Contexto de la segunda vuelta del 21 de junio de 2026, acusaciones cruzadas de clientelismo entre oficialismo y oposición, y advertencias de EE.UU. sobre compra de votos.",
+              "host": "elpais.com.co",
+              "title": "Elecciones en Colombia: Washington amenaza con retirar visas a involucrados en compra de votos y fraude",
+              "image": "https://www.elpais.com.co/resizer/v2/R6BNZDXUDVC2JKAY4PULFQVJPE.png?auth=e743802e16c9052c9d05b9287c1373433a4a4f891ed75648a109cfbdd39784e8&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://elnorte.com.co/renuncia-el-gerente-del-fondo-milagro-tras-revelacion-de-sueldos-millonarios-en-la-entidad/",
+              "note": "Detalle de la escala salarial del Fondo Milagro (gerente con $39,4 millones), renuncia y orden presidencial de reversar los sueldos; contraste con ejecución del 1,2%.",
+              "host": "elnorte.com.co",
+              "title": "Renuncia el gerente del Fondo Milagro tras revelación de sueldos millonarios en la entidad -",
+              "image": "https://elnorte.com.co/wp-content/uploads/2026/11/Copia-de-Marco-para-fotos-WEB-EL-NORTE-2026-11-13T161428.908.jpg"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elcolombiano.com/colombia/fondo-milagro-coordinador-comunicaciones-salario-30-millones-pereira-LH43551569",
+              "note": "Cargos de más de $30 millones (coordinador de comunicaciones, atención al ciudadano), planta prevista de hasta 130 cargos, opacidad en la identificación de funcionarios y ejecución del 1,2%.",
+              "host": "elcolombiano.com",
+              "title": "Coordinador de comunicaciones del Fondo Milagro tenÃa sueldo de mÃ¡s de $30 millones, en medio de crÃticas por falta de informaciÃ³n",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/1c79/1280d720/none/11101/NOLT/fondo-milagro-2_52130193_20261113120226.jpg"
             }
           ]
         }
