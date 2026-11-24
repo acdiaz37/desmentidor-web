@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:47:40",
+  "generatedAt": "2026-11-24T09:29:57",
   "videos": [
     {
       "slug": "respuesta-a-richard-valdez-pertuz",
@@ -19327,6 +19327,798 @@
               "host": "elcolombiano.com",
               "title": "Coordinador de comunicaciones del Fondo Milagro tenÃa sueldo de mÃ¡s de $30 millones, en medio de crÃticas por falta de informaciÃ³n",
               "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/1c79/1280d720/none/11101/NOLT/fondo-milagro-2_52130193_20261113120226.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "19k-views-1-4k-reactions-juan-sebastian-perilla-on-reels",
+      "title": "19K views · 1.4K reactions | Juan Sebastián Perilla on Reels",
+      "uploader": "Juan Sebastián Perilla",
+      "url": "https://m.facebook.com/watch/?v=1325451979706535&_rdr",
+      "duration": 139.643,
+      "thumbnail": "/media/19k-views-1-4k-reactions-juan-sebastian-perilla-on-reels/thumb.jpg",
+      "conclusion": "## Verdades sueltas, conclusión sesgada\n\nEl video construye una narrativa que presenta a la izquierda colombiana —y al gobierno de Gustavo Petro— como productora sistemática de corrupción y mala gestión, y atribuye ese desempeño a \"ideas profundamente fallidas\": rechazo a la meritocracia, ausencia de incentivos, mentalidad de suma cero y fuga de capitales. La percepción que genera es de un diagnóstico cerrado: la ideología de izquierda explica y acentúa la corrupción, mientras que la derecha representaría la alternativa técnica y meritocrática.\n\nHay base real en varios elementos. La corrupción tiene un coste de oportunidad verificable —el concepto está correctamente definido—. Existen casos documentados de corrupción asociados a la izquierda: Ábalos condenado a 24 años, Cerdán imputado, el \"Libro de la Verdad\" con más de 80 hallazgos presuntos, nepotismo denunciado en el entorno de la ministra de Cultura. También es cierto que el cumplimiento del Plan de Desarrollo 2022-2026 fue 72,5%, el más bajo de los tres gobiernos evaluados, y que Colombia ocupa el puesto 36 de 38 en competitividad tributaria de la OCDE.\n\nEl problema comienza cuando el video selecciona solo estos datos y omite los que los contrarrestan. La oposición de derecha al mismo tiempo presentó una ley con beneficios y figuras de oportunidad para condenados del gobierno anterior. El Fiscal García Ortiz, nombrado por el gobierno de Sánchez, fue condenado e inhabilitado. El deterioro ferroviario colombiano se explica por la concentración histórica de la inversión en carreteras, con menos del 15% del PMTI para ferrocarril, no por malversación. La informalidad laboral bajó a 55,3% y el desempleo llegó al nivel más bajo desde 2001. La reforma tributaria del actual gobierno de derecha también sube impuestos.\n\nEl punto de quiebre ocurre al pasar de \"este caso ocurrió y es cierto\" a \"la izquierda multiplica corruptos por sus ideas fallidas\". Ese salto requiere datos comparativos entre espectros políticos que el video no aporta, y ninguna fuente clasifica las modalidades de corrupción ni establece que el robo directo sea \"la forma número uno\". Las afirmaciones sobre meritocracia, incentivos y suma cero son en su mayoría opiniones sin respaldo documental en las fuentes disponibles.\n\nEl contexto que falta es doble: los casos citados son en gran medida presuntos y sin resolución judicial, y la corrupción en Colombia tiene dinámicas estructurales anteriores a cualquier administración específica —el índice de corrupción retrocede desde 2023, antes del cambio de gobierno—. Una interpretación más completa reconocería que la corrupción y la mala gestión son problemas transversales, que los datos disponibles no permiten una comparación proporcional entre espectros, y que presentar categorías propias como si fueras datos verificados produce una narrativa que, aunque apoyada en hechos reales aislados, no se sostiene como explicación general de la realidad.",
+      "conclusionLabel": "Engañoso",
+      "conclusionColor": "orange",
+      "verdict": "",
+      "claims": [
+        {
+          "id": 1,
+          "topic": "economia",
+          "claim": "Se afirma que la corrupción política consiste en que el dinero del bolsillo del político no se destina a mantener la red de trenes ni a mejorar los hospitales.",
+          "quote": "Cuando el dinero va al bolsillo del político, evidentemente no va a mantener la red de trenes o mejorar los hospitales.",
+          "figures": [],
+          "verdict": "mayormente_verdadero",
+          "headline": "",
+          "color": "green",
+          "confidence": "media",
+          "summary": "La afirmación es una proposición general sobre el coste de oportunidad de la corrupción (lo que se desvía al bolsillo del político deja de financiar servicios públicos), coherente con el marco de la fuente que trata la corrupción en Colombia, pero no es un dato cuantificado ni específico: ninguna fuente mide esa relación en cifras, ni identifica a qué gobierno se refiere [F1][F5].",
+          "context": "Como referente real de la magnitud del asunto: en Colombia solo el 36% de los 3.533 kilómetros de red férrea está operativo, y según el DNP esa situación se produjo por la concentración histórica de la inversión pública en transporte carretero, con menos del 15% de los recursos del Plan Maestro de Transporte Intermodal para el modo ferroviario [F5]. Paralelamente, hay carteras de infraestructura muy grandes en discusión: 132 megaproyectos con trenes, vías y aeropuertos para captar inversión extranjera [F3] y más de $150 billones comprometidos en macroproyectos, con proyectos ferroviarios como el Tren del Pacífico ($18 billones) y el Corredor Férreo Interoceánico ($28 billones) [F3][F4]. En el plano político, el presidente en funciones asumió el 7 de agosto de 2026 prometiendo detectar el uso indebido de recursos y afirmando que su equipo documentó actos de corrupción del gobierno anterior [F2]. La fuente sobre cómo acabar la corrupción señala como causas estructurales la debilidad de los organismos de control, la opacidad en la contratación y el financiamiento de campañas [F1].",
+          "progressivePerspective": "La afirmación no nombra a ningún gobierno ni a ningún hecho concreto, por lo que no puede usarse, en los términos en que está enunciada, para sostener que un gobierno en particular sea proporcionalmente más corrupto que otro: es un principio general sobre el desvío de recursos públicos, no una comparación [F1][F2]. En términos éticos-políticos, la proposición es consistente con lo que las fuentes describen como daño de la corrupción: menor capacidad del Estado para prestar servicios y financiar infraestructura, y debilidad de los organismos de control [F1]. La propia fuente ferroviaria, sin embargo, atribuye el deterioro de la red férrea a una decisión histórica de priorizar la inversión carretera sobre el ferrocarril, no al desvío de recursos a manos privadas, lo cual es una distinción causal relevante: deterioro de un servicio público no equivale por sí solo a prueba de corrupción [F5]. Una lectura alineada con criterios de transparencia y rendición de cuentas exigiría datos presupuestales y procesos judiciales concretos antes de atribuir el déficit de trenes u hospitales al desvío de dineros a bolsillos particulares [F1][F2].",
+          "whatTheyOmit": "Se omite cualquier cifra: no hay monto, porcentaje, obra o hospital específico que permita medir cuánto dinero efectivamente se desvió ni cuánto se perdió en infraestructura o salud [F1][F5]. También se omite la atribución a un gobierno o periodo, de modo que la afirmación no permite la comparación proporcional entre gobiernos que plantea el enfoque del caso [F2][F3]. Se omite, además, el dato de que el deterioro ferroviario se explica en las fuentes por la concentración histórica de la inversión en carreteras (menos del 15% del PMTI para ferrocarril), es decir, por priorización presupuestal y no necesariamente por malversación [F5], y se omiten las carteras activas de inversión en trenes y hospitales/obras que sí están presupuestadas [F3][F4].",
+          "keyFacts": [
+            "La afirmación enunciada es una proposición general sobre el coste de oportunidad de la corrupción y no cita gobierno, monto, obra ni fecha concreta [F1]",
+            "De los 3.533 km de red férrea de Colombia, solo el 36% está operativo; el DNP atribuye esto a la concentración histórica de la inversión en transporte carretero, con menos del 15% de los recursos del PMTI para el ferrocarril [F5]",
+            "El Gobierno nacional presentó un portafolio de 132 megaproyectos de infraestructura —incluidos trenes, vías y aeropuertos— para atraer inversión extranjera en noviembre de 2026 [F3]",
+            "La cartera de macroproyectos de infraestructura compromete más de $150 billones, con proyectos ferroviarios como el Tren del Pacífico (~$18 billones) y el Corredor Férreo Interoceánico (~$28 billones) [F4][F3]",
+            "El 7 de agosto de 2026 el nuevo presidente juró y afirmó que su equipo documentó actos de corrupción del gobierno anterior, prometiendo llevar esa información a la Fiscalía [F2]",
+            "Entre las reformas señaladas para acabar con la corrupción están la autonomía de la Fiscalía, Procuraduría y Contraloría, la transparencia en la contratación pública y la reforma del financiamiento de campañas [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.elheraldo.co/columnas-de-opinion/2026/03/13/como-acabar-la-corrupcion-en-colombia/",
+              "note": "Marco conceptual de la corrupción en Colombia: causas estructurales (organismos de control débiles, contratación opaca, financiamiento de campañas) y reformas propuestas; aporta el criterio general frente al cual se lee la afirmación, sin cifras del desvío.",
+              "host": "elheraldo.co",
+              "title": "¿Cómo acabar la corrupción en Colombia?",
+              "image": "https://www.elheraldo.co/resizer/v2/BZDKFS3ZJVBLTD4LKVE2ICIEYY.jpg?smart=true&auth=bd107f2650084da62ebc5f7f0e16878ed3eebe10ce10ca3fc070e40ca5cea0bf&width=1200&height=675"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/08/08/fronteras-no-pueden-convertirse-en-refugio-de-la-corrupcion-abelardo-de-la-espriella/",
+              "note": "Actitud del nuevo gobierno (asumido el 7 de agosto de 2026) hacia la corrupción del periodo anterior y remisión de información a la Fiscalía; útil para situar quién acusa a quién, aunque no aporta cifras del desvío.",
+              "host": "caracol.com.co",
+              "title": "“Fronteras no pueden convertirse en refugio de la corrupción”: Abelardo de la Espriella",
+              "image": "https://caracol.com.co/resizer/v2/QBAMJ74MRJDPXHKIFZ5VJ3OSHU.png?auth=06a7ee876f698a5bffb9b6a5873480437080e5d4d57ed81a720e5240dd17f69b&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.infobae.com/colombia/2026/11/09/colombia-presentara-en-el-milagro-week-132-megaproyectos-de-infraestructura-para-atraer-inversion-extranjera-que-incluye-trenes-vias-y-aeropuertos/",
+              "note": "Contraste: portafolio activo de 132 proyectos con trenes y vías presupuestados (Corredor Interoceánico $28 billones, Tren del Pacífico $18 billones), que matiza la idea de que no hay financiación ferroviaria.",
+              "host": "infobae.com",
+              "title": "Colombia presentará en el Milagro Week 132 megaproyectos de infraestructura para atraer inversión extranjera, que incluye trenes, vías y aeropuertos",
+              "image": "https://www.infobae.com/resizer/v2/S62RUK2OKRGNHGDSUT4JRBG3GQ.jpeg?auth=7494476488981507f2af249f0a0cf373becb1d26c67db1b2455a401126ce9643&smart=true&width=1200&height=630&quality=85"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/infraestructura/los-macroproyectos-de-infraestructura-en-colombia-para-los-proximos-anos-estan-comprometidos-mas-de-150-billones-502552",
+              "note": "Magnitud real de la inversión comprometida (>$150 billones) en metro, trenes, vías y aeropuertos, con cifras por proyecto; aporta la escala presupuestal que la afirmación no menciona.",
+              "host": "portafolio.co",
+              "title": "Los macroproyectos de infraestructura en Colombia para los próximos años, están comprometidos más de $150 billones",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/08/20/6a8729177aae7.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.semana.com/nacion/articulo/colombia-iniciaria-nueva-era-de-trenes-este-es-el-plan-para-revivir-las-vias-ferreas/202659/",
+              "note": "Contraste causal clave: explica el deterioro ferroviario (36% operativo) por la histórica priorización de la inversión carretera y el reparto del PMTI, no por malversación; aporta además el plan CONPES de modernización ferroviaria.",
+              "host": "semana.com",
+              "title": "Colombia iniciaría nueva era de trenes: este es el plan para revivir las vías férreas",
+              "image": "https://www.semana.com/resizer/v2/XIRYF6MMIVEEBDJWIMPGEWKA4U.jpg?auth=3f363a96983f79f736dee7b778160c3ed3cadea7fac117faa56ed5b7e156a97e&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic": "politica",
+          "claim": "Se afirma que la primera forma de corrupción es el robo directo de dinero por parte del político.",
+          "quote": "el político robe el dinero es la forma número uno",
+          "figures": [
+            "número uno"
+          ],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación 'el político robe el dinero es la forma número uno' es una clasificación valorativa sobre la jerarquía de las modalidades de corrupción, no un dato verificable con las fuentes entregadas: ninguna de ellas establece un ranking de tipos de corrupción ni mide la 'forma número uno' del robo directo de dinero [F1][F2][F3][F4][F5]. Por eso se califica como opinión: no es falsa en términos estrictos, pero tampoco está respaldada ni desmentida por la evidencia disponible.",
+          "context": "Las fuentes entregadas documentan hechos de corrupción y control fiscal en Colombia, pero no un orden de frecuencia entre modalidades. El 'Libro de la Verdad' del presidente Abelardo De la Espriella recoge más de 80 hallazgos de presunta corrupción en el gobierno Petro, con contrataciones paralelas, desfinanciación de programas y malversación de recursos; es un documento que sin pretender sustituir las investigaciones judiciales aporta elementos para las autoridades competentes [F1]. En el caso de la UNGRD, el Consejo de Estado decretó el 25 de septiembre la pérdida de investidura de Iván Name por tráfico de influencias, en el marco del proceso por corrupción ligado a esa unidad, y el presidente pidió a la justicia evaluar mecanismos de colaboración eficaz conforme al Código Penal [F2]. La Contraloría reportó un cumplimiento del 72,5% de las metas del Plan Nacional de Desarrollo del gobierno Petro al 7 de agosto de 2026, frente a 82,5% en 2014-2018 y 82,21% en 2018-2022 [F3]. En materia de control fiscal, la Contraloría registró entre 2023 y 2024 un total de 30.759 derechos de petición, de los cuales 2.278 (7,42%) fueron denuncias fiscales, con hallazgos por valor de $271.753.423.801, y la iniciativa 'Salvando Obras' permitió recuperar 407 obras públicas por más de $6.3 billones [F4]. La deuda pública cerró 2024 en $1.175,18 billones, equivalente al 68,9% del PIB [F4]. Ninguna de estas cifras jerarquiza las modalidades de corrupción [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "Desde el propósito de verdad, justicia, reparación y no repetición, una afirmación como 'el robo directo de dinero es la forma número uno' solo aporta al esclarecimiento si va acompañada de datos que permitan distinguir modalidades, magnitudes y responsabilidades. Las fuentes disponibles sí muestran una agenda de rendición de cuentas: un informe con más de 80 hallazgos entregado a Fiscalía y Procuraduría para que cada denuncia sea examinada con seriedad e independencia [F1]; una decisión del Consejo de Estado sobre pérdida de investidura en el caso UNGRD [F2]; y llamados explícitos a que 'los corruptos tienen que caer, tienen que pagar, el latrocinio que perpetraron no puede quedar en la impunidad' [F2]. El marco de la JEP juzga a los máximos responsables de crímenes más graves con sanciones propias y deber de reparar, no impunidad [contexto del marco JEP]. La afirmación, tal como se enuncia, es neutral respecto de quién comete el robo y no atribuye responsabilidad a un bando concreto; su valor para la no repetición depende de que se sustente en evidencia que permita comparar proporciones entre administraciones, cosa que las fuentes entregadas no hacen: solo documentan hallazgos del periodo 2022-2026 y series de cumplimiento del Plan de Desarrollo, sin un ranking de tipos de corrupción ni una comparación homogénea de desfalcos entre gobiernos [F1][F2][F3]. Mientras no haya esa evidencia, afirmar una 'forma número uno' sin datos puede simplificar un fenómeno multiforme (contratación paralela, malversación, tráfico de influencias, desfinanciación) que las propias fuentes muestran en varias variantes [F1][F2].",
+          "whatTheyOmit": "Se omite que ninguna fuente entregada establece un ranking de modalidades de corrupción ni define empíricamente cuál es la 'forma número uno'; la afirmación se presenta como dato y es en realidad una categorización previa [F1][F2][F3][F4][F5]. También se omiten los matices que las fuentes sí aportan: los hallazgos del 'Libro de la Verdad' son 'presuntos' y el documento 'sin pretender sustituir las investigaciones judiciales' aporta elementos para las autoridades competentes [F1]; y el propio mandatario pidió mecanismos de colaboración penal conforme al Código Penal, lo que indica que la atribución de responsabilidades aún está en curso y no es definitiva [F2]. Además, el balance de cumplimiento del Plan de Desarrollo muestra que el incumplimiento no se concentra solo en desfalcos, sino también en metas de agua potable, reforma agraria, salud, jóvenes y sustitución de cultivos ilícitos, y en compromisos con pueblos étnicos donde 82 de 259 compromisos no registraron avance, una dimensión de gestión que no equivale a robo de dinero [F3].",
+          "keyFacts": [
+            "Ninguna de las cinco fuentes entregadas clasifica las modalidades de corrupción ni establece que el robo directo de dinero sea la 'forma número uno'; la afirmación no es verificable con la evidencia disponible [F1][F2][F3][F4][F5]",
+            "El 'Libro de la Verdad' entregado a Fiscalía y Procuraduría compila más de 80 hallazgos de presunta corrupción durante el gobierno Petro, incluyendo contrataciones paralelas, desfinanciación de programas sociales y manejos irregulares de recursos públicos [F1]",
+            "El informe documenta anomalías 'sin pretender sustituir las investigaciones judiciales', sino para que las autoridades competentes adelanten los procesos correspondientes, lo que sitúa los hallazgos como presuntos hasta que se resuelvan [F1]",
+            "El caso UNGRD ilustra que las modalidades no se reducen a robo directo: el Consejo de Estado decretó la pérdida de investidura de Iván Name por tráfico de influencias dentro del proceso por corrupción de esa unidad [F2]",
+            "La Contraloría reportó un hallazgo fiscal conjunto de $271.753.423.801 entre 2023 y 2024, con 2.278 denuncias fiscales de 30.759 derechos de petición (7,42%), de las cuales 1.140 estaban asociadas a procesos de contratación y 79 a irregularidades en la administración de fondos públicos [F4]",
+            "La iniciativa 'Salvando Obras' permitió recuperar 407 obras públicas por más de $6.3 billones mediante seguimiento a contratos y proveedores de 1.700 proyectos, evidenciando que la desviación de recursos también opera vía contratación, no solo vía robo directo [F4]",
+            "El cumplimiento del Plan Nacional de Desarrollo del gobierno Petro fue del 72,5% al 7 de agosto de 2026, frente a 82,5% en 2014-2018 y 82,21% en 2018-2022, según la Contraloría [F3]",
+            "La deuda pública cerró 2024 en $1.175,18 billones, equivalente al 68,9% del PIB, según la Contraloría, dato que las fuentes presentan como limitante para la inversión pública [F4]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.noticiasrcn.com/colombia/libro-de-la-verdad-destapa-mas-de-80-casos-de-presunta-corrupcion-en-el-gobierno-petro-1051360",
+              "note": "Aporta el recuento de más de 80 hallazgos presuntos de corrupción en el gobierno Petro, con matices clave: son 'presuntos' y el informe no sustituye las investigaciones judiciales. No establece ranking de modalidades de corrupción.",
+              "host": "noticiasrcn.com",
+              "title": "‘Libro de la verdad’ destapa más de 80 casos de presunta corrupción en el gobierno Petro | Noticias RCN",
+              "image": "https://imagenes.noticiasrcn.com/cms/2026/08/18142234/libro-verdad.webp?w=400&r=1_1"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elheraldo.co/politica/2026/09/28/de-la-espriella-arremete-contra-el-gobierno-petro-tras-decision-sobre-ivan-name-los-corruptos-tienen-que-caer/",
+              "note": "Aporta la decisión del Consejo de Estado sobre pérdida de investidura de Iván Name por tráfico de influencias en el caso UNGRD y los llamados a la impunidad y a la colaboración penal. Contrasta con la idea de que el robo directo es la única o principal modalidad.",
+              "host": "elheraldo.co",
+              "title": "De la Espriella arremete contra el gobierno Petro tras decisión sobre Iván Name: “Los corruptos tienen que caer”",
+              "image": "https://www.elheraldo.co/resizer/v2/7YU5HF2ILBDOXPKXWEKI6MF46Y.png?smart=true&auth=eae40ad8c3dbe991446e71f4e05c8e2c249e29ad8f5f9aaf1f973954e831cd94&width=1200&height=675"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elpais.com.co/politica/contraloria-revelo-las-cifras-de-cumplimiento-del-plan-de-desarrollo-del-gobierno-petro-el-balance-fue-del-725-2311.html",
+              "note": "Aporta la serie comparativa de cumplimiento del Plan de Desarrollo (72,5% vs 82,5% y 82,21%) y los sectores con rezagos, mostrando que el incumplimiento no se reduce a desfalcos.",
+              "host": "elpais.com.co",
+              "title": "Plan de Desarrollo de Petro tuvo un cumplimiento del 72,5 %",
+              "image": "https://www.elpais.com.co/resizer/v2/ENSDVQI2OFAFLAPOR6IVEXXPZ4.jpg?auth=037aaf6c72e386ca20233b2c649654c96bb7816e7f0b1d6afc0103b884c68254&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.wradio.com.co/2025/12/01/en-bogota-la-contraloria-general-de-la-republica-rendira-cuentas-de-sus-actividades-en-2025/",
+              "note": "Aporta magnitudes de control fiscal: hallazgos por $271.753.423.801, 407 obras recuperadas por más de $6.3 billones, deuda del 68,9% del PIB, y el desglose de denuncias fiscales por tipo (contratación, fondos públicos), útil para contrastar la jerarquía de modalidades.",
+              "host": "wradio.com.co",
+              "title": "En Bogotá, la Contraloría General de la República rendirá cuentas de sus actividades en 2025",
+              "image": "https://www.wradio.com.co/resizer/v2/WMAGNHZRA5CPNILAXQSW6PBWEQ.jpg?auth=435e4a7fb7b3acef849e8e243a378f4a3825a1bb798861dc5ac8a6260a554aef&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-general-organiza-cumbre-por-el-dia-nacional-de-la-lucha-contra-la-corrupcion-3578810",
+              "note": "Aporta contexto institucional sobre la cumbre por el día nacional de la lucha contra la corrupción y el reconocimiento de que los implicados en muchos casos documentados son funcionarios públicos; no aporta ranking de modalidades.",
+              "host": "eltiempo.com",
+              "title": "Contraloría General organiza cumbre por el día nacional de la lucha contra la corrupción",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/02/05/67a3e21968e7d.r_d.640-411-0.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "topic": "politica",
+          "claim": "Se afirma que la segunda forma de robo consiste en asignar cargos de gestión a afiliados del partido por motivos ideológicos en lugar de por mérito o capacidad.",
+          "quote": "La número dos de robo es enchufar encargos de gestión a fines del partido, que no están ahí por mérito o capacidad, sino por motivos ideológicos.",
+          "figures": [
+            "número dos"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación —que una de las principales formas de robo es asignar cargos de gestión a afiliados partidistas por motivos ideológicos en lugar de por mérito— no puede verificarse con las fuentes entregadas: la única disponible es una columna de opinión sobre el debate mérito/inclusión en Estados Unidos y Colombia, sin datos sobre designaciones políticas, enchufes o comparison alguna entre gobiernos [F1].",
+          "context": "La fuente disponible trata un debate distinto: si la meritocracia y las políticas de diversidad, equidad e inclusión (DEI) son opuestas o complementarias, a raíz de las órdenes ejecutivas de Donald Trump. Incluye datos contextuales como que solo el 48 % de las mujeres participaban en el mercado laboral colombiano en 2022 frente al 70 % de los hombres, una brecha salarial del 12 %, y el programa Mujeres en Juntas Directivas del Cesa, con más de 30 % de aumento de representación femenina; no contiene cifras, investigaciones ni decisiones judiciales sobre clientelismo, nepotismo o asignación de cargos públicos a militantes [F1].",
+          "progressivePerspective": "La proposición del video introduce una premisa ética y política verificable en principio —que el mérito debe primar sobre la lealtad partidista en la gestión pública—, pero la convierte en una acusación concreta de 'robo' sin aportar hechos que la sostengan. Desde el marco de verdad y no repetición, una clasificación de 'formas de robo' exige precisamente sustento fáctico: sin datos sobre designaciones, concursos o responsabilidades, la afirmación funciona como opinión o denuncia genérica, no como hecho comprobado [F1]. Adicionalmente, la comparación de proporciones entre gobiernos (la premisa de que un lado lo hace en mayor medida que el otro) no es evaluable con esta fuente, que no analiza ningún gobierno colombiano en particular; el propio texto de F1 sugiere que el binomio mérito versus inclusión es un 'falso dilema', lo que complejiza la lectura de que toda asignación inspirada en criterios ideológicos o de inclusión equivale necesariamente a corrupción [F1].",
+          "whatTheyOmit": "Se omite cualquier evidencia empírica: no se citan nombramientos específicos, cifras de cargos ocupados por militantes, procesos de selección, fallos de la Contraloría o de la justicia, ni estudios comparados entre administraciones; tampoco se define qué sería 'legítimo' (por ejemplo, equipos de confianza política, que son distintos de cargos técnicos), y la única fuente presentada corresponde a un debate ajeno al hecho denunciado [F1].",
+          "keyFacts": [
+            "La única fuente disponible es una columna de opinión titulada 'Meritocracia vs. inclusión: el falso dilema', no un reporte sobre designaciones de cargos públicos [F1]",
+            "La fuente aborda el debate sobre las órdenes ejecutivas de Donald Trump que restringen programas de diversidad, equidad e inclusión (DEI), justificadas en priorizar el mérito [F1]",
+            "En Colombia, según el DANE citado en la fuente, el 48 % de las mujeres participaba en el mercado laboral en 2022 frente al 70 % de los hombres, con una brecha salarial del 12 % [F1]",
+            "La fuente sostiene que meritocracia y DEI son complementos necesarios y no opuestos, y que las desigualdades estructurales requieren políticas activas [F1]",
+            "No hay en las fuentes datos, series ni decisiones judiciales que permitan afirmar ni refutar que exista enchufe partidista en cargos de gestión, ni cuantificar su magnitud [F1]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/opinion/columnistas/meritocracia-vs-inclusion-el-falso-dilema-3424766",
+              "note": "Columna de opinión de una socia del área laboral de RAD/DF Estrategas Legales; aporta el debate mérito vs. inclusión/DEI y datos DANE de participación laboral y brecha salarial en Colombia, pero no contiene información sobre enchufes ni designaciones partidistas en gobierno alguno; es el único contraste disponible y su insuficiencia motiva el veredicto sin_evidencia.",
+              "host": "eltiempo.com",
+              "title": "Meritocracia vs. inclusión: el falso dilema",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail//uploads/2024/04/22/6626d091f13db.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "topic": "politica",
+          "claim": "Se afirma que la tercera forma de robo consiste en asignar cargos a familiares, amigos o allegados.",
+          "quote": "La número tres es enchufar a familiares, amigos o pilinguis.",
+          "figures": [
+            "número tres"
+          ],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "baja",
+          "summary": "La afirmación de que la tercera forma de robo consiste en 'enchufar a familiares, amigos o pilinguis' no puede verificarse con las fuentes entregadas: la sección de FUENTES está vacía ('No se encontraron fuentes accesibles'), de modo que no existe evidencia documental con la cual contrastarla dentro de este ejercicio [sin fuentes disponibles]. Tratándose de una categorización del autor del video dentro de una enumeración ('La número tres es...'), se trata de una formulación de opinión/tipificación retórica, no de un dato cuantificable por sí mismo; su veredicto dependería de casos concretos documentados que las fuentes no aportan.",
+          "context": "No hay fuentes que permitan aportar contexto normativo ni magnitud: no se dispone de datos de contrataciones, decretos, decisiones de órganos de control o antecedentes históricos sobre nepotismo público que permitan dimensionar el fenómeno descrito. Cualquier cifra o precedente que se aporte aquí quedaría sin respaldo documental dentro de este ejercicio, por lo que se omite [sin fuentes disponibles].",
+          "progressivePerspective": "Sin fuentes accesibles no es posible evaluar con evidencia si esta afirmación abona al esclarecimiento de la verdad o si, por el contrario, simplifica un fenómeno institucional complejo. En términos del marco de verdad, justicia, reparación y no repetición, una denuncia de patronazgo en el acceso a cargos públicos sólo tiene valor verificable si se sustenta en hechos documentados y casos atribuibles con responsabilidad identificada; de lo contrario corre el riesgo de convertirse en una acusación general que no permite ni esclarecimiento ni garantía de no repetición. Tampoco puede afirmarse lo contrario: la ausencia de fuentes en este paquete no demuestra que la práctica descrita no exista [sin fuentes disponibles].",
+          "whatTheyOmit": "Se omite toda delimitación concreta: a qué administración, periodo, ente o caso específico se refiere la enumeración; qué se entiende por 'robo' en este contexto (malversación, enriquecimiento ilícito, uso indebido de la función pública); y qué evidencia sustenta que esta sea 'la tercera' de las formas señaladas. Sin fuentes no es posible determinar si se omite contexto documentado o si simplemente no fue posible obtener evidencia en este ejercicio [sin fuentes disponibles].",
+          "keyFacts": [
+            "La afirmación se enuncia como parte de una enumeración personal del autor del video ('La número tres es enchufar a familiares, amigos o pilinguis'), es decir, como categorización propia, no como dato estadístico o judicial citado [sin fuentes disponibles]",
+            "No se encontraron fuentes accesibles para contrastar la afirmación, por lo que no es verificable dentro de este ejercicio",
+            "No existen datos, series o decisiones en el material entregado que permitan dimensionar la práctica descrita"
+          ],
+          "sources": []
+        },
+        {
+          "id": 5,
+          "topic": "economia",
+          "claim": "Se afirma que el ciudadano pierde el valor del dinero robado y además pierde la ganancia potencial que ese dinero habría generado si estuviera bien invertido, concepto conocido como coste de oportunidad.",
+          "quote": "El ciudadano no solo está perdiendo el valor del dinero robado, pierde más, porque ese dinero bien invertido podría haber multiplicado su valor y haber generado nueva riqueza.",
+          "figures": [],
+          "verdict": "verdadero",
+          "headline": "Verdadero, pero incompleto",
+          "color": "lime",
+          "confidence": "alta",
+          "summary": "El concepto citado —coste de oportunidad— es un principio económico bien establecido: la pérdida no se limita al monto robado, sino también al rendimiento que ese capital habría generado en una mejor alternativa. Las fuentes lo respaldan directamente como definición y con ejemplo numérico [F5].",
+          "context": "F5 define el costo de oportunidad como 'el beneficio de la mejor alternativa a la que se renuncia cuando se toma una decisión' y lo ejemplifica: $10 millones sin invertir durante un año con una rentabilidad hipotética del 8% efectivo anual significan renunciar a $800.000 de rendimiento potencial, sin contar la pérdida de poder adquisitivo por inflación [F5]. El material también precisa que la rentabilidad debe evaluarse con riesgo, liquidez y plazo, no en aislamiento [F5]. En el plano de magnitud del daño, las fuentes sobre corrupción en Colombia muestran que la percepción ciudadana del problema es alta y creciente: 8 de cada 10 colombianos siente que la corrupción empeora, con calificación IPC 2025 de 37/100 y puesto 99 de 182 [F2][F4], y casos emblemáticos con desvíos cuantificados, como el de 'Centro Poblados' con 70.000 millones de pesos desviados [F3].",
+          "progressivePerspective": "La afirmación abona a la comprensión del daño patrimonial del ciudadano: al conceptualizar el coste de oportunidad, el mensaje reconoce que la corrupción no solo consume recursos públicos, sino que destruye riqueza futura y oportunidades de inversión y desarrollo, lo cual es consistente con lo que las propias fuentes describen: la corrupción 'distorsiona estructuralmente las posibilidades de crecimiento y desarrollo', genera sobrecostos y envía señales negativas a la inversión, afectando incluso decisiones de largo plazo como las pensionales [F2]. Desde el marco de verdad y reparación, nombrar el daño agregado —incluido el lucro cesante ciudadano— enriquece la comprensión de la magnitud del perjuicio, siempre que se sostenga con datos verificables y no se convierta en retórica sin cifras. El riesgo opuesto sería minimizar o exagerar el monto según conveniencia; aquí el concepto en sí es correcto, pero la afirmación es de carácter analítico y no aporta por sí misma cifras del monto robado ni de su rendimiento hipotético en un caso concreto [F5][F2].",
+          "whatTheyOmit": "La cita no aporta cifras concretas sobre cuánto se ha robado ni sobre qué rendimiento habría tenido ese dinero, por lo que el componente de 'ganancia potencial' queda como ilustración conceptual y no como dato cuantificado del caso [F5]. Tampoco aclara el nivel de riesgo o la alternativa de inversión usada como referencia, factores que las fuentes señalan como imprescindibles para calcular correctamente el costo de oportunidad [F5]. En cuanto a la magnitud del problema en Colombia, la fuente de percepción ciudadana no es una medición directa del monto desviado, sino percepción e índice de percepción de corrupción [F2][F4].",
+          "keyFacts": [
+            "El costo de oportunidad es el beneficio de la mejor alternativa a la que se renuncia al tomar una decisión; aplica a decisiones cotidianas de finanzas personales [F5].",
+            "Ejemplo cuantificado: $10 millones sin invertir durante un año con rentabilidad hipotética del 8% E.A. significan renunciar a $800.000 de rendimiento potencial, además de posible pérdida de poder adquisitivo por inflación [F5].",
+            "La inflación forma parte del costo de oportunidad: se distingue rentabilidad nominal de rentabilidad real [F5].",
+            "En Colombia, el IPC 2025 dio 37 puntos sobre 100 y el puesto 99 entre 182 países, retroceso frente a 39 puntos en 2024 y 40 en 2023 [F2][F4].",
+            "Según encuesta Invamer de junio de 2025, el 83% de los colombianos considera que la corrupción está empeorando, frente al 60% en agosto de 2022 [F2][F4].",
+            "El caso 'Centro Poblados' implicó el desvío de 70.000 millones de pesos destinados a llevar internet a escuelas rurales; Emilio Tapia fue condenado en ese caso y en el 'carrusel de la contratación' de Bogotá [F3].",
+            "Las fuentes señalan que la corrupción genera sobrecostos, mayores primas de riesgo y afecta decisiones de inversión, incluidas las de largo plazo como el sistema pensional [F2]."
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.larepublica.co/analisis/anif-3478852/inclusion-financiera-como-estamos-y-hacia-donde-vamos-3831631",
+              "note": "Contexto de inclusión financiera en Colombia: 62,3% se siente incluido en el sistema financiero; acceso al crédito limitado (36,2% de adultos con productos de crédito), lo que ilustra el entorno en el que opera el ciudadano. No define el coste de oportunidad.",
+              "host": "larepublica.co",
+              "title": "Inclusión financiera: ¿cómo estamos y hacia dónde vamos?",
+              "image": "https://img.lalr.co/cms/2022/10/03093210/1280X720_ANIF.jpg?size=sm&ratio=rr16_9&f=jpg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/gobierno/ocho-de-cada-10-colombianos-siente-que-la-corrupcion-viene-empeorando-en-los-ultimos-anos-487950",
+              "note": "Percepción y efectos económicos de la corrupción en Colombia: IPC 2025 con 37/100, puesto 99/182; 83% cree que empeora; efectos sobre inversión, ahorro y crecimiento.",
+              "host": "portafolio.co",
+              "title": "Ocho de cada 10 colombianos siente que la corrupción viene empeorando en los últimos años",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/02/09/698a148f196a3.jpeg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/justicia/emilio-tapia-la-historia-de-la-cara-mas-conocida-de-la-corrupcion-en-colombia-se-convierte-en-libro-3564013",
+              "note": "Caso emblemático: condena de Emilio Tapia en el 'carrusel de la contratación' (7 años) y desvío de 70.000 millones de pesos en 'Centro Poblados'. Aporta magnitud concreta de un desvío.",
+              "host": "eltiempo.com",
+              "title": "Emilio Tapia: la historia de la cara más conocida de la corrupción en Colombia se convierte en libro",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/12/6a2c75cf27fa1.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elpais.com.co/colombia/percepcion-de-corrupcion-en-colombia-aumenta-el-pais-retrocedio-siete-puestos-en-ranking-global-1057.html",
+              "note": "Confirma IPC 2025: 37 puntos, puesto 99, caída de 7 posiciones frente a 2024; promedio regional 42; efectos sobre clima de negocios e inversión.",
+              "host": "elpais.com.co",
+              "title": "Percepción de corrupción en Colombia aumenta; este es el puesto que ocupó en ranking global",
+              "image": "https://www.elpais.com.co/resizer/v2/NV4JPW7XHRGBNDQF5YO3TCAHLY.jfif?auth=14838710c085de10bc825a2994ae3fc16481e678715f66f7e8657f17924ae52e&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.diariodelsur.com.co/noticias/cuanto-deja-de-ganar-por-mantener-su-dinero-quieto-aprenda-a-calcularlo",
+              "note": "Fuente central: define costo de oportunidad, lo ejemplifica numéricamente ($10M a 8% E.A. = $800.000 renunciados) e incluye la inflación y la rentabilidad real en el cálculo. Contraste: advierte que rentabilidad debe evaluarse con riesgo, liquidez y plazo.",
+              "host": "diariodelsur.com.co",
+              "title": "¿Cuánto deja de ganar por mantener su dinero quieto? Aprenda | DIARIO DEL SUR",
+              "image": "https://gec.hsbnoticias.com/uploads/articles/bce8e77b-e2f7-4e81-9113-09e01c53fd54.webp"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "topic": "politica",
+          "claim": "Se afirma que colocar personas no preparadas y de confianza política en cargos de gestión conduce a multiplicar errores, problemas y decadencia.",
+          "quote": "Poner enchufados políticos o familiares supone tener a gente mediocre y no preparada tomando las decisiones, lo que da lugar a multiplicar los errores, los problemas y la decadencia.",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación es una relación causal general (enchufismo → mediocridad → errores y decadencia) que no está ligada a un caso ni a una cifra concreta en las fuentes disponibles; las fuentes aportan datos de desempeño administrativo y ejemplos de nombramientos, pero no establecen el nexo causal que se afirma [F1][F2].",
+          "context": "El único dato comparativo de gestión disponible es el reportado por la Contraloría: el Plan Nacional de Desarrollo del gobierno Petro alcanzó 72,5 % de cumplimiento de metas con corte al 7 de agosto de 2026, frente a 82,5 % en 2014-2018 y 82,21 % en 2018-2022 (diferencias de 9,5 y 9,71 puntos porcentuales). De las metas evaluadas, 33 % se cumplió, 44 % no se cumplió y 23 % tuvo avances menores al 50 %; los rezagos se concentraron en agua potable rural, reforma agraria, salud, programas para jóvenes y sustitución de cultivos, y en los 259 compromisos con pueblos étnicos (149 con avance <50 %, 82 sin avance). El vicecontralor además señaló dificultades en los reportes y mecanismos de verificación de indicadores [F2]. Por su parte, los nombramientos recogidos por la fuente corresponden a funcionarios y directivos con formación profesional descrita (Indira Portocarrero, ingeniera industrial con maestría y trayectoria en la entidad; Juan David Pérez, abogado y politólogo con maestría y experiencia gremial y privada; entre otros) [F1].",
+          "progressivePerspective": "A la luz de los estándares de verdad y de rendición de cuentas, la proposición contiene un principio de gobernanza verificable en abstracto (la preparación técnica importa en la gestión pública), pero lo presenta como causalidad probada sin datos que la sustenten: ninguna fuente relaciona nombramientos por confianza política con resultados medibles de errores o 'decadencia' [F1][F2]. En sentido contrario, la fuente que sí cuantifica gestión muestra un resultado de cumplimiento inferior al de los dos gobiernos precedentes, dato que es verificable y relevante para la evaluación pública, pero que el propio reporte atribuye a sectores con rezagos y a fallas en reportes y verificación de indicadores, no a la cualificación de los nombrados [F2]. Para que la afirmación abonara a una discusión de no repetición de malas prácticas y de mejora institucional, requeriría precisar casos, cargos y resultados concretos; formulada en términos absolutos ('gente mediocre y no preparada') y sin evidencia de nexo, funciona como opinión de diagnóstico y no como hecho establecido [F1][F2].",
+          "whatTheyOmit": "Se omite cualquier medición empírica que vincule el perfil de los nombrados con los resultados de la gestión: las fuentes no contienen datos sobre criterios de selección, trayectoria de funcionarios ni correlación con errores administrativos [F1][F2]. También se omite que la fuente con cifras de desempeño atribuye los incumplimientos a rezagos sectoriales específicos y a dificultades en los reportes y mecanismos de verificación, y no a la preparación de los nombrados [F2]. Finalmente, los ejemplos de nombramientos disponibles describen perfiles con formación profesional y trayectoria en el sector, lo que no encaja con la caracterización uniforme de 'gente mediocre y no preparada' [F1].",
+          "keyFacts": [
+            "El Plan Nacional de Desarrollo del gobierno Petro alcanzó 72,5 % de cumplimiento de metas con corte al 7 de agosto de 2026, el más bajo de los tres gobiernos evaluados [F2]",
+            "Los porcentajes de cumplimiento previos fueron 82,5 % (2014-2018) y 82,21 % (2018-2022), con brechas de 9,5 y 9,71 puntos porcentuales frente al periodo 2022-2026 [F2]",
+            "De las metas evaluadas, 33 % se cumplió, 44 % no se cumplió y 23 % tuvo avances menores al 50 % [F2]",
+            "Los rezagos se concentraron en agua potable rural, reforma agraria, salud, programas para jóvenes y sustitución de cultivos ilícitos [F2]",
+            "De 259 compromisos evaluados con pueblos étnicos, 149 registran avances menores al 50 % y 82 no presentan ningún avance [F2]",
+            "La Contraloría señaló dificultades en los reportes y en los mecanismos de verificación de los indicadores usados para medir el avance del plan [F2]",
+            "Los nombramientos recogidos en la fuente corresponden a directivos con formación y trayectoria descritas: Indira Portocarrero (ingeniera industrial, maestría, previa trayectoria en la UPME) y Juan David Pérez (abogado y politólogo, maestría, experiencia gremial y empresarial) [F1]",
+            "Ninguna fuente establece una relación causal entre nombramientos por confianza política y el aumento de errores o la 'decadencia' institucional [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/economia/empresas/nombramientos-upme-cci-antioquia-y-chainalysis-fortalecen-liderazgo-institucional-gremial-y-tecnologico-con-nuevos-directivos-3521444",
+              "note": "Reporta nombramientos en UPME, CCI Antioquia, Chainalysis y Schneider Electric, con perfiles profesionales de los designados; sirve como contraste empírico con la caracterización uniforme de 'gente no preparada', pero no evalúa resultados de gestión.",
+              "host": "eltiempo.com",
+              "title": "Nombramientos: UPME, CCI Antioquia, Chainalysis y Schneider Electric fortalecen liderazgo institucional, gremial y tecnológico con nuevos directivos",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/01/03/69593eae138f4.r_d.537-540-0.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elpais.com.co/politica/contraloria-revelo-las-cifras-de-cumplimiento-del-plan-de-desarrollo-del-gobierno-petro-el-balance-fue-del-725-2311.html",
+              "note": "Aporta la única evidencia cuantitativa comparativa de gestión (72,5 % vs. 82,5 % y 82,21 % en gobiernos previos), el detalle de metas incumplidas y la atribución de rezagos a sectores y a problemas de reporte y verificación; no conecta esos resultados con el perfil de los nombrados.",
+              "host": "elpais.com.co",
+              "title": "Plan de Desarrollo de Petro tuvo un cumplimiento del 72,5 %",
+              "image": "https://www.elpais.com.co/resizer/v2/ENSDVQI2OFAFLAPOR6IVEXXPZ4.jpg?auth=037aaf6c72e386ca20233b2c649654c96bb7816e7f0b1d6afc0103b884c68254&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "topic": "politica",
+          "claim": "Se afirma que la energía y el tiempo de los gestores designados por conexiones políticas se destinan a las necesidades del partido o a proteger redes de corrupción en lugar de atender las necesidades del país.",
+          "quote": "el tiempo y energía de los gestores enchufados se invierten en las necesidades del partido o en proteger las redes de corrupción",
+          "figures": [],
+          "verdict": "parcialmente_verificable",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación es una generalización interpretativa: las fuentes sí documentan casos concretos de nepotismo, nombramientos irregulares, contratación cuestionada y condenas firmes por corrupción durante el gobierno anterior, pero ninguna fuente prueba directamente que 'el tiempo y la energía de los gestores enchufados se invierta en las necesidades del partido o en proteger redes de corrupción' como fenómeno sistemático medible [F1][F2][F3][F4].",
+          "context": "El 'libro de la verdad' del gobierno entrante recoge más de 80 casos presuntos de irregularidades, incluidos nepotismo, 66 nombramientos en provisionalidad en el ICBF días antes del cambio de gobierno y contrataciones cuestionadas en Fenoge, UNP y Air-e [F1][F3]. En el macrocaso UNGRD hay siete condenas firmes (seis por preacuerdo, una por allanamiento) y procesos preparatorios contra exministros y exfuncionarios [F2]. En Air-e hay al menos cuatro expedientes en la Fiscalía sin conclusión definitiva, y cifras como la caída del patrimonio de 2,22 billones (2023) a menos 377.662 pesos (2025) provienen del propio 'libro de la verdad' [F4]. A nivel país, Colombia obtuvo 37/100 en el Índice de Percepción de la Corrupción 2025 (puesto 99 de 182), retroceso frente a 39 puntos en 2024 y 40 en 2023, y más del 80% de la población cree que la corrupción empeora [F5].",
+          "progressivePerspective": "Desde el ángulo de la transparencia y la rendición de cuentas, la afirmación apunta a un problema real y estructural: la percepción de corrupción en Colombia muestra una tendencia a la baja desde 2023 y más del 80% de la ciudadanía cree que empeora, con factores identificados por Transparencia por Colombia como escándalos de gran corrupción en niveles altos del gobierno y una brecha entre normas sólidas en el papel y su aplicación práctica, con sanciones lentas y poco disuasorias [F5]. Ese marco sustenta la preocupación por el 'enchufismo', pero la afirmación del video va más allá de lo que las fuentes prueban: describe una intención y una destina ción de esfuerzo ('necesidades del partido' o 'proteger redes') que no es verificable con los documentos citados; los casos documentados acreditan presuntas irregularidades y, en el caso UNGRD, condenas firmes, no el destino del tiempo de los funcionarios [F1][F2][F4]. Verificable es el hecho; la lectura de motivación es análisis. Además, el encuadre ético de la rendición de cuentas exige distinguir entre presunta irregularidad, investigación en curso y responsabilidad establecida judicialmente: el propio 'libro de la verdad' fue entregado como información para que 'la justicia investigue', sin condena anticipada [F3].",
+          "whatTheyOmit": "El video no aporta evidencia de una medición comparativa de 'tiempo y energía' destinados a intereses de partido, ni datos que permitan comparar la magnitud de la corrupción entre gobiernos; las fuentes disponibles solo documentan casos del gobierno anterior y un indicador nacional de percepción sin desglose por administración [F1][F5]. También omite que la mayoría de los casos citados son presuntos y aún sin resolver: los procesos de Air-e no han llegado a conclusión definitiva [F4], los casos contra exministros están en etapa preparatoria de juicio [F2], y los más de 80 casos del 'libro de la verdad' son señalamientos del equipo de empalme que la Fiscalía aún investiga, sin imputaciones derivadas de ese documento en las fuentes [F3]. Tampoco menciona el retroceso sostenido del índice de corrupción desde 2023, anterior a la administración actual, lo que sugiere un problema estructural de largo plazo [F5].",
+          "keyFacts": [
+            "El 'libro de la verdad' del gobierno entrante recoge más de 80 casos de presuntas irregularidades durante la administración de Gustavo Petro, incluidos nepotismo y nombramientos irregulares [F3]",
+            "Se analizaron 66 resoluciones de nombramiento en provisionalidad en el ICBF expedidas entre el 2 y el 8 de julio de 2026, días antes del cambio de gobierno [F1]",
+            "En el macrocaso UNGRD hay siete condenas firmes (seis por preacuerdo, una por allanamiento) y principios de oportunidad avalados [F2]",
+            "Los procesos contra exministros y exfuncionarios del gobierno anterior por el caso UNGRD están en etapa preparatoria de juicio [F2]",
+            "En Air-e existen al menos cuatro expedientes en distintas fiscalías por presuntas irregularidades, sin conclusión definitiva [F4]",
+            "Colombia obtuvo 37 puntos sobre 100 en el Índice de Percepción de la Corrupción 2025, retroceso frente a 39 en 2024 y 40 en 2023 [F5]",
+            "Más del 80% de la población colombiana cree que la corrupción está empeorando [F5]",
+            "Ninguna fuente cuantifica el 'tiempo y energía' de funcionarios destinados a intereses de partido o a proteger redes de corrupción, ni compara magnitudes entre gobiernos [F1][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.vanguardia.com/politica/2026/08/19/el-listado-de-casos-de-corrupcion-en-el-gobierno-petro-revelado-por-abelardo-de-la-espriella/",
+              "note": "Detalle del 'libro de la verdad': nepotismo, nombramientos irregulares en ICBF y contrataciones cuestionadas; son hallazgos presuntos del equipo de empalme, no responsabilidades judiciales.",
+              "host": "vanguardia.com",
+              "title": "El listado de casos de corrupción en el Gobierno Petro, revelado por Abelardo De La Espriella",
+              "image": "https://www.vanguardia.com/resizer/v2/SOLNXCRMWJHMNBJIOYOMWY4EOE.jpg?auth=ee82875f5dd2bf608be090001f7414aa0f489f2f4abb384981fbf8900ce24cfc&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/10/09/macro-caso-de-corrupcion-ungrd-siete-condenas-seis-por-preacuerdo-y-una-por-aceptacion-de-cargos/",
+              "note": "Prueba judicial concreta: siete condenas firmes en el UNGRD, pero procesos contra exministros aún en etapa preparatoria; aporta el contraste entre condena firme y proceso pendiente.",
+              "host": "caracol.com.co",
+              "title": "Macro caso de corrupción UNGRD: Siete condenas (seis por preacuerdo y una por aceptación de cargos)",
+              "image": "https://caracol.com.co/resizer/v2/SKBLQYXVOFHP3DKUYJRXGOLOJY.png?auth=8b93af159345e9ec74a9e4f68da7aed284f1bbb3690d52d3a16088a747cf6e3b&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elpais.com.co/politica/abelardo-de-la-espriella-lleva-a-la-fiscalia-el-libro-de-la-verdad-con-mas-de-80-casos-de-presunta-corrupcion-del-gobierno-de-petro-1808.html",
+              "note": "Confirma el alcance (más de 80 casos) y el carácter de información para investigación, sin condena anticipada; contextualiza que son señalamientos presuntos.",
+              "host": "elpais.com.co",
+              "title": "De la Espriella entrega a la Fiscalía ‘El libro de la verdad’ con casos de presunta corrupción",
+              "image": "https://www.elpais.com.co/resizer/v2/BQAEVZPKVFEHLDFPNQCCVOZT4M.jpg?auth=eedadc466fc086d3e73b43e1e52d1196aad6d0138a919d0a431953504e13ab56&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.semana.com/nacion/articulo/intervencion-de-air-e-entre-los-casos-de-corrupcion-senalados-en-el-libro-de-la-verdad-estos-son-los-procesos-penales-que-reposan-en-la-fiscalia/202658/",
+              "note": "Muestra que varios casos señalados siguen sin conclusión definitiva en la Fiscalía; útil para distinguir presunción de responsabilidad establecida.",
+              "host": "semana.com",
+              "title": "Intervención de Air-e, entre los casos de corrupción señalados en ‘El libro de la verdad’: estos son los procesos penales que reposan en la Fiscalía",
+              "image": "https://www.semana.com/resizer/v2/5X72DMQEI5BRHB4AZF7MGQEZEA.jpg?auth=5f1ad4340df3252a620b847ae6a194a106de5f6d3e2c93de2c9ff6eb6760571b&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/globoeconomia/entrevista-con-el-director-de-transparencia-colombia-andres-hernandez-4324358",
+              "note": "Marco estructural: retroceso del índice de corrupción desde 2023 y percepción ciudadana; aporta magnitud y contraste temporal que el video no maneja.",
+              "host": "larepublica.co",
+              "title": "“El mayor riesgo es que la frustración ciudadana impulse tendencias autoritarias”",
+              "image": "https://img.lalr.co/cms/2026/02/10181705/AH_2-1.jpg?size=sm&ratio=sq&f=jpg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "topic": "politica",
+          "claim": "Se afirma que existe algo peor que la corrupción o la ausencia de gestión: defender ideas fallidas.",
+          "quote": "hay algo todavía peor que la corrupción o la ausencia de gestión, defender ideas fallidas",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La cita es una tesis valorativa y retórica (una jerarquización moral entre corrupción, ausencia de gestión y 'defender ideas fallidas'), no un hecho empíricamente verificable: ninguna de las cinco fuentes establece ni respalda esa comparación de gravedad [F1][F2][F3][F4][F5]. Por su naturaleza, se clasifica como opinión; no es falsa ni verdadera en sentido estricto, pero tampoco está sustentada por evidencia en las fuentes entregadas.",
+          "context": "Como marco de lo que sí es verificable en las fuentes: el informe de Transparencia por Colombia sobre el cuatrienio 2022-2026 concluye que el gobierno de turno 'no logró consolidar cambios estructurales' en los instrumentos de prevención y lucha contra la corrupción, con un balance calificado como 'deficiente' por fragmentación de políticas y escándalos internos, entre ellos el caso UNGRD (desvío de fondos por sobrecostos en carrotanques para La Guajira y compra de voluntades en el Congreso) y las investigaciones por financiación de la campaña 'Petro Presidente 2022' [F5]. Paralelamente, la literatura sobre evaluación de políticas públicas insiste en que la valoración de una política debe ir más allá de sus resultados inmediatos: la directora de CAF, Verónica Amarante, advierte que un programa puede no alcanzar un objetivo (p. ej. aprendizajes con entrega de computadores) y aun así cumplir otros igualmente importantes, como inclusión social, por lo que 'fallar' o 'acertar' requiere definir previamente qué se mide [F1]. En el ámbito educativo colombiano, el 15.º Foro de Políticas Públicas en Educación (IESE, Universidad del Norte) reportó que los indicadores clave de calidad se han mantenido estáticos o han retrocedido en la última década [F4]. Sobre el legado de gestión del gobierno anterior, la exvicepresidenta Francia Márquez señaló haber dejado cuatro CONPES (pacífico colombiano, población LGBTIQ+, población con discapacidad y derecho al cuidado) y una reorientación de la política exterior hacia el sur global [F2]. El texto del video, en cambio, no aporta datos: enuncia una premisa de priorización entre males de gobierno.",
+          "progressivePerspective": "A la luz de los estándares de verdad, justicia, reparación y no repetición aplicables a la rendición de cuentas pública —y de forma análoga al deber estatal de evaluación y transparencia que exige la veeduría [F5]—, la afirmación puede leerse en dos direcciones. Si se usa para sostener que sostener políticas sin evidencia de resultados es un mal mayor que la corrupción, choca con la propia evidencia académica: la evaluación debe considerar más que los resultados inmediatos y una política 'fallida' en una dimensión puede ser exitosa en otra [F1], de modo que declarar 'ideas fallidas' sin metodología de evaluación es tan cuestionable como el silenciamiento de datos. Si se usa para jerarquizar males de gobierno con fines de comparación entre administraciones, el único balance empírico disponible en las fuentes (el de Transparencia por Colombia) documenta concretamente incumplimientos anticorrupción, escándalos y fragmentación de políticas en el periodo 2022-2026 [F5], mientras que en el periodo previo las fuentes recogen un legado de cuatro CONPES reportado por quien ejerció la vicepresidencia [F2] —es decir, una autodeclaración, no una evaluación independiente—. En ningún caso las fuentes permiten afirmar que 'defender ideas fallidas' sea objetivamente peor que la corrupción: se trata de una jerarquía moral del hablante, no de una conclusión verificable, y plantearla como dato sin evidencia puede usarse para relativizar hechos de corrupción documentados [F5] o para desacreditar políticas públicas sin someterlas a evaluación rigurosa [F1][F4].",
+          "whatTheyOmit": "La afirmación omite (i) toda evidencia que sustente la jerarquía entre corrupción y 'ideas fallidas' —las fuentes no contienen ningún estudio, ranking o dictamen que compare la gravedad de ambos males [F1][F5]; (ii) la complejidad de determinar qué es una 'idea fallida': la evaluación de políticas públicas exige definir previamente los objetivos y dimensiones a medir, y un programa puede fallar en un objetivo y cumplir en otros [F1]; (iii) los datos concretos de corrupción e incumplimiento documentados en el periodo evaluado por Transparencia por Colombia, que quedan en un plano genérico al no citarse cifras, casos ni fechas en la cita [F5]; y (iv) el hecho de que el balance del foro educativo muestra estancamiento o retroceso en indicadores de calidad, atribuido por los participantes a falta de prioridad política y voluntad de aplicación de programas probados, no únicamente a 'ideas fallidas' como categoría [F4].",
+          "keyFacts": [
+            "La cita es una proposición valorativa (comparación de gravedad entre corrupción, ausencia de gestión y defensa de 'ideas fallidas') y no un dato empírico: ninguna fuente la verifica ni la refuta [F1][F2][F3][F4][F5]",
+            "Transparencia por Colombia concluyó que el gobierno 2022-2026 no logró consolidar cambios estructurales en los instrumentos de prevención y lucha contra la corrupción, con balance 'deficiente' [F5]",
+            "El caso UNGRD fue descrito como uno de los mayores escándalos de corrupción recientes, con red probada de desvío de fondos por sobrecostos en carrotanques para La Guajira y compra de voluntades en el Congreso [F5]",
+            "La evaluación de políticas públicas debe considerar más que los resultados inmediatos: una política puede no cumplir un objetivo y cumplir otros igualmente importantes, como la inclusión social [F1]",
+            "En el 15.º Foro de Políticas Públicas en Educación se reportó que los indicadores clave de calidad se han mantenido estáticos o han retrocedido en la última década [F4]",
+            "La exvicepresidenta Francia Márquez declaró haber dejado cuatro políticas públicas (CONPES del pacífico, LGBTIQ+, discapacidad y derecho al cuidado) y una reorientación de la política exterior; es una autodeclaración, no una evaluación independiente [F2]",
+            "El conversatorio del Externado en la Feria del Libro abordó innovación pública, gobernanza y evaluación de políticas públicas, sin establecer jerarquías de gravedad entre males de gobierno [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://radio.uchile.cl/2026/11/04/veronica-amarante-directora-de-caf-la-evaluacion-de-las-politicas-publicas-debe-considerar-mas-que-sus-resultados-inmediatos/",
+              "note": "Aporta el criterio de que evaluar políticas exige definir objetivos y dimensiones previamente; contradice la simplificación de 'ideas fallidas' sin evaluación rigurosa. Contraste: matiza la premisa del video.",
+              "host": "radio.uchile.cl",
+              "title": "Verónica Amarante, directora de CAF: La evaluación de las políticas públicas debe considerar más que sus resultados inmediatos - Diario y Radio Universidad Chile",
+              "image": "https://uchile-media-storage.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/04160335/veronica-amarante.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/08/21/dejamos-un-legado-de-cuatro-politicas-publicas-y-politica-exterior-de-colombia-francia-marquez/",
+              "note": "Registro de la autodeclaración de legado de cuatro CONPES del periodo anterior; es testimonio del propio actor, no evaluación independiente. Útil como contraste documental de gestión.",
+              "host": "caracol.com.co",
+              "title": "Dejamos un legado de cuatro políticas públicas y política exterior de Colombia: Francia Márquez",
+              "image": "https://caracol.com.co/resizer/v2/4Z7MFONCNPZIRUS4O75X5V3O3A.jpg?auth=7332450c391c8ce5ed5cdc10f21e0dec68d5f645f1f194e7c38623882a61cd95&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.semana.com/cultura/libros/articulo/conversatorio-en-la-feria-del-libro-de-bogota-sobre-politicas-publicas-organizado-por-la-universidad-externado-de-colombia/202534/",
+              "note": "Confirma que la elaboración y evaluación de políticas públicas es tema académico en Colombia; no aporta datos sobre corrupción ni jerarquía de males. Relevancia limitada.",
+              "host": "semana.com",
+              "title": "Conversatorio en la Feria del Libro de Bogotá sobre políticas públicas, organizado por la Universidad Externado de Colombia",
+              "image": "https://www.semana.com/resizer/v2/JRK4HWQQQ5ELVND47V7SQTEQZY.jpg?auth=763d973cfe56555fac9ecf3d454618bb07d46be9c00644f1f996ab33e1cab21d&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.portafolio.co/economia/crecimiento/foro-de-politicas-publicas-plantea-agenda-educativa-en-colombia-hacia-2035-633963",
+              "note": "Aporta el dato de estancamiento o retroceso de indicadores educativos y las causales señaladas (falta de prioridad política, voluntad de aplicar programas probados). Contraste: muestra que el diagnóstico de fracaso es más complejo que 'ideas fallidas'.",
+              "host": "portafolio.co",
+              "title": "Colombia necesita una visión educativa al 2035 para superar sus brechas estructurales",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/06/26/685d482adec73.png"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.eltiempo.com/politica/gobierno/gobierno-petro-incumplio-sus-principales-promesas-anticorrupcion-segun-informe-de-transparencia-por-colombia-escandalos-mancharon-el-discurso-3575881",
+              "note": "Único balance empírico de corrupción e incumplimiento en las fuentes: informe de Transparencia por Colombia 2022-2026 con casos concretos (UNGRD, financiación de campaña). Es la referencia principal para el ángulo solicitado sobre proporción de males de gobierno.",
+              "host": "eltiempo.com",
+              "title": "Gobierno Petro incumplió sus principales promesas anticorrupción, según informe de Transparencia por Colombia: escándalos mancharon el discurso",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a710d9df3f36.r_d.600-267-0.png"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "topic": "politica",
+          "claim": "Se afirma que la izquierda multiplica, defiende y promueve a corruptos y malos gestores porque estaría sustentada en ideas profundamente fallidas.",
+          "quote": "El problema es que la izquierda los multiplica, defiende y promueve porque es una ideología asentada en ideas profundamente fallidas.",
+          "figures": [],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación combina un componente fáctico generalizado (que la izquierda 'multiplica, defiende y promueve' corruptos) con un componente puramente ideológico (que esto ocurre 'porque es una ideología asentada en ideas profundamente fallidas'). El segundo componente no es verificable con fuentes empíricas: es una interpretación causal de carácter ideológico. El primer componente se apoya en casos reales documentados (Ábalos, Cerdán, Begoña Gómez, Libro de la Verdad sobre Petro), pero se presenta como una generalización sistemática sin datos comparativos entre espectros políticos que permitan sostener la magnitud ni la causalidad [F1][F2][F3].",
+          "context": "Las fuentes documentan casos concretos de corrupción en gobiernos de izquierda: en España, el juicio a José Luis Ábalos (PSOE) por corrupción en la compra de mascarillas, con la Fiscalía pidiendo hasta 24 años de prisión, más las investigaciones a Santos Cerdán, a la esposa del presidente Begoña Gómez y a su hermano David Sánchez [F1][F2]. En Colombia, el gobierno entrante de Abelardo de la Espriella presentó un 'Libro de la Verdad' de 135 páginas con presuntas irregularidades del gobierno Petro, presentado ante Fiscalía, Procuraduría y Contraloría [F3]. Sin embargo, las fuentes también muestran que la corrupción no es exclusiva de un espectro político: el gobierno de derecha de De La Espriella alistó una ley con beneficios y figuras de oportunidad para condenados por corrupción del gobierno anterior [F5], y la Fiscalía General (Álvaro García Ortiz, nombrado por el gobierno de Sánchez) fue condenada e inhabilitada [F2]. No existe en las fuentes ninguna serie comparativa, estudio o dato cuantitativo que mida la magnitud relativa de corrupción por espectro político que sustente la afirmación de que 'la izquierda multiplica' corruptos de forma sistemática [F1][F2][F3][F4][F5].",
+          "progressivePerspective": "La afirmación se estructura como una explicación causal universal: la ideología de izquierda sería la raíz de que 'multiplique, defienda y promueva' corruptos. Este tipo de generalización ideológica no contribuye a esclarecer hechos concretos de corrupción, sino que construye un marco narrativo donde un espectro político entero es culpable por definición. Desde la perspectiva de verdad, justicia, reparación y no repetición —aplicable cuando las afirmaciones recaen sobre responsabilidades concretas—, esta lógica tiene el riesgo de instrumentalizar casos reales de corrupción (como los de Ábalos o Petro) para sostener una tesis ideológica predeterminada, en lugar de examinar cada caso en sus hechos, responsabilidades individuales y condenas judiciales. Los casos de Ábalos y Cerdán están siendo juzgados por tribunales españoles con presunción de inocencia [F1], y el 'Libro de la Verdad' contiene 'presuntas' irregularidades aún sin determinación judicial [F3]. Presentarlos como evidencia de que una ideología entera 'promueve corruptos' convierte la justicia en un argumento ideológico. Asimismo, el marco de no repetición exige que la lucha contra la corrupción sea transversal: las fuentes muestran que el gobierno de derecha colombiano también ofrece beneficios a condenados por corrupción [F5], lo que sugiere que la corrupción institucional es un problema sistémico que trasciende rótulos ideológicos.",
+          "whatTheyOmit": "El video omite que el gobierno de derecha colombiano de Abelardo de la Espriella alistó una ley con beneficios y figuras como 'principios de oportunidad y preacuerdos' para condenados por corrupción del gobierno anterior, algo que la propia oposición cuestionó [F5]. Omite también que el Fiscal General nombrado por el gobierno de Sánchez (Álvaro García Ortiz) fue condenado e inhabilitado [F2], y que en el caso español la oposición de derecha (PP y Vox) pide elecciones anticipadas como estrategia política, mientras el presidente niega corrupción generalizada y mantiene que no dimitirá [F1][F2]. No aporta datos comparativos entre espectros políticos que permitan sostener la afirmación de que la izquierda 'multiplica' corruptos de forma desproporcionada. Finalmente, omite que los casos de Ábalos y Cerdán están en curso judicial con presunción de inocencia y que el 'Libro de la Verdad' contiene solo 'presuntas' irregularidades aún sin verificación judicial [F1][F3].",
+          "keyFacts": [
+            "José Luis Ábalos, exministro socialista y mano derecha de Pedro Sánchez, fue juzgado por corrupción en la compra de mascarillas, con la Fiscalía pidiendo hasta 24 años de prisión; se le condenó a 24 años de cárcel [F1][F2]",
+            "Santos Cerdán, sucesor de Ábalos como número tres del PSOE, está imputado por corrupción en un procedimiento paralelo [F1][F2]",
+            "Begoña Gómez, esposa del presidente Sánchez, está investigada por tráfico de influencias, y su hermano David fue juzgado por el mismo delito [F1][F2]",
+            "El gobierno entrante de De la Espriella presentó un 'Libro de la Verdad' de 135 páginas con presuntas irregularidades del gobierno Petro ante Fiscalía, Procuraduría y Contraloría, pero son 'presuntas' y aún sin determinación judicial [F3]",
+            "El gobierno de derecha de De la Espriella alistó una ley con beneficios y figuras de oportunidad para condenados por corrupción del gobierno anterior, incluyendo principios de oportunidad y preacuerdos [F5]",
+            "No existe en las fuentes ninguna serie comparativa o dato cuantitativo que mida la magnitud relativa de corrupción por espectro político [F1][F2][F3][F4][F5]",
+            "La afirmación de que la izquierda 'multiplique, defienda y promueva' corruptos por ser una ideología con 'ideas profundamente fallidas' es una interpretación causal de carácter ideológico, no un hecho verificable [F1][F2][F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.semana.com/mundo/articulo/inicia-juicio-por-corrupcion-contra-ex-mano-derecha-de-pedro-sanchez-piden-su-renuncia-por-el-escandalo/202649/",
+              "note": "Documenta el juicio a Ábalos y afiguras cercanas al PSOE por corrupción; muestra que los acusados se declaran inocentes y que el proceso está en curso, con más de 75 testigos citados.",
+              "host": "semana.com",
+              "title": "Inicia juicio por corrupción contra ex mano derecha de Pedro Sánchez. Piden su renuncia por el escándalo",
+              "image": "https://www.semana.com/resizer/v2/BXDCF25KF5DMNNIGO2DRYMFIPM.jpg?auth=f9ed10f2e179cf9b284b0178642f91451a04de32d65ebc6c052ba70add558cd5&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/mundo/europa/el-presidente-espanol-pedro-sanchez-niega-corrupcion-generalizada-en-su-gobierno-tras-condena-de-su-mano-derecha-e-investigacion-contra-su-esposa-3566670",
+              "note": "Contrasta la condena de Ábalos con la negativa de Sánchez de corrupción generalizada; muestra el abanico de casos (Cerdán, Gómez, Zapatero) y que Sánchez no está investigado. También documenta la condena al Fiscal General nombrado por el gobierno.",
+              "host": "eltiempo.com",
+              "title": "El presidente español, Pedro Sánchez, niega 'corrupción generalizada' en su Gobierno tras condena de su mano derecha e investigación contra su esposa",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/12/23/694b2d0c825e1.r_d.700-400-0.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/el-libro-de-la-verdad-pdf-completo-de-la-espriella-petro-corrupcion-PC40069644",
+              "note": "Documenta el 'Libro de la Verdad' del gobierno entrante sobre presuntas irregularidades del gobierno Petro; aclara que son 'presuntas' y aún sin determinación judicial.",
+              "host": "elcolombiano.com",
+              "title": "Lea y descargue aquÃ las 135 pÃ¡ginas completas del Libro de la Verdad que hizo De la Espriella sobre presunta corrupciÃ³n en el gobierno Petro",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1281x854/0c37/1280d720/none/11101/TQAQ/abelardo-de-la-espriella-gustavo-pet_51401951_20260819093848.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.elheraldo.co/colombia/2019/01/29/colombia-retrocede-en-indice-de-corrupcion-592964/",
+              "note": "Datos del Índice de Percepción de Corrupción 2018 de Transparencia Internacional para Colombia; no distingue por espectro político y corresponde a un periodo anterior a los gobiernos analizados.",
+              "host": "elheraldo.co",
+              "title": "Colombia retrocede en índice de corrupción",
+              "image": "https://www.elheraldo.co/resizer/v2/C2XPLRBEQNEVZJQVB4NNSRQJ5E.jpg?smart=true&auth=bac474724b3bc8a0293f74fa4b7c4b6a6d58bba5cdb8f223f4c183fbaae63c7e&width=1200&height=675"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.elpais.com.co/politica/gobierno-alista-ley-de-sometimiento-y-beneficios-a-condenados-por-corrupcion-2900.html",
+              "note": "Muestra que el gobierno de derecha de De la Espriella alistó beneficios y figuras de oportunidad para condenados por corrupción del gobierno anterior, incluyendo 'principios de oportunidad y preacuerdos'; contrapunto al marco unidireccional del video.",
+              "host": "elpais.com.co",
+              "title": "Gobierno alista ley de sometimiento y beneficios a condenados por corrupción",
+              "image": "https://www.elpais.com.co/resizer/v2/BJS2E7LISFG4FNHDTBSQAREUCE.jpeg?auth=07667ae5de96057151263237359a1f281a8eb775533b0dd5d8825626d9f81372&smart=true&quality=75&width=1280&height=720"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "topic": "politica",
+          "claim": "Se afirma que la primera idea fallida es el rechazo a la meritocracia, considerada elitista y burguesa.",
+          "quote": "La primera idea fallida es su odio a la meritocracia, que consideran algo elitista y burgues.",
+          "figures": [
+            "primera"
+          ],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "alta",
+          "summary": "La afirmación no es un dato verificable sino una caracterización valorativa de un campo político ('su odio a la meritocracia, que consideran algo elitista y burgues'). Ninguna de las fuentes entregadas aborda el tema de la meritocracia ni documenta que un sector la rechace por considerarla elitista o burguesa; las fuentes tratan de otras materias (denuncias de ciberataques a una figura pública, balance del gobierno Petro, denuncias de nepotismo, marca país y un caso de pena de muerte en EE. UU.). Por tanto la proposición queda como opinión/atribución sin respaldo documental en el expediente [F1][F2][F3][F4][F5].",
+          "context": "Las fuentes disponibles permiten reconstruir otros ejes del debate público colombiano, no el de la meritocracia: (a) una figura pública denuncia ataques a su cuenta de Instagram y los atribuye a 'bodegas' del gobierno, señalando que ya le habían cerrado cuentas durante el estallido social [F1]; (b) un panel de analistas valora el legado del gobierno Petro con luces y sombras —mejoras en agenda social, descentralización y cupo fiscal en municipios PDET frente a corrupción en UNGRD/Aerocivil, déficit del 7% del PIB y un incremento del 90% en integrantes de grupos armados ilegales, de 15 mil a cerca de 29 mil [F2]; (c) se documentan denuncias de nepotismo en el entorno de la ministra de Cultura con contratos por cientos de millones de pesos y la respuesta legal del ministerio [F3]; (d) Marca País Colombia promueve una imagen de diversidad y potencial nacional [F4]; (e) un caso ajeno a Colombia sobre una ejecución fallida en Tennessee [F5]. En ningún punto aparece evidencia sobre meritocracia, elitismo o burguesía.",
+          "progressivePerspective": "La frase opera como premisa de clasificación previa: convierte en rasgo esencial y unificado de un campo político ('su' odio) una atribución ideológica que las fuentes no sustentan, y al presentarla como 'la primera idea fallida' ordena todo el análisis posterior a partir de un diagnóstico ya cerrado. Desde el marco de verdad y no repetición, la verificación exige separar hechos comprobables de atribuciones de intención: aquí no hay hecho comprobable, sino una tesis política enunciable como opinión. La propia documentación disponible muestra fenómenos verificables y contrastables —nepotismo con montos específicos en el entorno de una ministra [F3], corrupción en UNGRD y Aerocivil junto con avances en inversión municipal [F2], ataques a cuentas atribuidos a 'bodegas' sin confirmación judicial [F1]— que son la materia prima adecuada para un balance proporcional y documentado, en vez de generalizaciones sobre la mentalidad de un bando. Que las fuentes admitan críticas a ambos gobiernos y resultados mixtos [F2] sugiere que el enfoque proporcional solicitado requiere precisamente series y magnitudes, no esencias.",
+          "whatTheyOmit": "Omite cualquier fuente que sustente que exista un rechazo organizado o mayoritario a la meritocracia en el sector señalado, así como datos comparativos que permitan establecer la proporción entre un lado y otro del espectro político; también omite que el material disponible sí contiene críticas verificables al actual gobierno (nepotismo con montos en pesos [F3], déficit del 7% del PIB y corrupción en UNGRD/Aerocivil [F2]) y al anterior, de modo que el apoyo documental para una jerarquía de responsabilidades no está en las fuentes sino en la premisa del enunciante [F1][F2][F3][F4][F5].",
+          "keyFacts": [
+            "La afirmación sobre el supuesto 'odio a la meritocracia' no tiene respaldo en ninguna de las cinco fuentes entregadas [F1][F2][F3][F4][F5]",
+            "Se documentan denuncias de contratación de familiares en el entorno de la ministra de Cultura: cinco contratos por $351 millones a la esposa de su tío, y denuncias previas sobre su hermano y su madre por $313 millones [F3]",
+            "El ministerio respondió que no hay inhabilidad legal por parentesco de tercer grado y que los parentescos fueron declarados en el SIGEP [F3]",
+            "Analistas señalan corrupción en UNGRD y Aerocivil, déficit del 7% del PIB y aumento del 90% en integrantes de grupos armados ilegales (de 15 mil a cerca de 29 mil) en el gobierno que termina, junto con aumento del cupo fiscal en municipios PDET y más de 1.000 municipios con inversión [F2]",
+            "Una figura pública denunció el cierre de su cuenta de Instagram por apoyar a un candidato y lo atribuyó a 'bodegas' del gobierno, antecedida por cuatro cierres durante el estallido social [F1]",
+            "No existe en las fuentes ninguna serie, encuesta o decisión que cuantifique mérito, elitismo o burguesía como categorías del debate en discusión [F1][F2][F3][F4][F5]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.semana.com/gente/articulo/elizabeth-loaiza-denuncio-ataque-a-su-cuenta-de-instagram-y-expuso-situacion-por-tema-contra-gobierno-petro-me-quieren-callar/202654/",
+              "note": "Denuncia de ciberataques a una cuenta de Instagram atribuidos a 'bodegas'; aporta contexto sobre clima de polarización y silenciamiento, no sobre meritocracia.",
+              "host": "semana.com",
+              "title": "Elizabeth Loaiza denunció ataque a su cuenta de Instagram y expuso situación por tema contra gobierno Petro: “Me quieren callar”",
+              "image": "https://www.semana.com/resizer/v2/H5RWF2WLJNFP3H4LIN4GXDV2PI.png?auth=f155e6f938af43bda8692cce09512b2203e3564f8caf04bf6b71ee58ccf40d4b&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F2",
+              "url": "https://caracol.com.co/2026/08/06/el-balance-del-legado-y-los-desafios-que-deja-el-gobierno-petro/",
+              "note": "Balance de analistas con logros y falencias del gobierno saliente: corrupción, déficit fiscal, seguridad y avances sociales. Es la fuente con datos comparables sobre proporción de responsabilidades.",
+              "host": "caracol.com.co",
+              "title": "El balance del legado y los desafíos que deja el Gobierno Petro",
+              "image": "https://caracol.com.co/resizer/v2/OS4C5FBNPJDPVGGBBAW4A2EYNM.jpg?auth=422a01885a96bf99093b867758af1ef9e522434427d0792a24b61ea1a4cfd311&quality=70&width=1200&height=675&smart=true"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/colombia/nepotismo-de-ministra-de-cultura-ID33657384",
+              "note": "Denuncias de nepotismo con montos en pesos y respuesta legal del ministerio; ejemplo de dato verificable del actual gobierno.",
+              "host": "elcolombiano.com",
+              "title": "Nepotismo de ministra de Cultura no para, llega hasta esposa de su tÃo: âya ni disimulanâ",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x800/0c0/1200d675/none/11101/PAQD/yannai-kadamani-h2vdrz4twbcafizz22ni_49962145_20260217213442.jpg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://colombia.co/",
+              "note": "Institucional de Marca País; no aporta información sobre el tema ni sobre el conflicto político en discusión.",
+              "host": "colombia.co",
+              "title": "home",
+              "image": "https://colombia.co/sites/default/files/styles/banner_slider_xl/public/procolombia/banner/images/colombia_co_banner_palmeras.webp"
+            },
+            {
+              "ref": "F5",
+              "url": "https://cnnespanol.cnn.com/2026/10/30/eeuu/christa-pike-declaraciones-ejecucion-fallida-trax",
+              "note": "Caso de pena de muerte en EE. UU., ajeno al tema; sin utilidad para verificar la afirmación.",
+              "host": "cnnespanol.cnn.com",
+              "title": "Christa Pike, en sus primeras declaraciones públicas tras la ejecución fallida: \"Sanar no es lo mismo que estar bien\" | CNN",
+              "image": "https://media.cnn.com/api/v1/images/stellar/prod/christa-pike.jpeg?c=16x9&q=w_800,c_fill"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "topic": "politica",
+          "claim": "Se afirma que al rechazar el mérito como criterio principal para contratar gestores se fomenta la mediocridad, el carné de partido y el enchufismo, y que las decisiones se toman por criterios ideológicos en lugar de realistas o técnicos.",
+          "quote": "Cuando se rechaza el mérito objetivo como criterio principal para contratar a un gestor, se fomenta la mediocridad, el carné de partido y el enchufismo",
+          "figures": [],
+          "verdict": "sin_evidencia",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación es una proposición general de tipo normativo/causal (rechazar el mérito en la contratación de gestores → mediocridad, carné de partido y enchufismo) que ninguna de las dos fuentes entregadas verifica ni desmiente, porque ambas se refieren a mecanismos de vigilancia de la contratación pública durante el empalme de gobiernos, no a criterios de selección de gestores por mérito versus afiliación partidista [F1][F2].",
+          "context": "Las fuentes muestran, en cambio, el marco institucional real de control: Cambio Radical solicitó a Procuraduría y Contraloría equipos especiales de vigilancia sobre la contratación pública durante la transición Petro → De la Espriella, alegando 'adjudicaciones irregulares, la falta de transparencia en los procesos contractuales y el detrimento del patrimonio público' como constante del periodo [F1]; y ambos órganos de control expidieron la Directiva Conjunta No. 001 de 2026, que ordena informes de gestión, registro de todos los contratos en SECOP, inventarios de contratos y advertencia de investigaciones disciplinarias por incumplimiento, con Contraloría vigilando el empalme y Procuraduría investigando [F2]. No hay en los antecedentes entregados una serie, dato o decisión que cuantifique la contratación por mérito versus por 'carné de partido' en el gobierno actual ni en gobiernos previos.",
+          "progressivePerspective": "A la luz de los estándares de verdad, justicia, reparación y no repetición, la afirmación funciona como una premisa general aplicable a cualquier administración —incluida la entrante— de que el mérito debiera primar en la selección de gestores; en ese sentido, abona a la exigencia de transparencia y control que las propias fuentes documentan: la Directiva Conjunta No. 001 de 2005/2026 y la petición de vigilancia 'activa, sistemática y sin concesiones' sobre contratos [F1][F2]. Lo que no hace es aportar evidencia sobre la magnitud desigual de esta práctica entre gobiernos distintos, requisito necesario para sostener que la proporción sea 'mucho mayor' en un lado que en otro; sin datos comparativos, el enfoque solicitado por el usuario queda como hipótesis de trabajo y no como hallazgo verificado por estas fuentes [F1][F2].",
+          "whatTheyOmit": "La afirmación omite (i) cualquier dato, cifra o caso concreto de contratación de gestores por afiliación partidista en el periodo 2022-2026, (ii) la comparación con administraciones anteriores que permitiría establecer la proporción relativa que el enfoque del video pretende demostrar, y (iii) el hecho de que los dos órganos de control ya emitieron reglas concretas de empalme y contratación, lo que muestra un aparato de vigilancia en funcionamiento cuya efectividad no es evaluada por la afirmación [F1][F2].",
+          "keyFacts": [
+            "Cambio Radical solicitó a la Procuraduría y la Contraloría conformar equipos especiales de vigilancia sobre la contratación pública durante la transición entre el Gobierno de Gustavo Petro y el del presidente electo Abelardo de la Espriella, aduciendo adjudicaciones irregulares y falta de transparencia como constante del periodo [F1]",
+            "La Contraloría y la Procuraduría emitieron la Directiva Conjunta No. 001 de 2026 con obligaciones de informe de gestión, publicación de informes y verificación del registro de contratos en SECOP, advirtiendo investigaciones disciplinarias por incumplimiento [F2]",
+            "No existe en las fuentes entregadas evidencia cuantitativa que permita afirmar que la contratación por criterios no técnicos o por 'carné de partido' sea mayor en el gobierno actual que en gobiernos anteriores [F1][F2]",
+            "La proposición 'rechazar el mérito como criterio principal fomenta la mediocridad y el enchufismo' no es verificable ni desmentible con estas fuentes: es una afirmación causal general de carácter opinativo [F1][F2]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cambio-radical-pide-vigilancia-especial-a-procuraduria-y-contraloria-sobre-la-contratacion-publica-durante-la-transicion-del-gobierno-3567242",
+              "note": "Aporta el contexto de la petición de Cambio Radical y las críticas del partido a la contratación pública en el periodo 2022-2026; es una denuncia política de un partido, no un dato oficial sobre criterios de contratación de gestores.",
+              "host": "eltiempo.com",
+              "title": "Cambio Radical pide vigilancia especial a Procuraduría y Contraloría sobre la contratación pública durante la transición del gobierno",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/06/69d3c9da6b5b3.r_d.348-92-0.png"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.elheraldo.co/colombia/2026/06/30/contraloria-y-procuraduria-fijan-reglas-para-el-empalme-y-advierten-sanciones-por-incumplimientos/",
+              "note": "Aporta la normativa concreta del empalme (Directiva Conjunta No. 001 de 2026) y las obligaciones de transparencia en contratación; evidencia el marco de control vigente, sin datos sobre mérito versus afiliación partidista en la selección de gestores.",
+              "host": "elheraldo.co",
+              "title": "Contraloría y Procuraduría fijan reglas para el empalme y advierten sanciones por incumplimientos",
+              "image": "https://www.elheraldo.co/resizer/v2/UYXYBKQD3RDGTFJB4NCNRVFRUU.jpg?smart=true&auth=afb589ca7ac40d7ff4aa7f640740e93d54953109dab51618b0edf8b59d27da62&width=1200&height=675"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "topic": "economia",
+          "claim": "Se afirma que la segunda idea fallida es la ausencia de incentivos, y que dar a quien no se lo merece y quitar a quien se ha esfuerzado genera países abocados a la ruina y la injusticia donde nadie quiere trabajar.",
+          "quote": "Otra idea fallida es la ausencia de incentivos. Dar al que no se lo merece y quitar al que se ha esforzado genera países abocados a la ruina y la injusticia donde nadie quiere trabajar.",
+          "figures": [
+            "segunda"
+          ],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación combina una premisa económica verificable en parte (los incentivos afectan la decisión de contratar formalmente) con conclusiones absolutistas y normativas ('países abocados a la ruina', 'nadie quiere trabajar') que las fuentes no respaldan; el núcleo empírico es parcialmente documentable pero la formulación categórica es opinión [F1][F3].",
+          "context": "El contexto salarial y laboral colombiano sí muestra tensiones de incentivos: el Banco de la República estima que cada punto porcentual de aumento real del salario mínimo se asocia con unos 46.000 empleos formales menos al año, especialmente en empresas de 20 trabajadores o menos; el costo laboral total puede ser 1,55 a 1,65 veces el salario; el índice de Kaitz está cerca de 0,90; y la inflación anual llegó al 6,30% en octubre de 2026, el nivel más alto desde julio de 2024 [F1]. Sin embargo, las mismas fuentes registran que Colombia absorbió el aumento del 23% de 2026 sin destrucción evidente del empleo formal, que la informalidad bajó de 56,8% a 55,3% entre el trimestre dic-2025/feb-2026 y el año anterior, y que el desempleo cayó a 9,2% en febrero, el nivel más bajo para ese mes desde 2001 [F1][F3]. Existe además una disputa abierta sobre la magnitud real del empleo formal: Fenalco cuestiona que el DANE reporte 814.000 empleos formales creados mientras la Pila indicaría una pérdida de más de 170.000 puestos, y el DANE defiende que sus mediciones son técnicamente autónomas y verificables [F2].",
+          "progressivePerspective": "A la luz de los criterios de verdad, reparación y no repetición aplicables al debate público, la afirmación funciona como diagnóstico causal de carácter general: atribuye el deterioro económico a una supuesta falta de incentivos y a una redistribución percibida como injusta, sin distinguir entre hechos medidos e inferencia política. Las fuentes permiten reconocer un efecto real sobre la contratación formal y sobre los precios [F1], pero también muestran que la informalidad y la precariedad responden a 'desigualdades estructurales, baja formalizaciÃ³n empresarial y brechas de gÃ©nero y edad' y no a la falta de disposición de los trabajadores [F3], y que el diagnóstico mismo está en disputa entre el DANE, Fenalco y un estudio académico [F2]. En ese sentido, la afirmación abona a un debate legítimo sobre incentivos, pero su lenguaje categórico ('ruina', 'nadie quiere trabajar') omite evidencia contraria, corre el riesgo de revictimizar a la población informal al sugerir desidia donde hay datos de sobretrabajo (413.000 de los 578.000 ocupados adicionales eran trabajadores por cuenta propia y los informales que ganan menos de un salario mínimo aumentaron en 434.000) [F1], y deja sin precisar a qué política o gobierno concreto se refiere, lo que impide evaluar si la atribución de responsabilidad corresponde a los hechos documentados [F1][F2][F3].",
+          "whatTheyOmit": "Omite que la informalidad se redujo en el período (55,3% frente a 56,8%) y que el desempleo llegó a mínimos de 24 años [F3]; omite que el propio experto consultado reconoce que el ajuste de 2026 se absorbió sin destrucción evidente del empleo formal [F1]; omite las causas estructurales de la informalidad (desigualdad, baja formalización empresarial, brechas de género y edad) [F3]; omite que las cifras de empleo formal están en disputa metodológica entre DANE, Pila y Fenalco, lo que debilita cualquier conclusión categórica [F2]; y omite que 'dar al que no se lo merece y quitar al que se ha esforzado' no está definido ni anclado a ninguna política, cifra o decisión específica de los hechos disponibles [F1][F2][F3].",
+          "keyFacts": [
+            "El Banco de la República estima que cada punto porcentual de aumento real del salario mínimo se asocia con unos 46.000 empleos formales menos al año, especialmente en empresas de 20 trabajadores o menos [F1]",
+            "Cada punto de aumento del salario mínimo puede elevar la inflación entre 0,10 y 0,14 puntos porcentuales, según estimaciones del Banco de la República [F1]",
+            "Colombia absorbió el aumento salarial del 23% de 2026 sin destrucción evidente del empleo formal ni aumento significativo de la informalidad, según el experto consultado [F1]",
+            "La informalidad laboral se ubicó en 55,3% en el trimestre diciembre de 2025-febrero de 2026, una reducción de 1,5 puntos porcentuales frente al año anterior [F3]",
+            "El desempleo en Colombia bajó a 9,2% en febrero, el nivel más bajo para ese mes desde 2001 [F3]",
+            "Fenalco señala que el DANE reporta 814.000 empleos formales creados mientras la Pila indicaría una pérdida de más de 170.000 puestos; el DANE defiende la solidez de su metodología basada en la GEIH [F2]",
+            "La proporción de nuevos empleos que pagan más de un salario mínimo cayó del 18,1% en 2024 al 10% en 2026, y 413.000 de los 578.000 ocupados adicionales eran trabajadores por cuenta propia [F1]",
+            "La informalidad se debe a desigualdades estructurales, baja formalización empresarial y brechas de género y edad en el acceso al empleo, según el DANE recogido por El Colombiano [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.semana.com/economia/macroeconomia/articulo/aumento-del-salario-minimo-la-alerta-de-un-experto-sobre-lo-que-podria-pasar-con-el-empleo-formal-en-colombia/202600/",
+              "note": "Aporta las estimaciones del Banco de la República sobre efectos del salario mínimo en empleo e inflación, el costo laboral total, el índice de Kaitz, y el contraste de que el ajuste de 2026 se absorbió sin destrucción evidente del empleo formal.",
+              "host": "semana.com",
+              "title": "Aumento del salario mínimo: la alerta de un experto sobre lo que podría pasar con el empleo formal en Colombia",
+              "image": "https://www.semana.com/resizer/v2/6IVZ62UGNJDTVGK45UJT2Y7QQM.jpg?auth=919849bf1c129dd498edb0e874427563c85070380036eda6f78c99b07c2940e9&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.portafolio.co/economia/empleo/fenalco-pide-al-dane-explicar-brecha-entre-empleo-formal-reportado-y-cotizantes-de-la-pila-en-colombia-496296",
+              "note": "Contrasta las cifras de empleo formal del DANE (814.000) con la Pila (pérdida de más de 170.000), la defensa metodológica del DANE y el sondeo empresarial de Fenalco sobre reducciones de planta y aumentos de costos laborales.",
+              "host": "portafolio.co",
+              "title": "Fenalco pide al Dane explicar brecha entre empleo formal reportado y cotizantes de la Pila en Colombia",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/files/fp/uploads/2026/01/24/6974dd604e930.r_d.1323-909-0.png"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/negocios/informalidad-laboral-colombia-55-por-ciento-2026-JH35456708",
+              "note": "Aporta la serie de informalidad (55,3%, -1,5 pp), desempleo a mínimos desde 2001 y las causas estructurales atribuidas por el DANE, sirviendo de contraste a la tesis de falta de incentivos individuales.",
+              "host": "elcolombiano.com",
+              "title": "Informalidad laboral en Colombia bajÃ³, pero se mantiene en niveles preocupantes: por encima del 55%",
+              "image": "https://estaticos.elcolombiano.com/binrepository/768x511/0c0/0d0/none/11101/UIJN/colombiano-la-informalidad-laboral-e_50360650_20260413184201.jpg"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "topic": "economia",
+          "claim": "Se afirma que la tercera idea fallida es la mentalidad de suma cero: creer que la riqueza es fija y que hay que enfocarse en repartirla en lugar de crearla, lo cual generaría ruina y degradación.",
+          "quote": "la mentalidad de suma cero, pensar que la riqueza es siempre la misma y hay que poner el énfasis en repartirla, en lugar de pensar que la riqueza se crea y hay que centrarse en crear más y prosperar, genera ruina y degradación",
+          "figures": [
+            "tercera"
+          ],
+          "verdict": "opinion",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "La afirmación es una tesis interpretativa de política económica (la 'mentalidad de suma cero' sería una 'idea fallida' que genera ruina), no un dato verificable: ninguna fuente demuestra esa relación causal. Las fuentes muestran que el debate sobre redistribución versus creación de riqueza está abierto entre economistas, con posiciones enfrentadas y sin consenso de que la redistribución 'genere ruina' [F1] [F2] [F3].",
+          "context": "Las fuentes permiten dimensionar el debate real que el video presenta como cerrado. (1) El impuesto a la riqueza —el instrumento redistributivo por excelencia— sí existe en tres países de América Latina (Colombia, Uruguay, Argentina) y, según la Cepal, 'la recaudación que ha alcanzado este impuesto en Argentina, Colombia y Uruguay no es trivial en ninguno de los casos', con Uruguay recaudando 1% del PIB, Colombia 0,4% y Argentina 0,2%; economistas como Emmanuel Sánez (Berkeley) lo consideran 'la herramienta más poderosa para aumentar el pago de impuestos de los que están en la cima', mientras Alberto Barreix (BID) objetiva su baja recaudación y su dificultad técnica, prefiriendo impuesto a la renta más impuesto a la herencia [F1]. (2) El contexto histórico de América Latina muestra que la región no ha logrado revertir la pobreza: para 2003 más del 50% de la población estaba en pobreza y cerca del 20% en indigencia, con condiciones comerciales internacionales 'asimétricas' que privilegian a los productores estructuralmente fuertes [F2]. (3) En Colombia, el gasto público explicó el 63% del crecimiento del PIB en los últimos tres trimestres (2,7% observado vs 1,0% contrafactual), con inversión privada 10,7% por debajo de niveles prepandemia y déficit fiscal proyectado por encima del 6% del PIB [F3].",
+          "progressivePerspective": "A la luz del análisis, la afirmación funciona como marco ideológico más que como hecho: presenta como evidencia empírica una premisa normativa ('hay que enfocarse en crear, no en repartir'). El contraste con las fuentes muestra tres puntos. Primero, la premisa de que la riqueza 'es siempre la misma' es una caricatura: los propios defensores del impuesto a la riqueza (Sáez, Titelman) no afirman que la riqueza sea fija, sino que la desigualdad de patrimonio en América Latina 'es mucho más grande que la desigualdad medida por ingresos' y que el impuesto es 'una alternativa válida, un instrumento muy útil' para aumentar la carga tributaria de manera progresiva [F1]. Segundo, la evidencia regional sugiere que el problema no es 'repartir vs crear': América Latina lleva décadas sin revertir la pobreza a pesar de constituciones que consagran la función social de la propiedad, precisamente porque la 'sola dinámica del mercado no revertirá este desorden en lo social' y porque las relaciones comerciales son estructuralmente asimétricas [F2] — es decir, la ruina descrita no nace de la redistribución sino de la concentración histórica y de la posición periférica de la región. Tercero, el propio caso colombiano que el video discute en otros segmentos muestra que el crecimiento reciente depende del consumo público (63%) mientras la inversión privada sigue deprimida, lo cual invita a un análisis más fino que la dicotomía 'crear vs repartir': la cuestión es la composición y sostenibilidad del crecimiento, no una supuesta ruina inherente a toda medida redistributiva [F3]. Desde esta lectura, calificar la redistribución como 'idea fallida que genera degradación' sin matizar eludiría que en la región la desigualdad de patrimonio y la pobreza estructural son problemas documentados que ninguna dinámica de mercado por sí sola ha resuelto [F1] [F2].",
+          "whatTheyOmit": "Omite (1) que el debate entre expertos está abierto y que existen economistas de alto nivel (Sáez/Piketty, Titelman de la Cepal) que consideran la fiscalidad a la riqueza 'una herramienta poderosa' y 'un instrumento muy útil', no una idea fallida [F1]; (2) los datos de pobreza y concentración del ingreso en América Latina (>50% en pobreza en 2003), que muestran que la ruina y la degradación ya existían sin que la redistribución fuera aplicada con éxito en la región, desmintiendo la causalidad que el video propone [F2]; (3) que el impuesto a la riqueza recauda poco no porque sea un 'suma cero' sino por problemas técnicos de valoración, elusión y fuga de capitales, objeciones que los propios críticos del impuesto formulan [F1]; (4) que en el caso concreto de Colombia el crecimiento depende hoy en 63% del gasto público con déficit fiscal >6% del PIB, un dato que matiza tanto la narrativa de que 'todo lo estatal destruye' como la de que el crecimiento es sostenible como está [F3]. Finalmente, el video no aporta evidencia empírica alguna de la supuesta relación causal entre 'mentalidad de suma cero' y 'ruina y degradación': esa parte es opinión, no dato verificado.",
+          "keyFacts": [
+            "El impuesto a la riqueza se aplica en tres países de América Latina (Colombia, Uruguay, Argentina), con recaudación de 1% del PIB en Uruguay, 0,4% en Colombia y 0,2% en Argentina [F1]",
+            "Economistas enfrentados debaten su utilidad: Sánez (Berkeley) lo llama 'la herramienta más poderosa para aumentar el pago de impuestos de los que están en la cima'; Titelman (Cepal) lo considera 'una alternativa válida, un instrumento muy útil'; Barreix (BID) lo considera poco recaudatorio y prefiere renta más herencia [F1]",
+            "Para 2003, más del 50% de la población de América Latina estaba en pobreza y cerca del 20% en indigencia, con creciente concentración del ingreso [F2]",
+            "Las relaciones comerciales de América Latina se dan en un entorno de condiciones 'asimétricas' con efecto real de privilegio para los sectores productivos más fuertes [F2]",
+            "'La sola dinámica del mercado no revertirá este desorden en lo social' en América Latina, según el análisis de F2 [F2]",
+            "El consumo público fue responsable del 63% del crecimiento económico de Colombia en los últimos tres trimestres (PIB 2,7% observado vs 1,0% sin gasto estatal); la inversión privada está 10,7% por debajo de niveles prepandemia y el déficit fiscal proyectado supera el 6% del PIB [F3]",
+            "El video no presenta datos empíricos que vinculen la 'mentalidad de suma cero' con 'ruina y degradación': es una afirmación de análisis, no un hecho documentado por las fuentes [F1] [F2] [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.semana.com/internacional/articulo/los-3-paises-de-america-latina-que-cobran-impuesto-a-la-riqueza-y-que-resultados-han-tenido/280831/",
+              "note": "Muestra que el debate redistribución vs. creación está abierto entre economistas de prestigio, con argumentos técnicos a favor (Sárez, Titelman) y en contra (Barreix, Cato): contrasta con la pretensión del video de presentar la redistribución como 'idea fallida' cerrada.",
+              "host": "semana.com",
+              "title": "Los 3 países de América Latina que cobran impuesto a la riqueza (y qué resultados han tenido)",
+              "image": "https://www.semana.com/resizer/v2/4UTMPFBT4JAXTC5Z6JZ7L2FL3U.jpg?auth=01e351f80717b21cf81a894c95f3e8730ce1b935e7ef1c5383bd500ce9c98381&smart=true&quality=75&width=1280&height=720"
+            },
+            {
+              "ref": "F2",
+              "url": "https://www.eltiempo.com/archivo/documento/MAM-1622270",
+              "note": "Aporta el contexto histórico de pobreza y concentración del ingreso en América Latina y la asimetría comercial; registra que las propuestas redistributivas no han tenido éxito en la región, pero también que el mercado por sí solo no resuelve el desorden social, matizando la tesis causal del video.",
+              "host": "eltiempo.com",
+              "title": "AMÉRICA LATINA, OBSERVADOR DE LA RIQUEZA DE LOS OTROS",
+              "image": "https://imagenes2.eltiempo.com/files/image_1200_675/assets/editor/image_placeholder.jpg"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.elcolombiano.com/negocios/gasto-publico-explica-63-por-ciento-crecimiento-pib-colombia-2026-DH36640553",
+              "note": "Da la magnitud real del peso del Estado en el crecimiento colombiano actual (63%) y los riesgos de sostenibilidad (déficit >6% del PIB, inversión privada deprimida), un dato que obliga a un análisis más fino que la dicotomía 'crear vs. repartir'.",
+              "host": "elcolombiano.com",
+              "title": "Gasto pÃºblico es el responsable del 63% del crecimiento econÃ³mico de Colombia en los Ãºltimos 9 meses",
+              "image": "https://estaticos.elcolombiano.com/binrepository/1200x675/0c0/1200d630/none/11101/BYBH/petro-avila-reforma-tributaria-colom_50644192_20260516151216.jpg"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "topic": "economia",
+          "claim": "Se afirma que la cuarta idea fallida es la fuga de capitales y talento: gravar con impuestos excesivos y burocracia a los productivos y redistribuir el fruto de su trabajo hace que quienes aportan se vayan del país.",
+          "quote": "la fuga de capitales y talento. Ahogar en impuestos excesivos y burocracia delirante a los productivos para después regalar el fruto de su trabajo a los parásitos hace que la gente que aporta se vaya del país.",
+          "figures": [
+            "cuarta"
+          ],
+          "verdict": "exagerado",
+          "headline": "",
+          "color": "orange",
+          "confidence": "media",
+          "summary": "Existen datos reales que respaldan que Colombia tiene una carga tributaria alta y cierta fuga de capitales, pero la afirmación los presenta de manera caricaturesca y con lenguaje deshumanizante ('regalar el fruto de su trabajo a los parásitos'), lo que distorsiona la magnitud y el sentido real de los hechos. La cadena causal tributos→fuga es parcialmente respaldada pero presentada como absoluta [F1][F4].",
+          "context": "Colombia ocupa el puesto 36 de 38 economías de la OCDE en competitividad tributaria según Tax Foundation, con carga tributaria total de empresas formales que supera el 80% y tasa básica de renta corporativa del 35% (media OCDE: 24.2%) [F1]. El país es el 6º más complejo del mundo y 3º de América Latina para hacer negocios según TMF Group 2026 [F5]. El exministro de Hacienda José Manuel Restrepo afirmó que más de 6.000 grandes contribuyentes cambiaron su residencia fiscal y que la IED cayó de USD 17.400 millones en 2022 a menos de USD 14.500 millones en 2024 [F4]. Es relevante que la actual reforma tributaria del gobierno de derecha (Abelardo de la Espriella) también amplía la base tributaria y reduce descuentos [F2], lo que indica que el alza fiscal no es exclusiva de un solo signo político.",
+          "progressivePerspective": "La afirmación contiene elementos verificables: la alta carga tributaria y cierta fuga de capitales son datos documentados [F1][F4][F5]. Sin embargo, la formulación del video ('regalar el fruto de su trabajo a los parásitos') deshumaniza a los receptores de transferencias estatales y reduce el debate tributario a una caricatura ideológica. Llamar 'parásitos' a quienes reciben redistribución ignora que esa redistribución incluye salud, educación, pensiones y programas que benefician a amplias capas de la población, incluidos sectores productivos informales [F2][F3]. En el marco de verdad, justicia, reparación y no repetición, la polarización con lenguaje deshumanizante no abona al esclarecimiento ni al diálogo social, sino que refuerza la división y la estigmatización de grupos sociales [F1][F4]. Además, los datos de fuga de capitales provienen de un exfuncionario de oposición que hace una columna política [F4], lo que exige cautela al presentarlos como hechos objetivos sin contraste con fuentes oficiales o académicas independientes.",
+          "whatTheyOmit": "El video omite que la reforma tributaria del actual gobierno de derecha también sube impuestos y reduce beneficios fiscales [F2][F3], lo que contradice la narrativa de que la carga fiscal es un problema exclusivo de la izquierda. También omite que Colombia ya tenía problemas de competitividad tributaria antes de la administración Petro según Tax Foundation [F1]. No menciona los datos oficiales de la Dian sobre salida de capitales ni contrapone las cifras de Restrepo con análisis de instituciones neutras [F4]. Finalmente, omite que Estonia (referente de baja carga tributaria) tiene servicios públicos financiados con impuestos y que la comparación no es solo de tasas sino de estructura institucional [F1].",
+          "keyFacts": [
+            "Colombia ocupa el puesto 36 de 38 economías de la OCDE en competitividad tributaria según Tax Foundation, con puntaje de 51.1/100 [F1]",
+            "La carga tributaria total de una empresa formal colombiana supera el 80%, con tasa básica de renta corporativa del 35% frente a la media OCDE de 24.2% [F1]",
+            "Colombia es el 6º país más complejo del mundo y 3º de América Latina para hacer negocios según el Índice Global de Complejidad Corporativa 2026 de TMF Group [F5]",
+            "El exministro de Hacienda José Manuel Restrepo afirmó que más de 6.000 grandes contribuyentes cambiaron su residencia fiscal en los últimos años [F4]",
+            "La inversión extranjera directa en Colombia cayó de USD 17.400 millones en 2022 a menos de USD 14.500 millones en 2024 según cifras citadas por Restrepo [F4]",
+            "La reforma tributaria del gobierno de derecha de Abelardo de la Espriella baja el umbral para pagar renta de 1.090 a 720 UVT y reduce techos de renta exenta [F2]",
+            "La reforma tributaria de Petro también elevó tasas marginales hasta 41% y creó impuesto al patrimonio, mostrando que el alza fiscal trasciende signos políticos [F3]"
+          ],
+          "sources": [
+            {
+              "ref": "F1",
+              "url": "https://www.portafolio.co/internacional/colombia-es-el-tercer-pais-con-menor-competitividad-tributaria-de-la-ocde-492139",
+              "note": "Ranking Tax Foundation: Colombia 36/38 en competitividad tributaria OCDE, carga empresarial >80%, tasa renta 35%. Aporta el dato estructural de alta carga fiscal sin atribuirlo a un solo gobierno.",
+              "host": "portafolio.co",
+              "title": "Colombia es el tercer país con menor competitividad tributaria de la Ocde",
+              "image": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2025/08/05/68927f1248eb7.jpeg"
+            },
+            {
+              "ref": "F2",
+              "url": "https://cambiocolombia.com/economia/articulo/2026/11/como-cambia-el-impuesto-de-renta-en-la-reforma-tributaria-de-abelardo-de-la-espriella",
+              "note": "Reforma tributaria del gobierno de derecha actual: baja umbral de renta, reduce beneficios, nueva tarifa del 9%. Contrasta con la narrativa de que solo la izquierda sube impuestos.",
+              "host": "cambiocolombia.com",
+              "title": "Reforma tributaria De la Espriella: cambios en el impuesto de renta para personas naturales y empresas",
+              "image": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/Abelardo_de_la_Espriella_durante_la_declaracion_publica_sobre_el_inicio_del_Fondo_Milagro_Credito_Presidencia_de_la_Republica_Joel_Gonzalez_1eedb72d9c_full-width.webp"
+            },
+            {
+              "ref": "F3",
+              "url": "https://www.eltiempo.com/economia/sectores/reforma-tributaria-estas-son-las-personas-naturales-y-las-empresas-que-pagarian-mas-impuestos-en-el-2026-3486842",
+              "note": "Reforma de Petro: tasa marginal hasta 41%, impuesto al patrimonio, IVA a nuevos bienes. Muestra que el alza fiscal ocurrió también bajo la administración anterior.",
+              "host": "eltiempo.com",
+              "title": "Reforma tributaria: estas son las personas naturales y las empresas que pagarían más impuestos en el 2026",
+              "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/01/68b645c639fb7.r_d.1910-612-0.jpeg"
+            },
+            {
+              "ref": "F4",
+              "url": "https://www.vanguardia.com/economia/2025/09/29/colombia-la-mas-cara-del-mundo-para-invertir-exministro-de-hacienda-alerta-sobre-reforma-fiscal/",
+              "note": "Columna del exministro Restrepo (opositor) sobre fuga de capitales e IED. Aporta datos citados pero provienen de un actor político con interés en cuestionar la reforma.",
+              "host": "vanguardia.com",
+              "title": "Exministro de Hacienda alerta sobre reforma fiscal: ‘Esto perjudica empresas y empleo’",
+              "image": "https://www.vanguardia.com/resizer/v2/7G5STJEW7ZDRVAJ6RCA2JACPGM.jpeg?auth=7c14bac4c318420d393625d873c6d1d8a917ce6faa7a680ed6ba7c2a9ed303ac&smart=true&width=1200&height=630&quality=70"
+            },
+            {
+              "ref": "F5",
+              "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-tercer-pais-mas-complejo-de-america-latina-para-hacer-negocios-4390212",
+              "note": "TMF Group 2026: Colombia 6º mundial y 3º latinoamericano en complejidad para hacer negocios, con factores tributarios y regulatorios como causas principales.",
+              "host": "larepublica.co",
+              "title": "Colombia es el tercer país más complejo de América Latina para hacer negocios",
+              "image": "https://img.lalr.co/cms/2026/05/11174419/Globo_complejidadCorporativa_PgX-X_1080x900.jpg?size=sm&ratio=sq&f=jpg"
             }
           ]
         }
